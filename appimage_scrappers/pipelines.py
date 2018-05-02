@@ -23,6 +23,9 @@ class FillMissingMetadataPipeline(object):
         return arch
 
     def process_item(self, item, spider):
+        if not 'version' in item:
+            item['version'] = 'latest'
+            
         if not 'codeName' in item:
             item['codeName'] = item['name'].lower()
 

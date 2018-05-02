@@ -75,4 +75,16 @@ class AppImageReleasesSpider(scrapy.Spider):
                         yield release_item
 
     def parse_adhoc_release(self, response):
-        self.log('Parsing adhoc: %s' % response.body)
+        item = response.meta['item']
+        if response.url.startswith('https://download.opensuse.org'):
+            yield self.parse_opensuse_release(item, response)
+        else:
+            item['downloadUrl'] = response.selector.xpath('//a/text()').re_first(r'http.*AppImage')
+            item['downloadSize'] = '0'
+            yield item
+
+    def parse_opensuse_release(self, item, response):
+        size_text = response.selector.xpath('//li/span[text()=\'Size:\']/../text()').extract()
+        item['downloadSize'] = size_text[0].split('(')[1].split(' ')[0]  # Get only the size in bytes
+        item['downloadUrl'] = response.selector.xpath('//a/text()').re_first(r'http.*AppImage')
+        yield item
