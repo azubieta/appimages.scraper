@@ -1,4 +1,4 @@
-# appimages.scrapper
+# appimages.scraper
 Search for AppImage releases over the web.
 
 ### Dependencies
