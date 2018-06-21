@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for appimage_scrappers project
+# Scrapy settings for appimage_scraper project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -9,16 +9,16 @@
 #     https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'appimage_scrappers'
+BOT_NAME = 'appimage_scraper'
 
-SPIDER_MODULES = ['appimage_scrappers.spiders']
-NEWSPIDER_MODULE = 'appimage_scrappers.spiders'
+SPIDER_MODULES = ['appimage_scraper.spiders']
+NEWSPIDER_MODULE = 'appimage_scraper.spiders'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-USER_AGENT = 'Nomad Software Center AppImage Scrapper (+http://apps.nxos.org)'
+USER_AGENT = 'AppImage Scrapper (+http://appimage.org)'
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = True
+ROBOTSTXT_OBEY = False
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 CONCURRENT_REQUESTS = 1
@@ -46,13 +46,13 @@ DOWNLOAD_DELAY = 3
 # Enable or disable spider middlewares
 # See https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 # SPIDER_MIDDLEWARES = {
-#    'appimage_scrappers.middlewares.AppimageScrappersSpiderMiddleware': 543,
+#    'appimage_scraper.middlewares.AppimageScrappersSpiderMiddleware': 543,
 # }
 
 # Enable or disable downloader middlewares
 # See https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 # DOWNLOADER_MIDDLEWARES = {
-#    'appimage_scrappers.middlewares.AppimageScrappersDownloaderMiddleware': 543,
+#    'appimage_scraper.middlewares.AppimageScrappersDownloaderMiddleware': 543,
 # }
 
 # Enable or disable extensions
@@ -64,9 +64,17 @@ DOWNLOAD_DELAY = 3
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-    'appimage_scrappers.pipelines.FillMissingMetadataPipeline': 200,
-    # 'appimage_scrappers.pipelines.PublishPipeline': 300,
+    'scrapy.pipelines.files.FilesPipeline': 1,
+    'appimage_scraper.pipelines.ReadFileMetadataPipeline': 2,
+    # 'appimage_scraper.pipelines.PublishPipeline': 300,
 }
+
+# FilePipeline Settings
+FILES_STORE = '/tmp/'
+MEDIA_ALLOW_REDIRECTS = True
+
+#
+PROJECTS_CACHE = "./cache"
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html

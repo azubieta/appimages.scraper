@@ -1,17 +1,48 @@
 import scrapy
 import json
+import re
 
 
-class AppImageReleasesSpider(scrapy.Spider):
-    name = "appimage.github.io"
+from scrapy.linkextractors import LinkExtractor
+
+from appimage_scraper.items import AppImageFileMetadata
+
+
+class GenericCrawler(scrapy.Spider):
+    name = "generic.crawler"
     githubRequestCount = 0
+    appImageLinkExtractor = LinkExtractor(allow='.*\.AppImage$')
+
+    def __init__(self, name=None, **kwargs):
+        super(GenericCrawler, self).__init__(name, **kwargs)
+        print("Using project spec: " + self.project_file)
+        with open(self.project_file, "r") as f:
+            self.project = json.loads(f.read())
 
     def start_requests(self):
-        urls = ['https://appimage.github.io/feed.json']
-        for url in urls:
-            yield scrapy.Request(url=url, callback=self.parse)
+        if self.project:
+            for url in self.project["urls"]:
+                yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
+        links = self.appImageLinkExtractor.extract_links(response)
+        for link in links:
+            url = link.url
+            item = AppImageFileMetadata(file_urls=[url])
+
+            if 'apps' in self.project:
+                for appId in self.project['apps']:
+                    app = self.project['apps'][appId]
+                    if re.match(app['match'], url):
+                        if 'presets' in app:
+                            item.update(app['presets'])
+                        yield item
+            else:
+                if 'presets' in self.project:
+                    item.update(self.project['presets'])
+                yield item
+
+    def parse2(self, response):
         results = json.loads(response.body)
         for item in results['items']:
             if item['screenshots']:

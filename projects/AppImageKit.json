@@ -1,0 +1,19 @@
+{
+  "id" : "org.appimagekit",
+  "urls" : ["https://github.com/AppImage/AppImageKit/releases"],
+  "apps" : {
+    "org.appimage.appimagetool": {
+      "match" : ".*\/appimagetool.*",
+      "presets": {
+        "id" : "org.appimage.appimagetool"
+      }
+    },
+    "org.appimage.appimaged": {
+      "match" : ".*\/appimaged.*",
+      "presets": {
+        "id" : "org.appimage.appimaged",
+        "description" : {"null": "Daemon to monitor AppImage files in the user home dir."}
+      }
+    }
+  }
+}
