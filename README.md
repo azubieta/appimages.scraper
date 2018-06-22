@@ -22,7 +22,7 @@ The scraper should be feed with a `project_file` which will be a json formatted 
 }
 ```
 
-####Missing fields?
+**Missing fields?**
 
 Sometimes authors doesnt provide good metadata about their project so we could help them by means of preset values. 
 Take a look in the following example at the `presets` field and to the `decription` field inside. It will be use
@@ -39,7 +39,7 @@ as a fallback value in case that the author forgets to fill that field.
 }
 ```
 
-####Multiple applications release in a single page ? 
+**Multiple applications release in a single page ?** 
 
 No problem use the match field. It expects to be a python regex 
 that will be use to match the right AppImage download links for the app you are scraping.
