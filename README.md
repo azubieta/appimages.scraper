@@ -17,7 +17,6 @@ The scraper should be feed with a `project_file` which will be a json formatted 
 
 ```
 {
-  "id" : "org.appimagekit",
   "urls" : ["https://github.com/AppImage/AppImageKit/releases"]
 }
 ```
@@ -30,7 +29,6 @@ as a fallback value in case that the author forgets to fill that field.
 
 ```
 {
-  "id" : "org.appimagekit",
   "urls" : ["https://github.com/AppImage/AppImageKit/releases"]
   "presets": {
         "id" : "org.appimage.appimaged",
@@ -42,16 +40,15 @@ as a fallback value in case that the author forgets to fill that field.
 **Multiple applications release in a single page ?** 
 
 No problem use the match field. It expects to be a python regex 
-that will be use to match the right AppImage download links for the app you are scraping.
+that will be used to match the right AppImage download links for the app you are scraping.
 
 ```
 {
-  "id" : "org.appimagekit",
   "urls" : ["https://github.com/AppImage/AppImageKit/releases"],
   "match" : ".*\/appimagetool.*",
   "presets": {
-        "id" : "org.appimage.appimaged",
-        "description" : {"null": "Daemon to monitor AppImage files in the user home dir."}
+    "id" : "org.appimagekit.appimaged",
+    "description" : {"null": "Daemon to monitor AppImage files in the user home dir."}
   }
 }
 ```
