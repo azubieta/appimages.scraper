@@ -1,0 +1,8 @@
+{
+  "urls" : ["https://github.com/AppImage/AppImageKit/releases"],
+  "match" : ".*\/appimagetool.*",
+  "presets": {
+    "id" : "org.appimage.appimagetool",
+    "description": {"en" : "AppImage management tool."}
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "urls" : ["https://github.com/AppImage/AppImageKit/releases"],
+  "match" : ".*\/appimaged.*",
+  "presets": {
+    "id": "org.appimage.appimaged",
+    "name": {"null": "AppImage Daemon"},
+    "description": {"en": "Deploy menu entries of the AppImages in your home dir."}
+  }
+}

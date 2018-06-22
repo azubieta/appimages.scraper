@@ -7,7 +7,7 @@ Search for AppImage releases over the web.
 
 
 ### Run
-* Normal run:`scrapy crawl generic.crawler -a project_file=./projects/AppImageKit.json`
+* Normal run:`scrapy crawl generic.crawler -a project_file=./projects/org.appimage.appimaged.json`
 * Output results to json:
 `scrapy crawl appimage.github.io -o result.json -t json`
 

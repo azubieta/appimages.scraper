@@ -5,7 +5,7 @@ import re
 
 from scrapy.linkextractors import LinkExtractor
 
-from appimage_scraper.items import AppImageFileMetadata
+from appimage_scraper.items import AppImageDownload
 
 
 class GenericCrawler(scrapy.Spider):
@@ -28,44 +28,15 @@ class GenericCrawler(scrapy.Spider):
         links = self.appImageLinkExtractor.extract_links(response)
         for link in links:
             url = link.url
-            item = AppImageFileMetadata(file_urls=[url])
 
-            if 'apps' in self.project:
-                for appId in self.project['apps']:
-                    app = self.project['apps'][appId]
-                    if re.match(app['match'], url):
-                        if 'presets' in app:
-                            item.update(app['presets'])
-                        yield item
+            item = AppImageDownload(file_urls=[url])
+
+            if 'match' in self.project:
+                if re.match(self.project['match'], url):
+                    yield item
             else:
-                if 'presets' in self.project:
-                    item.update(self.project['presets'])
                 yield item
 
-    def parse2(self, response):
-        results = json.loads(response.body)
-        for item in results['items']:
-            if item['screenshots']:
-                item['screenshots'] = self.expand_screenshots_urls(item)
-
-            if item['authors']:
-                item['authors'] = self.format_authors(item)
-
-            if item['links']:
-                githubUrl = self.get_github_project_url(item)
-                if githubUrl:
-                    request = scrapy.Request(url=githubUrl, callback=self.parese_github_releases)
-                    request.meta['item'] = item
-                    yield request
-                else:
-                    for link in item['links']:
-                        if link['type'] == 'Download':
-                            request = scrapy.Request(url=link['url'], callback=self.parse_adhoc_release)
-                            request.meta['item'] = item
-                            yield request
-                            pass
-            else:
-                self.logger.warning("Unable to get links of %s" % item['name'])
 
     def get_github_project_url(self, item):
         githubUrl = ''

@@ -9,25 +9,31 @@ import shutil
 from scrapy.utils.project import get_project_settings
 
 from appimage_scraper.metadata_extractor import extract_metadata
+from appimage_scraper.items import AppImageFileMetadata
 
 class ReadFileMetadataPipeline(object):
     def process_item(self, item, spider):
         settings = get_project_settings()
         file_store = settings.get("FILES_STORE")
 
-        if 'files' in item:
+        if 'files' in item and len(item['files']) > 0:
             tmpDirPath = "/tmp/appimage-scrapper-" + str(uuid.uuid4())  # type: str
             os.mkdir(tmpDirPath)
-            file = item['files'][0]
+            file_path = item['files'][0]['path']
 
-            (appInfoPath, appIconPath) = extract_metadata(file_store+"/"+file['path'], tmpDirPath)
-            with open(appInfoPath, "r") as f:
-                appInfo = json.loads(f.read())
-                item.update(appInfo)
+            (app_info_path, app_icon_path) = extract_metadata(file_store+"/"+file_path, tmpDirPath)
+            metadata = AppImageFileMetadata()
+
+            with open(app_info_path, "r") as f:
+                app_info = json.loads(f.read())
+                metadata.update(app_info)
+
+            if 'presets' in spider.project:
+                metadata.update(spider.project['presets'])
 
             shutil.rmtree(tmpDirPath)
 
-        return item
+            return metadata
 
 
 

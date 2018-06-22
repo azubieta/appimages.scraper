@@ -8,6 +8,10 @@
 import scrapy
 
 
+class AppImageDownload(scrapy.Item):
+    file_urls = scrapy.Field()
+    files = scrapy.Field()
+
 class AppImageFileMetadata(scrapy.Item):
     id = scrapy.Field()
     name = scrapy.Field()
