@@ -64,17 +64,19 @@ DOWNLOAD_DELAY = 3
 # Configure item pipelines
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-    'scrapy.pipelines.files.FilesPipeline': 1,
+    'appimage_scraper.pipelines.AppImageFilePipeline': 1,
     'appimage_scraper.pipelines.ReadFileMetadataPipeline': 2,
+    'appimage_scraper.pipelines.ApplyProjectPresets': 3,
     # 'appimage_scraper.pipelines.PublishPipeline': 300,
 }
 
-# FilePipeline Settings
-FILES_STORE = '/tmp/'
-MEDIA_ALLOW_REDIRECTS = True
-
-#
+# Cache
 PROJECTS_CACHE = "./cache"
+KEEP_FULL_FILES = False
+
+# FilePipeline Settings
+FILES_STORE = PROJECTS_CACHE
+MEDIA_ALLOW_REDIRECTS = True
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html

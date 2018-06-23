@@ -1,11 +1,13 @@
 import scrapy
 import json
 import re
-
+import os
+import datetime
 
 from scrapy.linkextractors import LinkExtractor
 
-from appimage_scraper.items import AppImageDownload
+from appimage_scraper.items import AppImageDownload, AppImageInfo
+from appimage_scraper.appimageinfo_cache import AppImageInfoCache
 
 
 class GenericCrawler(scrapy.Spider):
@@ -16,6 +18,8 @@ class GenericCrawler(scrapy.Spider):
     def __init__(self, name=None, **kwargs):
         super(GenericCrawler, self).__init__(name, **kwargs)
         print("Using project spec: " + self.project_file)
+        self.cache = AppImageInfoCache()
+
         with open(self.project_file, "r") as f:
             self.project = json.loads(f.read())
 
@@ -29,14 +33,44 @@ class GenericCrawler(scrapy.Spider):
         for link in links:
             url = link.url
 
-            item = AppImageDownload(file_urls=[url])
+            if self.is_url_valid(url):
+                app_info_cache = self.cache.get(url)
+                if app_info_cache is not None and 'release' in app_info_cache and 'date' in app_info_cache['release']:
+                    yield scrapy.Request(url, method="HEAD",
+                                         headers={"If-Modified-Since": app_info_cache['release']['date']},
+                                         callback=self.handle_header_request,
+                                         meta={"app_info_cahce": app_info_cache,
+                                               "handle_httpstatus_all": True}, dont_filter=True)
+                else:
+                    yield AppImageDownload(file_urls=[url],
+                                           date=self.get_last_modified_date(response))
 
-            if 'match' in self.project:
-                if re.match(self.project['match'], url):
-                    yield item
+    def handle_header_request(self, response):
+        if response.status == 200:
+            yield AppImageDownload(file_urls=[response.url],
+                                   date=self.get_last_modified_date(response))
+        else:
+            app_info_cache = response.meta['app_info_cahce']
+            if app_info_cache:
+                app_info = AppImageInfo()
+                app_info.update(app_info_cache)
+                yield app_info
             else:
-                yield item
+                yield AppImageDownload(file_urls=[response.url],
+                                       date=self.get_last_modified_date(response))
 
+    def is_url_valid(self, url):
+        valid_url = True
+        if 'match' in self.project:
+            valid_url = True if re.match(self.project['match'], url) else False
+        return valid_url
+
+    @staticmethod
+    def get_last_modified_date(response):
+        if "Date" in response.headers:
+            return response.headers["Date"]
+        else:
+            return datetime.datetime.utcnow().strftime("%a %b %d %H:%M:%S UTC %Y")
 
     def get_github_project_url(self, item):
         githubUrl = ''

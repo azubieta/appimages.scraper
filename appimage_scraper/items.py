@@ -9,29 +9,26 @@ import scrapy
 
 
 class AppImageDownload(scrapy.Item):
+    date = scrapy.Field()
     file_urls = scrapy.Field()
     files = scrapy.Field()
+    cache = scrapy.Field()
 
-class AppImageFileMetadata(scrapy.Item):
+
+class AppImageInfo(scrapy.Item):
+    format = scrapy.Field()
     id = scrapy.Field()
     name = scrapy.Field()
+    icon = scrapy.Field()
     abstract = scrapy.Field()
     description = scrapy.Field()
-    categories = scrapy.Field()
-    developer = scrapy.Field()
     license = scrapy.Field()
-    version = scrapy.Field()
-    screenshots = scrapy.Field()
-    downloadUrl = scrapy.Field()
-    downloadSize = scrapy.Field()
-    url_date = scrapy.Field()
-    file_date = scrapy.Field()
-    file_urls = scrapy.Field()
-    files = scrapy.Field()
-    sha512checksum = scrapy.Field()
-    links = scrapy.Field()
-    architecture = scrapy.Field()
+    categories = scrapy.Field()
     keywords = scrapy.Field()
-    mimetype = scrapy.Field()
-    size = scrapy.Field()
-    type = scrapy.Field()
+    languages = scrapy.Field()
+    developer = scrapy.Field()
+    release = scrapy.Field()
+    file = scrapy.Field()
+    screenshots = scrapy.Field()
+    mime_types = scrapy.Field()
+    links = scrapy.Field()

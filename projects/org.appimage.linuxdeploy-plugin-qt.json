@@ -1,0 +1,6 @@
+{
+  "urls": ["https://github.com/TheAssassin/linuxdeploy-plugin-qt/releases"],
+  "presets": {
+    "id" : "org.appimage.linuxdeploy-plugin-qt.json"
+  }
+}
