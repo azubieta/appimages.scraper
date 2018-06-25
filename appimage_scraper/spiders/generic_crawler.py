@@ -25,7 +25,12 @@ class GenericCrawler(scrapy.Spider):
     def start_requests(self):
         if self.project:
             for url in self.project["urls"]:
-                yield scrapy.Request(url=url, callback=self.parse)
+                github_repo_id_search = re.search('github.com\/([\w\.\-]+\/[\w\.\-]+)[\/$]?', url)
+                github_repo_id = github_repo_id_search.group(1)
+                if github_repo_id:
+                    yield scrapy.Request(url='https://github.com/'+github_repo_id+'/releases', callback=self.parse)
+                else:
+                    yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
         links = self.appImageLinkExtractor.extract_links(response)
