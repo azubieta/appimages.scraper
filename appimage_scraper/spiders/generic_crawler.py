@@ -1,7 +1,6 @@
 import scrapy
 import json
 import re
-import os
 import datetime
 
 from scrapy.linkextractors import LinkExtractor
@@ -35,28 +34,7 @@ class GenericCrawler(scrapy.Spider):
 
             if self.is_url_valid(url):
                 app_info_cache = self.cache.get(url)
-                if app_info_cache is not None and 'release' in app_info_cache and 'date' in app_info_cache['release']:
-                    yield scrapy.Request(url, method="HEAD",
-                                         headers={"If-Modified-Since": app_info_cache['release']['date']},
-                                         callback=self.handle_header_request,
-                                         meta={"app_info_cahce": app_info_cache,
-                                               "handle_httpstatus_all": True}, dont_filter=True)
-                else:
-                    yield AppImageDownload(file_urls=[url],
-                                           date=self.get_last_modified_date(response))
-
-    def handle_header_request(self, response):
-        if response.status == 200:
-            yield AppImageDownload(file_urls=[response.url],
-                                   date=self.get_last_modified_date(response))
-        else:
-            app_info_cache = response.meta['app_info_cahce']
-            if app_info_cache:
-                app_info = AppImageInfo()
-                app_info.update(app_info_cache)
-                yield app_info
-            else:
-                yield AppImageDownload(file_urls=[response.url],
+                yield AppImageDownload(file_urls=[url], cache=app_info_cache,
                                        date=self.get_last_modified_date(response))
 
     def is_url_valid(self, url):

@@ -6,9 +6,8 @@ import stat
 import subprocess
 
 # Write data to file
-filename = "/tmp/AppImage_Metadata_Extractor-x86_64.AppImage"
-file_url = 'https://github.com/azubieta/appimage-metadata-extractor/releases/download/continuous' \
-           '/AppImage_Metadata_Extractor-x86_64.AppImage '
+filename = "/tmp/AppImage_Metadata_Extractor-5fe1186-x86_64.AppImage"
+file_url = 'https://transfer.sh/5e4Ef/AppImage_Metadata_Extractor-5fe1186-x86_64.AppImage'
 
 
 def extract_metadata(path, target_dir):

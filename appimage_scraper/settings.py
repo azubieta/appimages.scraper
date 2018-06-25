@@ -65,6 +65,7 @@ DOWNLOAD_DELAY = 3
 # See https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
     'appimage_scraper.pipelines.AppImageFilePipeline': 1,
+    # 'appimage_scraper.pipelines.AppImageFilePipeline': 1,
     'appimage_scraper.pipelines.ReadFileMetadataPipeline': 2,
     'appimage_scraper.pipelines.ApplyProjectPresets': 3,
     # 'appimage_scraper.pipelines.PublishPipeline': 300,
