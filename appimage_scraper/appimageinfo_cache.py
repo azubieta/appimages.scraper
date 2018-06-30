@@ -22,7 +22,7 @@ class AppImageInfoCache:
 
     def get_item_cache_path(self, url):
         sha1 = hashlib.sha1()
-        sha1.update(url)
+        sha1.update(url.encode('utf-8'))
         digest = sha1.hexdigest()
         item_cache_path = self.cache_dir + "/" + digest + "/"
 
