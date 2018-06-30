@@ -8,7 +8,7 @@ import json
 API_URL="http://localhost:3000/api/"
 
 def login(username, password):
-    response = requests.post(url=API_URL+"Users/login", 
+    response = requests.post(url=API_URL+"publishers/login", 
                   headers={"Content-Type": "application/json", "Accept": "application/json"}, 
                   data="{\"username\" : \""+username+"\", \"password\": \""+ password+"\"}")
     
@@ -19,7 +19,7 @@ def login(username, password):
         return ''
 
 def logout(auth):
-    response = requests.post(url=API_URL+"Users/logout?access_token="+auth, 
+    response = requests.post(url=API_URL+"publishers/logout?access_token="+auth, 
                   headers={"Content-Type": "application/json", "Accept": "application/json"}, )
     
     print("Logout succeed: " + str(response.ok))
