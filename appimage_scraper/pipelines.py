@@ -25,9 +25,9 @@ from scrapy.utils.log import failure_to_exc_info
 from scrapy.utils.python import to_bytes
 from scrapy.utils.request import referer_str
 
-from appimageinfo_cache import AppImageInfoCache
-from metadata_extractor import extract_metadata
-from items import AppImageDownload, AppImageInfo
+from appimage_scraper.appimageinfo_cache import AppImageInfoCache
+from appimage_scraper.metadata_extractor import extract_metadata
+from appimage_scraper.items import AppImageDownload, AppImageInfo
 from scrapy.pipelines.files import FileException, FSFilesStore, GCSFilesStore, S3FilesStore
 
 logger = logging.getLogger(__name__)
