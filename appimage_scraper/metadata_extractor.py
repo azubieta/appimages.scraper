@@ -6,9 +6,9 @@ import stat
 import subprocess
 
 # Write data to file
-filename = "/tmp/AppImage_Metadata_Extractor-linuxdeployqt-x86_64.AppImage"
+filename = "/tmp/AppImage_Metadata_Extractor.linuxdeploy.AppImage"
 file_url = 'https://github.com/azubieta/appimage-metadata-extractor/releases/download/continuous' \
-           '/AppImage_Metadata_Extractor-linuxdeployqt-x86_64.AppImage '
+           '/AppImage_Metadata_Extractor.linuxdeploy.AppImage'
 
 
 
