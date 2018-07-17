@@ -27,7 +27,7 @@ class AppImageInfoCache:
     def set(self, url, app_info):
         item_cache_path = self.get_item_cache_path(url)
         with open(item_cache_path + 'AppImageInfo.json', 'w') as f:
-            f.write(json.dumps(app_info))
+            f.write(json.dumps(app_info, indent=4, sort_keys=True, default=str))
 
     def get_item_cache_path(self, url):
         sha1 = hashlib.sha1()
