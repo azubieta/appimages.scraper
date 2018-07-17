@@ -74,6 +74,8 @@ PROJECTS_CACHE = "./cache"
 KEEP_APPIMAGE_FILES = False
 FILES_STORE = PROJECTS_CACHE + "/files"
 
+SENTRY_ACCESS_KEY = ""
+
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://doc.scrapy.org/en/latest/topics/autothrottle.html
 # AUTOTHROTTLE_ENABLED = True

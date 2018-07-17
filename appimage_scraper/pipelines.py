@@ -79,10 +79,12 @@ class ReadFileMetadataPipeline(object):
                 if not os.path.exists(cache_dir_path):
                     os.mkdir(cache_dir_path)
 
-                old_metadata = self.cache.get(url);
+                old_metadata = self.cache.get(url)
                 try:
                     extract_appimage_metadata(file_path, cache_dir_path)
                 except RuntimeError as err:
+                    if spider.sentry:
+                        spider.sentry.captureException(tags={'url': url})
                     raise DropItem(err)
                 finally:
                     if not spider.settings['KEEP_APPIMAGE_FILES'] and os.path.exists(file_path):
@@ -117,6 +119,12 @@ class ReadFileMetadataPipeline(object):
                     raise DropItem("ERROR: Unable to read file cache")
         else:
             raise DropItem("ERROR: Missing item url.")
+
+    def get_sha1(self, url):
+        sha1 = hashlib.sha1()
+        sha1.update(url.encode('utf-8'))
+        digest = sha1.hexdigest()
+        return digest
 
 
 class ApplyProjectPresets(object):

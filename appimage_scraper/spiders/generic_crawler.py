@@ -9,6 +9,8 @@ from scrapy.linkextractors import LinkExtractor
 from appimage_scraper.items import AppImageDownload, AppImageInfo
 from appimage_scraper.appimageinfo_cache import AppImageInfoCache
 
+from raven import Client
+
 logger = logging.getLogger(__name__)
 
 
@@ -19,6 +21,7 @@ class GenericCrawler(scrapy.Spider):
 
     def __init__(self, name=None, **kwargs):
         super(GenericCrawler, self).__init__(name, **kwargs)
+        self.sentry = None
         logger.debug("Using project spec: " + self.project_file)
         self.cache = AppImageInfoCache()
 
@@ -26,6 +29,11 @@ class GenericCrawler(scrapy.Spider):
             self.project = json.loads(f.read())
 
     def start_requests(self):
+        if self.settings['SENTRY_ACCESS_KEY']:
+            self.sentry = Client('https://' + self.settings['SENTRY_ACCESS_KEY'] + '@sentry.io/1245048')
+        else:
+            logger.warning("NO SENTRY_ACCESS_KEY provided! Error reporting disabled!")
+
         if self.project:
             for url in self.project["urls"]:
                 github_repo_id_search = re.search('github.com\/([\w\.\-]+\/[\w\.\-]+)[\/$]?', url)
