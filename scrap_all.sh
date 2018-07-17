@@ -1,6 +1,10 @@
 #!/bin/bash 
 
 LOCK_FILE="/tmp/lock_appimages.scraper.scrap_all.sh"
+
+rm scrap_all_projects_failed
+rm scrap_all_projects_succeed
+
 if [ -f ${LOCK_FILE} ]
 then
     echo "It seems that scrap_all.sh is already running. Or the previous run didn't ended quite well."
@@ -14,9 +18,9 @@ else
 
         if [ %? ]
         then
-            echo "Something went wrong with the scrapper."
-            rm ${LOCK_FILE}
-            exit 1;
+            echo "${P}" >> scrap_all_projects_failed
+        else
+            echo "${P}" >> scrap_all_projects_succeed
         fi
     done
     rm ${LOCK_FILE}
