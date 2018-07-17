@@ -30,7 +30,7 @@ class GenericCrawler(scrapy.Spider):
 
     def start_requests(self):
         if self.settings['SENTRY_ACCESS_KEY']:
-            self.sentry = Client('https://' + self.settings['SENTRY_ACCESS_KEY'] + '@sentry.io/1245048')
+            self.sentry = Client(self.settings['SENTRY_PROJECT_URL'])
         else:
             logger.warning("NO SENTRY_ACCESS_KEY provided! Error reporting disabled!")
 
