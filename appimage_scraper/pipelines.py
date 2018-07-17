@@ -1,363 +1,125 @@
 # -*- coding: utf-8 -*-
-import functools
-import hashlib
 import os
-import os.path
-import time
+import json
+import shutil
 import logging
 import requests
-from six.moves.urllib.parse import urlparse
-import json
+import hashlib
 
-try:
-    from cStringIO import StringIO as BytesIO
-except ImportError:
-    from io import BytesIO
-
-from twisted.internet import defer
-
-from scrapy.pipelines.media import MediaPipeline
-from scrapy.settings import Settings
-from scrapy.exceptions import NotConfigured, IgnoreRequest
-from scrapy.http import Request
-from scrapy.utils.misc import md5sum
-from scrapy.utils.log import failure_to_exc_info
-from scrapy.utils.python import to_bytes
-from scrapy.utils.request import referer_str
-
+from tqdm import tqdm
+from scrapy.exceptions import DropItem
 from appimage_scraper.appimageinfo_cache import AppImageInfoCache
-from appimage_scraper.metadata_extractor import extract_metadata
+from appimage_scraper.metadata_extractor import extract_appimage_metadata
 from appimage_scraper.items import AppImageDownload, AppImageInfo
-from scrapy.pipelines.files import FileException, FSFilesStore, GCSFilesStore, S3FilesStore
 
 logger = logging.getLogger(__name__)
 
 
-class AppImageFilePipeline(MediaPipeline):
-    MEDIA_NAME = "file"
-    EXPIRES = 90
-    STORE_SCHEMES = {
-        '': FSFilesStore,
-        'file': FSFilesStore,
-        's3': S3FilesStore,
-        'gs': GCSFilesStore,
-    }
-    DEFAULT_FILES_URLS_FIELD = 'file_urls'
-    DEFAULT_FILES_RESULT_FIELD = 'files'
-
-    def __init__(self, store_uri, download_func=None, settings=None):
-        if not store_uri:
-            raise NotConfigured
-
-        if isinstance(settings, dict) or settings is None:
-            settings = Settings(settings)
-
-        cls_name = "FilesPipeline"
-        self.store = self._get_store(store_uri)
-        resolve = functools.partial(self._key_for_pipe,
-                                    base_class_name=cls_name,
-                                    settings=settings)
-        self.expires = settings.getint(
-            resolve('FILES_EXPIRES'), self.EXPIRES
-        )
-        if not hasattr(self, "FILES_URLS_FIELD"):
-            self.FILES_URLS_FIELD = self.DEFAULT_FILES_URLS_FIELD
-        if not hasattr(self, "FILES_RESULT_FIELD"):
-            self.FILES_RESULT_FIELD = self.DEFAULT_FILES_RESULT_FIELD
-        self.files_urls_field = settings.get(
-            resolve('FILES_URLS_FIELD'), self.FILES_URLS_FIELD
-        )
-        self.files_result_field = settings.get(
-            resolve('FILES_RESULT_FIELD'), self.FILES_RESULT_FIELD
-        )
-
-        # AppImage Info cache
+class DownloadAppImageFilePipeline(object):
+    def __init__(self):
         self.cache = AppImageInfoCache()
 
-        super(AppImageFilePipeline, self).__init__(download_func=download_func, settings=settings)
+    def process_item(self, item, spider):
+        store_uri = spider.settings['FILES_STORE']
+        if not os.path.exists(store_uri):
+            os.mkdir(store_uri)
 
-    @classmethod
-    def from_settings(cls, settings):
-        s3store = cls.STORE_SCHEMES['s3']
-        s3store.AWS_ACCESS_KEY_ID = settings['AWS_ACCESS_KEY_ID']
-        s3store.AWS_SECRET_ACCESS_KEY = settings['AWS_SECRET_ACCESS_KEY']
-        s3store.POLICY = settings['FILES_STORE_S3_ACL']
+        if 'remote_url' in item and item['remote_url']:
+            item['file_path'] = self.get_file_path(item, store_uri)
+            try:
+                self.try_download_file(item['remote_url'], item['file_path'])
+            except Exception:
+                if not spider.settings['KEEP_FULL_FILES']:
+                    os.remove(item['file_path'])
+                item['file_path'] = None
 
-        gcs_store = cls.STORE_SCHEMES['gs']
-        gcs_store.GCS_PROJECT_ID = settings['GCS_PROJECT_ID']
-
-        store_uri = settings['FILES_STORE']
-        return cls(store_uri, settings=settings)
-
-    def _get_store(self, uri):
-        if os.path.isabs(uri):  # to support win32 paths like: C:\\some\dir
-            scheme = 'file'
+            return item
         else:
-            scheme = urlparse(uri).scheme
-        store_cls = self.STORE_SCHEMES[scheme]
-        return store_cls(uri)
+            raise DropItem()
 
-    def media_to_download(self, request, info):
-        def _onsuccess(result):
-            if not result:
-                return  # returning None force download
+    @staticmethod
+    def get_file_path(item, store_uri):
+        sha1 = hashlib.sha1()
+        sha1.update(item['remote_url'].encode('utf-8'))
+        fileName = sha1.hexdigest() + '.AppImage'
+        file_path = store_uri + "/" + fileName
+        return file_path
 
-            last_modified = result.get('last_modified', None)
-            if not last_modified:
-                return  # returning None force download
+    def try_download_file(self, remote_url, local_filename):
+        cache = self.cache.get(remote_url)
 
-            age_seconds = time.time() - last_modified
-            age_days = age_seconds / 60 / 60 / 24
-            if age_days > self.expires:
-                return  # returning None force download
+        if_modified_since = None
+        if cache and 'release' in cache and cache['release'] and 'date' in cache['release']:
+            if_modified_since = cache['release']['date']
 
-            referer = referer_str(request)
-            logger.debug(
-                'File (uptodate): Downloaded %(medianame)s from %(request)s '
-                'referred in <%(referer)s>',
-                {'medianame': self.MEDIA_NAME, 'request': request,
-                 'referer': referer},
-                extra={'spider': info.spider}
-            )
-            self.inc_stats(info.spider, 'uptodate')
-
-            checksum = result.get('checksum', None)
-            return {'url': request.url, 'path': path, 'checksum': checksum}
-
-        path = self.file_path(request, info=info)
-        dfd = defer.maybeDeferred(self.store.stat_file, path, info)
-        dfd.addCallbacks(_onsuccess, lambda _: None)
-        dfd.addErrback(
-            lambda f:
-            logger.error(self.__class__.__name__ + '.store.stat_file',
-                         exc_info=failure_to_exc_info(f),
-                         extra={'spider': info.spider})
-        )
-        return dfd
-
-    def media_failed(self, failure, request, info):
-        if not isinstance(failure.value, IgnoreRequest):
-            referer = referer_str(request)
-            logger.warning(
-                'File (unknown-error): Error downloading %(medianame)s from '
-                '%(request)s referred in <%(referer)s>: %(exception)s',
-                {'medianame': self.MEDIA_NAME, 'request': request,
-                 'referer': referer, 'exception': failure.value},
-                extra={'spider': info.spider}
-            )
-
-        raise FileException
-
-    def media_downloaded(self, response, request, info):
-        referer = referer_str(request)
-
-        if response.status != 200:
-            cache = self.cache.get_item_cache_path(request.url)
-            if cache:
-                return {'url': request.url, 'path': None, 'checksum': None}
-
-            logger.warning(
-                'File (code: %(status)s): Error downloading file from '
-                '%(request)s referred in <%(referer)s>',
-                {'status': response.status,
-                 'request': request, 'referer': referer},
-                extra={'spider': info.spider}
-            )
-            raise FileException('download-error')
-
-        if not response.body:
-            logger.warning(
-                'File (empty-content): Empty file from %(request)s referred '
-                'in <%(referer)s>: no-content',
-                {'request': request, 'referer': referer},
-                extra={'spider': info.spider}
-            )
-            raise FileException('empty-content')
-
-        status = 'cached' if 'cached' in response.flags else 'downloaded'
-        logger.debug(
-            'File (%(status)s): Downloaded file from %(request)s referred in '
-            '<%(referer)s>',
-            {'status': status, 'request': request, 'referer': referer},
-            extra={'spider': info.spider}
-        )
-        self.inc_stats(info.spider, status)
-
-        try:
-            path = self.file_path(request, response=response, info=info)
-            checksum = self.file_downloaded(response, request, info)
-        except FileException as exc:
-            logger.warning(
-                'File (error): Error processing file from %(request)s '
-                'referred in <%(referer)s>: %(errormsg)s',
-                {'request': request, 'referer': referer, 'errormsg': str(exc)},
-                extra={'spider': info.spider}, exc_info=True
-            )
-            raise
-        except Exception as exc:
-            logger.error(
-                'File (unknown-error): Error processing file from %(request)s '
-                'referred in <%(referer)s>',
-                {'request': request, 'referer': referer},
-                exc_info=True, extra={'spider': info.spider}
-            )
-            raise FileException(str(exc))
-
-        return {'url': request.url, 'path': path, 'checksum': checksum}
-
-    def inc_stats(self, spider, status):
-        spider.crawler.stats.inc_value('file_count', spider=spider)
-        spider.crawler.stats.inc_value('file_status_count/%s' % status, spider=spider)
-
-
-    def get_media_requests(self, item, info):
-        if item and 'cache' in item \
-                and item['cache'] and 'release' in item['cache'] \
-                and item['cache']['release'] and 'date' in item['cache']['release']:
-            mediaRequests = []
-            for x in item.get(self.files_urls_field, []):
-                request = Request(x,
-                                  headers={"If-Modified-Since": item['cache']['release']['date']})
-                mediaRequests.append(request)
-            return mediaRequests
-        else:
-            return [Request(x) for x in item.get(self.files_urls_field, [])]
-
-    def file_downloaded(self, response, request, info):
-        path = self.file_path(request, response=response, info=info)
-        buf = BytesIO(response.body)
-        checksum = md5sum(buf)
-        buf.seek(0)
-        self.store.persist_file(path, buf, info)
-        return checksum
-
-    def item_completed(self, results, item, info):
-        if isinstance(item, dict) or self.files_result_field in item.fields:
-            item[self.files_result_field] = [x for ok, x in results if ok]
-        return item
-
-    def file_path(self, request, response=None, info=None):
-        ## start of deprecation warning block (can be removed in the future)
-        def _warn():
-            from scrapy.exceptions import ScrapyDeprecationWarning
-            import warnings
-            warnings.warn('FilesPipeline.file_key(url) method is deprecated, please use '
-                          'file_path(request, response=None, info=None) instead',
-                          category=ScrapyDeprecationWarning, stacklevel=1)
-
-        # check if called from file_key with url as first argument
-        if not isinstance(request, Request):
-            _warn()
-            url = request
-        else:
-            url = request.url
-
-        # detect if file_key() method has been overridden
-        if not hasattr(self.file_key, '_base'):
-            _warn()
-            return self.file_key(url)
-        ## end of deprecation warning block
-
-        media_guid = hashlib.sha1(to_bytes(url)).hexdigest()  # change to request.url after deprecation
-        media_ext = os.path.splitext(url)[1]  # change to request.url after deprecation
-        return 'full/%s%s' % (media_guid, media_ext)
-
-    # deprecated
-    def file_key(self, url):
-        return self.file_path(url)
-    file_key._base = True
-
-
-# class AppImageFilePipeline(FilesPipeline):
-#     def get_media_requests(self, item, info):
-#         if item and 'cache' in item \
-#                 and item['cache'] and 'release' in item['cache'] \
-#                 and item['cache']['release'] and 'date' in item['cache']['release']:
-#             mediaRequests = []
-#             for x in item.get(self.files_urls_field, []):
-#                 request = Request(x,
-#                                   headers={"If-Modified-Since": item['cache']['release']['date']})
-#                 mediaRequests.append(request)
-#             return mediaRequests
-#         else:
-#             return [Request(x) for x in item.get(self.files_urls_field, [])]
+        logger.debug("Get If Modified Since: " + str(if_modified_since))
+        with requests.get(remote_url, stream=True, allow_redirects=True,
+                          headers={"If-Modified-Since": if_modified_since}) as r:
+            logger.debug("Downloading: " + remote_url + ' to ' + local_filename)
+            with open(local_filename, 'wb') as f:
+                for chunk in tqdm(r.iter_content(chunk_size=1024), ncols=60, ascii=True):
+                    if chunk:
+                        f.write(chunk)
+            if r.status_code != 200:
+                raise RuntimeError(r.text)
 
 
 class ReadFileMetadataPipeline(object):
 
     def __init__(self):
-        super(ReadFileMetadataPipeline, self).__init__()
         self.cache = AppImageInfoCache()
 
     def process_item(self, item, spider):
-        if isinstance(item, AppImageInfo):
-            return item
+        if isinstance(item, AppImageDownload) and item['remote_url']:
+            if item['file_path']:
+                url = item['remote_url']
+                file_path = item['file_path']
 
-        if isinstance(item, AppImageDownload) \
-                and 'files' in item and len(item['files']) > 0\
-                and item['files'][0]['path']:
-            url = item['file_urls'][0]
-            file_path = item['files'][0]['path']
+                cache_dir_path = self.cache.get_item_cache_path(url)
+                if not os.path.exists(cache_dir_path):
+                    os.mkdir(cache_dir_path)
 
-            settings = spider.settings
-            file_store = settings.get("FILES_STORE")
-            cache_dir_path = self.cache.get_item_cache_path(url)
-            if not os.path.exists(cache_dir_path):
-                os.mkdir(cache_dir_path)
+                old_metadata = self.cache.get(url);
+                try:
+                    extract_appimage_metadata(file_path, cache_dir_path)
+                except RuntimeError as err:
+                    raise DropItem(err)
+                finally:
+                    if not spider.settings['KEEP_APPIMAGE_FILES'] and os.path.exists(file_path):
+                        os.remove(file_path)
+                try:
+                    metadata = self.cache.get(url)
+                    metadata['file']['url'] = url
+                    metadata['release'] = {'date': item['date']}
 
-            extract_metadata(file_store + "/" + file_path, cache_dir_path)
+                    if old_metadata \
+                            and old_metadata['file']['sha512checksum'] == metadata['file']['sha512checksum']:
+                        logger.info('The AppImage file has not changed. Keeping old one!')
+                        metadata = old_metadata
 
-            metadata = {}
-            try:
-                metadata = self.read_cache_file(cache_dir_path)
-            except IOError as err:
-                pass
+                    self.cache.set(url, metadata)
 
-            self.set_file_url(metadata, url)
-            self.set_release_date(metadata, item)
-            self.save_cahe_file(cache_dir_path, metadata)
-
-            if not settings['KEEP_FULL_FILES']:
-                os.remove(file_store + "/" + file_path)
-
-            newItem = AppImageInfo()
-            newItem.update(metadata)
-            return newItem
+                    newItem = AppImageInfo()
+                    newItem.update(metadata)
+                    return newItem
+                except Exception as err:
+                    shutil.rmtree(cache_dir_path)
+                    logger.error(err)
+                    raise DropItem("Unable to load AppImageInfo")
+            else:
+                logger.info("Using data in cache for: " + item['remote_url'])
+                cache = self.cache.get(item['remote_url'])
+                if cache:
+                    newItem = AppImageInfo()
+                    newItem.update(cache)
+                    return newItem
+                else:
+                    raise DropItem("ERROR: Unable to read file cache")
         else:
-            url = item['file_urls'][0]
-            cache = self.cache.get(url)
-            if cache:
-                newItem = AppImageInfo()
-                newItem.update(cache)
-                return newItem
-
-
-    @staticmethod
-    def set_file_url(app_info, url):
-        if 'file' not in app_info:
-            app_info['file'] = {}
-        app_info['file']['url'] = url
-
-    @staticmethod
-    def set_release_date(app_info, item):
-        if 'release' not in app_info:
-            app_info['release'] = {}
-        app_info['release']['date'] = item['date']
-
-    @staticmethod
-    def save_cahe_file(cache_dir_path, app_info):
-        with open(cache_dir_path + '/AppImageInfo.json', 'w') as f:
-            f.write(json.dumps(app_info))
-
-    @staticmethod
-    def read_cache_file(cache_dir_path):
-        app_info_path = cache_dir_path + "/AppImageInfo.json"
-        with open(app_info_path, "r") as f:
-            return json.loads(f.read())
+            raise DropItem("ERROR: Missing item url.")
 
 
 class ApplyProjectPresets(object):
-
     def process_item(self, item, spider):
         if item and spider.project and 'presets' in spider.project:
             item.update(spider.project['presets'])
@@ -365,7 +127,6 @@ class ApplyProjectPresets(object):
 
 
 class PublishPipeline(object):
-
     def process_item(self, item, spider):
         api_url = 'http://localhost:3000/api/applications'
         if 'NX_APPS_API_URL' in os.environ:

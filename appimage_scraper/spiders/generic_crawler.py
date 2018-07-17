@@ -2,11 +2,14 @@ import scrapy
 import json
 import re
 import datetime
+import logging
 
 from scrapy.linkextractors import LinkExtractor
 
 from appimage_scraper.items import AppImageDownload, AppImageInfo
 from appimage_scraper.appimageinfo_cache import AppImageInfoCache
+
+logger = logging.getLogger(__name__)
 
 
 class GenericCrawler(scrapy.Spider):
@@ -16,7 +19,7 @@ class GenericCrawler(scrapy.Spider):
 
     def __init__(self, name=None, **kwargs):
         super(GenericCrawler, self).__init__(name, **kwargs)
-        print("Using project spec: " + self.project_file)
+        logger.debug("Using project spec: " + self.project_file)
         self.cache = AppImageInfoCache()
 
         with open(self.project_file, "r") as f:
@@ -26,11 +29,18 @@ class GenericCrawler(scrapy.Spider):
         if self.project:
             for url in self.project["urls"]:
                 github_repo_id_search = re.search('github.com\/([\w\.\-]+\/[\w\.\-]+)[\/$]?', url)
-                github_repo_id = github_repo_id_search.group(1)
-                if github_repo_id:
-                    yield scrapy.Request(url='https://github.com/'+github_repo_id+'/releases', callback=self.parse)
+                if github_repo_id_search:
+                    github_repo_id = github_repo_id_search.group(1)
+                    yield scrapy.Request(url='https://github.com/' + github_repo_id + '/releases', callback=self.parse)
                 else:
-                    yield scrapy.Request(url=url, callback=self.parse)
+                    if url.endswith('.AppImage'):
+                        yield scrapy.Request(method='HEAD', url=url, callback=self.handle_appimage_file_head_response)
+
+                        # Check the parent url for more AppImage download links
+                        base_url = "/".join(url.split("/")[0:-1])
+                        yield scrapy.Request(url=base_url, callback=self.parse)
+                    else:
+                        yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
         links = self.appImageLinkExtractor.extract_links(response)
@@ -38,9 +48,10 @@ class GenericCrawler(scrapy.Spider):
             url = link.url
 
             if self.is_url_valid(url):
-                app_info_cache = self.cache.get(url)
-                yield AppImageDownload(file_urls=[url], cache=app_info_cache,
-                                       date=self.get_last_modified_date(response))
+                yield AppImageDownload(remote_url=url, date=self.get_last_modified_date(response))
+
+    def handle_appimage_file_head_response(self, response):
+        yield AppImageDownload(remote_url=response.url, date=self.get_last_modified_date(response))
 
     def is_url_valid(self, url):
         valid_url = True
@@ -50,60 +61,7 @@ class GenericCrawler(scrapy.Spider):
 
     @staticmethod
     def get_last_modified_date(response):
-        if "Date" in response.headers:
+        if response and "Date" in response.headers:
             return response.headers["Date"]
         else:
             return datetime.datetime.utcnow().strftime("%a %b %d %H:%M:%S UTC %Y")
-
-    def get_github_project_url(self, item):
-        githubUrl = ''
-        for link in item['links']:
-            if link['type'] == 'GitHub':
-                githubUrl = 'https://api.github.com/repos/' + link['url'] + '/releases'
-        return githubUrl
-
-    def format_authors(self, item):
-        new_authors = []
-        for autor in item['authors']:
-            new_authors.append(autor['name'])
-        return new_authors
-
-    def expand_screenshots_urls(self, item):
-        new_screenshots = []
-        for screenshot in item['screenshots']:
-            if screenshot.startswith('http'):
-                new_screenshots.append(screenshot)
-            else:
-                new_screenshots.append('https://appimage.github.io/database/' + screenshot)
-        return new_screenshots
-
-    def parese_github_releases(self, response):
-        item = response.meta['item']
-        results = json.loads(response.body)
-        for release in results:
-            self.log('Parsing github release: %s' % release['tag_name'])
-            if 'assets' in release:
-                for asset in release['assets']:
-                    if asset['name'].endswith('.AppImage'):
-                        release_item = {'name': item['name'], 'description': item['description'],
-                                        'categories': item['categories'], 'authors': item['authors'],
-                                        'license': item['license'], 'version': release['tag_name'],
-                                        'screenshots': item['screenshots'], 'icon': item['icons'],
-                                        'downloadUrl': asset['browser_download_url'], 'downloadSize': asset['size']}
-
-                        yield release_item
-
-    def parse_adhoc_release(self, response):
-        item = response.meta['item']
-        if response.url.startswith('https://download.opensuse.org'):
-            yield self.parse_opensuse_release(item, response)
-        else:
-            item['downloadUrl'] = response.selector.xpath('//a/text()').re_first(r'http.*AppImage')
-            item['downloadSize'] = '0'
-            yield item
-
-    def parse_opensuse_release(self, item, response):
-        size_text = response.selector.xpath('//li/span[text()=\'Size:\']/../text()').extract()
-        item['downloadSize'] = size_text[0].split('(')[1].split(' ')[0]  # Get only the size in bytes
-        item['downloadUrl'] = response.selector.xpath('//a/text()').re_first(r'http.*AppImage')
-        yield item

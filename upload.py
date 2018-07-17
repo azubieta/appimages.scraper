@@ -80,8 +80,8 @@ if __name__ == '__main__':
         if 'AppImageInfo.json' in files:
             item = read(item_dir + 'AppImageInfo.json')
             if item:
-                if options.prefix and 'AppImageIcon.png' in files:
-                    item['icon'] = options.prefix + item_dir + 'AppImageIcon.png'
+                if options.prefix and 'AppImageIcon' in files:
+                    item['icon'] = options.prefix + item_dir + 'AppImageIcon'
             if 'id' in item:
                 print("Uploading " + item['id'] + " from: " + item_dir)
                 upload(item, auth)
