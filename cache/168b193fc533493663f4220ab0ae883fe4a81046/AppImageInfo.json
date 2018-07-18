@@ -1,1 +1,24 @@
-{"name": {"null": "Cerebral Debugger"}, "format": 1, "abstract": {"null": "Cerebral Debugger"}, "release": {"date": "Mon, 25 Jun 2018 22:35:40 GMT"}, "file": {"url": "https://github.com/cerebral/cerebral-debugger/releases/download/2.1.0/cerebral-debugger-2.1.0-x86_64.AppImage", "size": 55275991, "type": 2, "architecture": "x86-64", "sha512checksum": "e99f6ae1660a4e74b40d59a570b3a9a134d994e7285084baff624288eed9ed7bc957ed57cc8bc2c239d3f66b68ad3fa9faa7ec746d5f11145b25299a6d5aa33f"}, "keywords": [], "id": "cerebral-debugger.desktop", "categories": ["Development"]}
+{
+    "abstract": {
+        "null": "Cerebral Debugger"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "e99f6ae1660a4e74b40d59a570b3a9a134d994e7285084baff624288eed9ed7bc957ed57cc8bc2c239d3f66b68ad3fa9faa7ec746d5f11145b25299a6d5aa33f",
+        "size": 55275991,
+        "type": 2,
+        "url": "https://github.com/cerebral/cerebral-debugger/releases/download/2.1.0/cerebral-debugger-2.1.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "cerebral-debugger.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Cerebral Debugger"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:33:59 GMT'"
+    }
+}

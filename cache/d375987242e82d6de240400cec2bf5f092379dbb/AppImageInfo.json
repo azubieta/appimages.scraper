@@ -1,1 +1,27 @@
-{"name": {"null": "Brackets-Electron"}, "format": 1, "abstract": {"null": "Brackets-Electron"}, "release": {"date": "Mon, 25 Jun 2018 21:48:32 GMT"}, "file": {"url": "https://github.com/brackets-userland/brackets-electron/releases/download/v1.10.2/brackets-electron-1.10.2-x86_64.AppImage", "size": 118685696, "type": 1, "architecture": "x86-64", "sha512checksum": "30fca55fa0e93620c9844078be73375271c737b2b5db1eade54839986c08d34d5ace5bb06d8ec9a140c34ed5c880841a919d5dcb2268ad1e8fe78e75380c1770"}, "keywords": [], "id": "brackets-electron.desktop", "categories": ["Utility", "TextEditor", "Development", "IDE"]}
+{
+    "abstract": {
+        "null": "Brackets-Electron"
+    },
+    "categories": [
+        "Utility",
+        "TextEditor",
+        "Development",
+        "IDE"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "30fca55fa0e93620c9844078be73375271c737b2b5db1eade54839986c08d34d5ace5bb06d8ec9a140c34ed5c880841a919d5dcb2268ad1e8fe78e75380c1770",
+        "size": 118685696,
+        "type": 1,
+        "url": "https://github.com/brackets-userland/brackets-electron/releases/download/v1.10.2/brackets-electron-1.10.2-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "brackets-electron.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Brackets-Electron"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:22:48 GMT'"
+    }
+}

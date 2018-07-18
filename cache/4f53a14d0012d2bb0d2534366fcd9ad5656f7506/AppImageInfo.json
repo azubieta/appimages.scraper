@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Convert terminal recordings to animated gifs"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "1f63ff21c81f0ab9861ac118c7e3b561002c51133135f5094c9793176eafbb0c3146c603c6bc40049c13de06c6c5411b350f214794d7ee03b53687b629ee5c75",
+        "size": 423128,
+        "type": 2,
+        "url": "http://download.opensuse.org/repositories/home:/nandub:/MyAppImages/AppImage/ttygif-1522327236.9973273-Build7.15.glibc2.7-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "ttygif.desktop",
+    "keywords": [],
+    "name": {
+        "null": "ttygif"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:32:27 GMT'"
+    }
+}

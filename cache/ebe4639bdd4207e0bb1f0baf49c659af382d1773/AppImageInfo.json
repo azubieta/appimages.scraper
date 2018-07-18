@@ -1,1 +1,24 @@
-{"name": {"null": "AI Bot Workspace"}, "format": 1, "abstract": {"null": "An Electron application which includes testing workspaces for most Riddles.io competitions."}, "release": {"date": "Mon, 25 Jun 2018 19:21:09 GMT"}, "file": {"url": "https://github.com/jmerle/ai-bot-workspace/releases/download/v2.4.2/ai-bot-workspace-2.4.2-x86_64.AppImage", "size": 56339824, "type": 2, "architecture": "x86-64", "sha512checksum": "98969968f8e7d5a9cdce627396290043f23aceac065265a22bcdeb35d82b0d7822ac342c0e8f1bd9833497957bf52e0d4a3acfe6bad51023ceaba1738b782370"}, "keywords": [], "id": "ai-bot-workspace.desktop", "categories": ["Development"]}
+{
+    "abstract": {
+        "null": "An Electron application which includes testing workspaces for most Riddles.io competitions."
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "98969968f8e7d5a9cdce627396290043f23aceac065265a22bcdeb35d82b0d7822ac342c0e8f1bd9833497957bf52e0d4a3acfe6bad51023ceaba1738b782370",
+        "size": 56339824,
+        "type": 2,
+        "url": "https://github.com/jmerle/ai-bot-workspace/releases/download/v2.4.2/ai-bot-workspace-2.4.2-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "ai-bot-workspace.desktop",
+    "keywords": [],
+    "name": {
+        "null": "AI Bot Workspace"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:03:01 GMT'"
+    }
+}

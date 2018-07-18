@@ -1,0 +1,26 @@
+{
+    "categories": [
+        "Game",
+        "RolePlaying"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "c2983e355a2f32878f29893d6d367646fd0249734a86df237eea9890c594dfc533119f8455cf10fb7c5fc05f3fd090a96c8266bdcbf75c29788ab6c53233327d",
+        "size": 166421720,
+        "type": 2,
+        "url": "http://ftp.uni-stuttgart.de/opensuse/repositories/games:/WorldForge/AppImage/ember-1514067841.c8626107b-59.2.Build59.41.glibc2.14-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "ember.desktop",
+    "keywords": [
+        "3d client for Worldforge MMORPGs",
+        "3d klient f\u00f6r Worldforge MMORPGs",
+        "Worldforge MMORPG i\u00e7in 3B \u0130stemci"
+    ],
+    "name": {
+        "null": "Ember"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:14:45 GMT'"
+    }
+}

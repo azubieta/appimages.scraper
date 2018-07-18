@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "PB for Desktop is a Pushbullet desktop application for macOS, Windows and Linux"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "44a850a0ba9ed4ad239511aa6e81bca087a56231552dc3ddb2b9e7f7a8e20dbc0756252e521678e7968005591be2945ead444e86d6bd64bf29d78b06286700b3",
+        "size": 53765798,
+        "type": 2,
+        "url": "https://github.com/sidneys/pb-for-desktop/releases/download/v7.0.0/pb-for-desktop-7.0.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "pb-for-desktop.desktop",
+    "keywords": [],
+    "name": {
+        "null": "PB for Desktop"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:49:23 GMT'"
+    }
+}

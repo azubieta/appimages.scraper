@@ -1,0 +1,25 @@
+{
+    "abstract": {
+        "null": "Small and simple software for plotting data from serial port"
+    },
+    "categories": [
+        "Development",
+        "Electronics"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "6d5684fdd5e42ea36e6460ffabe2dc878ed37589dbaeec9e12093c734d47f8fbf75ec0535955110f47207020671e6fc287c27cf5f68837207708bd306862453c",
+        "size": 31279352,
+        "type": 2,
+        "url": "https://bitbucket.org/hyOzd/serialplot/downloads/SerialPlot-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "serialplot.desktop",
+    "keywords": [],
+    "name": {
+        "null": "SerialPlot"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:55:49 GMT'"
+    }
+}

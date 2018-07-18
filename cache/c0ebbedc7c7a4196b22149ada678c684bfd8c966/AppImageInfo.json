@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Simple medium desktop application built with ElectronJS"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "f2204e2536715f42efca96f800461f7e0c8dcc92c3192c5354fb083b0a0ddbec94bc276239371dbd9dfdaec189c332fa04040d26e79e8389463e0f8f5b9f59f2",
+        "size": 49741824,
+        "type": 1,
+        "url": "https://github.com/ex0dus-0x/medium-desktop/releases/download/v1.0.0/medium-desktop-1.0.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "medium-desktop.desktop",
+    "keywords": [],
+    "name": {
+        "null": "medium-desktop"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:04:08 GMT'"
+    }
+}

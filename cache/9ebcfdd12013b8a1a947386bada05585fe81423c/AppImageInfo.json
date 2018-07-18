@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "VivifyScrum - Agile Tool for Professionals"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "c7a889b2ac41fc5723b47f5a26a82061b9fca7dda2294159afc40a588f003386c1e24313cfea9d173c4d35c24f9f626f8b5ac3c6fbea978b39f3235034578de9",
+        "size": 64854217,
+        "type": 2,
+        "url": "https://github.com/Vivify-Ideas/vivifyscrum2-electron/releases/download/linux-x64-prod-v2.1.2/VivifyScrum-2.1.2-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "VivifyScrum.desktop",
+    "keywords": [],
+    "name": {
+        "null": "VivifyScrum"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 05:00:22 GMT'"
+    }
+}

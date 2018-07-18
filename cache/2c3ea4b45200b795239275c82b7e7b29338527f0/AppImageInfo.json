@@ -1,1 +1,24 @@
-{"name": {"null": "appimagetool"}, "format": 1, "abstract": {"null": "Tool to generate AppImages from AppDirs"}, "release": {"date": "Mon, 25 Jun 2018 20:14:07 GMT"}, "file": {"url": "https://github.com/AppImage/AppImageKit/releases/download/8/appimagetool-x86_64.AppImage", "size": 440152, "type": 2, "architecture": "x86-64", "sha512checksum": "a73c2ca35c7a7c1662e1b5839bd10d327dccffb9be0fcda3aeee6502555d218b6779d9ed1d5dd92082c4ac73d412e0269b34370b6e3517de45e759b268ecbcb9"}, "keywords": [], "id": "appimagetool.desktop", "categories": ["Development"]}
+{
+    "abstract": {
+        "null": "Tool to generate AppImages from AppDirs"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "a73c2ca35c7a7c1662e1b5839bd10d327dccffb9be0fcda3aeee6502555d218b6779d9ed1d5dd92082c4ac73d412e0269b34370b6e3517de45e759b268ecbcb9",
+        "size": 440152,
+        "type": 2,
+        "url": "https://github.com/AppImage/AppImageKit/releases/download/8/appimagetool-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "appimagetool.desktop",
+    "keywords": [],
+    "name": {
+        "null": "appimagetool"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:14:58 GMT'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": " An Electron-based, multiplatform music player app that streams from multiple sources"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "a99497bbca04632f6a300dae3f03577d27a958a6715290802ac00cd51f552107b4a569bc237a8b99a6c1c2bf64b430b6fe7b65b80e896683c46a123f5fb65a0b",
+        "size": 48824320,
+        "type": 1,
+        "url": "https://github.com/nukeop/nuclear/releases/download/eddin/nuclear-eddin-linux-x64.AppImage"
+    },
+    "format": 1,
+    "id": "nuclear.desktop",
+    "keywords": [],
+    "name": {
+        "null": "nuclear"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:31:36 GMT'"
+    }
+}

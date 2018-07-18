@@ -1,1 +1,26 @@
-{"name": {"null": "cutepeaks"}, "format": 1, "abstract": {"null": "A simple sanger trace file viewer"}, "release": {"date": "Mon, 25 Jun 2018 23:26:10 GMT"}, "file": {"url": "https://github.com/labsquare/CutePeaks/releases/download/0.2.3/cutepeaks-x86_64.AppImage", "size": 21527888, "type": 2, "architecture": "x86-64", "sha512checksum": "fde1b2ada46991753bc7beb48a4a1f845c28b65a361a88f91106980d11db70481a0c6446a46c9979152fbc80d9081879cd3f6c1d2a1c46053912fc17fd2443eb"}, "keywords": [], "id": "cutepeaks.desktop", "categories": ["Science", "Biology", "Qt"]}
+{
+    "abstract": {
+        "null": "A simple sanger trace file viewer"
+    },
+    "categories": [
+        "Science",
+        "Biology",
+        "Qt"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "fde1b2ada46991753bc7beb48a4a1f845c28b65a361a88f91106980d11db70481a0c6446a46c9979152fbc80d9081879cd3f6c1d2a1c46053912fc17fd2443eb",
+        "size": 21527888,
+        "type": 2,
+        "url": "https://github.com/labsquare/CutePeaks/releases/download/0.2.3/cutepeaks-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "cutepeaks.desktop",
+    "keywords": [],
+    "name": {
+        "null": "cutepeaks"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:49:05 GMT'"
+    }
+}

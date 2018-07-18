@@ -1,0 +1,26 @@
+{
+    "abstract": {
+        "null": "Next generation markdown editor"
+    },
+    "categories": [
+        "Office",
+        "TextEditor",
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "a9960d4da7f615a307d239a38cd6c78aaa8031134408968e89dba5c696263d8720ee750bd956b740169e07f63b05f7e801b7ce5571ea3621ecab57627cffc722",
+        "size": 61543689,
+        "type": 2,
+        "url": "https://github.com/marktext/marktext/releases/download/v0.12.20/marktext-0.12.20-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "marktext.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Mark Text"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:55:05 GMT'"
+    }
+}

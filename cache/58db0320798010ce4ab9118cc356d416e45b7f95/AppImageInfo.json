@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "ttyrec is a tty recorder"
+    },
+    "categories": [
+        "TTY Recorder"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "bafc395570efe339cc0975a36157f3b71a321971980ad5b829c1e91d5865703a8f7506dcc387fb2620f50164cb3bd38b7ce45d7cf6d993e5b6238dbe574f4f08",
+        "size": 172016,
+        "type": 2,
+        "url": "http://download.opensuse.org/repositories/home:/nandub:/MyAppImages/AppImage/ttyrec-latest-i686.AppImage"
+    },
+    "format": 1,
+    "id": "ttyrec.desktop",
+    "keywords": [],
+    "name": {
+        "null": "ttyrec"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:32:27 GMT'"
+    }
+}

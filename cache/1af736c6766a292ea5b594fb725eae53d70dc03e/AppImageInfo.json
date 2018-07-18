@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "A terminal emulator for the 21st century."
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "079393e223c769820d0ba98a2d84d920b436e2ebfc1bd169c32e3aa1b1f957a9152013ca7a0335c1453af8300034b3439f6d884a2a66304f15510cc0132aacf8",
+        "size": 64356352,
+        "type": 1,
+        "url": "https://github.com/railsware/upterm/releases/download/v0.4.0/upterm-0.4.0-x86_64-linux.AppImage"
+    },
+    "format": 1,
+    "id": "upterm.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Upterm"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:58:00 GMT'"
+    }
+}

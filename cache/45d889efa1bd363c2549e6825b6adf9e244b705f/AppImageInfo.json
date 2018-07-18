@@ -1,0 +1,28 @@
+{
+    "abstract": {
+        "null": "Manage your Nitrokey devices"
+    },
+    "categories": [
+        "Utility",
+        "Security",
+        "Qt"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "71156af505b537e69658d363964dd1029ce7141fd5c08acc8d8d78b5d8ffef5b1e9c8e3e2ff5f511b6607240a1ef24449a2db5f0d2b6418d9d8668419f4d3167",
+        "size": 32434016,
+        "type": 2,
+        "url": "https://github.com/Nitrokey/nitrokey-app/releases/download/v1.3.2-RC1/Nitrokey.App.AppImage"
+    },
+    "format": 1,
+    "id": "nitrokey-app.desktop",
+    "keywords": [
+        "Nitrokey Management Application"
+    ],
+    "name": {
+        "null": "Nitrokey App"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:29:41 GMT'"
+    }
+}

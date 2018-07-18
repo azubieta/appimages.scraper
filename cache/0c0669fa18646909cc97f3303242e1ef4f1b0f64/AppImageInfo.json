@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Aidos Wallet"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "fb5116371152abf74e501a81dbe9d0dbe12dfcbfbe4a6c38ab96e4b396b5c175d2929a6f3b3ee9ea42fd964e3b3291146d619d1d5d34081e6db289a4d048591c",
+        "size": 57344000,
+        "type": 1,
+        "url": "https://github.com/AidosKuneen/aidos-wallet/releases/download/v1.2.7/Aidos-1.2.7-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "aidos.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Aidos Wallet"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:03:56 GMT'"
+    }
+}

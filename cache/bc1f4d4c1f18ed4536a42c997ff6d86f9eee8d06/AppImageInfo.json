@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Decentralized messaging application based on PSS"
+    },
+    "categories": [
+        "Network"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "2daff754f859aa825d5df6772beadde8115e7926044c64ed45306d712d80d89bff17f9bba28c8b366e2b3a4beceee0ebef4947d718986b4e76b4bb637425a390",
+        "size": 71257019,
+        "type": 2,
+        "url": "https://github.com/MainframeHQ/onyx/releases/download/v0.5.1/Onyx-0.5.1-linux-amd64.AppImage"
+    },
+    "format": 1,
+    "id": "onyx.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Onyx"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:36:23 GMT'"
+    }
+}

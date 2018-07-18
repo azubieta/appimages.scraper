@@ -1,0 +1,21 @@
+{
+    "categories": [
+        "Qt"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "991d2b0d270664ef61c92c6c5339096b200e69943b93b2a6f12b71370dc6610f2151dee436f26be2d820589ddea36a96c7c6896dea24229d7cfa9c55b92d9b0e",
+        "size": 27236280,
+        "type": 2,
+        "url": "https://github.com/sandman7920/Qt5Demo/releases/download/Demo-Qt5.10.1/mdi-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "Qt.desktop",
+    "keywords": [],
+    "name": {
+        "null": "mdi"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:27:30 GMT'"
+    }
+}

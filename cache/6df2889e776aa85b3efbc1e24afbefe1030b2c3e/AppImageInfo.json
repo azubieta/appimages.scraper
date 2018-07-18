@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "WebRTC client"
+    },
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "c995a53de679cd9abf8b9e400934a4590a16037dac2b6449dd87ab6068a067f14f45385645c8509f2ee56adde7dd979e3655b79a345c9c8ab980f94dd77dc309",
+        "size": 50659328,
+        "type": 1,
+        "url": "http://download.ag-projects.com/Sylk/sylk-electron-1.1.0-ia32.AppImage"
+    },
+    "format": 1,
+    "id": "sylk-electron.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Sylk"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:35:54 GMT'"
+    }
+}

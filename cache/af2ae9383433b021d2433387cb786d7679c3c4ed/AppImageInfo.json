@@ -1,1 +1,24 @@
-{"name": {"null": "Donut"}, "format": 1, "abstract": {"null": "Cross platform cryptocurrency tracker"}, "release": {"date": "Tue, 26 Jun 2018 00:15:21 GMT"}, "file": {"url": "https://github.com/EtherbitHQ/donut/releases/download/v2.2.0/donut-2.2.0-x86_64.AppImage", "size": 44498944, "type": 1, "architecture": "x86-64", "sha512checksum": "ae0aa3ecc33d3c84fb06a544266265642490d151646574cbaee3195582d2e518ff1351e436b993c065f939af728657d75026ff640467a2135f07813843d3966b"}, "keywords": [], "id": "donut.desktop", "categories": ["Utility"]}
+{
+    "abstract": {
+        "null": "Cross platform cryptocurrency tracker"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "ae0aa3ecc33d3c84fb06a544266265642490d151646574cbaee3195582d2e518ff1351e436b993c065f939af728657d75026ff640467a2135f07813843d3966b",
+        "size": 44498944,
+        "type": 1,
+        "url": "https://github.com/EtherbitHQ/donut/releases/download/v2.2.0/donut-2.2.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "donut.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Donut"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:01:22 GMT'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "x-platform web debugging proxy and testing tool."
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "165b7fbcc4306563d1450daf0e183d70439226fc82b6f9ea9a26b8f6b3e03d45a97989652caeff9185ad7c7354324e5271b49f47d74470014c109606b28a038c",
+        "size": 75038720,
+        "type": 1,
+        "url": "https://github.com/niklasi/halland-proxy/releases/download/0.0.9/halland-proxy-0.0.9-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "halland-proxy.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Halland Proxy"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:44:49 GMT'"
+    }
+}

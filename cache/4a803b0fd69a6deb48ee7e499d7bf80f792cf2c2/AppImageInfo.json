@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "AWESOME Gist client for everyone, everywhere!"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "a380617430576849996647c1b91bc5db3869b4831bb373c2bae32bc7fe46d968e8c7ce6e05fc695c7fa57589cc529d9b686c82956ac026a178303e2b84247335",
+        "size": 63700992,
+        "type": 1,
+        "url": "https://github.com/hackjutsu/Lepton/releases/download/1.4.1-alpha/Lepton-1.4.1-alpha-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "lepton.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Lepton"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:32:17 GMT'"
+    }
+}

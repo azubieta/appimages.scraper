@@ -1,0 +1,27 @@
+{
+    "abstract": {
+        "null": "ScienceFair desktop science reading app for Linux"
+    },
+    "categories": [
+        "GNOME",
+        "GTK",
+        "Science",
+        "Literature"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "80b66a623a8183c41c5291a8f61e91288333509c03faa2a8fa7147a141f696620be4d455dbd85f3e325cc1957f939398df5b532a390e3567736e1e80477f5b6e",
+        "size": 100663296,
+        "type": 1,
+        "url": "https://github.com/codeforscience/sciencefair/releases/download/v1.0.0-beta13/sciencefair-1.0.0-beta13-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "sciencefair.desktop",
+    "keywords": [],
+    "name": {
+        "null": "ScienceFair"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:53:36 GMT'"
+    }
+}

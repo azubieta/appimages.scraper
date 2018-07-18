@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "A lightning fast, beautiful and free font manager for designers."
+    },
+    "categories": [
+        "Graphics"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "c88bb261324ddfbc2d64333f8ed5f4883e32ab3ff758ed0852796a1b16e845a9724edca822ddcb77689ae0208ecab0a88d328e86e2cf3df2ffc10f4039d628d7",
+        "size": 53839685,
+        "type": 2,
+        "url": "https://releases.fontba.se/linux/FontBase-2.3.3-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "fontbase.desktop",
+    "keywords": [],
+    "name": {
+        "null": "FontBase"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:25:05 GMT'"
+    }
+}

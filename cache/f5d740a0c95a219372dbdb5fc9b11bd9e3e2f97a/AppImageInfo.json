@@ -1,0 +1,23 @@
+{
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "1a38b2c984056f61453b3ebfedc4a67f870f52245d6ba4f3e78a7990b12880b3468740a5a79a950933b661bd4f6fb21d8562090a5f67b7ec0f5e7f2ef10bf3f2",
+        "size": 35223480,
+        "type": 2,
+        "url": "https://github.com/Subsurface-divelog/subsurface/releases/download/continuous-rollOurOwnBanner/smtk2ssrf-4.7.8-344-gb4be1658af8a-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "smtk2ssrf.desktop",
+    "keywords": [
+        "SmartTrak log importer"
+    ],
+    "name": {
+        "null": "smtk2ssrf"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:31:27 GMT'"
+    }
+}

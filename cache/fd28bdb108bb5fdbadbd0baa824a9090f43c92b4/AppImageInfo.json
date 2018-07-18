@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Ethereum-based Encyclopedia"
+    },
+    "categories": [
+        "Network"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "50e6cb1ce6dee34bf1df213f508fc04ca25f239066f7edf7a4ba5f1748dba23fa416e5ebe1af28b5befb03efdecb1f6a588411022542507d11625415a80a310e",
+        "size": 109073473,
+        "type": 2,
+        "url": "https://download.lunyr.com/Lunyr-1.0.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "lunyr.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Lunyr"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:52:03 GMT'"
+    }
+}

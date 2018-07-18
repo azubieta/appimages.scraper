@@ -1,1 +1,25 @@
-{"name": {"null": "\u9489\u9489"}, "format": 1, "abstract": {"null": "\u9489\u9489\u684c\u9762\u7248\uff0c\u57fa\u4e8eelectron\u548c\u9489\u9489\u7f51\u9875\u7248\u5f00\u53d1\uff0c\u652f\u6301Windows\u3001Linux\u548cmacOS"}, "release": {"date": "Tue, 26 Jun 2018 00:07:05 GMT"}, "file": {"url": "https://github.com/nashaofu/dingtalk/releases/download/v2.0.1/dingtalk-2.0.1-i386.AppImage", "size": 51741421, "type": 2, "architecture": "Intel 80386", "sha512checksum": "9832b6fe8ee7425e28af46c32567cfbda4d7533e3a00b9d4c78f7e4524b6982af53b5f09f845095ac3c06accf0fb9c68f5cd9e0a4bb53924437543c546d1be95"}, "keywords": [], "id": "dingtalk.desktop", "categories": ["InstantMessaging", "Network"]}
+{
+    "abstract": {
+        "null": "\u9489\u9489\u684c\u9762\u7248\uff0c\u57fa\u4e8eelectron\u548c\u9489\u9489\u7f51\u9875\u7248\u5f00\u53d1\uff0c\u652f\u6301Windows\u3001Linux\u548cmacOS"
+    },
+    "categories": [
+        "InstantMessaging",
+        "Network"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "9832b6fe8ee7425e28af46c32567cfbda4d7533e3a00b9d4c78f7e4524b6982af53b5f09f845095ac3c06accf0fb9c68f5cd9e0a4bb53924437543c546d1be95",
+        "size": 51741421,
+        "type": 2,
+        "url": "https://github.com/nashaofu/dingtalk/releases/download/v2.0.1/dingtalk-2.0.1-i386.AppImage"
+    },
+    "format": 1,
+    "id": "dingtalk.desktop",
+    "keywords": [],
+    "name": {
+        "null": "\u9489\u9489"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:59:36 GMT'"
+    }
+}

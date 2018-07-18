@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Open Source Planar Linkage Mechanism Simulation and Dimensional Synthesis System."
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "5cddc90347127d210e6eb86c87801cf53cf3d85b7a1c0ffd9f5d52d19f712c533f8434f447c7a07598f1fd79bb6ebc86fda99592f56396dba39cc1e21af6230c",
+        "size": 200212480,
+        "type": 1,
+        "url": "https://github.com/KmolYuan/Pyslvs-PyQt5/releases/download/v0.9.0/pyslvs-0.9.0.glibc2.17-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "pyslvs.desktop",
+    "keywords": [],
+    "name": {
+        "null": "pyslvs"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:20:23 GMT'"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "An application for creating screenshots"
+    },
+    "categories": [
+        "Graphics"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "7aa5d7cd22206381bae6a464ee1c2af45ce8a2ae6667b823ab07eff27d0a27091cfa7060d4c821cebfb625e207d7cbecaa0cf4f45f933392c079731a40682f17",
+        "size": 48562176,
+        "type": 1,
+        "url": "https://github.com/binjospookie/--shots/releases/download/v0.1.3/shots-0.1.3-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "shots.desktop",
+    "keywords": [],
+    "name": {
+        "null": "shots"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:59:15 GMT'"
+    }
+}

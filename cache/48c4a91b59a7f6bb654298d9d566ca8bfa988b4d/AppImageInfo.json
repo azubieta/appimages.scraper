@@ -1,0 +1,39 @@
+{
+    "abstract": {
+        "fr": "Int\u00e9gration des services de musique en ligne avec votre bureau",
+        "null": "Cloud music integration for your desktop"
+    },
+    "categories": [
+        "AudioVideo"
+    ],
+    "description": {
+        "null": "<p> MellowPlayer is a free, open source and cross-platform desktop application that integrates online music services with your desktop. </p>"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "30169ec3cc9213c2f398951cd5eb6b4a6565b59395d3b339ca7a4c720dee1a217cb6b3e92d30b7a4d3f611a9c26e720577f5a1833446f526124cc3530ccb87ad",
+        "size": 90773432,
+        "type": 2,
+        "url": "https://github.com/ColinDuquesnoy/MellowPlayer/releases/download/3.4.0/MellowPlayer-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "mellowplayer.desktop",
+    "keywords": [
+        "Lecteur de services de musique en ligne",
+        "Cloud music player"
+    ],
+    "license": {
+        "id": "GPLv2"
+    },
+    "links": {
+        "bugtracker": "https://github.com/ColinDuquesnoy/MellowPlayer/issues",
+        "help": "https://media.readthedocs.org/pdf/mellowplayer/latest/mellowplayer.pdf",
+        "homepage": "https://colinduquesnoy.github.io/MellowPlayer/"
+    },
+    "name": {
+        "null": "MellowPlayer"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:04:25 GMT'"
+    }
+}

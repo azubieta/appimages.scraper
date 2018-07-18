@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "PNG/JPEG optimization app"
+    },
+    "categories": [
+        "Graphics"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "7c29d8e6930c6d703ad5b725ec1441a3ab3d1ea7873e985e37197541ecdcf985d98f32bd67a9e08f226fd9045175df60df4e634016ecc7d8f26a518357b8b772",
+        "size": 54132736,
+        "type": 1,
+        "url": "https://github.com/meowtec/Imagine/releases/download/v0.3.0/Imagine-0.3.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "imagine.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Imagine"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:01:39 GMT'"
+    }
+}

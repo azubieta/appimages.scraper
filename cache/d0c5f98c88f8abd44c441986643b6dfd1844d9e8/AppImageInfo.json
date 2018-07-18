@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "moecube"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "b647c1107045a08b8418d587d01cfb9fee153e5a3251fd5dba7211c7adfbffb01606458b93273be460f370c7a5197f7585568e6c1d8e57627ace9384d95fd336",
+        "size": 61997056,
+        "type": 1,
+        "url": "https://github.com/moecube/moecube/releases/download/3.0.32/mycard-3.0.32-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "mycard.desktop",
+    "keywords": [],
+    "name": {
+        "null": "MyCard"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:16:59 GMT'"
+    }
+}

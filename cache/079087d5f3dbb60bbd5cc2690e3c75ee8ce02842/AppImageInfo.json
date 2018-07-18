@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Gigantum"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "ec5ef941c60515e2f2ff96711cdb7530d6a8f308d9fcd171102b5bbf58d15cd72508c415315804f87ecee090b76beefdb816ed3955bd29e83a345c1182869e14",
+        "size": 58386961,
+        "type": 2,
+        "url": "https://github.com/gigantum/gigantum-desktop/releases/download/v0.5.0/gigantum-0.5.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "gigantum.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Gigantum"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:29:13 GMT'"
+    }
+}

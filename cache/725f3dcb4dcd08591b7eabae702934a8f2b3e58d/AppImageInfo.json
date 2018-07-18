@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "A cross-platform Roku Debugger graphical interface"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "d7fbc744d7a006854d96291f7357a1305251c6d7a46e6c6da3a3454c4b943f84065a3b555786b87aff4936004954ab5b2cf94c77b95d723bbd821e655a07c7d1",
+        "size": 50790400,
+        "type": 1,
+        "url": "https://github.com/belltown/violetbug/releases/download/v0.0.5/violetbug-0.0.5-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "violetbug.desktop",
+    "keywords": [],
+    "name": {
+        "null": "VioletBug"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:59:38 GMT'"
+    }
+}

@@ -1,1 +1,24 @@
-{"name": {"null": "Ao"}, "format": 1, "abstract": {"null": "Ao is an unofficial, featureful, open source, community-driven, free Microsoft To-Do app, used by people in more than 120 countries."}, "release": {"date": "Mon, 25 Jun 2018 20:07:09 GMT"}, "file": {"url": "https://github.com/klauscfhq/ao/releases/download/v5.6.0/ao-5.6.0-x86_64.AppImage", "size": 53503189, "type": 2, "architecture": "x86-64", "sha512checksum": "e0b5a42c7ab83a2f4a23705aeb586ddde1380021de360c04c77334de02f8a7e2ed4631b3dbd0d44343225c5b89600d7175b09d093b9c634feff170896d7fd26e"}, "keywords": [], "id": "ao-app.desktop", "categories": ["Office"]}
+{
+    "abstract": {
+        "null": "Ao is an unofficial, featureful, open source, community-driven, free Microsoft To-Do app, used by people in more than 120 countries."
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "e0b5a42c7ab83a2f4a23705aeb586ddde1380021de360c04c77334de02f8a7e2ed4631b3dbd0d44343225c5b89600d7175b09d093b9c634feff170896d7fd26e",
+        "size": 53503189,
+        "type": 2,
+        "url": "https://github.com/klauscfhq/ao/releases/download/v5.6.0/ao-5.6.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "ao-app.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Ao"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:12:36 GMT'"
+    }
+}

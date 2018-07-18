@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "A simple, clean and cross-platform music player, written with Node.js, Electron and React.js."
+    },
+    "categories": [
+        "AudioVideo"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "f2af97b47098fb21e1366283f1469da0ed8e7c2418db26f7c694b85cc309472907319ac66fa37c2be7771aa54c4df2953bf01a81c9792043f0f8e85ae114e773",
+        "size": 58635354,
+        "type": 2,
+        "url": "https://github.com/KeitIG/museeks/releases/download/0.9.3/museeks-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "museeks.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Museeks"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:14:51 GMT'"
+    }
+}

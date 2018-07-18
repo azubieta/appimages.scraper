@@ -1,0 +1,33 @@
+{
+    "abstract": {
+        "null": "A simple easy to use GUI for your local LXD server."
+    },
+    "categories": [
+        "Utility"
+    ],
+    "description": {
+        "null": "<p>A simple easy to use GUI for your local LXD server.</p>"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "8e9604bf776d6723953aa2835ad41eceed761d38c58bac6d8587ed9487b6660de9c10ad1b9c56e04cb38349c8171e8fd52496c06c7518a3707c70f0aa1c2d5b0",
+        "size": 65101957,
+        "type": 2,
+        "url": "https://github.com/lcherone/LXD-UI/releases/download/0.0.9a/LXDui-0.0.9-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "LXDui-0.0.9-x86_64.desktop",
+    "keywords": [],
+    "license": {
+        "id": "MIT"
+    },
+    "links": {
+        "homepage": "https://github.com/lcherone/lxd-ui/"
+    },
+    "name": {
+        "null": "LXDui"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:52:19 GMT'"
+    }
+}

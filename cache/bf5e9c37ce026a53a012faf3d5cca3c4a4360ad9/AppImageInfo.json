@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Tomorrow Exchange. See https://tomorrowex.com/"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "c704db4cf7979651c3c20a4a6c2152682ab4301504f8859efc3d452194e8507d374609b26c25e7bb710283a19835fae76fbd50c44831ec25471e1e5b030d0d34",
+        "size": 55640064,
+        "type": 1,
+        "url": "https://github.com/uvarovserge/tomorrowex-client/releases/download/v0.2.10/tomorrow-exchange-0.2.10-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "tomorrow-exchange.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Tomorrow Exchange"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:44:45 GMT'"
+    }
+}

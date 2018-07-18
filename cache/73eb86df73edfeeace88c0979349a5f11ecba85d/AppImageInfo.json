@@ -1,1 +1,24 @@
-{"name": {"null": "Bitwarden Directory Connector"}, "format": 1, "abstract": {"null": "Sync your user directory to your Bitwarden organization."}, "release": {"date": "Mon, 25 Jun 2018 21:07:41 GMT"}, "file": {"url": "https://github.com/bitwarden/directory-connector/releases/download/v2.0.3/Bitwarden-Connector-2.0.3-x86_64.AppImage", "size": 53306771, "type": 2, "architecture": "x86-64", "sha512checksum": "b4cf648d128e2d72b96290dfbea5dbb14372cff3caed1d65f3ede7040ec760ab0a5c8722f732a7f635a6403431b5c4cfafc6f0aca5b891c883a6ddde3b297527"}, "keywords": [], "id": "bitwarden-directory-connector.desktop", "categories": ["Utility"]}
+{
+    "abstract": {
+        "null": "Sync your user directory to your Bitwarden organization."
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "b4cf648d128e2d72b96290dfbea5dbb14372cff3caed1d65f3ede7040ec760ab0a5c8722f732a7f635a6403431b5c4cfafc6f0aca5b891c883a6ddde3b297527",
+        "size": 53306771,
+        "type": 2,
+        "url": "https://github.com/bitwarden/directory-connector/releases/download/v2.0.3/Bitwarden-Connector-2.0.3-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "bitwarden-directory-connector.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Bitwarden Directory Connector"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:57:07 GMT'"
+    }
+}

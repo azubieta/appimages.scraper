@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "A LXD user interface, powered by electron-vue, which will allow you to manage local LXC containers in a GUI."
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "7f2b22827bc0d7958e121ba94c39b77c0e8f17c773fc02ff555e4bd3cb27564dc6d382364726af7285c9c793a7ac9bdb8da7779e2a1eb7d9313af7db6f4b4394",
+        "size": 58516597,
+        "type": 2,
+        "url": "https://github.com/lcherone/LXD-UI/releases/download/0.0.4a/lxd-ui-0.0.4-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "lxd-ui.desktop",
+    "keywords": [],
+    "name": {
+        "null": "LXDui"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:52:19 GMT'"
+    }
+}

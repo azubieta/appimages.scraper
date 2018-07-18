@@ -1,1 +1,24 @@
-{"name": {"null": "Blink1Control2"}, "format": 1, "abstract": {"null": "Blink1Control2 GUI app for blink(1) devices"}, "release": {"date": "Mon, 25 Jun 2018 21:17:06 GMT"}, "file": {"url": "https://github.com/todbot/Blink1Control2/releases/download/v2.0.4/Blink1Control2-2.0.4-linux-x86_64.AppImage", "size": 60847158, "type": 2, "architecture": "x86-64", "sha512checksum": "6b3d4f4283c0533beac6dacbe45a1f0caa787996c2a698e1983f2dceddec34a5eab60c84fa94688fd5e238be438453d11c4b039071e9ceebc5c590e70e880016"}, "keywords": [], "id": "blink1control2.desktop", "categories": ["Utility"]}
+{
+    "abstract": {
+        "null": "Blink1Control2 GUI app for blink(1) devices"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "6b3d4f4283c0533beac6dacbe45a1f0caa787996c2a698e1983f2dceddec34a5eab60c84fa94688fd5e238be438453d11c4b039071e9ceebc5c590e70e880016",
+        "size": 60847158,
+        "type": 2,
+        "url": "https://github.com/todbot/Blink1Control2/releases/download/v2.0.4/Blink1Control2-2.0.4-linux-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "blink1control2.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Blink1Control2"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:58:21 GMT'"
+    }
+}

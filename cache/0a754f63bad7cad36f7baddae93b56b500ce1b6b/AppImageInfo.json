@@ -1,1 +1,24 @@
-{"name": {"null": "CRG Data Tool"}, "format": 1, "abstract": {"null": "A tool for working with Games Data files from CRG"}, "release": {"date": "Mon, 25 Jun 2018 23:11:28 GMT"}, "file": {"url": "https://github.com/AdamSmasherDerby/CRG-To-Statsbook/releases/download/v0.2-alpha.0/crgdatatool-0.2.0-x86_64.AppImage", "size": 62406285, "type": 2, "architecture": "x86-64", "sha512checksum": "2ec40eaf1d8094da7a7e15e89f28a2b32b568fe696dfe4d3895fe90c45051edf61bc2a1c1b7750c809528930cb9423ecdde19f225c9d20fe2d2f390b114e270e"}, "keywords": [], "id": "crgdatatool.desktop", "categories": ["Utility"]}
+{
+    "abstract": {
+        "null": "A tool for working with Games Data files from CRG"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "2ec40eaf1d8094da7a7e15e89f28a2b32b568fe696dfe4d3895fe90c45051edf61bc2a1c1b7750c809528930cb9423ecdde19f225c9d20fe2d2f390b114e270e",
+        "size": 62406285,
+        "type": 2,
+        "url": "https://github.com/AdamSmasherDerby/CRG-To-Statsbook/releases/download/v0.2-alpha.0/crgdatatool-0.2.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "crgdatatool.desktop",
+    "keywords": [],
+    "name": {
+        "null": "CRG Data Tool"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:42:55 GMT'"
+    }
+}

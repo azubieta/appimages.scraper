@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "A tool to fake your torrent tracker upload."
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "3087412ce88ebb576671414183b161b2502bec82b77fab286faf472f7ae6447cbfcdf39512a72e5988ce630cbf7c1ee9c92216f9640b26c93ef0f1691a52c0b7",
+        "size": 54919168,
+        "type": 1,
+        "url": "https://github.com/anthonyraymond/joal-desktop/releases/download/v1.0.5/JoalDesktop-1.0.5-linux.AppImage"
+    },
+    "format": 1,
+    "id": "joal-desktop.desktop",
+    "keywords": [],
+    "name": {
+        "null": "JoalDesktop"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:17:53 GMT'"
+    }
+}

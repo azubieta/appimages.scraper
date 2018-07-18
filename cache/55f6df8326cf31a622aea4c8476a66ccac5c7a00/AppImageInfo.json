@@ -1,0 +1,21 @@
+{
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "1d19acf0d40f286233c6c95b43fef892d33ac8c7ddd5593f5105f76cb990a2ca4ecdad3c302ba0584b6de4c8bf8c770da08c34fa8fc6138646298e69595eab25",
+        "size": 130953191,
+        "type": 2,
+        "url": "https://github.com/radareorg/cutter/releases/download/v1.6/Cutter-v1.6-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "Cutter.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Cutter"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:49:33 GMT'"
+    }
+}

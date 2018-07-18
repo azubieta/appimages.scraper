@@ -1,0 +1,25 @@
+{
+    "abstract": {
+        "null": "Read and plot datas from your Xiaomi \"Flower Care\" devices!"
+    },
+    "categories": [
+        "Qt",
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "0203b2a0a15dd3aabd5befc0df01af72ed2b1430d377bf0923a403a0b32cc59de4d593cf2ff0c7662ea99cab148967125bcde3ff3c4a5b88d479120c558a257f",
+        "size": 35522488,
+        "type": 2,
+        "url": "https://github.com/emericg/WatchFlower/releases/download/v0.2/WatchFlower-0.2.0-linux64.AppImage"
+    },
+    "format": 1,
+    "id": "watchflower.desktop",
+    "keywords": [],
+    "name": {
+        "null": "WatchFlower"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 05:03:46 GMT'"
+    }
+}

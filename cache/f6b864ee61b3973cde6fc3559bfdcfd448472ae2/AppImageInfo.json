@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Distributed audio player"
+    },
+    "categories": [
+        "Audio"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "1607a93796fc88032ad12f9aeaca6a8ea3ed51401e5bcacd4d4ad72fe111500830ae4f85e3275cf0de07f199c529e13383168cfc3bb72bc95db94b7665f1ca5d",
+        "size": 82159055,
+        "type": 2,
+        "url": "https://github.com/pathephone/pathephone-desktop/releases/download/v1.0.4/pathephone-desktop-1.0.4-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "pathephone-desktop.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Pathephone"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:45:34 GMT'"
+    }
+}

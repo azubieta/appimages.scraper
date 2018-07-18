@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "An electron-vue project"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "c41abdab31da0bd52a2a77cc154d1e03bcea01c62c775e399135235e936760cf3255059f2d2bd9aee33dc6d883c8b0085231c3484be397c602bb2d6bdc485c13",
+        "size": 56577580,
+        "type": 2,
+        "url": "https://github.com/el3um4s/vue-calc/releases/download/v0.18.04.06-beta/vue-calc-0.18.0-4.6-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "vue-calc.desktop",
+    "keywords": [],
+    "name": {
+        "null": "vue-calc"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 05:02:52 GMT'"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Decentralized messaging application based on PSS"
+    },
+    "categories": [
+        "Network"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "accd43344eec6b267c2ba16de3b323ee80da1b84478ea6473a7d14dfc34d88e30366aa2ac592a1f26489801103ddfb7bfe52bcf46db298a93e1e8059fed7238a",
+        "size": 77773639,
+        "type": 2,
+        "url": "https://github.com/MainframeHQ/onyx/releases/download/v0.4.2/Mainframe-0.4.2-linux-amd64.AppImage"
+    },
+    "format": 1,
+    "id": "mainframe-alpha.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Mainframe Alpha"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:36:23 GMT'"
+    }
+}

@@ -1,1 +1,14 @@
-{"keywords": [], "release": {"date": "Mon, 25 Jun 2018 20:38:19 GMT"}, "file": {"url": "https://github.com/Superjo149/auryo/releases/download/v1.4.3/Auryo-1.4.3-x86_64.AppImage", "size": 67721864, "type": 2, "architecture": "x86-64", "sha512checksum": "d9cc983fefe46fed97d441893341a5c60df4b98d2fb882aa6cbf084f35d2ed50ddefffff7a30e070099e27522023ad550224197f5a3ab8338b9e66494ec2a25f"}, "format": 1}
+{
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "d9cc983fefe46fed97d441893341a5c60df4b98d2fb882aa6cbf084f35d2ed50ddefffff7a30e070099e27522023ad550224197f5a3ab8338b9e66494ec2a25f",
+        "size": 67721864,
+        "type": 2,
+        "url": "https://github.com/Superjo149/auryo/releases/download/v1.4.3/Auryo-1.4.3-x86_64.AppImage"
+    },
+    "format": 1,
+    "keywords": [],
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:50:10 GMT'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "categories": [
+        "AudioVideo"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "28245f9dbd6977ada6c7e0c42a444cbf6ff8e0f0dd402626adb3a89edfffdd1e31ede37397e7de1557089fa1d8487120e20347cf7ab3e0e1765e457cb831e082",
+        "size": 25888600,
+        "type": 2,
+        "url": "https://github.com/neuro-sys/tumblr-downloader-client/releases/download/v1.3/Tumblr_Downloader_GUI-git.27e4ba6-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "tumblr-downloader-client.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Tumblr Downloader Client"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:47:36 GMT'"
+    }
+}

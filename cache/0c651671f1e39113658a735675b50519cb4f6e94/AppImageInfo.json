@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Onshape desktop app (web application shell)"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "eb89119dc8cdde1b4dbef1b90f50a6bb872534eb5ccc777d32c7d05eb888dfeb158313bc18d0acd474337fb82a9b3a57c07b5e6658e143abbf0672f6cbaca734",
+        "size": 52953088,
+        "type": 1,
+        "url": "https://github.com/develar/onshape-desktop-shell/releases/download/v0.5.11/Onshape-0.5.11-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "onshape.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Onshape"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:35:00 GMT'"
+    }
+}

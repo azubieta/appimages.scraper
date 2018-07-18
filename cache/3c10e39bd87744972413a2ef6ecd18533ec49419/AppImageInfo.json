@@ -1,0 +1,32 @@
+{
+    "abstract": {
+        "null": "manage and display dive computer data"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "description": {
+        "null": "<p> Subsurface is an opensource diving logbook that runs on Linux, Windows and Mac. With this program, users can keep track of their dives by logging dive locations (with GPS coordinates), weights and exposure protection used, divemasters and dive buddies, etc. Subsurface also enables the users to rate their dives and provide additional dive notes. </p> <p> Dives can be downloaded from a variety of dive computers, inserted manually or imported from other programs. A wide array of diving statistics and information is calculated and displayed, like the user\u2019s SAC rate, partial pressures of O2, N2 and He, calculated deco information, and many more. </p> <p> The dive profiles (and the tank pressure curves) can be visualized in a comprehensive and clean way, that provides the user with additional information on relative velocity (and momentary air consumption) during the dive. Subsurface also allows the user to print out a detailed log book that includes dive profiles and other relevant information. The program is localized in about 20 languages and well supported by an active developer community. </p>"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "46abc916aa519f5acd93538edabfeb0a13489478ee4b0038a656adac440b0d995cf31637cf9d69c661ee70ab8ec23ba92aa0425b10c0d3de09eb4cd927844107",
+        "size": 81426360,
+        "type": 2,
+        "url": "https://github.com/Subsurface-divelog/subsurface/releases/download/v4.8.1/Subsurface-4.8.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "subsurface.desktop",
+    "keywords": [
+        "dive log program"
+    ],
+    "links": {
+        "homepage": "http://www.http://subsurface-divelog.org/"
+    },
+    "name": {
+        "null": "Subsurface"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:31:27 GMT'"
+    }
+}

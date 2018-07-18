@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Modern communication, full privacy."
+    },
+    "categories": [
+        "Network"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "028c7923de9d3d945da797345ebbcfe841f368c7ceec8cb15a61ecac6ad8c8f26dbdfd8cb1ab9157ea53ec9d852ba04efd2021a0bfab24845201a4149b4ac436",
+        "size": 109248512,
+        "type": 1,
+        "url": "https://github.com/wireapp/wire-desktop/releases/download/release%2F2.17.2813/wire-2.17.2813-i386.AppImage"
+    },
+    "format": 1,
+    "id": "wire-desktop.desktop",
+    "keywords": [],
+    "name": {
+        "null": "wire-desktop"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 05:10:16 GMT'"
+    }
+}

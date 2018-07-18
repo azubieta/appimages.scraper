@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "A multi-platform desktop application for watching movies and TV shows."
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "b2c061624d8492dc6d83c45b4e8aff082349d7637ed72eedf9f15398208772cb2f52569ac8bf3b5a3da987cae8b5cea70027e4f2eb7c01d0bdc28b8d84bd5d83",
+        "size": 91053487,
+        "type": 2,
+        "url": "https://leonflix.net/downloads/Leonflix.AppImage"
+    },
+    "format": 1,
+    "id": "leonflix.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Leonflix"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:30:10 GMT'"
+    }
+}

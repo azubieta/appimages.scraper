@@ -1,1 +1,24 @@
-{"name": {"null": "Calculist"}, "format": 1, "abstract": {"null": "Desktop version of Calculist.io"}, "release": {"date": "Mon, 25 Jun 2018 22:23:00 GMT"}, "file": {"url": "https://github.com/calculist/calculist-desktop/releases/download/v0.3.0/CalculistDesktop-0.3.0-x86_64.AppImage", "size": 57933824, "type": 1, "architecture": "x86-64", "sha512checksum": "2d8fd37c680c9d8dd1c1c7e49ff0da1c561352582524263e1bf5ddee616c02953fa3b5d41a19070fe43632487670eaf00475db5a8dc05e159a052f1e9a747d66"}, "keywords": [], "id": "calculistdesktop.desktop", "categories": ["Science"]}
+{
+    "abstract": {
+        "null": "Desktop version of Calculist.io"
+    },
+    "categories": [
+        "Science"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "2d8fd37c680c9d8dd1c1c7e49ff0da1c561352582524263e1bf5ddee616c02953fa3b5d41a19070fe43632487670eaf00475db5a8dc05e159a052f1e9a747d66",
+        "size": 57933824,
+        "type": 1,
+        "url": "https://github.com/calculist/calculist-desktop/releases/download/v0.3.0/CalculistDesktop-0.3.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "calculistdesktop.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Calculist"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:31:37 GMT'"
+    }
+}

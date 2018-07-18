@@ -1,1 +1,24 @@
-{"name": {"null": "AppImageAssistant"}, "format": 1, "abstract": {"null": "Turn AppDir into AppImage, part of AppImageKit"}, "release": {"date": "Mon, 25 Jun 2018 20:14:07 GMT"}, "file": {"url": "https://github.com/AppImage/AppImageKit/releases/download/6/AppImageAssistant_6-x86_64.AppImage", "size": 1245184, "type": 1, "architecture": "x86-64", "sha512checksum": "7e3c34cb78abd7b7b86841ace8e6ad9f9769201197654d85af41a45c91d9eff88fd3d20413c8798ab77515a8fb8afa1db0be65dbc2ad594232c7c7b5b23ebf7c"}, "keywords": [], "id": "AppImageAssistant.desktop", "categories": ["Development"]}
+{
+    "abstract": {
+        "null": "Turn AppDir into AppImage, part of AppImageKit"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "7e3c34cb78abd7b7b86841ace8e6ad9f9769201197654d85af41a45c91d9eff88fd3d20413c8798ab77515a8fb8afa1db0be65dbc2ad594232c7c7b5b23ebf7c",
+        "size": 1245184,
+        "type": 1,
+        "url": "https://github.com/AppImage/AppImageKit/releases/download/6/AppImageAssistant_6-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "AppImageAssistant.desktop",
+    "keywords": [],
+    "name": {
+        "null": "AppImageAssistant"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:14:58 GMT'"
+    }
+}

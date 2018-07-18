@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "The best way to model, document, and test APIs."
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "dfc83f02eb7092f58debc4959332abd14fef577e1f470e0ad4049618cd8bc13f4fc387b852b7bde02220dfca4b9648dfd3c7faf90cb72fe93ae89d10a713e289",
+        "size": 60735314,
+        "type": 2,
+        "url": "https://github.com/stoplightio/desktop/releases/download/v4.3.1/stoplight-next-4.3.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "stoplight-next.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Stoplight Next"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:23:25 GMT'"
+    }
+}

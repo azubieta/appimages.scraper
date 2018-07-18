@@ -1,0 +1,26 @@
+{
+    "abstract": {
+        "null": "A tool to calculate the particle composition od the final hadronic state in pp, pA and AA collisions"
+    },
+    "categories": [
+        "Science",
+        "Physics",
+        "Qt"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "0c0e4f5997fef4c451dfd939df4f8d8230924417ef5e713e9207222f3f283e249c588cae825896cef5c1805191d97c26a02f87a30d81694d0f50f95df61d99b6",
+        "size": 29363568,
+        "type": 2,
+        "url": "https://github.com/yschutz/ThermusQt/releases/download/V1.01/ThermusQt-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "ThermusQt.desktop",
+    "keywords": [],
+    "name": {
+        "null": "ThermusQt"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:41:31 GMT'"
+    }
+}

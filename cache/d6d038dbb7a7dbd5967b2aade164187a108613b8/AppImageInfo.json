@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Standalone impress.js presentations viewer and controller. Accepts html, markdown and specifically structured zip."
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "fcb1380e1907353b405e8621cd90d8ebfe90b68beadcd866a6fbcfeb418da1713cee578ec4e24faf32c30d6f9b7b5f894c32401eccbe96227861e5fe4de58ac9",
+        "size": 156499968,
+        "type": 1,
+        "url": "https://github.com/matejmosko/impressPlayer/releases/download/v0.8.1-alpha/impressPlayer-0.8.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "impressplayer.desktop",
+    "keywords": [],
+    "name": {
+        "null": "impress Player"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:03:09 GMT'"
+    }
+}

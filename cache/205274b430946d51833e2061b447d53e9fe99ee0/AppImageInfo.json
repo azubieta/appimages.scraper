@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Suivez votre actualit\u00e9 s\u00e9riephile"
+    },
+    "categories": [
+        "AudioVideo"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "64f8dbf27b6aa82444f8eb69ae1c4f3f50b81621275ab1de85cf1af4ed780cda9a4b36cd3f2c792edd0ce5b4afc411a88fe08aa12c73524cb371a12cbf3efa70",
+        "size": 52280563,
+        "type": 2,
+        "url": "https://github.com/matthieuy/feedseries/releases/download/v0.6.1/feedseries-0.6.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "feedseries.desktop",
+    "keywords": [],
+    "name": {
+        "null": "FeedSeries"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:21:10 GMT'"
+    }
+}

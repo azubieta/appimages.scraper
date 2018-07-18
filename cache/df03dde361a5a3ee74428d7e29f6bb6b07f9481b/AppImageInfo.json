@@ -1,1 +1,24 @@
-{"name": {"null": "Astroffers"}, "format": 1, "abstract": {"null": "Take offers to watch at given nights by the NGC2000 catalog"}, "release": {"date": "Mon, 25 Jun 2018 20:35:29 GMT"}, "file": {"url": "https://github.com/jayhasyee/astroffers/releases/download/v1.1.3/astroffers-1.1.3-x86_64.AppImage", "size": 115293372, "type": 2, "architecture": "x86-64", "sha512checksum": "c82a25a048bb242ea60a4c04b898e44be65ddda505e4ae93d991b9dddc2281b0990c0ae3556c5843ac31692739c867b47eef10a5442005b939985e905d841426"}, "keywords": [], "id": "astroffers.desktop", "categories": ["Astronomy"]}
+{
+    "abstract": {
+        "null": "Take offers to watch at given nights by the NGC2000 catalog"
+    },
+    "categories": [
+        "Astronomy"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "c82a25a048bb242ea60a4c04b898e44be65ddda505e4ae93d991b9dddc2281b0990c0ae3556c5843ac31692739c867b47eef10a5442005b939985e905d841426",
+        "size": 115293372,
+        "type": 2,
+        "url": "https://github.com/jayhasyee/astroffers/releases/download/v1.1.3/astroffers-1.1.3-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "astroffers.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Astroffers"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:21:33 GMT'"
+    }
+}

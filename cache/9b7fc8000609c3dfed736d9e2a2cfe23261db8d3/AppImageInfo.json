@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Flexible invoicing desktop app with beautiful & customizable templates"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "bb1be86679389938f9c40c450eafc83e6305ec8f34f9f5fb877c50abeff8ea011042d768b9026fa6787bcd68b36b65a970fdf4a4f17e42e4003b6e112f0f26a5",
+        "size": 95248490,
+        "type": 2,
+        "url": "https://github.com/hql287/Manta/releases/download/v1.1.3/Manta-1.1.3-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "manta.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Manta"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:54:14 GMT'"
+    }
+}

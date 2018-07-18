@@ -1,1 +1,24 @@
-{"name": {"null": "Buttercup"}, "format": 1, "abstract": {"null": "Free and Open Source password vault"}, "release": {"date": "Mon, 25 Jun 2018 22:17:06 GMT"}, "file": {"url": "https://github.com/buttercup/buttercup-desktop/releases/download/v1.6.0/buttercup-desktop-1.6.0-x86_64.AppImage", "size": 61134331, "type": 2, "architecture": "x86-64", "sha512checksum": "d55ef3f0bee8a4ef69d360ffb8cf7dd05ed9a85de5a009b4fef940cba1d760383e9cb7c0506b0fc6bbcd31ded19098b92880a2f49dbdfdc08468ae4581cd125f"}, "keywords": [], "id": "buttercup-desktop.desktop", "categories": ["Utility"]}
+{
+    "abstract": {
+        "null": "Free and Open Source password vault"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "d55ef3f0bee8a4ef69d360ffb8cf7dd05ed9a85de5a009b4fef940cba1d760383e9cb7c0506b0fc6bbcd31ded19098b92880a2f49dbdfdc08468ae4581cd125f",
+        "size": 61134331,
+        "type": 2,
+        "url": "https://github.com/buttercup/buttercup-desktop/releases/download/v1.6.0/buttercup-desktop-1.6.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "buttercup-desktop.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Buttercup"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:29:52 GMT'"
+    }
+}

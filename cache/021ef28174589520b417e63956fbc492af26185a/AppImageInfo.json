@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "autoEdit2 Desktop Client for Linux"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "9dab891442cec255e2f99556f889e61dd060f8030e7392dae9c3eed863b0273f525452917be7b66f9e0d91fb500113e473ea023517d5eca3b8659a61cfc996c5",
+        "size": 123133669,
+        "type": 2,
+        "url": "https://github.com/OpenNewsLabs/autoEdit_2/releases/download/continuous/autoEdit2-1.0.11-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "autoedit2.desktop",
+    "keywords": [],
+    "name": {
+        "null": "autoEdit2"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:51:26 GMT'"
+    }
+}

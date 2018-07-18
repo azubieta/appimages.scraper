@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Lisk Nano"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "fc7ddd6d4e180baf3667194ae85e8e2ee7780be2cc2a95e5dc2eed7937b3957b21cb1961150279d803cec319e52c58518734cde84075ba00ca53246330f00985",
+        "size": 57081856,
+        "type": 1,
+        "url": "https://github.com/LiskHQ/lisk-nano/releases/download/v1.2.0-rc.1/lisk-nano-1.2.0-rc.1-i386.AppImage"
+    },
+    "format": 1,
+    "id": "lisk-nano.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Lisk Nano"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:41:17 GMT'"
+    }
+}

@@ -1,1 +1,24 @@
-{"name": {"null": "AnaVis Beta"}, "format": 1, "abstract": {"null": "AnaVis is a tool to visualize musical form"}, "release": {"date": "Mon, 25 Jun 2018 19:56:44 GMT"}, "file": {"url": "https://github.com/learningmedia/anavis/releases/download/v2.0.0-beta.8/anavis-2.0.0-beta.8-linux-x86_64.AppImage", "size": 63987748, "type": 2, "architecture": "x86-64", "sha512checksum": "079b1f2baea1dc6655149bd68401a6beb58bb050c1436cb4bbe301d6d928f2a7d7bfcd49250c42712c21a0c5ecefcd1cd64cb8e69c4b2694b25ddc202d0cbf88"}, "keywords": [], "id": "anavis.desktop", "categories": ["Education"]}
+{
+    "abstract": {
+        "null": "AnaVis is a tool to visualize musical form"
+    },
+    "categories": [
+        "Education"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "079b1f2baea1dc6655149bd68401a6beb58bb050c1436cb4bbe301d6d928f2a7d7bfcd49250c42712c21a0c5ecefcd1cd64cb8e69c4b2694b25ddc202d0cbf88",
+        "size": 63987748,
+        "type": 2,
+        "url": "https://github.com/learningmedia/anavis/releases/download/v2.0.0-beta.8/anavis-2.0.0-beta.8-linux-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "anavis.desktop",
+    "keywords": [],
+    "name": {
+        "null": "AnaVis Beta"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:10:11 GMT'"
+    }
+}

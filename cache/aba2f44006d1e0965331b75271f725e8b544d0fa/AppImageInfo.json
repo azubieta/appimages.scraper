@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "A file manager that lets you jump"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "1c97e6e2eb3e02c822c1ecebbadc895394e882e5b4a5460c17bda9587aac53715caea6d914cc9019bd20f5c98eefca1c480ccc77412e1043dd7a13434953e533",
+        "size": 58064896,
+        "type": 1,
+        "url": "https://github.com/JumpFm/jumpfm/releases/download/v1.0.0/jumpfm-1.0.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "jumpfm.desktop",
+    "keywords": [],
+    "name": {
+        "null": "jumpfm"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:21:20 GMT'"
+    }
+}

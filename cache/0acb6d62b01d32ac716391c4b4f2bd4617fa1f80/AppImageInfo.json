@@ -1,0 +1,25 @@
+{
+    "abstract": {
+        "null": "MUD client coded in javascript."
+    },
+    "categories": [
+        "Game",
+        "Network"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "6e00c8678d9e28dcbdf8c566a4e093bf6b89ae7f46cf8f5d9f4a1be7ef63f8fa9f4cd519190121336f175f45b7f153efc4aa0eee69c1497fdf36029cf97dd23c",
+        "size": 88724920,
+        "type": 2,
+        "url": "https://github.com/icewolfz/jiMUD/releases/download/0.4.50/jimud-0.4.50-i386.AppImage"
+    },
+    "format": 1,
+    "id": "jimud.desktop",
+    "keywords": [],
+    "name": {
+        "null": "jiMUD"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:14:33 GMT'"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "abstract": {
+        "null": "Create and edit amazing videos and movies"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "820ab6feffee62c57508cc35c6ad9c8226ca60dc0cf3594bedab7397865d3d4b3d0466425c1e2fc8fc4dd95e192c8bfa3aa70ab7d944d99d50473307c921b3be",
+        "size": 201195520,
+        "type": 1,
+        "url": "https://github.com/OpenShot/openshot-qt/releases/download/v2.1.0/OpenShot-v2.1.0.AppImage"
+    },
+    "format": 1,
+    "id": "openshot-qt.desktop",
+    "keywords": [
+        "Video Editor"
+    ],
+    "name": {
+        "null": "OpenShot Video Editor"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:37:34 GMT'"
+    }
+}

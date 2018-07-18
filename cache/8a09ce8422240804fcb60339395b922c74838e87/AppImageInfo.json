@@ -1,0 +1,25 @@
+{
+    "abstract": {
+        "null": "A simple, beautiful podcast app."
+    },
+    "categories": [
+        "Audio",
+        "AudioVideo"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "29b34c6ed0dbf9a9a3eeea3cdfb611c387cb1d277f6ea18e070b5e0a4f052c254e2142713d118f8d24d0ee1d1d43f281b64bbd48579981f975b8d37efc7fd4cd",
+        "size": 56222094,
+        "type": 2,
+        "url": "https://github.com/z-------------/CPod/releases/download/v1.24.0/CPod-1.24.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "cumulonimbus.desktop",
+    "keywords": [],
+    "name": {
+        "null": "CPod"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:46:24 GMT'"
+    }
+}

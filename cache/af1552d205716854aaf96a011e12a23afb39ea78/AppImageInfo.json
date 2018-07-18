@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "get things from one computer to another, safely."
+    },
+    "categories": [
+        "File Transfer"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "84ef31fdb5dc80740cd8713cdab0bb3d03cde410bca91a4dc31fcc8de03c9997f3bfb8d2d48d85fe4dbdb0abbedba750cc754eef8ce920646a72e9aeb9a4c03d",
+        "size": 38051824,
+        "type": 2,
+        "url": "http://download.opensuse.org/repositories/home:/nandub:/MyAppImages/AppImage/magic-wormhole-0-Build11.10.glibc2.0-i686.AppImage"
+    },
+    "format": 1,
+    "id": "magic-wormhole.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Magic-Wormhole"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:32:27 GMT'"
+    }
+}

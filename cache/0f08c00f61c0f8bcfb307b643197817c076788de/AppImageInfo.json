@@ -1,0 +1,23 @@
+{
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "71e65b8c7611aa9a512733d49d9c158e028bc54449cc0d84a2b486329fb2aab8ffc00624a1a5f84e991054e26442290bf19201b39f86ec5470f818bfbf40a06e",
+        "size": 32374784,
+        "type": 1,
+        "url": "https://bintray.com/artifact/download/unruhschuh/generic/MrWriter-0.0.3-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "MrWriter.desktop",
+    "keywords": [
+        "note program"
+    ],
+    "name": {
+        "null": "MrWriter"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:13:22 GMT'"
+    }
+}

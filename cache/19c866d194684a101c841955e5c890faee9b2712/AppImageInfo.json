@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Rebaslight - an easy to use special effects editor"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "5c610c925729ef772ae834b6aa88ae95b51975f829f4de6afa16a6065cf3702ac5b05f53e3ac70766e6bd68e037c40eb1306cea0c0ad93541f9e976559d7c967",
+        "size": 70123520,
+        "type": 1,
+        "url": "https://github.com/rebaslight/rebaslight/releases/download/v3.2.2/rebaslight-3.2.2-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "rebaslight.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Rebaslight"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:37:40 GMT'"
+    }
+}

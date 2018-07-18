@@ -1,0 +1,41 @@
+{
+    "abstract": {
+        "cs": "Velmi jednoduch\u00e1 \u010dte\u010dka kan\u00e1l\u016f",
+        "de": "Qt Feedreader mit gro\u00dfem Funktionsumfang bei geringem Ressourcenbedarf",
+        "null": "Tiny yet feature rich Qt feed reader"
+    },
+    "categories": [
+        "Qt",
+        "Network",
+        "News"
+    ],
+    "description": {
+        "null": "<p> RSS Guard is simple (yet powerful) feed reader. It is able to fetch the most known feed formats, including RSS/RDF and ATOM. RSS Guard is developed on top of the Qt library. </p>"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "5d283d1aa9d12682e40e1a0c46c09ab2017302cad7bf8e28e74811edac5d2cc909cc85e78736b6142b672b11be51a3789fff025d4cf7e1c8d865b88e0104cb42",
+        "size": 90603256,
+        "type": 2,
+        "url": "https://github.com/martinrotter/rssguard/releases/download/3.5.5/rssguard-5fba019-linux64.AppImage"
+    },
+    "format": 1,
+    "id": "com.github.rssguard.desktop",
+    "keywords": [
+        "Velmi jednoduch\u00e1 \u010dte\u010dka kan\u00e1l\u016f",
+        "Feedreader",
+        "Feed reader"
+    ],
+    "license": {
+        "id": "GPL-3.0"
+    },
+    "links": {
+        "homepage": "https://github.com/martinrotter/rssguard"
+    },
+    "name": {
+        "null": "RSS Guard"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:46:06 GMT'"
+    }
+}

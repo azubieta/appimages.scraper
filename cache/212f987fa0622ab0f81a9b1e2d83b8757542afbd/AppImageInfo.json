@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Tournamenter Manager App"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "1f9d3af324e90a71b031965a3fe5f80dca3239fd25cb0f303c08658db1de58257baa5aa8d59973e0e02106efc3c7202248bec38d0f7f28d5f9635033d422a845",
+        "size": 66912256,
+        "type": 1,
+        "url": "https://github.com/TendaDigital/TournamenterApp/releases/download/v1.4.8/tournamenter-app-1.4.8-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "tournamenter-app.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Tournamenter"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:45:33 GMT'"
+    }
+}

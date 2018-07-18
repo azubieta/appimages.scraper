@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Bundle an application as an AppDir and/or AppImage"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "092f81b7729cd0c3995a5f7ff2303ef9b8bb9ffe74c8ff26fa398ad6e1c14f87b3d63064428a047a8f9829c0d26519916833dad74c6e16bb84c262b9be2b640a",
+        "size": 14885012,
+        "type": 2,
+        "url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "linuxdeployqt.desktop",
+    "keywords": [],
+    "name": {
+        "null": "linuxdeployqt"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:40:55 GMT'"
+    }
+}

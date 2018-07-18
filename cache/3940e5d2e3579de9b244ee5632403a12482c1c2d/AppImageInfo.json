@@ -1,1 +1,24 @@
-{"name": {"null": "DeviceInterface"}, "format": 1, "abstract": {"null": "A straightforward way to interact with devices"}, "release": {"date": "Mon, 25 Jun 2018 23:49:32 GMT"}, "file": {"url": "https://github.com/free-easy/DeviceInterface/releases/download/v0.9/DeviceInterface-x86_64.AppImage", "size": 27343704, "type": 2, "architecture": "x86-64", "sha512checksum": "62974094efa4ce2e52d14f33e2a30ae18683acf891198513265f8b90625794128d873b9835d705306440cc669a4c5590dd590fadb0bbc7d42c92cdec35efaa10"}, "keywords": [], "id": "DeviceInterface.desktop", "categories": ["Development"]}
+{
+    "abstract": {
+        "null": "A straightforward way to interact with devices"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "62974094efa4ce2e52d14f33e2a30ae18683acf891198513265f8b90625794128d873b9835d705306440cc669a4c5590dd590fadb0bbc7d42c92cdec35efaa10",
+        "size": 27343704,
+        "type": 2,
+        "url": "https://github.com/free-easy/DeviceInterface/releases/download/v0.9/DeviceInterface-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "DeviceInterface.desktop",
+    "keywords": [],
+    "name": {
+        "null": "DeviceInterface"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:56:09 GMT'"
+    }
+}

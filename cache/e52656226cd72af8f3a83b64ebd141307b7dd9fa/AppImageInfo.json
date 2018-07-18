@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Wallet for ZenCash (ZEN)"
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "6557418dffbead86d6d94d8c615a6e187273ae83e50cf9f6d3be12c0bd794ad6ce4ca12164fa26ed685f61aa10ddca2ed1fd1e35e72d22927d612ec1cf6f73bc",
+        "size": 78307577,
+        "type": 2,
+        "url": "https://github.com/ZencashOfficial/arizen/releases/download/v1.1.0/Arizen-1.1.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "arizen.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Arizen"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:47:32 GMT'"
+    }
+}

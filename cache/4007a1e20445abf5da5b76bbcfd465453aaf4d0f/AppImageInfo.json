@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Solve mazes using different algorithms"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "2569f27428a2b367b4b7150c3c303106c691d0dbdee62f5c5160eb65800103f4908425bff726cb261ab2eaba1096cea43fcc27845fdb3d121cfe147a34abb4e5",
+        "size": 22722808,
+        "type": 2,
+        "url": "https://github.com/Arquanite/MazeSolver/releases/download/1.0/MazeSolver-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "default.desktop",
+    "keywords": [],
+    "name": {
+        "null": "MazeSolver"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:02:09 GMT'"
+    }
+}

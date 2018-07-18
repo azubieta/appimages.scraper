@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Sovren Batch Parser"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "0236a33b82f5fb87e3ea5c9a1b6b5b8c237b300c9d02c18a53f61e61d8d110418b43c803e48706da3008e0e0c8a01651246b0601bf94317a2678861ce13110e1",
+        "size": 72273698,
+        "type": 2,
+        "url": "https://github.com/sovren/batch-utility/releases/download/v1.0.0/Sovren.Batch.Parser.AppImage"
+    },
+    "format": 1,
+    "id": "sovren-batch-utility.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Sovren Batch Parser"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:06:23 GMT'"
+    }
+}

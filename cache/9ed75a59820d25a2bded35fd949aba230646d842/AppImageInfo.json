@@ -1,0 +1,26 @@
+{
+    "abstract": {
+        "null": "Professional grade, free software teleprompter. Built with web technologies so anyone can customize it. Features include: mirroring, dual-screen support, rich text editing, image support, custom styles, tablet mode, webcam mode, auto-save and accelerated graphics."
+    },
+    "categories": [
+        "AudioVideo",
+        "Video",
+        "Sequencer"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "29d618c206f4e7ba206b95e3ef2b2f69e0d2d3903d0b7baeaad32477803a31209e602a25d90a8b4a69d783873de69022839601f69e3bb3494f49e86a61d0e650",
+        "size": 52764572,
+        "type": 2,
+        "url": "https://github.com/ImaginarySense/Teleprompter-Electron/releases/download/2.3.2/imaginary-teleprompter-2.3.2-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "imaginary-teleprompter.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Imaginary Teleprompter"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:39:28 GMT'"
+    }
+}

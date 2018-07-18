@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Scripts to work with AppImages."
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "f09fb6a3f7b1416e71c05d1a4a310dd6f150bea225953dbe24beaf64c64e393a9ccace0d928a28d87c1461256608efa9c85e953be1f9e8404fd9b3d247ebbfcd",
+        "size": 28030168,
+        "type": 2,
+        "url": "http://download.opensuse.org/repositories/home:/nandub:/MyAppImages/AppImage/AppImageScripts-0-Build39.17.glibc2.14-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "appimagescripts.desktop",
+    "keywords": [],
+    "name": {
+        "null": "AppImageScripts"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:32:27 GMT'"
+    }
+}

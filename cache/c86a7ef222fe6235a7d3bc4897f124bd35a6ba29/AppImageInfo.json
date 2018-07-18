@@ -1,0 +1,25 @@
+{
+    "abstract": {
+        "null": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink"
+    },
+    "categories": [
+        "Network",
+        "Download Manager"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "5c7a5e6618b225de899ef7faf42e96c2e2f8933a52c0ba3669375cdb9e02132c2b10a2bddaf51fe1b2d1c691bbd91bee6d383eb61b91c95b59ce39b1dbe2be66",
+        "size": 4534256,
+        "type": 2,
+        "url": "http://download.opensuse.org/repositories/home:/nandub:/MyAppImages/AppImage/aria2-latest-i686.AppImage"
+    },
+    "format": 1,
+    "id": "aria2.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Aria2"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:32:27 GMT'"
+    }
+}

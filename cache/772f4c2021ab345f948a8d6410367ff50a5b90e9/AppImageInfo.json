@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Edit this default file"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "a827a1939cbcb2bb86dea8ec26d4495856f78a374dca7f6fa375cbd1e3cc2458f99106a5f24314548bf4e7b94743ee17104df89a0a01632f71f54f94eac5206b",
+        "size": 40212312,
+        "type": 2,
+        "url": "https://github.com/freemountain/quark/releases/download/v20170402/quark-shell-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "quark.desktop",
+    "keywords": [],
+    "name": {
+        "null": "quark-shell"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:29:09 GMT'"
+    }
+}

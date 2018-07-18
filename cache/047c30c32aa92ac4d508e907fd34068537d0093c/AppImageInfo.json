@@ -1,0 +1,28 @@
+{
+    "abstract": {
+        "null": "Multiple directory management tool."
+    },
+    "categories": [
+        "Utility",
+        "Core",
+        "Qt"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "9f36950bb7b67755675f6f5db01866bfd3f3dbde0dc30ea6164b748f927aeb81bfa0280b985ea9a20f09d6c4c468722e88f18ec66e4a127287ea4bd106ecf89d",
+        "size": 24066904,
+        "type": 2,
+        "url": "https://github.com/OneMoreGres/multidir/releases/download/0.1.0/MultiDir-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "multidir.desktop",
+    "keywords": [
+        "MultiDir Manager"
+    ],
+    "name": {
+        "null": "MultiDir"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:14:03 GMT'"
+    }
+}

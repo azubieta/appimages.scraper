@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Modern communication, full privacy."
+    },
+    "categories": [
+        "Network"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "cb8a57b21cd93351874838b3f9016851c2ef082b980a7fddc79858b175575b05f168d95ec6335cf8f6ac0c72467c427acde557abbcd585bf2df007bd80944af3",
+        "size": 103415808,
+        "type": 1,
+        "url": "https://github.com/wireapp/wire-desktop/releases/download/release%2F2.15.2751/wire-2.15.2751-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "wire-desktop.desktop",
+    "keywords": [],
+    "name": {
+        "null": "wire-desktop"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 05:10:16 GMT'"
+    }
+}

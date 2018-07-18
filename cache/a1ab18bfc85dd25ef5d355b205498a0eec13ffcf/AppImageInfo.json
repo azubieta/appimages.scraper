@@ -1,0 +1,26 @@
+{
+    "abstract": {
+        "null": "Dexter Development Environment"
+    },
+    "categories": [
+        "Development",
+        "Education",
+        "Robotics"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "c187d95e8d5a87674e9e7a8176ba21c2f8dad72caf72d97e09f2319db3f518caef8e877b14283e978443b121b404ac710ebb81f499dd5cc52d9889f3d417a6c9",
+        "size": 98435072,
+        "type": 1,
+        "url": "https://github.com/cfry/dde/releases/download/v2.2.10/dexter_dev_env-2.2.10-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "dexter_dev_env.desktop",
+    "keywords": [],
+    "name": {
+        "null": "dexter_dev_env"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:57:54 GMT'"
+    }
+}

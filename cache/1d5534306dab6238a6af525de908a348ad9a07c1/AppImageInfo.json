@@ -1,0 +1,21 @@
+{
+    "categories": [
+        "Qt"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "89571294803e2a79cd1b4c21ae15de68971dc3c2de359317257c27683b806d46a85d6b1a123f503b8f5d75038d60c458870f17471afcec4dde3ae45ec627d4b9",
+        "size": 27223992,
+        "type": 2,
+        "url": "https://github.com/sandman7920/Qt5Demo/releases/download/Demo-Qt5.10.1/application-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "Qt.desktop",
+    "keywords": [],
+    "name": {
+        "null": "application"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:27:30 GMT'"
+    }
+}

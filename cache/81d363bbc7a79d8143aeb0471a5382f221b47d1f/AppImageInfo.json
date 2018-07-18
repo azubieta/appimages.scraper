@@ -1,0 +1,34 @@
+{
+    "abstract": {
+        "null": "Plain text notepad and todo list manager with markdown support that works together with ownCloud/Nextcloud"
+    },
+    "categories": [
+        "Utility",
+        "TextEditor"
+    ],
+    "description": {
+        "null": "<p> QOwnNotes is the open source (GPL) plain-text file notepad with markdown support and todo list manager for GNU/Linux, Mac OS X and Windows by Patrizio Bekerle, that (optionally) works together with the notes application of ownCloud or Nextcloud. </p>"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "b51c28a640dd34f6132f899d2e4865271dcf3dd1c007d32bb6016365f924d1b12a7398ef4db55a5ae4a3ea43415b03e9a26c6b87889d34142a3a3adfcad13266",
+        "size": 21615832,
+        "type": 2,
+        "url": "https://download.opensuse.org/repositories/home:/pbek:/QOwnNotes/AppImage/QOwnNotes-1531850555.e7ef0876-Build1.1.glibc2.14-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "org.qownnotes.QOwnNotes",
+    "keywords": [],
+    "license": {
+        "id": "GPL-2.0+"
+    },
+    "links": {
+        "homepage": "https://www.qownnotes.org/"
+    },
+    "name": {
+        "null": "QOwnNotes"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:38:34 GMT'"
+    }
+}

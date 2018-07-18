@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "ZZT Editor"
+    },
+    "categories": [
+        "Game"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "5d5fcfe06f0af2b24343f4db89d5a3a13e2a6d33b9b6ea7da40dc2ef9116311891ed2ca63d823ec5e69bcb30d67d15c0b01a615b45cd978b0b0ceb97a738a49f",
+        "size": 2263256,
+        "type": 2,
+        "url": "https://github.com/cknave/kevedit/releases/download/1.0.1/kevedit-1.0.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "kevedit.desktop",
+    "keywords": [],
+    "name": {
+        "null": "KevEdit"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:25:59 GMT'"
+    }
+}

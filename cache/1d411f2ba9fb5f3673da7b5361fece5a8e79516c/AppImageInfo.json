@@ -1,1 +1,28 @@
-{"name": {"null": "CubicSDR"}, "format": 1, "abstract": {"null": "Software-Defined Radio Application"}, "release": {"date": "Mon, 25 Jun 2018 23:18:38 GMT"}, "file": {"url": "https://github.com/cjcliffe/CubicSDR/releases/download/0.2.4/CubicSDR-0.2.4-x86_64.AppImage", "size": 15859712, "type": 1, "architecture": "x86-64", "sha512checksum": "57f5f516cbd6eecf9951a35299d3cb5f4321a2959b42fcb39c3530a4e966851ea607b94f4f994bdfe6d9ccb6da238a5019a74bae5edc555f435ba08abe526747"}, "keywords": ["CubicSDR"], "id": "CubicSDR.desktop", "categories": ["Science", "HamRadio", "DataVisualization"]}
+{
+    "abstract": {
+        "null": "Software-Defined Radio Application"
+    },
+    "categories": [
+        "Science",
+        "HamRadio",
+        "DataVisualization"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "57f5f516cbd6eecf9951a35299d3cb5f4321a2959b42fcb39c3530a4e966851ea607b94f4f994bdfe6d9ccb6da238a5019a74bae5edc555f435ba08abe526747",
+        "size": 15859712,
+        "type": 1,
+        "url": "https://github.com/cjcliffe/CubicSDR/releases/download/0.2.4/CubicSDR-0.2.4-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "CubicSDR.desktop",
+    "keywords": [
+        "CubicSDR"
+    ],
+    "name": {
+        "null": "CubicSDR"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:45:40 GMT'"
+    }
+}

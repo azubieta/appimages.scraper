@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Autobuyer for FIFA 17 Ultimate Team"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "e54996bf64b228578a59b680b8c7ad0df32e245ff83db022b438fb5aad3c0fdeb52b511dd75913591615e14c8544d9df9bc4cfc682ed3257dbffa9124022b6a5",
+        "size": 49938432,
+        "type": 1,
+        "url": "https://github.com/hunterjm/fifa-autobuyer/releases/download/v0.4.2/fifa-autobuyer-0.4.2-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "fifa-autobuyer.desktop",
+    "keywords": [],
+    "name": {
+        "null": "FIFA Autobuyer"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:22:27 GMT'"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Next generation MongoDB IDE"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "a355ebcba8a335667f02c4966754d1005417ba7502889254cacdc7d9b8c48e4d31b2c6b59b407b7a41154497b6af1a09ce4ca58423ec05ca7344c3edba3bb96f",
+        "size": 103686987,
+        "type": 2,
+        "url": "https://s3-us-west-1.amazonaws.com/uswest-nc.release.dbkoda/dbkoda-latest.AppImage"
+    },
+    "format": 1,
+    "id": "@southbanksoftwaredbkoda.desktop",
+    "keywords": [],
+    "name": {
+        "null": "dbKoda"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:52:14 GMT'"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "EnvKey\u2019s cross-platform native app"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "09102a2378c27721b1a8dfb4f71f1282ef5706dad69a498f0455f3fe3a4370ee2e6a7353e5ac2a11bb1ef7cf5bd104005036f63257bb75d1a635dbdc02c9dad9",
+        "size": 55954892,
+        "type": 2,
+        "url": "https://github.com/envkey/envkey-app/releases/download/linux-ia32-prod-v1.3.8/EnvKey-1.3.8-i386.AppImage"
+    },
+    "format": 1,
+    "id": "envkey.desktop",
+    "keywords": [],
+    "name": {
+        "null": "EnvKey"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:16:07 GMT'"
+    }
+}

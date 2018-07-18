@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "IOTA based messenging app"
+    },
+    "categories": [
+        "Chat"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "368203e50901b3a9eb713c7557de8838e08fbd0b037f6e99106ff6f5d4c444cc8b00c0e13ecf82d9e80b7344f1242e56a6a951ee0c9fd2165592819bb273341a",
+        "size": 57016320,
+        "type": 1,
+        "url": "https://github.com/xx10t4/iotalk/releases/download/0.0.6/iota1k-0.0.6-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "iota1k.desktop",
+    "keywords": [],
+    "name": {
+        "null": "iota1k"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:07:02 GMT'"
+    }
+}

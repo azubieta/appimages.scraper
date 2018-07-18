@@ -1,1 +1,28 @@
-{"name": {"null": "CubicSDR"}, "format": 1, "abstract": {"null": "Software-Defined Radio Application"}, "release": {"date": "Mon, 25 Jun 2018 23:18:38 GMT"}, "file": {"url": "https://github.com/cjcliffe/CubicSDR/releases/download/0.2.0-beta-rc5/CubicSDR-0.2.0-rc5-x86_64.AppImage", "size": 13107200, "type": 1, "architecture": "x86-64", "sha512checksum": "aacf9a8f08e5ad53348129d30a6a6a11e16bad8de99952f822a35ed60549ff00b654a831008c0489e243a32546d30cf8e3d1d4961d95221a6a0646e668d8ef4c"}, "keywords": ["CubicSDR"], "id": "CubicSDR.desktop", "categories": ["Science", "HamRadio", "DataVisualization"]}
+{
+    "abstract": {
+        "null": "Software-Defined Radio Application"
+    },
+    "categories": [
+        "Science",
+        "HamRadio",
+        "DataVisualization"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "aacf9a8f08e5ad53348129d30a6a6a11e16bad8de99952f822a35ed60549ff00b654a831008c0489e243a32546d30cf8e3d1d4961d95221a6a0646e668d8ef4c",
+        "size": 13107200,
+        "type": 1,
+        "url": "https://github.com/cjcliffe/CubicSDR/releases/download/0.2.0-beta-rc5/CubicSDR-0.2.0-rc5-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "CubicSDR.desktop",
+    "keywords": [
+        "CubicSDR"
+    ],
+    "name": {
+        "null": "CubicSDR"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:45:40 GMT'"
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "abstract": {
+        "null": "HTML and Markdown Conversion Software to output PostScript and PDF"
+    },
+    "categories": [
+        "Office",
+        "X-Red-Hat-Base"
+    ],
+    "description": {
+        "null": "<p> HTMLDOC is a program that reads HTML and Markdown source files or web pages and converts these into corresponding EPUB, HTML, PostScript, or PDF files with optional tables of contents. </p> <p> HTMLDOC was developed in the 1990's as a documentation generator for my previous company, and has since seen a lot of usage as a report generator embedded in web servers. However, it does not support many things in &quot;the modern web&quot;, such as Cascading Style Sheets (CSS), PDF Encryption (other than 128-bit RC4), PDF forms, complex HTML tables (other than HTML-3.2), Unicode with right-to-left text formatting, Emoji. </p> <p> HTMLDOC can run from the command line (CLI) as well as with a graphical user interface (GUI). It also supports operation as a CGI program for a web server to provide PDF-formatted output from a web page. The GUI starts automatically if you run HTMLDOC without any options. Since support for Markdown input and EPUB output is still under development, both options are not available from the GUI, but only from the CLI. </p>"
+    },
+    "developer": {
+        "name": "Michael R. Sweet"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "4d0c0778364e4dd606f56e2917793a44ca22cb9ad73c432de3ada377604fe7353075eaedf0bdbb8a0c648782cec02dd1c9568876e9b10b6dec1696319b99155a",
+        "size": 4794128,
+        "type": 2,
+        "url": "https://github.com/KurtPfeifle/htmldoc/releases/download/continuous/htmldoc-v1.9.3-travisbuild.26-travisbranch.master-git.4ab539d-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "htmldoc.desktop",
+    "keywords": [],
+    "license": {
+        "id": "GPL-2"
+    },
+    "links": {
+        "bugtracker": "https://github.com/michaelrsweet/htmldoc/issues",
+        "help": "http://michaelrsweet.github.io/htmldoc/htmldoc.html",
+        "homepage": "http://michaelrsweet.github.io/htmldoc/index.html"
+    },
+    "name": {
+        "null": "htmldoc"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:47:00 GMT'"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Arizen is light API wallet for ZenCash with localy stored and encrypted files."
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "cd6481009cb13871bc5ee67c4fe5bf67d4a4f7efd9bc34a812a9dd129f07dcbe8c363236b689fee4f5aa5241772239e2c49521505cc42a12d818af28461ddb16",
+        "size": 79035547,
+        "type": 2,
+        "url": "https://github.com/ZencashOfficial/arizen/releases/download/v1.1.8/Arizen-1.1.8-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "arizen.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Arizen"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:20:59 GMT'"
+    }
+}

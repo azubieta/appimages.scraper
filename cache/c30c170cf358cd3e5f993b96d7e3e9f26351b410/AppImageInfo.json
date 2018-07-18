@@ -1,1 +1,24 @@
-{"name": {"null": "Colorpicker"}, "format": 1, "abstract": {"null": "Colorpicker is a little Electron app that can show colors with hex/rgb code, and generate shading for your color."}, "release": {"date": "Mon, 25 Jun 2018 23:02:58 GMT"}, "file": {"url": "https://github.com/Toinane/colorpicker/releases/download/2.0.0/Colorpicker-2.0.0-x86_64.AppImage", "size": 52674703, "type": 2, "architecture": "x86-64", "sha512checksum": "d8271e188b123b002076d993835ef13bc1b6e547ca8d3cdf18bf5ac4ac56a1e9c1b25ac971e92d061ef713184ec8410028c6e8ce995e3f1486622504571e8180"}, "keywords": [], "id": "colorpicker.desktop", "categories": ["Graphics"]}
+{
+    "abstract": {
+        "null": "Colorpicker is a little Electron app that can show colors with hex/rgb code, and generate shading for your color."
+    },
+    "categories": [
+        "Graphics"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "d8271e188b123b002076d993835ef13bc1b6e547ca8d3cdf18bf5ac4ac56a1e9c1b25ac971e92d061ef713184ec8410028c6e8ce995e3f1486622504571e8180",
+        "size": 52674703,
+        "type": 2,
+        "url": "https://github.com/Toinane/colorpicker/releases/download/2.0.0/Colorpicker-2.0.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "colorpicker.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Colorpicker"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:40:25 GMT'"
+    }
+}

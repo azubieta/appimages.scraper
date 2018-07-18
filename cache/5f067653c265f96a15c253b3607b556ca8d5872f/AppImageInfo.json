@@ -1,0 +1,32 @@
+{
+    "abstract": {
+        "cs": "Velmi jednoduch\u00e1 \u010dte\u010dka kan\u00e1l\u016f",
+        "de": "Qt Feedreader mit gro\u00dfem Funktionsumfang bei geringem Ressourcenbedarf",
+        "null": "Tiny yet feature rich Qt feed reader"
+    },
+    "categories": [
+        "Qt",
+        "Network",
+        "News"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "6c0575ae6d6558374fd3a74b3929775144081162605e617b7dd3db3db2df755e7614ec7a7f6afecab341dd1b95760c7ec9c40ad342cd2d57f9a55abd35ec1620",
+        "size": 90458968,
+        "type": 2,
+        "url": "https://github.com/martinrotter/rssguard/releases/download/3.5.1/rssguard-ccd8f5d-linux.AppImage"
+    },
+    "format": 1,
+    "id": "rssguard.desktop",
+    "keywords": [
+        "Velmi jednoduch\u00e1 \u010dte\u010dka kan\u00e1l\u016f",
+        "Feedreader",
+        "Feed reader"
+    ],
+    "name": {
+        "null": "RSS Guard"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:46:06 GMT'"
+    }
+}

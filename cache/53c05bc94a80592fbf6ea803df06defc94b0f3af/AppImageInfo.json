@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "My SDD HSC Major Project, a full media server/player/downloader/etc - in one"
+    },
+    "categories": [
+        "AudioVideo"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "ee678a34e289756f1df63ef617c3237c3dc368aa22f6fed090315d37ad3cff8a5d6beb93fff2118cfd26ae69a7e00fd5f04725bf7acb528fa9f99fb6fd8dff22",
+        "size": 67829760,
+        "type": 1,
+        "url": "https://github.com/willyb321/media_mate/releases/download/v1.2.5/media_mate-1.2.5-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "media_mate.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Media Mate"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:02:54 GMT'"
+    }
+}

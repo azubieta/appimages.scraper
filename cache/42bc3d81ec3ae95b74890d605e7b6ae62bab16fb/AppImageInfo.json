@@ -1,0 +1,25 @@
+{
+    "abstract": {
+        "null": "Semi-automated selection and scaling of time series"
+    },
+    "categories": [
+        "Science",
+        "Engineering"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "a76bc6ae74830b95cc9bec87a742bb041d051191ceb96338b24f73c722396c3769eddade91a790426ac75ff419cae1b12a46c5f06ee3169fb0bcff01e3dc83c2",
+        "size": 25354144,
+        "type": 2,
+        "url": "https://github.com/arkottke/sigmaspectra/releases/download/v1.0.5/SigmaSpectra-v1.0.5-0229412-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "sigmaspectra.desktop",
+    "keywords": [],
+    "name": {
+        "null": "SigmaSpectra"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:00:41 GMT'"
+    }
+}

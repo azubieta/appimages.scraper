@@ -1,0 +1,28 @@
+{
+    "abstract": {
+        "fr": "Int\u00e9gration des services de musique en ligne avec votre bureau",
+        "null": "Cloud music integration for your desktop"
+    },
+    "categories": [
+        "AudioVideo"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "cb83184e3eb12955b8eb03c329490efd4fa88320b86ef737f858dd0dc7517fd9c45df9e07f0ec4c6396edc350e03318f8bf7c0efe612e322fd40c458b5d31964",
+        "size": 89869144,
+        "type": 2,
+        "url": "https://github.com/ColinDuquesnoy/MellowPlayer/releases/download/3.1.0/MellowPlayer-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "mellowplayer.desktop",
+    "keywords": [
+        "Lecteur de services de musique en ligne",
+        "Cloud music player"
+    ],
+    "name": {
+        "null": "MellowPlayer"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:04:25 GMT'"
+    }
+}

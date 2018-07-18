@@ -1,0 +1,25 @@
+{
+    "abstract": {
+        "null": "PowerPC emulator"
+    },
+    "categories": [
+        "System",
+        "Emulator"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "b8d624aa867a2734804a9a0b714ab8314cb183e83e598f0920f2e3d9bc6662c4ffc067ab55c400a75286122354991f0c3dbd2c78d6fa2cab322e260f7929c1e8",
+        "size": 15091384,
+        "type": 2,
+        "url": "https://github.com/probonopd/qemu-ppc/releases/download/continuous/QEMU_PowerPC-38d1b31e05-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "qemu-ppc.desktop",
+    "keywords": [],
+    "name": {
+        "null": "QEMU PowerPC"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:23:08 GMT'"
+    }
+}

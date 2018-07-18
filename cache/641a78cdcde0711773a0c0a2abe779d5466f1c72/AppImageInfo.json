@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Manage Laravel json language files"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "f332aad385193fad692d38cf29e25e16510a9e3778ac104e818723faf2bdc246a922be4958a5aa5ff4e73de5e9ebffe674c6cd6b371e8b78c99448261f08e313",
+        "size": 51642368,
+        "type": 1,
+        "url": "https://github.com/christofferok/langly/releases/download/v0.2.0/langly-0.2.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "langly.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Langly"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:26:52 GMT'"
+    }
+}

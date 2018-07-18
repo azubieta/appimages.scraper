@@ -1,0 +1,36 @@
+{
+    "abstract": {
+        "it_IT": "Programma per scaricare sottotitoli di film",
+        "null": "Program for downloading video subtitles",
+        "pl_PL": "Program do pobierania napis\u00f3w do film\u00f3w"
+    },
+    "categories": [
+        "AudioVideo"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "d13e6d273b5ec49662be907706a2410a98afb818cff58ad9bacfa15def3ae15863d2572e1a91c762082964eb69c7541538fc9f6510c168ad8f9c46f4323b20f1",
+        "size": 27682576,
+        "type": 2,
+        "url": "https://github.com/QNapi/qnapi/releases/download/snapshot/QNapi-0.2.4-snapshot-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "qnapi.desktop",
+    "keywords": [
+        "Programma per scaricare sottotitoli di film",
+        "Program for downloading video subtitles",
+        "Program do pobierania napis\u00f3w do film\u00f3w"
+    ],
+    "languages": [
+        "it_IT",
+        "pl_PL"
+    ],
+    "name": {
+        "it_IT": "QNapi",
+        "null": "QNapi",
+        "pl_PL": "QNapi"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:25:42 GMT'"
+    }
+}

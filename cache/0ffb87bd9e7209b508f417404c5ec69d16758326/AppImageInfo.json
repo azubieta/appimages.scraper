@@ -1,0 +1,25 @@
+{
+    "abstract": {
+        "null": "Application to control laboratory power supplies"
+    },
+    "categories": [
+        "Qt",
+        "Electronics"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "a379bd89887beddad91e68919d2a800cbf2b05dfbf56991ef677da2a42d71c7363fd77dd3937c8a0ce34c845e0529a2dd7ff0b440a8a363eaf41b0160f8b826c",
+        "size": 29636856,
+        "type": 2,
+        "url": "https://github.com/crapp/labpowerqt/releases/download/v0.1.3/LabPowerQt-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "labpowerqt.desktop",
+    "keywords": [],
+    "name": {
+        "null": "LabPowerQt"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:26:44 GMT'"
+    }
+}

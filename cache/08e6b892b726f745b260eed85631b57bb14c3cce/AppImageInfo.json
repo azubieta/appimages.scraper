@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "A beautiful soundcloud desktop app"
+    },
+    "categories": [
+        "Audio"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "c8f0ca071ddfa7489ac4b81cdac379e9457a929b1d4220624f88eea5294e10b9ec4248c8efc78ab0ce0c5c00c1a86c19f0aa0de1e6fa4b883557f7d9f169c1e4",
+        "size": 64552960,
+        "type": 1,
+        "url": "https://github.com/Superjo149/auryo/releases/download/v1.3.0/Auryo-1.3.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "auryo.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Auryo"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:50:10 GMT'"
+    }
+}

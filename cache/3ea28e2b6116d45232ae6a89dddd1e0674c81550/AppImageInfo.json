@@ -1,0 +1,25 @@
+{
+    "abstract": {
+        "null": "Jag - program for telemetry veiwing"
+    },
+    "categories": [
+        "Utility",
+        "Application"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "08df67a87d31073a95fa6c2e6d2a0a01f700e716f6a4263e5df159a5988a37a81d8d88a567588d4e4bc8d7246c803a555fcad7144bb81876668e8c53a033e998",
+        "size": 19475288,
+        "type": 2,
+        "url": "https://github.com/seleznevae/jag/releases/download/v.0.1.0/jag-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "JaG.desktop",
+    "keywords": [],
+    "name": {
+        "null": "jag"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:11:56 GMT'"
+    }
+}

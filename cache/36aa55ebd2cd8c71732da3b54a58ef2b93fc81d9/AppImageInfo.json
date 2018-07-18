@@ -1,0 +1,25 @@
+{
+    "abstract": {
+        "null": "Save them safely in your open source personal cloud, access them anywhere, anytime with the mobile application and share them with the world or just your friends and colleagues. You can host your own Cozy Cloud, and or use the hosting services. Your freedom to chose is why you can trust us."
+    },
+    "categories": [
+        "Network",
+        "FileTransfer"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "a3fb3f9e16bf280690392a0786577e814d7d8c3fd9479f552edbe0562d8e11e3f6c4742342883c2898fd1682b9706b76eb4525a389bea5b676e3bbacebb55a36",
+        "size": 64066274,
+        "type": 2,
+        "url": "https://github.com/cozy-labs/cozy-desktop/releases/download/v3.7.0-beta.3/CozyDrive-3.7.0-beta.3-i386.AppImage"
+    },
+    "format": 1,
+    "id": "cozydrive.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Cozy Drive"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:40:34 GMT'"
+    }
+}

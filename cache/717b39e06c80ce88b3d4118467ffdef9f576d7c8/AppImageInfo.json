@@ -1,0 +1,25 @@
+{
+    "abstract": {
+        "null": "Video-based eye tracking"
+    },
+    "categories": [
+        "Science",
+        "ImageProcessing"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "8e020e0345b92d30c06926e5a1e7d4e7999eb4ea78001c2e176513656b18a3f163986cbcedffd0ba97827a9f9983731ca85a8c30401832c128c8d98a661d7857",
+        "size": 54970616,
+        "type": 2,
+        "url": "https://github.com/tbrouns/eyestalker/releases/download/v1.0.2/UEyeStalker-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "eyestalkercam.desktop",
+    "keywords": [],
+    "name": {
+        "null": "UEyeStalker"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:20:00 GMT'"
+    }
+}

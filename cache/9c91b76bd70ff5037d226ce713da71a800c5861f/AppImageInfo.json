@@ -1,1 +1,21 @@
-{"name": {"null": "Webpack Dashboard"}, "format": 1, "abstract": {"null": "Webpack Dashboard"}, "release": {"date": "Tue, 26 Jun 2018 00:36:37 GMT"}, "file": {"url": "https://github.com/FormidableLabs/electron-webpack-dashboard/releases/download/v0.1.0-beta.2/webpack-dashboard-app-0.1.0-beta.2-x86_64.AppImage", "size": 54788096, "type": 1, "architecture": "x86-64", "sha512checksum": "03ed6158158f3bd1be6816ea18b23a578ca96483e44dd12e78de77787acdfc5c8c277fd5b17031478373b880db13f885421f6d61e7aa1c519350bf531fc52c4d"}, "keywords": [], "id": "webpack-dashboard-app.desktop"}
+{
+    "abstract": {
+        "null": "Webpack Dashboard"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "03ed6158158f3bd1be6816ea18b23a578ca96483e44dd12e78de77787acdfc5c8c277fd5b17031478373b880db13f885421f6d61e7aa1c519350bf531fc52c4d",
+        "size": 54788096,
+        "type": 1,
+        "url": "https://github.com/FormidableLabs/electron-webpack-dashboard/releases/download/v0.1.0-beta.2/webpack-dashboard-app-0.1.0-beta.2-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "webpack-dashboard-app.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Webpack Dashboard"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:11:54 GMT'"
+    }
+}

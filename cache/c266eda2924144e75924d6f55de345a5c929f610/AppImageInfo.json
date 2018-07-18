@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "\ud83d\udc18Refined Evernote desktop app"
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "3e17daf84d858230255a866fd34cd03d335f8f6e4b74d40e23c8b38d675b360feb728eaf37b1d950ad02ed02343adc620c8b25823c6b9272879720398d030e17",
+        "size": 52363264,
+        "type": 1,
+        "url": "https://github.com/klauscfhq/tusk/releases/download/v0.9.1/tusk-0.9.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "tusk-app.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Tusk"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:48:10 GMT'"
+    }
+}

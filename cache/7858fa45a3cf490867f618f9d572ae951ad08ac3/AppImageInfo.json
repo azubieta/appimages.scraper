@@ -1,1 +1,26 @@
-{"name": {"null": "deb2appimage"}, "format": 1, "abstract": {"null": "Build AppImages from deb packages on any distro with simple json configuration"}, "release": {"date": "Mon, 25 Jun 2018 23:37:16 GMT"}, "file": {"url": "https://github.com/simoniz0r/deb2appimage/releases/download/v0.0.1/deb2appimage-0.0.1-x86_64.AppImage", "size": 7206752, "type": 2, "architecture": "x86-64", "sha512checksum": "cb00ec9c05cee8e540dfcacccbe052d301b254b10b592d509a42f1fd8ef1a07261ceca2616d5b61a8a9c00597b22d96684050a4000a6d6dd7271f13e6a0e9633"}, "keywords": ["deb2appimage"], "id": "deb2appimage.desktop", "categories": ["Utility"]}
+{
+    "abstract": {
+        "null": "Build AppImages from deb packages on any distro with simple json configuration"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "cb00ec9c05cee8e540dfcacccbe052d301b254b10b592d509a42f1fd8ef1a07261ceca2616d5b61a8a9c00597b22d96684050a4000a6d6dd7271f13e6a0e9633",
+        "size": 7206752,
+        "type": 2,
+        "url": "https://github.com/simoniz0r/deb2appimage/releases/download/v0.0.1/deb2appimage-0.0.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "deb2appimage.desktop",
+    "keywords": [
+        "deb2appimage"
+    ],
+    "name": {
+        "null": "deb2appimage"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:52:29 GMT'"
+    }
+}

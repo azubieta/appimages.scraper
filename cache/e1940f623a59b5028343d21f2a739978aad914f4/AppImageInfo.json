@@ -1,1 +1,24 @@
-{"name": {"null": "accessimap-lecteur-der"}, "format": 1, "abstract": {"null": "Accessimap Lecteur DER"}, "release": {"date": "Mon, 25 Jun 2018 19:06:29 GMT"}, "file": {"url": "https://github.com/makinacorpus/accessimap-lecteur-der/releases/download/0.0.29/accessimap-lecteur-der-0.0.29-i386.AppImage", "size": 67698688, "type": 1, "architecture": "Intel 80386", "sha512checksum": "322def18b8959871ee579768c1f67efef1c61467959d0885d2e184696d50fbb1232aa61cfa560b19ffbbf0363284add9b5844c35d6e008ff5109f5a3fd93a3db"}, "keywords": [], "id": "accessimap-lecteur-der.desktop", "categories": ["Education"]}
+{
+    "abstract": {
+        "null": "Accessimap Lecteur DER"
+    },
+    "categories": [
+        "Education"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "322def18b8959871ee579768c1f67efef1c61467959d0885d2e184696d50fbb1232aa61cfa560b19ffbbf0363284add9b5844c35d6e008ff5109f5a3fd93a3db",
+        "size": 67698688,
+        "type": 1,
+        "url": "https://github.com/makinacorpus/accessimap-lecteur-der/releases/download/0.0.29/accessimap-lecteur-der-0.0.29-i386.AppImage"
+    },
+    "format": 1,
+    "id": "accessimap-lecteur-der.desktop",
+    "keywords": [],
+    "name": {
+        "null": "accessimap-lecteur-der"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 21:51:15 GMT'"
+    }
+}

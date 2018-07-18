@@ -1,1 +1,25 @@
-{"name": {"null": "Cozy Drive"}, "format": 1, "abstract": {"null": "Save them safely in your open source personal cloud, access them anywhere, anytime with the mobile application and share them with the world or just your friends and colleagues. You can host your own Cozy Cloud, and or use the hosting services. Your freedom to chose is why you can trust us."}, "release": {"date": "Mon, 25 Jun 2018 23:03:44 GMT"}, "file": {"url": "https://github.com/cozy-labs/cozy-desktop/releases/download/v3.6.0-beta.5/CozyDrive-3.6.0-beta.5-i386.AppImage", "size": 64049435, "type": 2, "architecture": "Intel 80386", "sha512checksum": "55406541dfcd944240bbff9e10711a4167873e5b5dea1d4884d52c32555e6f434f1709ac5c8446965d37801435e7df271a5a5ae595e7155c54b447cdcd7ee5e9"}, "keywords": [], "id": "cozydrive.desktop", "categories": ["Network", "FileTransfer"]}
+{
+    "abstract": {
+        "null": "Save them safely in your open source personal cloud, access them anywhere, anytime with the mobile application and share them with the world or just your friends and colleagues. You can host your own Cozy Cloud, and or use the hosting services. Your freedom to chose is why you can trust us."
+    },
+    "categories": [
+        "Network",
+        "FileTransfer"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "55406541dfcd944240bbff9e10711a4167873e5b5dea1d4884d52c32555e6f434f1709ac5c8446965d37801435e7df271a5a5ae595e7155c54b447cdcd7ee5e9",
+        "size": 64049435,
+        "type": 2,
+        "url": "https://github.com/cozy-labs/cozy-desktop/releases/download/v3.6.0-beta.5/CozyDrive-3.6.0-beta.5-i386.AppImage"
+    },
+    "format": 1,
+    "id": "cozydrive.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Cozy Drive"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:40:34 GMT'"
+    }
+}

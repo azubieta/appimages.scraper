@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Simple podcast client"
+    },
+    "categories": [
+        "Audio"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "143589f57b082f091a20b58906384e90913728ef386ad0863142d8f9495f693e0d04cbaaa78d56b9d3eea3c3888ded5a52a26662bb228eae6f6a0fdf85097bcb",
+        "size": 65364896,
+        "type": 2,
+        "url": "https://github.com/Sn8z/Poddr/releases/download/1.0.6/poddr-1.0.6-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "poddr.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Poddr"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:11:53 GMT'"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Elegant Facebook Messenger desktop app"
+    },
+    "categories": [
+        "Chat"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "31ea5b3800c8ca372104ccfe41b901a0f22449be70e32b26478c88fdc3e55b039ef9da0ff9f99c6402418ae8de6b721fee62806040dead856c05c547724751a5",
+        "size": 50985648,
+        "type": 2,
+        "url": "https://github.com/sindresorhus/caprine/releases/download/v2.16.0/caprine-2.16.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "caprine.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Caprine"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:32:47 GMT'"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "HTML interface for Perl 5 desktop applications"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "dceb6103387591abb3db396063175fed32236f0247c545dbed305f50f0f55de953096b13f6934afa1adb8fa58879bd10793542d3c7fbc73ea3d137028fd8d771",
+        "size": 47708088,
+        "type": 2,
+        "url": "https://github.com/ddmitov/perl-executing-browser/releases/download/v0.7.2/peb-demo-0-7-2-qt-5-2-1-perl-5-26-1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "peb.desktop",
+    "keywords": [],
+    "name": {
+        "null": "peb"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:54:11 GMT'"
+    }
+}

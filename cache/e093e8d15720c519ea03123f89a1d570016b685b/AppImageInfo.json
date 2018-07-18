@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "HTML/JS IoT mobile app development tool"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "1bccb72c5bad1258360f95e79cd0149f40e24eaacd1cd2b03eeeb68046d73e46adc1d0a0479f65dc262a8d68604bc25daf754302f512543632c1cd03e66862b9",
+        "size": 101122048,
+        "type": 1,
+        "url": "https://s3-eu-west-1.amazonaws.com/evothings-download/evothings-studio-2.2.0.AppImage"
+    },
+    "format": 1,
+    "id": "evothings-studio.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Evothings Studio"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:19:55 GMT'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Cross platform application for authentication inside IIT Madras campus network."
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "f03be362f5abd201f4d161d8e83dbc2221f3c59e6e910570cc0d4a29e87ab3ddf141373362ee92262cd9dd1fdd365f42bc2b92c37cc9271fa223ba1ddb3c0276",
+        "size": 46137344,
+        "type": 1,
+        "url": "https://github.com/shahidhk/iitm-network-auth-app/releases/download/v0.3.1/iitmnetworkauthapp-0.3.1.AppImage"
+    },
+    "format": 1,
+    "id": "iitmnetworkauthapp.desktop",
+    "keywords": [],
+    "name": {
+        "null": "IIT Madras Network Auth"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:00:49 GMT'"
+    }
+}

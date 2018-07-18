@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Professional grade teleprompter software. Built with web technologies so anyone can customize it. Features include: mirroring, dual-screen support, rich text editing, image support, custom styles, tablet mode, webcam mode, auto-save and accelerated graphics."
+    },
+    "categories": [
+        "Video"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "37d440e8ebf36a2995bcfaf71db9c9251e4db1adcc81d0ade960c5ea31c53b50cd2d65bbc3d4c7f787a1e88d1a9119a9d32a57bda5a5d04de71db97385e29b23",
+        "size": 46202880,
+        "type": 1,
+        "url": "https://github.com/ImaginarySense/Teleprompter-Electron/releases/download/2.0/imaginary-teleprompter-2.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "imaginary-teleprompter.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Teleprompter by Imaginary Films"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:39:28 GMT'"
+    }
+}

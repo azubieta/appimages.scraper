@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "https://getstream.io/winds"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "78462047900103ab3157cdd02bf9054dcf5bfbdbc4b8859265bbf29fd470897019ad4592eb568dd9037a1365eef9524bd02d6b81cd3bea25717228086e8d9671",
+        "size": 80997288,
+        "type": 2,
+        "url": "https://s3.amazonaws.com/winds-2.0-releases/releases/winds-2.0.244-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "winds.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Winds"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 05:10:08 GMT'"
+    }
+}

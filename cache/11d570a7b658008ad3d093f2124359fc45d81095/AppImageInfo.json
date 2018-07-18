@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "UBports Installer"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "916aa248612a7150d72edbc5f48a57042040dd96dcf129125e6b7046171343cf65c933ac92dc3c79766e119063d4e78ae0332768fdd40e0a393d6428d7b74bd6",
+        "size": 75832337,
+        "type": 2,
+        "url": "https://github.com/ubports/ubports-installer/releases/download/0.1.12-beta/ubports-installer-0.1.12-beta-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "ubports-installer.desktop",
+    "keywords": [],
+    "name": {
+        "null": "ubports-installer"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:51:32 GMT'"
+    }
+}

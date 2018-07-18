@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "electron-react-redux-boilerplate"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "3e58b9a3fb7632a30c7422dd8ad81da61bb6697cb4a3720c990c59e2c7fa5026f1e1cc85b681b99902efbeec53318505bfb64ab6bd67a3e9f75d986cc9f4ee73",
+        "size": 51308644,
+        "type": 2,
+        "url": "https://github.com/mhmiles/QuickTwitch/releases/download/0.9.0/QuickTwitch-0.9.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "quicktwitch.desktop",
+    "keywords": [],
+    "name": {
+        "null": "QuickTwitch"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:30:11 GMT'"
+    }
+}

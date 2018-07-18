@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "A CLI Tool to set a random wallpaper from Unsplash.com"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "36f7dd581c643d6eb259e82b769cdce3b65415d7f61553e38ae8fb56366963e70565be1ebc9ce741d80bb03c611b2ae4a887272c28839e133f6ef8dd4ef98829",
+        "size": 14813112,
+        "type": 2,
+        "url": "https://github.com/anupam-git/paper/releases/download/continuous/paper-d5145df-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "paper.desktop",
+    "keywords": [],
+    "name": {
+        "null": "paper"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:44:58 GMT'"
+    }
+}

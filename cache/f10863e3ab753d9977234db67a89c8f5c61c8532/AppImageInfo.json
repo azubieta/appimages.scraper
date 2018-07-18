@@ -1,0 +1,18 @@
+{
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "4363d6757ba35ae577c6dc5ffdc9aaddee70b50e9795205c7b05312efa36e0e1b9325ece766d85461f1acb908397ae2373d09ae8e373a2bfaf5a79703b5d3281",
+        "size": 1933608,
+        "type": 2,
+        "url": "https://github.com/Vladar4/ng2gggrotto/releases/download/v1.01/gggrotto-1.01-i386.AppImage"
+    },
+    "format": 1,
+    "id": "gggrotto.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Glorious Glacier Grotto"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:28:23 GMT'"
+    }
+}

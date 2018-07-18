@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Rambox"
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "a6dd438c898d54cee5a749def1b822818bdca3d39c2967ef35ce8be693ef4f0efcfa4cbde0222686f31089cca5c150de467c8d11248f2cae9f7c55c89d2349fe",
+        "size": 60162048,
+        "type": 1,
+        "url": "https://github.com/saenzramiro/rambox/releases/download/0.5.12/Rambox-0.5.12-x64.AppImage"
+    },
+    "format": 1,
+    "id": "rambox.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Rambox"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:31:06 GMT'"
+    }
+}

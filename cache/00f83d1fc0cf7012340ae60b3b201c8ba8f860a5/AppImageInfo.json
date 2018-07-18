@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "The GUI front-end of GDB with Tcl/Tk."
+    },
+    "categories": [
+        "System"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "861f4d4e7e7582778fa01419b9c2618ee14ea5c67e7d2c9f5751c34797f095b05d14295f361912d6ea96c8c845ce6684147d7044f84c9388199d52a0301306f5",
+        "size": 87209912,
+        "type": 2,
+        "url": "https://github.com/antony-jr/insight/releases/download/3/Insight-continuous-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "Insight.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Insight"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:05:34 GMT'"
+    }
+}

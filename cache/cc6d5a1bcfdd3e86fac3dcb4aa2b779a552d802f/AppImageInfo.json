@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Making beautiful light shows is as easy as drawing a picture"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "3a1f0d3cdd2529216c54683625a09bc21f068f8bb8e311efc387ba0d17ea6df4c6273391f14141277f9d7d1dd10f29559c777c1a436379644a07cc696fd4e423",
+        "size": 27469848,
+        "type": 2,
+        "url": "https://github.com/Blinkinlabs/PatternPaint/releases/download/2.3.0/PatternPaint-git2.3.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "patternpaint.desktop",
+    "keywords": [],
+    "name": {
+        "null": "PatternPaint"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:49:10 GMT'"
+    }
+}

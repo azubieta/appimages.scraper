@@ -1,0 +1,28 @@
+{
+    "abstract": {
+        "null": "A desktop client for the MyBelka program"
+    },
+    "categories": [
+        "Qt",
+        "Office",
+        "Spreadsheet"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "14bac14d83f6c748d01ae44d297f9d00a1336d5e64e463024647a0ff2c8a5c96b559e61a3ac07b22ea776b12a6363161b742343adea42119d632a285be58e249",
+        "size": 20096952,
+        "type": 2,
+        "url": "https://github.com/Leinnan/mybelka/releases/download/continuous/MyBelka-de68c9a-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "mybelka.desktop",
+    "keywords": [
+        "MyBelka"
+    ],
+    "name": {
+        "null": "MyBelka"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:16:53 GMT'"
+    }
+}

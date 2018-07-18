@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Distributed audio player"
+    },
+    "categories": [
+        "AudioVideo"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "54e73db756395d1c2e45c10af645b9f35f7e145238dfccd6ac183aee5e1f65cc9e0ba86535e2b0b0dcb85cef0479cf3bcc56663ecf1a8d2e346e96d0c31c159d",
+        "size": 82190427,
+        "type": 2,
+        "url": "https://github.com/pathephone/pathephone-desktop/releases/download/v2.0.1/pathephone-desktop-2.0.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "pathephone-desktop.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Pathephone"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:45:34 GMT'"
+    }
+}

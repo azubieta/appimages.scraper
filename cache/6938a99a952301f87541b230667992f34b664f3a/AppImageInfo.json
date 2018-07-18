@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Addap\u2019s, join the new wave of internet social browsing"
+    },
+    "categories": [
+        "Chat"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "03eeb0cd8e2798f2b49c0a5a88b3f9ab758043bf44cc9d268c5553160f116b8298cc16f49566b63cca253764ef284c68cbf6126778e56f71feb0459fea754604",
+        "size": 318111744,
+        "type": 1,
+        "url": "https://s3.amazonaws.com/addaps-beta/Addaps-0.4.38-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "addaps.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Addap's beta"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 21:53:14 GMT'"
+    }
+}

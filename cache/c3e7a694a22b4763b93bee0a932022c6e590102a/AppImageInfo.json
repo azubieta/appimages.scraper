@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "AHG Training App"
+    },
+    "categories": [
+        "Education"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "c7b17f9dcff3e403ef6ede2370ccdae7f052643bbbd621045f8300b3eba2ad62d2ca0378202fc74a56a781d81b5c1524e6015fe79734ef54689656bd62d3853b",
+        "size": 55902208,
+        "type": 1,
+        "url": "https://github.com/TroopTrack/AHGequip/releases/download/v1.1.0/AHGequip-1.1.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "ahgequip.desktop",
+    "keywords": [],
+    "name": {
+        "null": "AHGequip"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:01:05 GMT'"
+    }
+}

@@ -1,1 +1,24 @@
-{"name": {"null": "Buttercup"}, "format": 1, "abstract": {"null": "Free and Open Source password vault"}, "release": {"date": "Mon, 25 Jun 2018 22:17:06 GMT"}, "file": {"url": "https://github.com/buttercup/buttercup-desktop/releases/download/v1.7.0/buttercup-desktop-1.7.0-x86_64.AppImage", "size": 57028471, "type": 2, "architecture": "x86-64", "sha512checksum": "939588d6479fe4350e41d41757e12bea587a339f0864e22937a4c2dcaac85b1ac63cab3ad7f742cd8c9e9aec02e9da4ef985d57f249f59a2bd94747060fab285"}, "keywords": [], "id": "buttercup-desktop.desktop", "categories": ["Utility"]}
+{
+    "abstract": {
+        "null": "Free and Open Source password vault"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "939588d6479fe4350e41d41757e12bea587a339f0864e22937a4c2dcaac85b1ac63cab3ad7f742cd8c9e9aec02e9da4ef985d57f249f59a2bd94747060fab285",
+        "size": 57028471,
+        "type": 2,
+        "url": "https://github.com/buttercup/buttercup-desktop/releases/download/v1.7.0/buttercup-desktop-1.7.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "buttercup-desktop.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Buttercup"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:29:52 GMT'"
+    }
+}

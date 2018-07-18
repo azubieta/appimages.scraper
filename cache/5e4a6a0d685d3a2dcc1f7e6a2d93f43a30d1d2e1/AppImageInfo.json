@@ -1,1 +1,24 @@
-{"name": {"null": "DawnlightSearch"}, "format": 1, "abstract": {"null": "Dawnlight Search Engine"}, "release": {"date": "Mon, 25 Jun 2018 23:35:47 GMT"}, "file": {"url": "https://github.com/chg-hou/DawnlightSearch/releases/download/v0.1.2.1b/DawnlightSearch-0.1.2.1-x86_64.AppImage", "size": 32597944, "type": 2, "architecture": "x86-64", "sha512checksum": "019d973ea8c6a5e7978e696b610fbf8757c394e76f64853c831dada75482bb14fb7361b735404a3eb38b6b22b867d8a8b87de67426e39f0eeee353a169d12fba"}, "keywords": [], "id": "dawnlightsearch.desktop", "categories": ["Utility"]}
+{
+    "abstract": {
+        "null": "Dawnlight Search Engine"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "019d973ea8c6a5e7978e696b610fbf8757c394e76f64853c831dada75482bb14fb7361b735404a3eb38b6b22b867d8a8b87de67426e39f0eeee353a169d12fba",
+        "size": 32597944,
+        "type": 2,
+        "url": "https://github.com/chg-hou/DawnlightSearch/releases/download/v0.1.2.1b/DawnlightSearch-0.1.2.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "dawnlightsearch.desktop",
+    "keywords": [],
+    "name": {
+        "null": "DawnlightSearch"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:51:38 GMT'"
+    }
+}

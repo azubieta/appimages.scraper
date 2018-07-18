@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "An app for managing ROMs in Steam"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "11afdcbc05b46543a8da6b8b0bc1b7b68f2a6ccbfdfe1eeab99170b04936d85e5cee8d3b80265f8d03c53a93420861b268edc709c577523b63551fe7b2a49334",
+        "size": 63890649,
+        "type": 2,
+        "url": "https://github.com/FrogTheFrog/steam-rom-manager/releases/download/v2.2.16/steam-rom-manager-2.2.16-i386.AppImage"
+    },
+    "format": 1,
+    "id": "steam-rom-manager.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Steam ROM Manager"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:13:54 GMT'"
+    }
+}

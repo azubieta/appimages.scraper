@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Time recurring events"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "46f28362e1533b9e5aebcb880c36132ac6eec5aac592a280b4b82d6adbf652f1cd8b0009f27778ce520657b533417192212447197811a0090c5bd32a1036e4fa",
+        "size": 49214317,
+        "type": 2,
+        "url": "https://github.com/tdeo/timer/releases/download/v1.0.0/timer-1.0.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "timer.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Timer"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:43:21 GMT'"
+    }
+}

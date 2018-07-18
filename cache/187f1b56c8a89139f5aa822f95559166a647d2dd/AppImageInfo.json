@@ -1,1 +1,24 @@
-{"name": {"null": "blackmirror"}, "format": 1, "abstract": {"null": "two-party automatic writing tool"}, "release": {"date": "Mon, 25 Jun 2018 21:10:18 GMT"}, "file": {"url": "https://github.com/sorentycho/blackmirror/releases/download/v9.1.2/blackmirror-9.1.2-x86_64.AppImage", "size": 60813197, "type": 2, "architecture": "x86-64", "sha512checksum": "847075398fe17086b19267a6204a458f4da3ff94bf229e38df972e56ca3b24dabb3ca0c4dc2c6727ba2b34d8f0bce7577e72007fc144b96378eb24f96e067ce6"}, "keywords": [], "id": "blackmirror.desktop", "categories": ["Utility"]}
+{
+    "abstract": {
+        "null": "two-party automatic writing tool"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "847075398fe17086b19267a6204a458f4da3ff94bf229e38df972e56ca3b24dabb3ca0c4dc2c6727ba2b34d8f0bce7577e72007fc144b96378eb24f96e067ce6",
+        "size": 60813197,
+        "type": 2,
+        "url": "https://github.com/sorentycho/blackmirror/releases/download/v9.1.2/blackmirror-9.1.2-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "blackmirror.desktop",
+    "keywords": [],
+    "name": {
+        "null": "blackmirror"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:57:47 GMT'"
+    }
+}

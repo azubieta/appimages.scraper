@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "A client application for Thorium"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "479c850b584d977cb72c4abd2132839ab6479da9752c465d07235ac89145e35bb3beee14866aaa22f42161ea33ed7a977edca347929b5c8429b2526c1236f5a1",
+        "size": 55352746,
+        "type": 2,
+        "url": "https://github.com/Thorium-Sim/thorium-kiosk/releases/download/v0.0.1/thorium-client-0.0.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "thorium-client.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Thorium Client"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:41:57 GMT'"
+    }
+}

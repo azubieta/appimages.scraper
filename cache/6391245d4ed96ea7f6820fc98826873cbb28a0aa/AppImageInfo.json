@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Streaming ACN Viewer mark2"
+    },
+    "categories": [
+        "Network"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "9755763ca2ba6d71b12c8caaa7d19134c6a336b2e560e6248bb38b7ee76e4bbe12577f7f2fd2c55a171035b79835fc65320062abf84f3133cb882bffe2b6769a",
+        "size": 24620400,
+        "type": 2,
+        "url": "https://github.com/docsteer/sacnview/releases/download/v2.0.1-RC2/sACNView_2-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "sacnview.desktop",
+    "keywords": [],
+    "name": {
+        "null": "sACNView 2"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:52:47 GMT'"
+    }
+}

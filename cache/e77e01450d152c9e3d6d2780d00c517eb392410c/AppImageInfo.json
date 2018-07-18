@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Stencila for the desktop"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "37f691aabf0dc92e2531d7c22b8479c78bcb0c63f1dd2deb10e953b5090424a6a5e7b1f360e7dabf25dd6517ddd2d6a2e0e3794262b8d49d591ed12df2759e94",
+        "size": 90570752,
+        "type": 1,
+        "url": "https://github.com/stencila/desktop/releases/download/v0.26.0/stencila-desktop-0.26.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "stencila-desktop.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Stencila Desktop"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:19:44 GMT'"
+    }
+}

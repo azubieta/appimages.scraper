@@ -1,1 +1,24 @@
-{"name": {"null": "DevDocs"}, "format": 1, "abstract": {"null": "Desktop client for devdocs.io"}, "release": {"date": "Mon, 25 Jun 2018 23:41:02 GMT"}, "file": {"url": "https://github.com/egoist/devdocs-app/releases/download/v0.6.3/DevDocs-0.6.3-x86_64.AppImage", "size": 53018624, "type": 1, "architecture": "x86-64", "sha512checksum": "e5a0bfd289d34bffa6732978950864debdbe6754021909a9c61f87d62fc6198b7cb29cb948d3fd898089246ae5776fa8c798e3aa89ac939143bd5d59d1e13193"}, "keywords": [], "id": "devdocs.desktop", "categories": ["devel"]}
+{
+    "abstract": {
+        "null": "Desktop client for devdocs.io"
+    },
+    "categories": [
+        "devel"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "e5a0bfd289d34bffa6732978950864debdbe6754021909a9c61f87d62fc6198b7cb29cb948d3fd898089246ae5776fa8c798e3aa89ac939143bd5d59d1e13193",
+        "size": 53018624,
+        "type": 1,
+        "url": "https://github.com/egoist/devdocs-app/releases/download/v0.6.3/DevDocs-0.6.3-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "devdocs.desktop",
+    "keywords": [],
+    "name": {
+        "null": "DevDocs"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:53:35 GMT'"
+    }
+}

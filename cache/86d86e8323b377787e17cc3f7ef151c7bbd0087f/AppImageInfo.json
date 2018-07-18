@@ -1,1 +1,21 @@
-{"name": {"null": "DeDop-studio"}, "format": 1, "abstract": {"null": "DeDop Studio"}, "release": {"date": "Mon, 25 Jun 2018 23:37:50 GMT"}, "file": {"url": "https://github.com/DeDop/dedop-studio/releases/download/v1.1.0/DeDop-studio-1.1.0-x86_64.AppImage", "size": 69795840, "type": 1, "architecture": "x86-64", "sha512checksum": "5611f276dbca1595b416c037985fa76c8c12210a3d288f5c2c7d0f0b8043dbbf5b45b3af7fdb37abf667140c5460c536c9b57bd28b634969aa6bb0438c95ef20"}, "keywords": [], "id": "dedop-studio.desktop"}
+{
+    "abstract": {
+        "null": "DeDop Studio"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "5611f276dbca1595b416c037985fa76c8c12210a3d288f5c2c7d0f0b8043dbbf5b45b3af7fdb37abf667140c5460c536c9b57bd28b634969aa6bb0438c95ef20",
+        "size": 69795840,
+        "type": 1,
+        "url": "https://github.com/DeDop/dedop-studio/releases/download/v1.1.0/DeDop-studio-1.1.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "dedop-studio.desktop",
+    "keywords": [],
+    "name": {
+        "null": "DeDop-studio"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:52:42 GMT'"
+    }
+}

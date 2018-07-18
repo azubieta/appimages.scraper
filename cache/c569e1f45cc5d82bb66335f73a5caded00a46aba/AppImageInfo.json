@@ -1,0 +1,30 @@
+{
+    "abstract": {
+        "null": "Streamlined photo editor"
+    },
+    "categories": [
+        "Graphics",
+        "Photography",
+        "Qt"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "ec50add0310686d27e3e9dfb90728797a380e6bd4693041c54f08bc75c7d1d4677617fd61a9c2de7b4c50785b463871fb2e82cf6b4919206e681a23689a5a476",
+        "size": 33086232,
+        "type": 2,
+        "url": "https://github.com/CarVac/filmulator-gui/releases/download/v0.6.2/Filmulator-git.5255426-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "filmulator-gui.desktop",
+    "keywords": [],
+    "languages": [
+        "en_US"
+    ],
+    "name": {
+        "en_US": "Filmulator",
+        "null": "Filmulator"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:24:08 GMT'"
+    }
+}

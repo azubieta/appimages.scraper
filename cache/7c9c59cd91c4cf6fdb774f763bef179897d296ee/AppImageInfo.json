@@ -1,0 +1,26 @@
+{
+    "abstract": {
+        "null": "Screenshot tool inspired by Windows Snipping Tool and made with Qt for Linux."
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "6824214f76add6ff09120b4dfa5374f1efd4b22ebe8e553a7c9b6d0216d2c433e7a795e54f7fb3609d01e3fac037f077bb5bbd273ad853e9a9f8cf3e9e684309",
+        "size": 22902712,
+        "type": 2,
+        "url": "https://github.com/DamirPorobic/ksnip/releases/download/continuous/ksnip-317-f23aa95-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "ksnip.desktop",
+    "keywords": [
+        "ksnip Screenshot Tool"
+    ],
+    "name": {
+        "null": "ksnip"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:26:22 GMT'"
+    }
+}

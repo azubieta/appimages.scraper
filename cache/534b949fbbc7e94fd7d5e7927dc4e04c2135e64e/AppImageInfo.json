@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Edit this default file"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "7ea89f8bce9fb0f660c94fd2c9fa4cc2d75765e73c6bbcb91fa61704e2f72de060c8f5f80094d1a5529952221b2597147032ec9a166b2e0ed807cff2dbc3c1b0",
+        "size": 40212312,
+        "type": 2,
+        "url": "https://github.com/freemountain/quark/releases/download/v20170204-3/Quark-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "quark.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Quark"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:29:09 GMT'"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Pull request monitoring app for Github"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "d10b486125a0c4972af2a6bec0ae98084b2c0c326a67aa842bb8cffa8307dafa44868a2afa251196dd7384a6ab1f3aa6bf764571b1f0661cf2ca3b2f535f2c8d",
+        "size": 52050877,
+        "type": 2,
+        "url": "https://github.com/rkclark/pullp/releases/download/v0.9.2/pullp-0.9.2-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "pullp.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Pullp"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:19:24 GMT'"
+    }
+}

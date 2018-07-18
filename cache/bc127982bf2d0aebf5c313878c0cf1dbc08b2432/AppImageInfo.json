@@ -1,1 +1,21 @@
-{"name": {"null": "bnb"}, "format": 1, "abstract": {"null": "Bnb takes care of launching your web app on your development machine."}, "release": {"date": "Mon, 25 Jun 2018 21:19:18 GMT"}, "file": {"url": "https://github.com/layerssss/bnb/releases/download/v1.0.5/bnb-1.0.5-x86_64.AppImage", "size": 54525952, "type": 1, "architecture": "x86-64", "sha512checksum": "25bffabe558c6da970e4b29a09c366d0a6d0ccb4a7401779dc66b2fc5a5af888187b1e3201a13625bdb300d0cc83061f6b408761fef558bf3c7ad45d8bff170f"}, "keywords": [], "id": "bnb.desktop"}
+{
+    "abstract": {
+        "null": "Bnb takes care of launching your web app on your development machine."
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "25bffabe558c6da970e4b29a09c366d0a6d0ccb4a7401779dc66b2fc5a5af888187b1e3201a13625bdb300d0cc83061f6b408761fef558bf3c7ad45d8bff170f",
+        "size": 54525952,
+        "type": 1,
+        "url": "https://github.com/layerssss/bnb/releases/download/v1.0.5/bnb-1.0.5-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "bnb.desktop",
+    "keywords": [],
+    "name": {
+        "null": "bnb"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:59:00 GMT'"
+    }
+}

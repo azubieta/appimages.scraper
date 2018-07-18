@@ -1,0 +1,29 @@
+{
+    "abstract": {
+        "null": "A reader application for comic books"
+    },
+    "categories": [
+        "Qt",
+        "KDE",
+        "Graphics",
+        "Viewer"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "92c7e127bdd1418ac6c1ce47a3dfb8f45a3e7736278c33221e02f0f15601a2d06c503ac7eb022aec937a5a768d4cfe921ec1d66eb877c72fb0686fd271090584",
+        "size": 90112000,
+        "type": 1,
+        "url": "https://download.kde.org/stable/peruse/Peruse-x64-1.1.AppImage"
+    },
+    "format": 1,
+    "id": "peruse.desktop",
+    "keywords": [
+        "Comic Book Reader"
+    ],
+    "name": {
+        "null": "Peruse"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:54:47 GMT'"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "pixiv client for desktop"
+    },
+    "categories": [
+        "Network"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "b95049327706362055a704fe334c4d0b5f60e826cd5f8dd4eead3e94d106525726a5ff0a3b086f199df48e26e383c51c6fb79e7a2a4f0b6bb5f7d25de441595a",
+        "size": 55181312,
+        "type": 1,
+        "url": "https://github.com/akameco/PixivDeck/releases/download/v0.16.1/PixivDeck-0.16.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "pixivdeck.desktop",
+    "keywords": [],
+    "name": {
+        "null": "PixivDeck"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:04:34 GMT'"
+    }
+}

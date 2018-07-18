@@ -1,0 +1,27 @@
+{
+    "abstract": {
+        "null": "Planet Blupi - A delirious spell-binding game"
+    },
+    "categories": [
+        "Game",
+        "StrategyGame"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "d6c5733c6c64c08727bf6e5d0524dd3638d7bfe6b75982a7a48e38354a63cc3e6e8e5ac6ef0a7de6c587124837c56958294b1eda8dd5bd0e9123f74c34c9e06f",
+        "size": 107306352,
+        "type": 2,
+        "url": "https://github.com/blupi-games/planetblupi-dev/releases/download/v1.12.2/planetblupi.AppImage"
+    },
+    "format": 1,
+    "id": "planetblupi.desktop",
+    "keywords": [
+        "Video Game"
+    ],
+    "name": {
+        "null": "Planet Blupi"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:07:58 GMT'"
+    }
+}

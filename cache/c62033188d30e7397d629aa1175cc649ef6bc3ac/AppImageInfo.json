@@ -1,0 +1,25 @@
+{
+    "abstract": {
+        "null": "Redmine Time Tracker"
+    },
+    "categories": [
+        "Utility",
+        "Network"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "f0b7ab51a9329caee89abb4acdae3f482e4e5ab6fccafb91032e61c1fb579743a4573a07de1d3881f43c34c919093fb683d161cb97698750da2d7223decaf927",
+        "size": 25938168,
+        "type": 2,
+        "url": "https://github.com/fathomssen/redtimer/releases/download/v1.2.7/redtimer-v1.2.7-linux-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "redtimer.desktop",
+    "keywords": [],
+    "name": {
+        "null": "RedTimer"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:41:42 GMT'"
+    }
+}

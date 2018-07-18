@@ -1,0 +1,21 @@
+{
+    "categories": [
+        "Network"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "84e74c471dc93151326d052eaad6bc963c4cbd6aa51f69eb2fa66cc5eb194f799042b8aef997a351b74cc4190db41ad82cf17c41a021dd13a449bb4029caec7d",
+        "size": 12732440,
+        "type": 2,
+        "url": "https://depot.flexvdi.com/clients/linux-x86_64/flexvdi-linux-client-2.2.13-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "flexvdi-client.desktop",
+    "keywords": [],
+    "name": {
+        "null": "flexVDI Client"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:23:48 GMT'"
+    }
+}

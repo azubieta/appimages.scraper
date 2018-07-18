@@ -1,0 +1,39 @@
+{
+    "abstract": {
+        "fr": "Configuration facile de JWM",
+        "lv": "Vienk\u0101r\u0161a JWM konfigur\u0101cija",
+        "null": "Easy configuration of JWM"
+    },
+    "categories": [
+        "Settings",
+        "System"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "2fb9fb133fcaff4a363d64e39bac46f8f6d73302d5ceb861cb08a26f9270a967b3db9af32017554b1ed3f45dfd839cd7f88df8ec5387fa4701369250a2936c99",
+        "size": 3042136,
+        "type": 2,
+        "url": "https://github.com/Israel-D/jwm-settings-manager/releases/download/v2.1.0-appimage/JWM_Settings_Manager-git.b285d19-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "jwm-settings-manager.desktop",
+    "keywords": [
+        "Outil de configuration",
+        "Konfigur\u0101cijas r\u012bks",
+        "Configuration Tool"
+    ],
+    "languages": [
+        "en_US",
+        "fr",
+        "lv"
+    ],
+    "name": {
+        "en_US": "JWM Settings Manager",
+        "fr": "Gestionnaire de param\u00e8tres de JWM",
+        "lv": "JWM Iestat\u012bjumu p\u0101rvaldnieks",
+        "null": "JWM Settings Manager"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:22:20 GMT'"
+    }
+}

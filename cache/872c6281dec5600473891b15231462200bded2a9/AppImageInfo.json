@@ -1,0 +1,30 @@
+{
+    "categories": [
+        "Game"
+    ],
+    "description": {
+        "null": "<p> A simple OpenGL game of searching for tokens in 3D stages. You also have to avoid the monsters. (They can capture you.) </p> <p> Any user can prepare his own assets with stages, monsters and tokens designned with MKI3D (https://mki1967.github.io/mki3d/) as explained in https://github.com/mki1967/mki3dgame/blob/master/README.md </p>"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "2448cf5640b1ace5305cd4d3537369603a0c593a0bed170eb8d2c1946c25966d56a8efc1c0941cd5afb04d61e65f2a1a7ababcb3823ab0905cc2acc5df0fb9a2",
+        "size": 1825624,
+        "type": 2,
+        "url": "https://github.com/mki1967/mki3dgame/releases/download/v1.10/mki3dgame-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "mki3dgame.desktop",
+    "keywords": [],
+    "license": {
+        "id": "GPL-3.0"
+    },
+    "links": {
+        "homepage": "https://github.com/mki1967/mki3dgame"
+    },
+    "name": {
+        "null": "mki3dgame"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:11:33 GMT'"
+    }
+}

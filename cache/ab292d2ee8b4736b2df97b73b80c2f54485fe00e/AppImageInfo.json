@@ -1,1 +1,24 @@
-{"name": {"null": "AlphaT"}, "format": 1, "abstract": {"null": "AlphaT is a free doc tranlation application, it powerd by machine tranlation engines, help you translate your documents quickly and easily."}, "release": {"date": "Mon, 25 Jun 2018 19:41:41 GMT"}, "file": {"url": "https://github.com/sigoden/alphat/releases/download/v0.5.1/AlphaT-0.5.1-x86_64.AppImage", "size": 54460416, "type": 1, "architecture": "x86-64", "sha512checksum": "ed87f43a21f28a8bba604c80b162886a12b2de390cfc7a5f06fe16618da0fcc874cc5528977a5370747d9fecfdbb2462527ac07e917fd20da2199060d2e5cc1f"}, "keywords": [], "id": "alphat.desktop", "categories": ["Utility"]}
+{
+    "abstract": {
+        "null": "AlphaT is a free doc tranlation application, it powerd by machine tranlation engines, help you translate your documents quickly and easily."
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "ed87f43a21f28a8bba604c80b162886a12b2de390cfc7a5f06fe16618da0fcc874cc5528977a5370747d9fecfdbb2462527ac07e917fd20da2199060d2e5cc1f",
+        "size": 54460416,
+        "type": 1,
+        "url": "https://github.com/sigoden/alphat/releases/download/v0.5.1/AlphaT-0.5.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "alphat.desktop",
+    "keywords": [],
+    "name": {
+        "null": "AlphaT"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:06:22 GMT'"
+    }
+}

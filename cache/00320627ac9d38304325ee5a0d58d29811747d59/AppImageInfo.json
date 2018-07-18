@@ -1,0 +1,18 @@
+{
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "39a5a91f73a899c7aacf62737050f74ae63ac452ac595c570cfc941f30d741127778516e6932bab68f67e0d9a7af6d9fc7655545b9c59658a2182ccdebed6c97",
+        "size": 1943384,
+        "type": 2,
+        "url": "https://github.com/Vladar4/ng2gggrotto/releases/download/v1.0/gggrotto-1.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "gggrotto.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Glorious Glacier Grotto"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:28:23 GMT'"
+    }
+}

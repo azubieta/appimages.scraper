@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Development tool for the Microsoft Bot Framework. Allows developers to test and debug bots on localhost."
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "9e78c667b78f64e44df739c70a6af1cbf0d33249f798258df02970d2951774fac68992900c561eae917a8b986277e691fcac5e7cd80270f04090e7a3339167e1",
+        "size": 96799362,
+        "type": 2,
+        "url": "https://github.com/Microsoft/BotFramework-Emulator/releases/download/v4.0.13-alpha/botframework-emulator-4.0.13-alpha-i386.AppImage"
+    },
+    "format": 1,
+    "id": "botframework-emulator.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Bot Framework Emulator"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:02:33 GMT'"
+    }
+}

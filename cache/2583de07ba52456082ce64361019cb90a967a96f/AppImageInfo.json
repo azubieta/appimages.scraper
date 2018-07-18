@@ -1,0 +1,23 @@
+{
+    "categories": [
+        "Network"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "6853b62d075aafc68da6b1da3376c0e82d48b7f5337ea4de482182c9d54aa0dc0e9071733bbc34d365957e03aeccc9f0a47da9941e1d962870da132c53d5513c",
+        "size": 6946816,
+        "type": 1,
+        "url": "https://drawpile.net/files/appimage/Drawpile-srv-2.0.10.1.AppImage"
+    },
+    "format": 1,
+    "id": "drawpile-srv.desktop",
+    "keywords": [
+        "Dedicated server for Drawpile"
+    ],
+    "name": {
+        "null": "Drawpile Server"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:04:16 GMT'"
+    }
+}

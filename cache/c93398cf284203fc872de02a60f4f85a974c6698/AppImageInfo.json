@@ -1,0 +1,21 @@
+{
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "3f052dd7d4504845ae67fe35caf17c6c5540df645d3cf31cf04277d07fd036c91d44e3464714dc8c21f4fe28eee6d56f88e180fb5b1ca4ef690ebcd4bffb207a",
+        "size": 26614616,
+        "type": 2,
+        "url": "https://github.com/KDAB/hotspot/releases/download/v1.1.0/hotspot-v1.1.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "hotspot.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Hotspot"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:46:53 GMT'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Structural, content-preserving transformations on PDF files"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "253d6ae69defc920b42cc293ef4cc597f20ccd163911c60d99901f5bbfad8719c8f49500d0e6824f29e61bd4fa04a8d9881fae3abf4c26737aad65038a5430a1",
+        "size": 6077808,
+        "type": 2,
+        "url": "https://github.com/qpdf/qpdf/releases/download/release-qpdf-8.0.a1/qpdf-8.0.a1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "qpdf.desktop",
+    "keywords": [],
+    "name": {
+        "null": "qpdf"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:26:08 GMT'"
+    }
+}

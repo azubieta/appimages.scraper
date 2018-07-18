@@ -1,0 +1,29 @@
+{
+    "abstract": {
+        "null": "Social Network Analysis and Visualization software"
+    },
+    "categories": [
+        "Education",
+        "Science",
+        "Math",
+        "Qt"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "8ab44058dae67a19256725df9fc0ea52e3e8d22160fb6173d1b73ad9b3fc9bb8d0c0ecea6e826f97a7b9f0208d6b4174c81f883744f1c7e46bf1ae5aa944c354",
+        "size": 23936368,
+        "type": 2,
+        "url": "https://github.com/socnetv/app/releases/download/v2.4-fixed/SocNetV-2.4-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "socnetv.desktop",
+    "keywords": [
+        "Social Network Visualizer"
+    ],
+    "name": {
+        "null": "SocNetV"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:06:14 GMT'"
+    }
+}

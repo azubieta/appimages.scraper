@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Unified Communication from Mundio Mobiles"
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "885269fdead1442eccd7670b0e765695daf674890d4d56126b158cdb3544c34bf32d3c2b02d50da66972f3a58ae53361c07b8b7e197cc82a9acf4bc90a98c1b3",
+        "size": 62062592,
+        "type": 1,
+        "url": "https://github.com/aricovindanevectone/hari/releases/download/v0.0.40/unified-communications-0.0.40-i386.AppImage"
+    },
+    "format": 1,
+    "id": "unified-communications.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Unified Communication"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:55:02 GMT'"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "two-party automatic writing tool"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "588f86ad28ddc48eb92480119e2fc4dd1920d732533ab2a261b184b1977a2d0214efe02ee6343b1f72a3352e12de45b0f61da8c2f9fa2cf4cc8a976d03b7abc7",
+        "size": 60820782,
+        "type": 2,
+        "url": "https://github.com/sorentycho/blackmirror/releases/download/v9.3.0/blackmirror-9.3.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "blackmirror.desktop",
+    "keywords": [],
+    "name": {
+        "null": "blackmirror"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:57:47 GMT'"
+    }
+}

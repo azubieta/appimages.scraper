@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "LiveZilla"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "ee8366b31e8bf516606cefffb3c7c47aa42ec5e5f66762b6c635c39fdada40648d66ed8d308b35839aacceaab0563f2fd7746671c60c247348c68a7d28f8f66d",
+        "size": 57409536,
+        "type": 1,
+        "url": "http://www.livezilla.net/downloads/pubfiles/livezilla_app_linux_ia32_1.2.3.AppImage"
+    },
+    "format": 1,
+    "id": "livezilla.desktop",
+    "keywords": [],
+    "name": {
+        "null": "LiveZilla"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:45:30 GMT'"
+    }
+}

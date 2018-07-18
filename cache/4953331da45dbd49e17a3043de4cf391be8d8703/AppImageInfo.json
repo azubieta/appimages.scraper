@@ -1,1 +1,24 @@
-{"name": {"null": "Ao"}, "format": 1, "abstract": {"null": "\u2714\ufe0f Elegant Microsoft To-Do desktop app"}, "release": {"date": "Mon, 25 Jun 2018 20:07:09 GMT"}, "file": {"url": "https://github.com/klauscfhq/ao/releases/download/v5.1.0/ao-5.1.0-i386.AppImage", "size": 54067200, "type": 1, "architecture": "Intel 80386", "sha512checksum": "76731fe8fe3ce7ed222b359efe48c43084d0610f7d727a5f995dbac0341f5e8ef1660eb9ae3000e42e492b1c25ba1217ce7d01760143dcd8d1572107effc566e"}, "keywords": [], "id": "ao-app.desktop", "categories": ["Office"]}
+{
+    "abstract": {
+        "null": "\u2714\ufe0f Elegant Microsoft To-Do desktop app"
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "76731fe8fe3ce7ed222b359efe48c43084d0610f7d727a5f995dbac0341f5e8ef1660eb9ae3000e42e492b1c25ba1217ce7d01760143dcd8d1572107effc566e",
+        "size": 54067200,
+        "type": 1,
+        "url": "https://github.com/klauscfhq/ao/releases/download/v5.1.0/ao-5.1.0-i386.AppImage"
+    },
+    "format": 1,
+    "id": "ao-app.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Ao"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:12:36 GMT'"
+    }
+}

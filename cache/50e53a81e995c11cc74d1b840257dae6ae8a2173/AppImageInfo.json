@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Desktop client for devdocs.io"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "46e1395aa0ea9e95081266fc2c4f7a421fb8e91862510547e052a54ef20835833284cb280eed9a67b912873385e451febf3b03e9ec5904a18773b7dfb219b3ac",
+        "size": 51237923,
+        "type": 2,
+        "url": "https://github.com/egoist/devdocs-desktop/releases/download/v0.6.8/DevDocs-0.6.8-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "devdocs.desktop",
+    "keywords": [],
+    "name": {
+        "null": "DevDocs"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:53:35 GMT'"
+    }
+}

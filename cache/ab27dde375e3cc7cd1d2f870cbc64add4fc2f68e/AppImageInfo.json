@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Sylk, a WebRTC client"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "af0204b66bce939af452313b2177d280471d6bb4b3fbd1878bcc3edc3d43088995443d94c0fcd206fc76d117ea8d1be35ebb2eb21a1ce8db11b8e1218aa44309",
+        "size": 49348608,
+        "type": 1,
+        "url": "http://download.ag-projects.com/Sylk/Sylk-1.0.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "sylk-electron.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Sylk"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:35:54 GMT'"
+    }
+}

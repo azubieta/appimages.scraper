@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "A DAB/DAB+ decoder using Qt and C++"
+    },
+    "categories": [
+        "AudioVideo"
+    ],
+    "file": {
+        "architecture": "ARM",
+        "sha512checksum": "04f90f3de2f9801c3440f6fcbd655d65dcd1ccfbe081d3db5b422740e84f40e7703e8b17ad8749dc8fd2b461d25160cbb36029d4705c8d776066b60be3fbef64",
+        "size": 36438076,
+        "type": 2,
+        "url": "https://github.com/JvanKatwijk/qt-dab/releases/download/qt-dab-2.0/Qt_DAB-ARM.AppImage"
+    },
+    "format": 1,
+    "id": "qt-dab.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Qt_DAB"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:28:16 GMT'"
+    }
+}

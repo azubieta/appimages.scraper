@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "A cross platform (Windows, Mac, Linux) desktop application for downloading Udemy Courses."
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "22ea7d5517da1623cbea7ee98e84d848387bcd9b0bcdd6f4ab94598c998f38c505b872d34c58295d7209e9d6ae19b9d7a978342a8468e0ea54b60a610a846591",
+        "size": 50030016,
+        "type": 2,
+        "url": "https://github.com/FaisalUmair/udemy-downloader-gui/releases/download/v1.6.0/Udeler-1.6.0-linux-x86_x64.AppImage"
+    },
+    "format": 1,
+    "id": "udeler.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Udeler"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:52:40 GMT'"
+    }
+}

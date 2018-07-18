@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Time Tracking tool for Redmine"
+    },
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "9f755dbeb2ab75081c32dbe7892542ccc8c3d480363380ccf3fa1049f22f99237097a4465db4d6d35162ecde27fd4f0532357da7e15eb4ebe4c3d6489f227951",
+        "size": 48824320,
+        "type": 1,
+        "url": "https://github.com/ujiro99/RedmineTimeTracker/releases/download/v0.9.0/RedmineTimeTracker-0.9.0-ia32.AppImage"
+    },
+    "format": 1,
+    "id": "redminetimetracker.desktop",
+    "keywords": [],
+    "name": {
+        "null": "RedmineTimeTracker"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:40:04 GMT'"
+    }
+}

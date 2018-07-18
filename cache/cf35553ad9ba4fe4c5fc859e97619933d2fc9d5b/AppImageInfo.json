@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Free Software FPS Game Engine Based on Quake 3"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "ba5b06b032bc5cf2d5362618bac6a9cbe772e5e1a2b3e327cc217ee84180a677d44f7c7d914edca648b7cb0db40e6131510dcdd20eb489b6b546ef3243aae908",
+        "size": 1873112,
+        "type": 2,
+        "url": "http://download.opensuse.org/repositories/home:/nandub:/MyAppImages/AppImage/IOQuake3-latest-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "ioq3ded.desktop",
+    "keywords": [],
+    "name": {
+        "null": "IOQuake3-Server"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:32:27 GMT'"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "abstract": {
+        "null": "Note taking app integrated with Evernote"
+    },
+    "categories": [
+        "Qt",
+        "Network",
+        "Office",
+        "TextTools"
+    ],
+    "description": {
+        "null": "<p> Quentier is a cross-platform note taking app capable of working as Evernote client. It can also be used for local note taking as well, without the necessity to even have the Evernote account. Quentier supports the following features: <ul> <li>Synchronization of user data (notebooks, notes, tags, saved searches) with Evernote servers</li> <li><a href=\"https://dev.evernote.com/doc/articles/search_grammar.php\">Evernote search syntax</a> can be used for data searching within the local database</li> <li>Printing of notes and converting them to pdf files</li> <li>Ability to open several notes simultaneously in either tabbed or windowed interface</li> <li>Ability to switch between accounts - both local and Evernote ones</li> </ul> </p>"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "21c09888289a8875dce37508bab10dca666343b13974a06bd84b4faf751bf5633b839bf13751b6880d58c5c9a8c81b4414dfc4844c8477f7b06f22312727d4c7",
+        "size": 102342804,
+        "type": 2,
+        "url": "https://github.com/d1vanov/quentier/releases/download/continuous-master/Quentier-master-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "org.quentier.Quentier.desktop",
+    "keywords": [
+        "Note taking app"
+    ],
+    "license": {
+        "id": "GPL-3.0"
+    },
+    "links": {
+        "homepage": "https://github.com/d1vanov/quentier"
+    },
+    "name": {
+        "null": "Quentier"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:29:52 GMT'"
+    }
+}

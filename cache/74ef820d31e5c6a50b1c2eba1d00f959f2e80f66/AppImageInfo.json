@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "The Expo Development Environment"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "72c4f57350b42369a5002a1647ba12afeabc9d9315d73ef5cc177c6aa930e67f56b9666a3d29e5d1d145aa6faad437814d521bcde90d252ad56efc02092bd05f",
+        "size": 175177728,
+        "type": 1,
+        "url": "https://github.com/expo/xde/releases/download/v2.23.1/xde-2.23.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "xde.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Expo XDE"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 05:15:41 GMT'"
+    }
+}

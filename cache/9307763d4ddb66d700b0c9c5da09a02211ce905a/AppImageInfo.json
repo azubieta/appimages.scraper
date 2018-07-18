@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "get things from one computer to another, safely."
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "172f1c9dfa83d3afc8e4c5c50de9122b95310956ef315bd17755f1d4e88a76ab67bb9ef7a02139a3cb11cf6abfe9cae58558f28b3ac7aff1de3a5ae1b3dbd054",
+        "size": 39560408,
+        "type": 2,
+        "url": "http://download.opensuse.org/repositories/home:/nandub:/MyAppImages/AppImage/magic-wormhole-0-Build12.17.glibc2.2.5-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "magic-wormhole.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Magic-Wormhole"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:32:27 GMT'"
+    }
+}

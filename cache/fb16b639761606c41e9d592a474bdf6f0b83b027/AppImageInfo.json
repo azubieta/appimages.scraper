@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "The chat client for Twitch"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "1756e060bde7f42e377b1a220eb529ae46483154ebb803b59859f32cd1a6d0deac26f63fe8b253f5b25294e8239dcd9e13f59ac374e248dcd47e2adb0360fc85",
+        "size": 50135040,
+        "type": 1,
+        "url": "https://github.com/mccxiv/tc/releases/download/10.1.0/tc-linux-10.1.0.AppImage"
+    },
+    "format": 1,
+    "id": "Tc.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Tc"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:38:15 GMT'"
+    }
+}

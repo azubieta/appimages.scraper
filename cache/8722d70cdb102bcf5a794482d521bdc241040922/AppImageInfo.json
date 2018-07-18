@@ -1,1 +1,21 @@
-{"name": {"null": "Aidos Wallet"}, "format": 1, "abstract": {"null": "Aidos Wallet"}, "release": {"date": "Mon, 25 Jun 2018 19:26:34 GMT"}, "file": {"url": "https://github.com/AidosKuneen/aidos-wallet/releases/download/v1.0.1/Aidos-1.0.1-ia32.AppImage", "size": 56295424, "type": 1, "architecture": "Intel 80386", "sha512checksum": "630455456012a5e7233fb1fd7aaffcdf77ee714798b6e8d4e49eb83433f0cb0754a9cc78c8a704e3eaf32876b3c4c549e7612f49db6b8eca2785dfb593eac166"}, "keywords": [], "id": "aidos.desktop"}
+{
+    "abstract": {
+        "null": "Aidos Wallet"
+    },
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "630455456012a5e7233fb1fd7aaffcdf77ee714798b6e8d4e49eb83433f0cb0754a9cc78c8a704e3eaf32876b3c4c549e7612f49db6b8eca2785dfb593eac166",
+        "size": 56295424,
+        "type": 1,
+        "url": "https://github.com/AidosKuneen/aidos-wallet/releases/download/v1.0.1/Aidos-1.0.1-ia32.AppImage"
+    },
+    "format": 1,
+    "id": "aidos.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Aidos Wallet"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:03:56 GMT'"
+    }
+}

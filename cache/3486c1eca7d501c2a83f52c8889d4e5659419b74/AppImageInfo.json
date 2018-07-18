@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "A tool for processing WFTDA Statsbooks"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "311e2ccdb4446077cd9257cf4b5e5ba76182f219b239c729270b266c1354f7822735fe733de178b7b1f7d29d39946df88dc40f3db94c5712876ccfeabe8e3410",
+        "size": 58180146,
+        "type": 2,
+        "url": "https://github.com/AdamSmasherDerby/Statsbook-Tool/releases/download/v0.1-alpha.7/statsbooktool-0.1.7-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "statsbooktool.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Statsbook Tool"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:12:33 GMT'"
+    }
+}

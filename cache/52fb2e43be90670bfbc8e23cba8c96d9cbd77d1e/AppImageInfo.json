@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "A tool for error checking WFTDA Statsbooks"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "2237f494b98bc68ab4f38d38d2bd0e8a8f5bb9bfac54225124a8dd46fd72ec09cf008faaf7ebe2ef2ae95aca101ea02f818c071ead971b4289fb7c45804e268f",
+        "size": 61348761,
+        "type": 2,
+        "url": "https://github.com/AdamSmasherDerby/Statsbook-Tool/releases/download/v1.1.2/statsbooktool-1.1.2-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "statsbooktool.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Statsbook Tool"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:12:33 GMT'"
+    }
+}

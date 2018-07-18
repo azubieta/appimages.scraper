@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "This is markdown editor for Hexo."
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "26253a355caec96ccf20e3d1251afcb5bff7474b2f06808f305b7af743fa703ce4d9cc44d9f39d3996ee94123080e2ede0cd34fe95ecd1d323ce1f8de8c8da60",
+        "size": 92475482,
+        "type": 2,
+        "url": "https://github.com/zhuzhuyule/HexoEditor/releases/download/v1.5.30/HexoEditor_1.5.30_linux_x64.AppImage"
+    },
+    "format": 1,
+    "id": "hexoeditor.desktop",
+    "keywords": [],
+    "name": {
+        "null": "HexoEditor"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:45:38 GMT'"
+    }
+}

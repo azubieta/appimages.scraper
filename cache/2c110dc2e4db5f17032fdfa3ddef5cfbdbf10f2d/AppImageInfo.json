@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Helps manage the Steam client application in offline mode."
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "0f29d4a69bd59d469bf081c74e313b8fa67dac9a119f6b04eb393ac82d075364f4f1a361142de714c7f820cae776a55460fe2241c7ec88dc8f6d9a7b1c5afd98",
+        "size": 44761088,
+        "type": 1,
+        "url": "https://github.com/l3laze/ReliefValve/releases/download/v1.0.1/ReliefValve-1.0.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "reliefvalve.desktop",
+    "keywords": [],
+    "name": {
+        "null": "ReliefValve"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:42:52 GMT'"
+    }
+}

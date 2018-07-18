@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Create Home Assistant Electron app =================================="
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "e7cdf7c262101fe213d6310468e42ee04d189db956fc112fe8a89db18202922acabe0f8ac9d88cb877718290045216aa917b1d2997bf2ad94da7b4d10361dc2e",
+        "size": 53608448,
+        "type": 1,
+        "url": "https://github.com/matthinc/HomeAssistantElectron/releases/download/v1.1.1/home_assistant_electron-1.1.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "home_assistant_electron.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Home Assistant"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:45:59 GMT'"
+    }
+}

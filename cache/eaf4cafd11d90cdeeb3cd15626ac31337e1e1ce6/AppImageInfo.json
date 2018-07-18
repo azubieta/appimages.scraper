@@ -1,0 +1,25 @@
+{
+    "abstract": {
+        "null": "Plain text notepad and todo list manager with markdown support that works together with ownCloud/Nextcloud"
+    },
+    "categories": [
+        "Utility",
+        "TextEditor"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "71a341909819209834640f271693cec2b8055a29c01d85776cf22d8aeb4addab6dc6692e3b3825ba7c83af123239515cb0db0344ef2527300529bc4a7bdf0273",
+        "size": 20066288,
+        "type": 2,
+        "url": "https://download.opensuse.org/repositories/home:/pbek:/QOwnNotes/AppImage/QOwnNotes-1508773117.d18a9407-Build1.1.glibc2.3-i686.AppImage"
+    },
+    "format": 1,
+    "id": "QOwnNotes.desktop",
+    "keywords": [],
+    "name": {
+        "null": "QOwnNotes"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:38:34 GMT'"
+    }
+}

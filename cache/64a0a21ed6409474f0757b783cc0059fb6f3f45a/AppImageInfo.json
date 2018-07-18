@@ -1,0 +1,23 @@
+{
+    "categories": [
+        "Graphics"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "70712d8cf84e0479b809a4144a397e370439daab88a983a03bf4dcb1e898d0da178279cb0c6594b50d979a0b441096218a3c9e75933a43fce7726478627bb286",
+        "size": 32047104,
+        "type": 1,
+        "url": "https://akamai.bintray.com/bb/bb1df0da5113d4a7ce6debb260962df8c6f9080239251bf5dc983a41796b4a1f?__gda__=exp=1531876897~hmac=98044a7303041abe2b153de3a4319235e0b0f8e652588d7646343896c6d307bf&response-content-disposition=attachment%3Bfilename%3D%22ipe-7.2.7-x86_64.AppImage%22&response-content-type=application%2Fx-executable&requestInfo=U2FsdGVkX18fNvTY4Jb9q119h0uwuQddOD0cSeslfNZQzKo5GxY3dVMPpIEMOgqaPDOtGs_QR_Ztd4ztr5WHFLVUbzgJ1dK3C7UKNFjdyuGffOM79QFENnwUMHmxpONnVzf1WP9s38cICDQkoZixsw&response-X-Checksum-Sha1=cf892511d5de0e6d3d98074aab457485b66dc80c&response-X-Checksum-Sha2=bb1df0da5113d4a7ce6debb260962df8c6f9080239251bf5dc983a41796b4a1f"
+    },
+    "format": 1,
+    "id": "Ipe.desktop",
+    "keywords": [
+        "drawing program"
+    ],
+    "name": {
+        "null": "Ipe"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:09:41 GMT'"
+    }
+}

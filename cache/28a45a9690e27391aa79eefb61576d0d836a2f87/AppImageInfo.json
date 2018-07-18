@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Helps you structure a large set of information units. Can be used as a tool to plan and gather resources for reports/theses and so on."
+    },
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "0f9df6e6bf205075cb660755c9501d746c21c0cb4478a99233a72932531277d4634bcd0cd07c3f920349d1a743848c7764a493cd18073678aac3b7d985a55499",
+        "size": 159776768,
+        "type": 1,
+        "url": "https://github.com/bompi88/grand-view/releases/download/v0.1.0-beta.61/GrandView-v0.1.0-beta.61-i386.AppImage"
+    },
+    "format": 1,
+    "id": "grandview.desktop",
+    "keywords": [],
+    "name": {
+        "null": "GrandView"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:37:29 GMT'"
+    }
+}

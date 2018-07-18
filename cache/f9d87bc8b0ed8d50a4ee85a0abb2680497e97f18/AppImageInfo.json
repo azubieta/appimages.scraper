@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Luna is a management tool for developers to organize npm packages."
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "14b1400fccd953adb51db3dafbf8f77d6f1da2b904600b5557acb53e0278e11ff2dc9b47c7a12ad44975e411225b47f2d13cffacc3eeef48e57aadb0e224996f",
+        "size": 52247585,
+        "type": 2,
+        "url": "https://github.com/rvpanoz/luna/releases/download/v2.2.0/luna-2.2.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "luna.desktop",
+    "keywords": [],
+    "name": {
+        "null": "luna"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:51:41 GMT'"
+    }
+}

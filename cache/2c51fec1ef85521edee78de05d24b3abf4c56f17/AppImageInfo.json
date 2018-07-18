@@ -1,0 +1,25 @@
+{
+    "abstract": {
+        "null": "Messaging app for WhatsApp, Slack, Telegram, HipChat, Hangouts and many many more."
+    },
+    "categories": [
+        "Network",
+        "InstantMessaging"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "d0be07e7dee3cbade5bd65b252ee2d59a7479a1e0f7ae64e96ad0da4c534d8815f2cfd266ae7d0c0fb6f7faff204e69913051e26d4cc43d0611148584dce2a34",
+        "size": 70320128,
+        "type": 1,
+        "url": "https://github.com/meetfranz/franz/releases/download/v5.0.0-beta.12/franz-5.0.0-beta.12-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "franz.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Franz"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:26:04 GMT'"
+    }
+}

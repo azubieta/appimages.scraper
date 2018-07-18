@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Tiny GUI for feh"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "93b979e23670463732eeaf4bd665236b812d506c71bb0c7d780ebc0bccb35caebd18b00e2f2e859ac33663825f9ce7ba7b55b2dc08ec0defe475cabe1bcac2d2",
+        "size": 45023232,
+        "type": 1,
+        "url": "https://github.com/fa7ad/nfeh/releases/download/1.1.0/nfeh-1.1.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "nfeh.desktop",
+    "keywords": [],
+    "name": {
+        "null": "nfeh"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:26:15 GMT'"
+    }
+}

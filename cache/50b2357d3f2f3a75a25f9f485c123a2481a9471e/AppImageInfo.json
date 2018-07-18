@@ -1,0 +1,21 @@
+{
+    "categories": [
+        "Network"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "eb2e1d53a226f332ad5cf018af76a3705f1810ebe7a0470cbd2d84b1f59a99261804d7627452ac53820b2e8c0039a370f04927603b9cf24332eea9f61ffb2f90",
+        "size": 2570536,
+        "type": 2,
+        "url": "https://github.com/AppImage/zsync2/releases/download/continuous/zsyncmake2-124-d7fb2bd-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "zsyncmake2.desktop",
+    "keywords": [],
+    "name": {
+        "null": "zsyncmake2"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 05:25:25 GMT'"
+    }
+}

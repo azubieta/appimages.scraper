@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "douban.fm Music Desktop Player"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "07fe62644e0d858f467affcdd964c3d6c0a8c4589c4b719b5f5a0d51217fb5266ce704be5f723dee7821f1bd26574ad3d7a39b4ea3ee1048f4b053680d475acb",
+        "size": 43122688,
+        "type": 1,
+        "url": "https://github.com/xwartz/PupaFM/releases/download/v1.2.2/PupaFM-1.2.2-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "PupaFM.desktop",
+    "keywords": [],
+    "name": {
+        "null": "PupaFM"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:20:03 GMT'"
+    }
+}

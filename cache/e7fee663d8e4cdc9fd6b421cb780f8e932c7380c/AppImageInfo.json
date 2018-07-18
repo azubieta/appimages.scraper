@@ -1,0 +1,26 @@
+{
+    "abstract": {
+        "null": "Client for Kettle REST service."
+    },
+    "categories": [
+        "Education"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "7c0fb9e08d946c5d47166785236acbc5b752dfa6a355f7e27745a05ad6a38f93407e747acfd0c426d03cb176d8ce4d21072c72e8b1c28514d10e0607899b70ec",
+        "size": 21343568,
+        "type": 2,
+        "url": "https://github.com/Arquanite/KettleClient/releases/download/continuous/KettleClient-9ce8b6c-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "kettleclient.desktop",
+    "keywords": [
+        "Kettle Client"
+    ],
+    "name": {
+        "null": "KettleClient"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:25:52 GMT'"
+    }
+}

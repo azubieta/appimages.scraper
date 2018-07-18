@@ -1,1 +1,21 @@
-{"name": {"null": "Cumulus"}, "format": 1, "release": {"date": "Mon, 25 Jun 2018 23:25:12 GMT"}, "file": {"url": "https://github.com/vadrian89/cumulus-qt/releases/download/v3.1.8/Cumulus-x64.AppImage", "size": 33343160, "type": 2, "architecture": "x86-64", "sha512checksum": "17a3538e45e575187790e07406ecb373000794a94320ee30edd46b66fa00223a3276e434ef51f1bd2db5d9aee4b6f2077d4407cde3df210adb30cfc3cbc22450"}, "keywords": [], "id": "cumulus.desktop", "categories": ["Utility"]}
+{
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "17a3538e45e575187790e07406ecb373000794a94320ee30edd46b66fa00223a3276e434ef51f1bd2db5d9aee4b6f2077d4407cde3df210adb30cfc3cbc22450",
+        "size": 33343160,
+        "type": 2,
+        "url": "https://github.com/vadrian89/cumulus-qt/releases/download/v3.1.8/Cumulus-x64.AppImage"
+    },
+    "format": 1,
+    "id": "cumulus.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Cumulus"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:47:42 GMT'"
+    }
+}

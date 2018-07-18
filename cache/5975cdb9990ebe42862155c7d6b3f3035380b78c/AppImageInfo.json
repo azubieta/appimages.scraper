@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Electronic Lab Notebook for Reproducible Neuro Imaging Research"
+    },
+    "categories": [
+        "Education"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "bcc13975a8047caa8d51dbe9daed3fbc2656e0daa08f928526aa3a10c3991b04e5b17a27fc8a94027b475bd39f3d62af23128da1c7fc4e5c7db476765a270996",
+        "size": 118482788,
+        "type": 2,
+        "url": "https://github.com/ReproNim/brainverse/releases/download/v0.0.6-alpha/BrainVerse-0.0.6-alpha-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "brainverse.desktop",
+    "keywords": [],
+    "name": {
+        "null": "BrainVerse"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:24:06 GMT'"
+    }
+}

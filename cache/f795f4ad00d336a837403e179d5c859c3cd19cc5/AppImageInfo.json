@@ -1,1 +1,24 @@
-{"name": {"null": "Crypter"}, "format": 1, "abstract": {"null": "An innovative, convenient and secure cross-platform crypto app"}, "release": {"date": "Mon, 25 Jun 2018 23:14:30 GMT"}, "file": {"url": "https://github.com/HR/Crypter/releases/download/v3.0.0/Crypter-3.0.0-ia32.AppImage", "size": 55443456, "type": 1, "architecture": "Intel 80386", "sha512checksum": "54720d245dafe5f185a7b7f35aefbfa11e6f269897844a7d936b01e30e6045dd77a57b7f808748613812100f375f5bb18d12a662121c8fcab22535360de2d4dc"}, "keywords": [], "id": "crypter.desktop", "categories": ["Utility"]}
+{
+    "abstract": {
+        "null": "An innovative, convenient and secure cross-platform crypto app"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "54720d245dafe5f185a7b7f35aefbfa11e6f269897844a7d936b01e30e6045dd77a57b7f808748613812100f375f5bb18d12a662121c8fcab22535360de2d4dc",
+        "size": 55443456,
+        "type": 1,
+        "url": "https://github.com/HR/Crypter/releases/download/v3.0.0/Crypter-3.0.0-ia32.AppImage"
+    },
+    "format": 1,
+    "id": "crypter.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Crypter"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:43:50 GMT'"
+    }
+}

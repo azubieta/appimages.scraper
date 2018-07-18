@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Time tracking for space cadets - desktop edition"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "81f814aeba76a068faf43eb1b64aca6d7e5de51f5c995c342069c02e8c7cab10a909bc8922b03e2ebbe12317d12cfcfd97d31cd2c56c82426735bc3f8a2bfa9f",
+        "size": 53805056,
+        "type": 1,
+        "url": "https://github.com/mykter/TagTime-desktop/releases/download/v0.2.0/TagTime-desktop-0.2.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "tagtime-desktop.desktop",
+    "keywords": [],
+    "name": {
+        "null": "TagTime-desktop"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:37:03 GMT'"
+    }
+}

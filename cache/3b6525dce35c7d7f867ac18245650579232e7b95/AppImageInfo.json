@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Essential admin GUI for mongodb"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "caab7204d20f9f983df1a3b539e5ec1049c951ba54d9f173a5493e0882ff58f4c7ea56264b58c2d317fae1201711b49a002562151054e91956d7b049381ac173",
+        "size": 65927620,
+        "type": 2,
+        "url": "https://s3.mongobooster.com/download/releasesv4/nosqlbooster4mongo-4.3.1.AppImage"
+    },
+    "format": 1,
+    "id": "nosqlbooster4mongo.desktop",
+    "keywords": [],
+    "name": {
+        "null": "NoSQLBooster for MongoDB"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:30:21 GMT'"
+    }
+}

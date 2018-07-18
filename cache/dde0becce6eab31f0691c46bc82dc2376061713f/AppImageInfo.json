@@ -1,0 +1,23 @@
+{
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "23529dcc90daf00fd58b428382e504527a069159171d625803039076af3ae0ce59fe8b9887c3d071d1ab04e776a08b77c50277ead1631e9f858b813127121619",
+        "size": 38927352,
+        "type": 2,
+        "url": "https://github.com/giowck/symphytum/releases/download/v2.2/Symphytum-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "symphytum.desktop",
+    "keywords": [
+        "Symphytum"
+    ],
+    "name": {
+        "null": "Symphytum"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:36:16 GMT'"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "abstract": {
+        "null": "Cross-platform Thermal Camera Viewer"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "78914b392b3507692cb541143760a01630ff60e1f2b8be0b081ed88687de3ad6b91cb6119ffe582852c1f3020bf55acc52fb345ad8784262c3cd7cd7ed59820a",
+        "size": 28114944,
+        "type": 1,
+        "url": "https://github.com/groupgets/GetThermal/releases/download/v0.1.1/GetThermal-Linux-x64.AppImage"
+    },
+    "format": 1,
+    "id": "getthermal.desktop",
+    "keywords": [
+        "GetThermal"
+    ],
+    "name": {
+        "null": "GetThermal"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:28:01 GMT'"
+    }
+}

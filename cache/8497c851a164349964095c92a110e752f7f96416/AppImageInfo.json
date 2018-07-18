@@ -1,0 +1,26 @@
+{
+    "abstract": {
+        "null": "mini-qml Comment"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "aa423bb65179d7e2ea67d22ee61e92260a8d7b015e6ba4a333784de4556a5e4d0306841e5a87604c657366d9336e9a43bb83b1f228a8a6525840ca939b07c0e8",
+        "size": 27711328,
+        "type": 2,
+        "url": "https://github.com/patrickelectric/mini-qml/releases/download/continuous/mini-qml-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "mini-qml.desktop",
+    "keywords": [
+        "mini-qml"
+    ],
+    "name": {
+        "null": "mini-qml"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:10:23 GMT'"
+    }
+}

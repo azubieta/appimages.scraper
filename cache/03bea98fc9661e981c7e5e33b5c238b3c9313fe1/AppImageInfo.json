@@ -1,1 +1,24 @@
-{"name": {"null": "Cerebro"}, "format": 1, "abstract": {"null": "Extendable electron-based open-source Spolight and Alfred analogue"}, "release": {"date": "Mon, 25 Jun 2018 22:42:10 GMT"}, "file": {"url": "https://github.com/KELiON/cerebro/releases/download/v0.3.0/cerebro-0.3.0-x86_64.AppImage", "size": 57540608, "type": 1, "architecture": "x86-64", "sha512checksum": "7a0e6400f031f625d8cb2a8362e78f4c4b5718ea2240cdfd6434a5c679337ec553006eaa1e7055e1f95f713edc6716f469c70536e31ea2f65e18ae81509df656"}, "keywords": [], "id": "cerebro.desktop", "categories": ["public.app-category.productivity"]}
+{
+    "abstract": {
+        "null": "Extendable electron-based open-source Spolight and Alfred analogue"
+    },
+    "categories": [
+        "public.app-category.productivity"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "7a0e6400f031f625d8cb2a8362e78f4c4b5718ea2240cdfd6434a5c679337ec553006eaa1e7055e1f95f713edc6716f469c70536e31ea2f65e18ae81509df656",
+        "size": 57540608,
+        "type": 1,
+        "url": "https://github.com/KELiON/cerebro/releases/download/v0.3.0/cerebro-0.3.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "cerebro.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Cerebro"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:35:13 GMT'"
+    }
+}

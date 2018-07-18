@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Edit this default file"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "05dc6881481b3b608eac615f5631e713ad3710de2c36fca01f54ec9b8e92e3e2cc6c83d7e0f63702b09ff710d45d44d2833fc90a49823cc7346b14efaa09de0e",
+        "size": 24193272,
+        "type": 2,
+        "url": "https://github.com/christian-mv/kate_pdf_converter/releases/download/v1.0/linux_release.AppImage"
+    },
+    "format": 1,
+    "id": "default.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Application"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:23:35 GMT'"
+    }
+}

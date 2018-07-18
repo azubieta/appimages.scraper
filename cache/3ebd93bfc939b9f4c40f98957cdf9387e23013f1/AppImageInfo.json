@@ -1,0 +1,14 @@
+{
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "b1e21b7499e9ec1bb51c085217e1a220a58fb14e726ca489508ccfce035e05a093fae182cbb9bcccb668e00fba6a0a59cf4f8253c2e95a5df5c8f7259c486d7a",
+        "size": 70342080,
+        "type": 2,
+        "url": "https://github.com/shiftkey/desktop/releases/download/release-1.0.12-linux1/GitHubDesktop-linux-x86_64-1.0.12-linux1.AppImage"
+    },
+    "format": 1,
+    "keywords": [],
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:35:03 GMT'"
+    }
+}

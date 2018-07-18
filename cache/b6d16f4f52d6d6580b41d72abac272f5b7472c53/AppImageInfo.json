@@ -1,1 +1,24 @@
-{"name": {"null": "CNCjs"}, "format": 1, "abstract": {"null": "CNC Milling Controller"}, "release": {"date": "Mon, 25 Jun 2018 23:00:01 GMT"}, "file": {"url": "https://github.com/cncjs/cncjs/releases/download/v1.9.14/cncjs-app-1.9.14-linux-i386.AppImage", "size": 59826171, "type": 2, "architecture": "Intel 80386", "sha512checksum": "8bd052fe51ba25e81b44e30b59b431da617836d4bf8d3c313e9763559d5acd16766191bbc375d4aa907fcb07aef023ac640ea3259b6999229b981ef95ce6bb69"}, "keywords": [], "id": "cncjs-app.desktop", "categories": ["Utility"]}
+{
+    "abstract": {
+        "null": "CNC Milling Controller"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "8bd052fe51ba25e81b44e30b59b431da617836d4bf8d3c313e9763559d5acd16766191bbc375d4aa907fcb07aef023ac640ea3259b6999229b981ef95ce6bb69",
+        "size": 59826171,
+        "type": 2,
+        "url": "https://github.com/cncjs/cncjs/releases/download/v1.9.14/cncjs-app-1.9.14-linux-i386.AppImage"
+    },
+    "format": 1,
+    "id": "cncjs-app.desktop",
+    "keywords": [],
+    "name": {
+        "null": "CNCjs"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:38:38 GMT'"
+    }
+}

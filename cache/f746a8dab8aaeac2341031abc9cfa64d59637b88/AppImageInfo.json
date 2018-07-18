@@ -1,0 +1,25 @@
+{
+    "abstract": {
+        "null": "IRCCloud Desktop Client"
+    },
+    "categories": [
+        "Network",
+        "IRCClient"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "0004cddf7203a113f0353b9b58efd3dab0287510155716d0305cfc492683c4bc15b2bed75ebe140a335592a8daa4da07bab35ffc602637fa9123d60266b82bcf",
+        "size": 54040877,
+        "type": 2,
+        "url": "https://github.com/irccloud/irccloud-desktop/releases/download/v0.6.0/irccloud-desktop-0.6.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "irccloud-desktop.desktop",
+    "keywords": [],
+    "name": {
+        "null": "IRCCloud"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:10:12 GMT'"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Vers\u00e3o LITE do ERP online mais completo do Brasil."
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "401572a0631868abdb9ef8fb6b3e5f98dd22b747ecc549e2c744d0df5cc5651cd79d7c8819b26b513660d6c484ad15d86f770eecd92175fa9dec70f581f17b3d",
+        "size": 183442914,
+        "type": 2,
+        "url": "https://s3-us-west-2.amazonaws.com/lite.sigecloud.com.br/Installers/SIGE+Lite.AppImage"
+    },
+    "format": 1,
+    "id": "sige-lite.desktop",
+    "keywords": [],
+    "name": {
+        "null": "SIGE Lite"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:00:19 GMT'"
+    }
+}

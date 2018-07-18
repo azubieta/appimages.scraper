@@ -1,0 +1,29 @@
+{
+    "abstract": {
+        "null": "Secure messenger for everyone."
+    },
+    "categories": [
+        "Network",
+        "InstantMessaging",
+        "Chat",
+        "VideoConference"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "05e7525906de4063a20c7cba6980c4274770baa456df4c714b6cc0dc4d6302afb2886d039020390d9384b7e88ca004913208e5e115d0baa987028eb544e1f054",
+        "size": 72941568,
+        "type": 1,
+        "url": "https://github.com/wireapp/wire-desktop/releases/download/release%2F3.2.2840/wire-3.2.2840-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "wire-desktop.desktop",
+    "keywords": [
+        "The most secure collaboration platform"
+    ],
+    "name": {
+        "null": "Wire"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 05:10:16 GMT'"
+    }
+}

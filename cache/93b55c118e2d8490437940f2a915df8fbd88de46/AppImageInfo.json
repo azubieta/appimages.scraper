@@ -1,0 +1,25 @@
+{
+    "abstract": {
+        "null": "Microsoft PowerShell"
+    },
+    "categories": [
+        "System",
+        "TerminalEmulator"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "ecdd0a7c2223d282fc284c6514b69fe046676e91e53decc1c97691ffefd0e3f9df26fdc8c8072bb8ea56b9232aa3dc8ac166efbf4c76255e70fc67145db073cc",
+        "size": 78788440,
+        "type": 2,
+        "url": "https://github.com/PowerShell/PowerShell/releases/download/v6.0.0-beta.8/PowerShell-6.0.0-beta.8-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "powershell.desktop",
+    "keywords": [],
+    "name": {
+        "null": "PowerShell"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:15:44 GMT'"
+    }
+}

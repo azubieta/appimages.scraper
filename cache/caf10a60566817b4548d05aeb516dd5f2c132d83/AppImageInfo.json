@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "A DAB/DAB+ Software Radio"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "5e699861e34cb16c39cca7179b26a02ae6593159a220eebf9d2bebee8a9a249b0857727c61fd541e3352e4ac4b0466a05376e195be57840a66a0ec227c2e8675",
+        "size": 30148856,
+        "type": 2,
+        "url": "https://github.com/AlbrechtL/welle.io/releases/download/V20170417/20170417_Linux_welle-io.AppImage"
+    },
+    "format": 1,
+    "id": "welle-io.desktop",
+    "keywords": [],
+    "name": {
+        "null": "welle.io"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 05:06:26 GMT'"
+    }
+}

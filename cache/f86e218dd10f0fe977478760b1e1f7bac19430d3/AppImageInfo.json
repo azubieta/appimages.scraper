@@ -1,0 +1,36 @@
+{
+    "abstract": {
+        "null": "Optimization of FMUs"
+    },
+    "categories": [
+        "Science"
+    ],
+    "description": {
+        "null": "<p> Optifmus is a software tool for parameter estimation and optimization of Functional Mockup Inteface (FMI) models. Optifmus is developed in c++ and uses te Qt libraries. For simulation Optifmus relies in the FMI++ library. For optimization purposes Optifmus interfaces to Dakota toolkit. </p>"
+    },
+    "developer": {
+        "name": "Javier Bonilla"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "13323ecf65842deba219195bf1a2f2c37c3739eebae54dd172924ca26e6339a9aa00df4df3060d24510e0d006683afd48b3de86a709800784f4db4fd41b394be",
+        "size": 47036472,
+        "type": 2,
+        "url": "https://gitlab.com/ciemat-psa/Optifmus/raw/master/bin/linux/Optifmus-0.1.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "org.Optifmus.desktop",
+    "keywords": [],
+    "license": {
+        "id": "GPL-3.0"
+    },
+    "links": {
+        "homepage": "https://gitlab.com/ciemat-psa/Optifmus"
+    },
+    "name": {
+        "null": "Optifmus"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:40:39 GMT'"
+    }
+}

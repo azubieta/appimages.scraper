@@ -1,0 +1,25 @@
+{
+    "abstract": {
+        "null": "Open-source clone of UFO: Enemy Unknown"
+    },
+    "categories": [
+        "Game",
+        "StrategyGame"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "78ace24d770a92959ee6a3846ec8737b2c9693b65b8e3bfe6b238e154a4b98d8ae52308757a23c4cd5e5d4491393e13779027727caefd50b365cf0530da52c4f",
+        "size": 8942864,
+        "type": 2,
+        "url": "https://knapsu.eu/download/OpenXcom_1.0_x86.AppImage"
+    },
+    "format": 1,
+    "id": "openxcom.desktop",
+    "keywords": [],
+    "name": {
+        "null": "OpenXcom"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:40:34 GMT'"
+    }
+}

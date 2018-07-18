@@ -1,0 +1,28 @@
+{
+    "abstract": {
+        "null": "Generally In-source Build System - build C++ projects without a project file"
+    },
+    "categories": [
+        "Development",
+        "Building",
+        "Qt"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "ca170c0d2a743777c2b542741d8bdf5aa1603cfd1054b7ed0f688bb65616afc78004e9a34d3bdd7d34f5e5c7b2971398320e0a4359a4ec1bd7c9e61c63f85245",
+        "size": 15054776,
+        "type": 2,
+        "url": "https://github.com/sierdzio/gibs/releases/download/v0.0.2/gibs-x86_64-2018-06-22.AppImage"
+    },
+    "format": 1,
+    "id": "gibs.desktop",
+    "keywords": [
+        "Gibs"
+    ],
+    "name": {
+        "null": "gibs"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:28:44 GMT'"
+    }
+}

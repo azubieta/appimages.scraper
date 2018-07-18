@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Freeter for Linux"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "bd7278f65f162e4711bdf0372c54e22cefb21806e76a17d2d77affff4e3bb553362fa8238f0e1fdcf291a384412cd028c07b87a89e30be224a0aac8fa0f6347f",
+        "size": 54263808,
+        "type": 1,
+        "url": "https://freeter.io/download/Freeter.AppImage"
+    },
+    "format": 1,
+    "id": "Freeter.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Freeter"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:26:29 GMT'"
+    }
+}

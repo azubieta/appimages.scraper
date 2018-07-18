@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Screenwriter"
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "42d072719c9212256667b43b5964d7b979335e37afa4243fccbe79296aea78fe6ad711118a46ee4c90108d1031803f6bcd0d10c42f47bebe2705bb7e9330175c",
+        "size": 21769176,
+        "type": 2,
+        "url": "https://github.com/Aztorius/magicfountain/releases/download/1.0.0alpha8/MagicFountain-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "magicfountain.desktop",
+    "keywords": [],
+    "name": {
+        "null": "MagicFountain"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:53:39 GMT'"
+    }
+}

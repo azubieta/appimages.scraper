@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Bodhi Prediction Market app"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "a76abe2fba06544384a32ffc5dacce93accbf4b9fe1c50dd1f7940c27ac926994aab18d27f6bd52b752c7594c11a5c3e0d37ebff1de1081b951d1a8d2628e61a",
+        "size": 102768730,
+        "type": 2,
+        "url": "https://github.com/bodhiproject/bodhi-app/releases/download/0.7.4/Bodhi-0.7.4-c0-d1-i386-testnet.AppImage"
+    },
+    "format": 1,
+    "id": "bodhi.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Bodhi"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:59:28 GMT'"
+    }
+}

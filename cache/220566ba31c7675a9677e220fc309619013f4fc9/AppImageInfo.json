@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "BarterDEX desktop app"
+    },
+    "categories": [
+        "Finance"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "86b8ec35442df877ddc348c892b2e27e287bf30b87ee59ca5bfb9c287d848450903c42afbd0d289ebd0f4c283e12d4bddb51da98303fddecee737e8cabdf133f",
+        "size": 55803875,
+        "type": 2,
+        "url": "https://github.com/atomiclabs/hyperdex/releases/download/v0.1.0-alpha.9/hyperdex-0.1.0-alpha.9-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "hyperdex.desktop",
+    "keywords": [],
+    "name": {
+        "null": "HyperDEX"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:48:33 GMT'"
+    }
+}

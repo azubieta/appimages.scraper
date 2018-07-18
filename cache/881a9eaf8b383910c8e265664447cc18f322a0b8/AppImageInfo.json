@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Lisk Nano"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "83f310115a634ac22a02fa7d596a14ab6bbce8ac65d3fbff1c3c9840546f135968d7fd16ca17d68e1844d67f1606249342a0ca9bda995acddc6fbd0c40f16cd5",
+        "size": 56033280,
+        "type": 1,
+        "url": "https://github.com/LiskHQ/lisk-nano/releases/download/v1.2.0-rc.1/lisk-nano-1.2.0-rc.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "lisk-nano.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Lisk Nano"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:41:17 GMT'"
+    }
+}

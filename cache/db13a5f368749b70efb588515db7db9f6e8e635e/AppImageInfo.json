@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "UBports Installer: The easy way to install Ubuntu Touch on UBports devices."
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "98cc9a5dd8d012e55465c6d6767c8e7f46f8c263a61259abb8df635d960f787171e862806fa34b1230ab73c61e76d1049bdce71f8aab32f59e6d1dfecb53cb00",
+        "size": 69469360,
+        "type": 2,
+        "url": "https://github.com/ubports/ubports-installer/releases/download/0.1.17-beta/ubports-installer-0.1.17-beta-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "ubports-installer.desktop",
+    "keywords": [],
+    "name": {
+        "null": "ubports-installer"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:51:32 GMT'"
+    }
+}

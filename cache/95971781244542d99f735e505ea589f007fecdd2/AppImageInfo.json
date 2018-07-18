@@ -1,1 +1,24 @@
-{"name": {"null": "Crypter"}, "format": 1, "abstract": {"null": "An innovative, convenient and secure cross-platform crypto app"}, "release": {"date": "Mon, 25 Jun 2018 23:14:30 GMT"}, "file": {"url": "https://github.com/HR/Crypter/releases/download/v2.0.0/Crypter-2.0.0-x86_64.AppImage", "size": 59834368, "type": 1, "architecture": "x86-64", "sha512checksum": "2afda3a2bc56a9be96568ac4ea3c84ad1553109dd8e643d2eb5a83dafc20c5c8b40ab3d71d90567567c433d76b2898a9bda39aaf4e34c7a232ea08fd4731aa86"}, "keywords": [], "id": "Crypter.desktop", "categories": ["Utility"]}
+{
+    "abstract": {
+        "null": "An innovative, convenient and secure cross-platform crypto app"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "2afda3a2bc56a9be96568ac4ea3c84ad1553109dd8e643d2eb5a83dafc20c5c8b40ab3d71d90567567c433d76b2898a9bda39aaf4e34c7a232ea08fd4731aa86",
+        "size": 59834368,
+        "type": 1,
+        "url": "https://github.com/HR/Crypter/releases/download/v2.0.0/Crypter-2.0.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "Crypter.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Crypter"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:43:50 GMT'"
+    }
+}

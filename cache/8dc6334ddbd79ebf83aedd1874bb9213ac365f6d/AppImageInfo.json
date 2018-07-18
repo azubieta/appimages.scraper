@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "jscad desktop application"
+    },
+    "categories": [
+        "Graphics"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "b09351de31d50bee6c7b7896fdd4b350bdbb3856df2a69d3d77dba76b06977b421e9d29567478e8880e153935b992c8fcbf3584ae61e00913dfebdb5630321a5",
+        "size": 52547580,
+        "type": 2,
+        "url": "https://github.com/jscad/jscad-desktop/releases/download/v0.4.0/jscad-desktop-0.4.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "jscad-desktop.desktop",
+    "keywords": [],
+    "name": {
+        "null": "jscad-desktop"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:20:18 GMT'"
+    }
+}

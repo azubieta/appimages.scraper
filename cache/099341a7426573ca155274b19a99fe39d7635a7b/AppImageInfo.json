@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Linux System Optimizer and Monitoring"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "6c8bf95a6f6f20428a7b8072b504957de7a09e4b3bb383b795d97840be084cb8f627be45beef28d14d7eb7909138a9b07b4a838583a1a8604687807376216fa7",
+        "size": 52232192,
+        "type": 1,
+        "url": "https://github.com/oguzhaninan/Stacer/releases/download/v1.0.6/Stacer-1.0.6-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "stacer.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Stacer"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:09:16 GMT'"
+    }
+}

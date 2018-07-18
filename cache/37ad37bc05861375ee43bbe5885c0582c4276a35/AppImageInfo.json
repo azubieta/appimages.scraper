@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "An Electron wrapper for Twitch.tv"
+    },
+    "categories": [
+        "Network"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "53c044b586564cec6ce40e62763c54dcdcea4fc1af40dfa8766e62162389c05e70217f469add497307ba208e4561dd7f47ac8e09ed9576c4fd03111c46dfcc33",
+        "size": 51944784,
+        "type": 2,
+        "url": "https://github.com/simoniz0r/twitch-wrapper/releases/download/v0.0.1/twitch-wrapper-0.0.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "twitch.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Twitch"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:51:18 GMT'"
+    }
+}

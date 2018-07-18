@@ -1,0 +1,25 @@
+{
+    "abstract": {
+        "null": "spm is a simple commandline package manager that installs/manages AppImages."
+    },
+    "categories": [
+        "GTK",
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "a0fa5b10cb5da7b9785be47062882fe901158d9953f09dae8d1e7a09a702657d4d86b551dd2a0d31ccc764c0f087b6d1615458f27d5e67b8352464e9935f48e9",
+        "size": 546656,
+        "type": 2,
+        "url": "https://github.com/simoniz0r/spm/releases/download/v0.2.01/spm-0.2.01-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "spm.desktop",
+    "keywords": [],
+    "name": {
+        "null": "spm"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:07:40 GMT'"
+    }
+}

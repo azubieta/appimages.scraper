@@ -1,0 +1,26 @@
+{
+    "abstract": {
+        "null": "ShareX for Unix-like systems"
+    },
+    "categories": [
+        "Graphics",
+        "Network",
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "fd7f1c978a0be20ebe07a972435ba3c71f13b64415ebe8c0ffd8b2b34b7771c5dc006f8840b3c354ffb791bae5fdf3e97bb008e9979fe4713e73d31b41f1efbb",
+        "size": 3812184,
+        "type": 2,
+        "url": "https://github.com/ShareXin/ShareXin/releases/download/0.5.8.1/sharexin-0.5.8.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "sharexin.desktop",
+    "keywords": [],
+    "name": {
+        "null": "ShareXin"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:56:59 GMT'"
+    }
+}

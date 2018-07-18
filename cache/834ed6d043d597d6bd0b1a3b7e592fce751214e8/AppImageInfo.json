@@ -1,0 +1,18 @@
+{
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "f9041b037c126be457bf93599f8185f207d4c18a59c7e00b2ab6d532547933dbfb027e1094ba3721cbcad98c79c327f32703c50398931ffa8e77f4802d37b4c6",
+        "size": 22792120,
+        "type": 2,
+        "url": "https://github.com/AppImage/AppImageUpdate/releases/download/continuous/AppImageUpdate-341-08287e3-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "AppImageUpdate.desktop",
+    "keywords": [],
+    "name": {
+        "null": "AppImageUpdate"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:15:51 GMT'"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "abstract": {
+        "fr": "Contr\u00f4leur MIDI distant via UDP/IP Multicast",
+        "null": "MIDI Remote Controller via UDP/IP Multicast"
+    },
+    "categories": [
+        "Audio",
+        "AudioVideo",
+        "Midi",
+        "X-Alsa",
+        "Qt"
+    ],
+    "description": {
+        "null": "<p>QmidiCtl is a MIDI remote controller application that sends MIDI data over the network, using UDP/IP multicast. Inspired by multimidicast (http://llg.cubic.org/tools) and designed to be compatible with ipMIDI for Windows (http://nerds.de).</p>"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "674504cfe50cf01c0bdb1a120434b1caf17b8b274ee329b4d9d22d54e84b294bbbf33000b94bd401880ec9d5e8c83ecef71d57f17c49c2220ecdc1c63597cf87",
+        "size": 11453656,
+        "type": 2,
+        "url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/qmidictl-1530542162.a4495df-Build1.4.glibc2.14-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "qmidictl.desktop",
+    "keywords": [],
+    "license": {
+        "id": "GPL-2.0+"
+    },
+    "links": {
+        "homepage": "https://qmidictl.sourceforge.io"
+    },
+    "name": {
+        "null": "QmidiCtl"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:36:52 GMT'"
+    }
+}

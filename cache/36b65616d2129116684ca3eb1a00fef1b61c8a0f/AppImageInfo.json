@@ -1,1 +1,18 @@
-{"name": {"null": "DanmaQ"}, "format": 1, "release": {"date": "Mon, 25 Jun 2018 23:33:03 GMT"}, "file": {"url": "https://github.com/tuna/danmaQ/releases/download/cpp-0.1/danmaQ.AppImage", "size": 11337728, "type": 1, "architecture": "x86-64", "sha512checksum": "4e6342b813eee4e582f017ac60c9a7a22d1c11b3438ee4101881c30123c60d079efde723a62d7df3e6408777d1578eca6dbbc64adb23af7cf4953ff168d6f99b"}, "keywords": [], "id": "danmaQ.desktop"}
+{
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "4e6342b813eee4e582f017ac60c9a7a22d1c11b3438ee4101881c30123c60d079efde723a62d7df3e6408777d1578eca6dbbc64adb23af7cf4953ff168d6f99b",
+        "size": 11337728,
+        "type": 1,
+        "url": "https://github.com/tuna/danmaQ/releases/download/cpp-0.1/danmaQ.AppImage"
+    },
+    "format": 1,
+    "id": "danmaQ.desktop",
+    "keywords": [],
+    "name": {
+        "null": "DanmaQ"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:51:00 GMT'"
+    }
+}

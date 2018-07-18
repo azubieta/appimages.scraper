@@ -1,0 +1,23 @@
+{
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "7a8efea184aaa1711cf58d17a49759dedfc2e33afaeff3a4672301d56e0742db96b28607337434598fa5d9d075ffc253c6e6e4a663674154733bd0c1e245a1da",
+        "size": 39694484,
+        "type": 2,
+        "url": "https://github.com/Subsurface-divelog/subsurface/releases/download/continuous/smtk2ssrf-4.8.1-39-gb7bb9b417775-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "smtk2ssrf.desktop",
+    "keywords": [
+        "SmartTrak log importer"
+    ],
+    "name": {
+        "null": "smtk2ssrf"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:31:27 GMT'"
+    }
+}

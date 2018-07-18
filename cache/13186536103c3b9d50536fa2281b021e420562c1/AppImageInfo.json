@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "MyCrypto web and electron app"
+    },
+    "categories": [
+        "Finance"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "87bf8152342e0183925d413a5dac66eb68c2cc378730306cffeaacdb56aa8ab53b2cedeb08f639e29f767bef34b1ab0138d4043163552278d54061c84e5344da",
+        "size": 111232305,
+        "type": 2,
+        "url": "https://s3-us-west-2.amazonaws.com/mycrypto-electron-alpha/2/MyCrypto-1-0-0-RC2-linux-i386.AppImage"
+    },
+    "format": 1,
+    "id": "mycrypto.desktop",
+    "keywords": [],
+    "name": {
+        "null": "MyCrypto"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:18:31 GMT'"
+    }
+}

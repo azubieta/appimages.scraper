@@ -1,0 +1,26 @@
+{
+    "abstract": {
+        "null": "Next generation markdown editor"
+    },
+    "categories": [
+        "Office",
+        "TextEditor",
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "a43c0dde19c0737097ff5f518fd9c640bd5d2df564ed069c2641d59a8b9345caf799e491d4dc017c1dfb80026810ca5207ad331afc26eb7b4fee45798ba9d5e8",
+        "size": 60982714,
+        "type": 2,
+        "url": "https://github.com/marktext/marktext/releases/download/v0.10.21/marktext-0.10.21-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "marktext.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Mark Text"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:55:05 GMT'"
+    }
+}

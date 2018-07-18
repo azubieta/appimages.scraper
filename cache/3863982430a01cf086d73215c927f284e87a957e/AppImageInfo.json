@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Python is a programming language that lets you work quickly and integrate systems more effectively."
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "b867b7d47199ea1487f29352ff3beb498e568a414edc44cceb5bad609bad4fcbd3116417f1f7a4a4faedbbaa92d52f9442f2d8ece59fafc84de3bd649dd38c65",
+        "size": 28107992,
+        "type": 2,
+        "url": "http://download.opensuse.org/repositories/home:/nandub:/MyAppImages/AppImage/python3-latest-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "python.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Python3"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:32:27 GMT'"
+    }
+}

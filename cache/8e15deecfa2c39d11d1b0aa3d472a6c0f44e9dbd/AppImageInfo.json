@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Build React applications, faster."
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "715a42483bc1fd59755ed876853fbd9449bc55e9c7447cbeb14d38790eef62b7a84fe424f368649046231e67c2907a3c8857d6eae87d49e4d9be69756d4c0d7b",
+        "size": 100418223,
+        "type": 2,
+        "url": "https://github.com/eveningkid/reacto/releases/download/v0.2.10/Reacto-0.2.10-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "reacto.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Reacto"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:36:06 GMT'"
+    }
+}

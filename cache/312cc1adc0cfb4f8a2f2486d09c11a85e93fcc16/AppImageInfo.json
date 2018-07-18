@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "A simple, clean and cross-platform music player, written with Node.js, Electron and React.js."
+    },
+    "categories": [
+        "AudioVideo"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "efdb8c2d2d021818882919fa42464e06d7203a9cf1759b0c11823a938204ef3b71e37aefc85f71bdea71be147ec6b5e621c5327c94b775100c141bae3ef0884b",
+        "size": 59958092,
+        "type": 2,
+        "url": "https://github.com/KeitIG/museeks/releases/download/0.9.0/museeks-i386.AppImage"
+    },
+    "format": 1,
+    "id": "museeks.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Museeks"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:14:51 GMT'"
+    }
+}

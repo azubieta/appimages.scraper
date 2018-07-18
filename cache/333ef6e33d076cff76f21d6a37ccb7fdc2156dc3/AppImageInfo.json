@@ -1,0 +1,25 @@
+{
+    "abstract": {
+        "null": "stenographic input and translation"
+    },
+    "categories": [
+        "Utility",
+        "Accessibility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "6f2c669c60b61731f6fa148a6cc34420dfab94499c5e78c53b26f9ea471bbbde212698df3f3fc2c50a10c5dab72846acebcc2739f5c83f30a8273cd59df7f477",
+        "size": 112789720,
+        "type": 2,
+        "url": "https://github.com/openstenoproject/plover/releases/download/weekly-v4.0.0.dev5%2B23.g773ba288/plover-4.0.0.dev5.23.g773ba28-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "plover.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Plover"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:10:18 GMT'"
+    }
+}

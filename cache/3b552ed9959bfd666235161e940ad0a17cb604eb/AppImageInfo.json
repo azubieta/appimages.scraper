@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "CNC Milling Controller"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "c9aab490529ac925343108e50fe5513b90f230418897bd852fdb108509909b1598e522de9b2ddd45eaa302117b9d2a048f413fcaffe69ee3ddf295297c910588",
+        "size": 56329797,
+        "type": 2,
+        "url": "https://github.com/cncjs/cncjs/releases/download/319-320-347-sessions-latest/cncjs-app-1.9.15-pr348-linux-i386.AppImage"
+    },
+    "format": 1,
+    "id": "cncjs-app.desktop",
+    "keywords": [],
+    "name": {
+        "null": "CNCjs"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:38:38 GMT'"
+    }
+}

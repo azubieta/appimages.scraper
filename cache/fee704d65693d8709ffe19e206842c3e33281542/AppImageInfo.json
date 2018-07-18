@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Automatically track applications usage and working time"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "7c733dcbab9def3c69d7da322d182a3b2bfadb6505131919ded85d6a8d208bed17eb8c840c05f26a2141b487fef51693021feeda9bc7dcf747dfedc273c09e17",
+        "size": 72765366,
+        "type": 2,
+        "url": "https://github.com/MayGo/tockler/releases/download/v3.3.14/tockler-3.3.14-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "tockler.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Tockler"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:43:29 GMT'"
+    }
+}

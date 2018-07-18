@@ -1,1 +1,21 @@
-{"name": {"null": "Alduin"}, "format": 1, "abstract": {"null": "An Atom and RSS feed aggregator"}, "release": {"date": "Mon, 25 Jun 2018 19:35:52 GMT"}, "file": {"url": "https://github.com/AlduinApp/alduin/releases/download/1.4.0/Alduin-1.4.0.AppImage", "size": 57933824, "type": 1, "architecture": "x86-64", "sha512checksum": "ffacea9226e7106808d03a0f3f6bd05e6070779498833e1da45d1268f269bf2ce835a185e26432608053c29bfe70d5702bf902c0f66921e0eaea4ffb05c3ecd3"}, "keywords": [], "id": "alduin.desktop"}
+{
+    "abstract": {
+        "null": "An Atom and RSS feed aggregator"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "ffacea9226e7106808d03a0f3f6bd05e6070779498833e1da45d1268f269bf2ce835a185e26432608053c29bfe70d5702bf902c0f66921e0eaea4ffb05c3ecd3",
+        "size": 57933824,
+        "type": 1,
+        "url": "https://github.com/AlduinApp/alduin/releases/download/1.4.0/Alduin-1.4.0.AppImage"
+    },
+    "format": 1,
+    "id": "alduin.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Alduin"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:05:36 GMT'"
+    }
+}

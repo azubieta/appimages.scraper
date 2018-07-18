@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "LiveZilla"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "6f3bf95aa938dc37085f28cac599338dea46fbf96d650a77c70d1d1e4b40f2c650d0dbc491a82b0c54ba215551a618959825925ad0f81ffaaa0a7855747f157d",
+        "size": 56033280,
+        "type": 1,
+        "url": "http://www.livezilla.net/downloads/pubfiles/livezilla_app_linux_x64_1.2.3.AppImage"
+    },
+    "format": 1,
+    "id": "livezilla.desktop",
+    "keywords": [],
+    "name": {
+        "null": "LiveZilla"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:45:30 GMT'"
+    }
+}

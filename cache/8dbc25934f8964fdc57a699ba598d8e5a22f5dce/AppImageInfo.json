@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Next generation markdown editor"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "6ed726bd0d462b5831352d934045361d29424300430d29b7ef693a5995924e143a4c3aa1d73198260d3425b059f96e2cbf46eb3616a4cf748da76f9325859058",
+        "size": 62725009,
+        "type": 2,
+        "url": "https://github.com/marktext/marktext/releases/download/v0.7.17/marktext-0.7.17-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "marktext.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Mark Text"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:55:05 GMT'"
+    }
+}

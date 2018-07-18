@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Finds you the perfect subtitle match"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "359d0923f6dcfd6a0ba6bd6875b22b49f442d6b38c22bf5484e8511b4eceabe47b0dc58f743e3651d9fcb5ff2bbfb7dbb8ef311495bfe58d524f185539eb4319",
+        "size": 54548512,
+        "type": 2,
+        "url": "https://github.com/sanjevirau/gsubs/releases/download/v1.0.1/gsubs-1.0.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "gsubs.desktop",
+    "keywords": [],
+    "name": {
+        "null": "gSubs"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:41:19 GMT'"
+    }
+}

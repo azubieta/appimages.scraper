@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Simple desktop scraper app."
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "809e04b4eedca54bf6be7e8e074b242d8cde25ece5cea79747d8db2e693b332697edffdd739fc5dadc48c0ecf39ca5c9a6a57d5fbace598e5f557c0e1b5827df",
+        "size": 52576419,
+        "type": 2,
+        "url": "https://github.com/cedoor/scraper/releases/download/v0.1.4/Scraper-0.1.4.AppImage"
+    },
+    "format": 1,
+    "id": "scraper.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Scraper"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:54:16 GMT'"
+    }
+}

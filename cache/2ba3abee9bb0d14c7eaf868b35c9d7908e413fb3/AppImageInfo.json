@@ -1,1 +1,25 @@
-{"name": {"null": "Wechat"}, "format": 1, "abstract": {"null": "Wechat desktop application"}, "release": {"date": "Tue, 26 Jun 2018 00:39:19 GMT"}, "file": {"url": "https://github.com/eNkru/electron-wechat/releases/download/v0.1.1/electron-wechat-0.1.1-x86_64.AppImage", "size": 49288120, "type": 2, "architecture": "x86-64", "sha512checksum": "fd12a7d3d4dca5d03d9c153f777b50075d31dbb2add55bbbe2bbd5e60d472ff7ec49d90cabcbdb6325faae2d5ec6a0ddf9b1163c6fa551e009c4f0b9ea792c08"}, "keywords": [], "id": "electron-wechat.desktop", "categories": ["Network", "Utility"]}
+{
+    "abstract": {
+        "null": "Wechat desktop application"
+    },
+    "categories": [
+        "Network",
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "fd12a7d3d4dca5d03d9c153f777b50075d31dbb2add55bbbe2bbd5e60d472ff7ec49d90cabcbdb6325faae2d5ec6a0ddf9b1163c6fa551e009c4f0b9ea792c08",
+        "size": 49288120,
+        "type": 2,
+        "url": "https://github.com/eNkru/electron-wechat/releases/download/v0.1.1/electron-wechat-0.1.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "electron-wechat.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Wechat"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:12:39 GMT'"
+    }
+}

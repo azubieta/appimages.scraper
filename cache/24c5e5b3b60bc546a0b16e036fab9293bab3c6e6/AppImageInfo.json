@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "AnaVis is a tool to visualize musical form"
+    },
+    "categories": [
+        "Education"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "cdd1c9db58110a48925033d811b5bbe130b4aef295f44b86bfcb8a22f2a1463b9c8503ccdd48f3260f2781f0b5b864556965c51eeda88de6f531ca798b3ccc80",
+        "size": 63983336,
+        "type": 2,
+        "url": "https://github.com/learningmedia/anavis/releases/download/v2.0.0-beta.3/anavis-2.0.0-beta.3-linux-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "anavis.desktop",
+    "keywords": [],
+    "name": {
+        "null": "AnaVis Beta"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:10:11 GMT'"
+    }
+}

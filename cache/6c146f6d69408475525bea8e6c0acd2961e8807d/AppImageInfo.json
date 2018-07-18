@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Simple google drive client"
+    },
+    "categories": [
+        "Archiving"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "0df833251b96d29ad672db772a5aefe450a1572a8e9f53021d923b1a8abab1c3c876f74ebcc3670f6d5a255931389e06cbde9a5e7d5ee3e63d5437c1670123f5",
+        "size": 61768572,
+        "type": 2,
+        "url": "https://github.com/liberodark/ODrive/releases/download/0.2.0/odrive-0.2.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "odrive.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Open Drive"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:32:40 GMT'"
+    }
+}

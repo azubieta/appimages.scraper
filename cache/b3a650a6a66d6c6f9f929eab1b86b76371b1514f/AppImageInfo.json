@@ -1,0 +1,26 @@
+{
+    "abstract": {
+        "null": "Desktop client for Matrix"
+    },
+    "categories": [
+        "Network",
+        "InstantMessaging",
+        "Qt"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "1046592574e001a76dc9a82c6a880cffbadc1fa17032d44dee20db994d47f19f10a2c18316bd87f51fa52da9988ac851587b6df9c758ff85c381d3f87b80a5bf",
+        "size": 48965472,
+        "type": 2,
+        "url": "https://github.com/mujx/nheko/releases/download/v0.4.0/nheko-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "nheko.desktop",
+    "keywords": [],
+    "name": {
+        "null": "nheko"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:28:01 GMT'"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Batch labs is a tool to manage your Azure Batch accounts"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "f681254a86c68d3a3f4e51e02d290f16e9ea97719437d6882f72b9d890b5ad1ee3d7d24213b94915e1baca9ccd59049980c7f72bdf552cf18afd220da94e5416",
+        "size": 111099416,
+        "type": 2,
+        "url": "https://github.com/Azure/BatchExplorer/releases/download/v0.13.0/batch-labs-0.13.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "batch-labs.desktop",
+    "keywords": [],
+    "name": {
+        "null": "BatchLabs"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:53:01 GMT'"
+    }
+}

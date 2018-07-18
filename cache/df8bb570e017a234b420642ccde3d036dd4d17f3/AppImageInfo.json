@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "A tool for Pok\u00e9mon Go to aid in transferring and evolving Pok\u00e9mon"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "0e21fc37ef1c27f786e206633abdae0d8dcf3120a00d0c71ac587ef69352e38db6164b98fca4a87bae3a42879fb6e7d829e85d15466846f8a3c892b25b227348",
+        "size": 88145920,
+        "type": 1,
+        "url": "https://github.com/vinnymac/PokeNurse/releases/download/v2.2.0/PokeNurse-x64.AppImage"
+    },
+    "format": 1,
+    "id": "PokeNurse.desktop",
+    "keywords": [],
+    "name": {
+        "null": "PokeNurse"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:12:31 GMT'"
+    }
+}

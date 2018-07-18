@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Desktop application to manage your Cleep devices"
+    },
+    "categories": [
+        "Network"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "7b0280d883e20d0317530a65e8ca7474d0cfaf4ba79827735bfbdbf29e104b9c90e7466043f14ea4e360534a023f080ff7b528474e517f0afcc8fd5322ea3fa3",
+        "size": 92605164,
+        "type": 2,
+        "url": "https://github.com/tangb/CleepDesktop/releases/download/v0.0.4/CleepDesktop-0.0.4-linux-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "cleepdesktop.desktop",
+    "keywords": [],
+    "name": {
+        "null": "CleepDesktop"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:37:04 GMT'"
+    }
+}

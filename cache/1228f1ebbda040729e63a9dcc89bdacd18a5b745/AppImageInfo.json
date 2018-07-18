@@ -1,1 +1,24 @@
-{"name": {"null": "Caprine"}, "format": 1, "abstract": {"null": "Elegant Facebook Messenger desktop app"}, "release": {"date": "Mon, 25 Jun 2018 22:29:36 GMT"}, "file": {"url": "https://github.com/sindresorhus/caprine/releases/download/v2.14.2/caprine-2.14.2-x86_64.AppImage", "size": 50477302, "type": 2, "architecture": "x86-64", "sha512checksum": "a9c4768e69f8478eaaebd2551c8ad36a85eda8bfb7338d449eddd8c630f021dacf7c41e2a6643465a952a367bcd4a977fd1142bc351b638cb72dc60d36e7d013"}, "keywords": [], "id": "caprine.desktop", "categories": ["Chat"]}
+{
+    "abstract": {
+        "null": "Elegant Facebook Messenger desktop app"
+    },
+    "categories": [
+        "Chat"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "a9c4768e69f8478eaaebd2551c8ad36a85eda8bfb7338d449eddd8c630f021dacf7c41e2a6643465a952a367bcd4a977fd1142bc351b638cb72dc60d36e7d013",
+        "size": 50477302,
+        "type": 2,
+        "url": "https://github.com/sindresorhus/caprine/releases/download/v2.14.2/caprine-2.14.2-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "caprine.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Caprine"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:32:47 GMT'"
+    }
+}

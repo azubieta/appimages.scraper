@@ -1,0 +1,14 @@
+{
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "5da310a9e183779e1e49693c0520147c2a85fdecfe5500a6b8a08ee934d42cef90bbec4befb0eba7c42f1353dbcc27f68f09a5d1688314c0d4e3788740c4214b",
+        "size": 48663760,
+        "type": 2,
+        "url": "https://github.com/jonathontoon/tweet-tray/releases/download/v1.1.1/tweet-tray-1.1.1.AppImage"
+    },
+    "format": 1,
+    "keywords": [],
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:50:46 GMT'"
+    }
+}

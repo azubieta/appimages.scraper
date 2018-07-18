@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "A Simple VueJS\u2019s Calculator built with ElectronJS"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "4133ef80a4258bde8aa241808aa67b0b5e780514c16bc3792fdb39bd1cab233d87dfe3fd1499b8b5f251865c9664d1d265d5d6edd4260944a721509ec84fbaf3",
+        "size": 56991908,
+        "type": 2,
+        "url": "https://github.com/el3um4s/vue-calc/releases/download/v0.18.04.15/vue-calc-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "vue-calc.desktop",
+    "keywords": [],
+    "name": {
+        "null": "vue-calc"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 05:02:52 GMT'"
+    }
+}

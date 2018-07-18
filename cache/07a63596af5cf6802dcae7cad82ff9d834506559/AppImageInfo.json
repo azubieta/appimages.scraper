@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Personal Task Management App to help you with your daily struggle with JIRA etc."
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "aff2205d3af932c68aa51b86a3fd535dfc959163289d7fbdb6cd6127fc7ec5ff36831ac4aafeaadb836ddea3d1f1020daf91a0c396773e4b500ff333cf9f3e65",
+        "size": 59432277,
+        "type": 2,
+        "url": "https://github.com/johannesjo/super-productivity/releases/download/v1.10.44/superProductivity-1.10.44-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "superproductivity.desktop",
+    "keywords": [],
+    "name": {
+        "null": "superProductivity"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:34:38 GMT'"
+    }
+}

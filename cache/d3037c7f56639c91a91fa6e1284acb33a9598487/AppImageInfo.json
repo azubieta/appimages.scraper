@@ -1,1 +1,24 @@
-{"name": {"null": "autoEdit2"}, "format": 1, "abstract": {"null": "autoEdit2 Desktop Client for Linux"}, "release": {"date": "Mon, 25 Jun 2018 20:45:20 GMT"}, "file": {"url": "https://github.com/OpenNewsLabs/autoEdit_2/releases/download/Linux/autoEdit2-1.0.10-x86_64.AppImage", "size": 123005520, "type": 2, "architecture": "x86-64", "sha512checksum": "2e06fd87a04296e70c0580f6eaef684ef1a3e311eea2e4a126d79eca9a006cb02ca86b0fd8a69ca866b29ddb91d1e2fc1d7b4977c8ece44a8e0fdda2ba473a34"}, "keywords": [], "id": "autoedit2.desktop", "categories": ["Utility"]}
+{
+    "abstract": {
+        "null": "autoEdit2 Desktop Client for Linux"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "2e06fd87a04296e70c0580f6eaef684ef1a3e311eea2e4a126d79eca9a006cb02ca86b0fd8a69ca866b29ddb91d1e2fc1d7b4977c8ece44a8e0fdda2ba473a34",
+        "size": 123005520,
+        "type": 2,
+        "url": "https://github.com/OpenNewsLabs/autoEdit_2/releases/download/Linux/autoEdit2-1.0.10-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "autoedit2.desktop",
+    "keywords": [],
+    "name": {
+        "null": "autoEdit2"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:51:26 GMT'"
+    }
+}

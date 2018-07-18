@@ -1,1 +1,24 @@
-{"name": {"null": "DeDop-studio"}, "format": 1, "abstract": {"null": "DeDop Studio"}, "release": {"date": "Mon, 25 Jun 2018 23:37:50 GMT"}, "file": {"url": "https://github.com/DeDop/dedop-studio/releases/download/v1.4.0/DeDop-studio-1.4.0-x86_64.AppImage", "size": 76037772, "type": 2, "architecture": "x86-64", "sha512checksum": "9358a9b42c076211b8e0568cf8a73c3a0eacac06eed89575bf82668d4745692327344ad69cc7c5b8f277d47e1ada9530abe082418249e4a259b206643ddbf093"}, "keywords": [], "id": "dedop-studio.desktop", "categories": ["Science"]}
+{
+    "abstract": {
+        "null": "DeDop Studio"
+    },
+    "categories": [
+        "Science"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "9358a9b42c076211b8e0568cf8a73c3a0eacac06eed89575bf82668d4745692327344ad69cc7c5b8f277d47e1ada9530abe082418249e4a259b206643ddbf093",
+        "size": 76037772,
+        "type": 2,
+        "url": "https://github.com/DeDop/dedop-studio/releases/download/v1.4.0/DeDop-studio-1.4.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "dedop-studio.desktop",
+    "keywords": [],
+    "name": {
+        "null": "DeDop-studio"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:52:42 GMT'"
+    }
+}

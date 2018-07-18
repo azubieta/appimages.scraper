@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Mock servers in seconds"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "9060d32784e790d9b40b52f006f8d8589e9ca97d880bad47397c0c18f2ce03eb163cd8de5fde02c0ef1b964b37aa71c1d607f09d304c92d25ed06c7de658fa7f",
+        "size": 58916864,
+        "type": 1,
+        "url": "https://releases.mockoon.com/mockoon-0.1.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "mockoon.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Mockoon"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:13:08 GMT'"
+    }
+}

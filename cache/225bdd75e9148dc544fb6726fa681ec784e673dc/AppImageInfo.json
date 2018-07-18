@@ -1,1 +1,24 @@
-{"name": {"null": "AppImageMonitor"}, "format": 1, "abstract": {"null": "AppImage desktop integration daemon"}, "release": {"date": "Mon, 25 Jun 2018 20:14:07 GMT"}, "file": {"url": "https://github.com/AppImage/AppImageKit/releases/download/6/AppImageMonitor_6-x86_64.AppImage", "size": 720896, "type": 1, "architecture": "x86-64", "sha512checksum": "7a9c96368bacc93ce492d369974c45c4c779618988bd33ccac5847ab997a14c4cac3a9f76bccbbf5930a5e81d5997921b90e69d3b69c89004f7ff6a85476b81b"}, "keywords": [], "id": "AppImageMonitor.desktop", "categories": ["System"]}
+{
+    "abstract": {
+        "null": "AppImage desktop integration daemon"
+    },
+    "categories": [
+        "System"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "7a9c96368bacc93ce492d369974c45c4c779618988bd33ccac5847ab997a14c4cac3a9f76bccbbf5930a5e81d5997921b90e69d3b69c89004f7ff6a85476b81b",
+        "size": 720896,
+        "type": 1,
+        "url": "https://github.com/AppImage/AppImageKit/releases/download/6/AppImageMonitor_6-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "AppImageMonitor.desktop",
+    "keywords": [],
+    "name": {
+        "null": "AppImageMonitor"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:14:58 GMT'"
+    }
+}

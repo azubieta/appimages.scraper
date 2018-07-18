@@ -1,0 +1,21 @@
+{
+    "categories": [
+        "Network"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "17b6c939b24a043a60969618d50f552780639abd6fc027b42fc84ba2ada8460c6d3ff36d105a1039f681915dcba931de2eb17bb92b2a9a82e2edd18b04611af2",
+        "size": 24885176,
+        "type": 2,
+        "url": "https://github.com/dannagle/PacketSender/releases/download/v5.7.52/PacketSender_Linux_x64_v5.7.52.AppImage"
+    },
+    "format": 1,
+    "id": "packetsender.desktop",
+    "keywords": [],
+    "name": {
+        "null": "PacketSender"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:43:06 GMT'"
+    }
+}

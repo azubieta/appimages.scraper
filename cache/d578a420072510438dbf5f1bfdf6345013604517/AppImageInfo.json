@@ -1,0 +1,25 @@
+{
+    "abstract": {
+        "null": "Nuclino is the easiest way to organize and share knowledge in your team."
+    },
+    "categories": [
+        "Office",
+        "ProjectManagement"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "4804fb8cda52b09f4d568016c8f76f89d46c8546a808e85eccc9a6dfeeb7918abbd2a377abe251a47c955c260872c61352346433f470cf4499195fc318e4fcfa",
+        "size": 48831887,
+        "type": 2,
+        "url": "https://s3.eu-central-1.amazonaws.com/repository.nuclino.com/downloads/Nuclino.AppImage"
+    },
+    "format": 1,
+    "id": "nuclino-desktop.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Nuclino"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:32:32 GMT'"
+    }
+}

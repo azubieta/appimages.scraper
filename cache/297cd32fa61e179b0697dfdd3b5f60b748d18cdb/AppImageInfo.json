@@ -1,0 +1,18 @@
+{
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "81424ff5dce4e715ef83d5d37717a3119ea3f225a9938694af7da061cd4fa63abc5b715a9a97330880c46483ea0894d31108897d07670c884b1d3844763524d5",
+        "size": 2627512,
+        "type": 2,
+        "url": "https://github.com/AppImage/AppImageUpdate/releases/download/continuous/appimageupdatetool-341-08287e3-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "appimageupdatetool.desktop",
+    "keywords": [],
+    "name": {
+        "null": "appimageupdatetool"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:15:51 GMT'"
+    }
+}

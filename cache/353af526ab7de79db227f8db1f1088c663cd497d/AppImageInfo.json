@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Microsoft Teams Capsule allows to run MS Teams web version as a standalone app"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "a3fdcd5b5e16a8a0f6cfbc753351a24ff2701632013d4c15b08226e3cd2c874a9d33516007f216c1b884f5c3a87eb0cf0059b97a3f77ffe694d00a24ac6c64c9",
+        "size": 49152000,
+        "type": 1,
+        "url": "https://dl.karmainside.com/ms-teams-capsule/ms-teams-capsule-latest-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "ms-teams-capsule.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Microsoft Teams Capsule"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:10:49 GMT'"
+    }
+}

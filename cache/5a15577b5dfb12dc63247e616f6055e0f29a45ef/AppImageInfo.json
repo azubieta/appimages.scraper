@@ -1,0 +1,21 @@
+{
+    "categories": [
+        "System"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "05c6a95c45f93498a5582f60f4c4ecfca34c07236944720c12a4221d6224d4fb23a95f6f2967747ac16a880ae69d42aa562217ca0408fe4238ecd7421a11fd54",
+        "size": 7859032,
+        "type": 2,
+        "url": "https://github.com/blahgeek/Minions/releases/download/v0.2.0-rc1/Minions-0.2.0.glibc2.18-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "minions.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Minions"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:09:28 GMT'"
+    }
+}

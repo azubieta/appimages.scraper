@@ -1,0 +1,23 @@
+{
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "976cdfc9ecbbae757f7150d2395d6ee8ab4583e7bed573b7896c3f0c8f280fd9ab404bc78850eb6145200fe3aa19ccf75538714ca4b622c8f11fdecc84319759",
+        "size": 35198904,
+        "type": 2,
+        "url": "https://github.com/Subsurface-divelog/subsurface/releases/download/continuous-fix1419/smtk2ssrf-4.7.8-415-gb55a2aac5316-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "smtk2ssrf.desktop",
+    "keywords": [
+        "SmartTrak log importer"
+    ],
+    "name": {
+        "null": "smtk2ssrf"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:31:27 GMT'"
+    }
+}

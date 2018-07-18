@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Hoard git repositories with ease"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "ce6d283dcd225aa41f80203fc4ee1c2d9267f7a9aceb726e9d62808ed734cda7c97356504d184fd69244e319481eb12e36066a4b1d408c33a5272b01182eb35f",
+        "size": 70385664,
+        "type": 1,
+        "url": "https://github.com/jojobyte/githoard/releases/download/v0.3.2/githoard-0.3.2-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "githoard.desktop",
+    "keywords": [],
+    "name": {
+        "null": "GitHoard"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:33:55 GMT'"
+    }
+}

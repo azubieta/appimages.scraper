@@ -1,0 +1,27 @@
+{
+    "abstract": {
+        "null": "QCTools"
+    },
+    "categories": [
+        "AudioVideo",
+        "AudioVideoEditing"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "e30866d7693663f72645052c9d7c0b1d17127cc4721bb097104fcf734fe57ddd0f278c7207122169b55da136d57d3fe8ef17e23dfa546c1a3a33380942eb2be0",
+        "size": 50200576,
+        "type": 1,
+        "url": "http://old.mediaarea.net/download/binary/qctools/0.9/qctools-0.9.glibc2.7-i686.AppImage"
+    },
+    "format": 1,
+    "id": "qctools.desktop",
+    "keywords": [
+        "QCTools"
+    ],
+    "name": {
+        "null": "QCTools"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:23:03 GMT'"
+    }
+}

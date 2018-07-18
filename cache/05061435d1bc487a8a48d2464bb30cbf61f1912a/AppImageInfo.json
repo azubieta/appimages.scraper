@@ -1,1 +1,24 @@
-{"name": {"null": "Baiji Manga Viewer"}, "format": 1, "abstract": {"null": "A modern manga viewer inspired by Quivi that uses Material Design"}, "release": {"date": "Mon, 25 Jun 2018 20:48:52 GMT"}, "file": {"url": "https://github.com/jmarioste/manga-viewer/releases/download/v1.1.1/baiji-manga-viewer-1.1.1-x86_64.AppImage", "size": 70722521, "type": 2, "architecture": "x86-64", "sha512checksum": "1417b6abfa0684675e9a719c4870cab37a44f920da9dff34d889d201e291e86345efe666ff3eeea932a5ee498f80ae938d30f8e51c1378ba0e04e07fcbfc15a1"}, "keywords": [], "id": "baiji-manga-viewer.desktop", "categories": ["Graphics"]}
+{
+    "abstract": {
+        "null": "A modern manga viewer inspired by Quivi that uses Material Design"
+    },
+    "categories": [
+        "Graphics"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "1417b6abfa0684675e9a719c4870cab37a44f920da9dff34d889d201e291e86345efe666ff3eeea932a5ee498f80ae938d30f8e51c1378ba0e04e07fcbfc15a1",
+        "size": 70722521,
+        "type": 2,
+        "url": "https://github.com/jmarioste/manga-viewer/releases/download/v1.1.1/baiji-manga-viewer-1.1.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "baiji-manga-viewer.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Baiji Manga Viewer"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:52:10 GMT'"
+    }
+}

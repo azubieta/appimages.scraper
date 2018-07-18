@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Unified Communication from Mundio Mobiles"
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "dec102f4494843774b26a243d7429bb5f5e9dc6373884a19f40d088eca4ce848a6c0545493faf1dfe9bc01db2a83f70a0121abb0bc1016cd53fc926c46b355c3",
+        "size": 61079552,
+        "type": 1,
+        "url": "https://github.com/aricovindanevectone/hari/releases/download/v0.0.41/unified-communications-0.0.41-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "unified-communications.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Unified Communication"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:55:02 GMT'"
+    }
+}

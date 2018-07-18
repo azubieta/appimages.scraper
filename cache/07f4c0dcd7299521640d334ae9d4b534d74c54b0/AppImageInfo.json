@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "The unofficial, free and open source desktop application for the bunq API"
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "133f9e1d1ac68ad0092701375658e947c2b9b27be25ac7798ea16866a6df3b7a483ba0a4c133dccf05ab4f07f27e7b40f8d3b5f3362844da5c59a9adee34c230",
+        "size": 54358100,
+        "type": 2,
+        "url": "https://github.com/BunqCommunity/bunqDesktop/releases/download/0.8.10/bunqdesktop-0.8.10-i386.AppImage"
+    },
+    "format": 1,
+    "id": "bunqdesktop.desktop",
+    "keywords": [],
+    "name": {
+        "null": "bunqDesktop"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:27:27 GMT'"
+    }
+}

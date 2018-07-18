@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Unofficial Electron wrapper for ProtonMail"
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "0058e6ce2f1dce39449c70f06ab254be378f4d0ed3acc616d3bcddbd43d4c9cfea957d7e9e2a0632c8280b1a47069185c22862124555a919a8e48f02c3218a4f",
+        "size": 62621756,
+        "type": 2,
+        "url": "https://github.com/protonmail-desktop/application/releases/download/v0.5.5/protonmail-desktop-0.5.5-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "protonmail-desktop.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Protonmail Desktop"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:17:31 GMT'"
+    }
+}

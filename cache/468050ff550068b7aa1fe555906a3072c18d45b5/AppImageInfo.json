@@ -1,0 +1,14 @@
+{
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "f2fc16e44d5edd3e62bb027e230ce20d41a57abc9cee3c4ddaac218ebf962dddd027ccc0978eefaddae8ea3895096a3bc286c77c89d5731b2fb46f3a16bfdb03",
+        "size": 53318587,
+        "type": 2,
+        "url": "https://github.com/NicolaOrritos/rhb/releases/download/0.6.0/RHB-0.6.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "keywords": [],
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:44:48 GMT'"
+    }
+}

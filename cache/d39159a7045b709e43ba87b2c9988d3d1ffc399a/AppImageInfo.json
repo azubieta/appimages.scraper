@@ -1,1 +1,18 @@
-{"name": {"null": "EaselDriver"}, "format": 1, "release": {"date": "Tue, 26 Jun 2018 00:28:39 GMT"}, "file": {"url": "https://github.com/mastercactapus/easel-driver-linux/releases/download/v0.2.6-1/EaselDriver-0.2.6-1-armv7l.AppImage", "size": 16449536, "type": 1, "architecture": "ARM", "sha512checksum": "2a537eba27f16d09ea8be837f77f8fb18f6602f1063b730fdfecb503aec776b9bec7d247a2c1d19c708f41da7bce29dacef5c7a4917d3ef4b80104ae113a5ecd"}, "keywords": [], "id": "easel-driver.desktop"}
+{
+    "file": {
+        "architecture": "ARM",
+        "sha512checksum": "2a537eba27f16d09ea8be837f77f8fb18f6602f1063b730fdfecb503aec776b9bec7d247a2c1d19c708f41da7bce29dacef5c7a4917d3ef4b80104ae113a5ecd",
+        "size": 16449536,
+        "type": 1,
+        "url": "https://github.com/mastercactapus/easel-driver-linux/releases/download/v0.2.6-1/EaselDriver-0.2.6-1-armv7l.AppImage"
+    },
+    "format": 1,
+    "id": "easel-driver.desktop",
+    "keywords": [],
+    "name": {
+        "null": "EaselDriver"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:09:23 GMT'"
+    }
+}

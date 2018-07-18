@@ -1,1 +1,24 @@
-{"name": {"null": "botframework-emulator"}, "format": 1, "abstract": {"null": "Emulator for the Microsoft Bot Framework. Allows developers to test and debug bots on localhost."}, "release": {"date": "Mon, 25 Jun 2018 21:37:39 GMT"}, "file": {"url": "https://github.com/Microsoft/BotFramework-Emulator/releases/download/v3.5.36/botframework-emulator-3.5.36-x86_64.AppImage", "size": 61407232, "type": 1, "architecture": "x86-64", "sha512checksum": "a8279fdcf5fd52d6b99e4c96097ebea78927f6a36ad9ca4d7199b5ed080a13aa4bb0d33dd2abacedf667bc267e17df3c903cf8857fda1b38fa82cbf71a7103aa"}, "keywords": [], "id": "botframework-emulator.desktop", "categories": ["Development"]}
+{
+    "abstract": {
+        "null": "Emulator for the Microsoft Bot Framework. Allows developers to test and debug bots on localhost."
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "a8279fdcf5fd52d6b99e4c96097ebea78927f6a36ad9ca4d7199b5ed080a13aa4bb0d33dd2abacedf667bc267e17df3c903cf8857fda1b38fa82cbf71a7103aa",
+        "size": 61407232,
+        "type": 1,
+        "url": "https://github.com/Microsoft/BotFramework-Emulator/releases/download/v3.5.36/botframework-emulator-3.5.36-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "botframework-emulator.desktop",
+    "keywords": [],
+    "name": {
+        "null": "botframework-emulator"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:02:33 GMT'"
+    }
+}

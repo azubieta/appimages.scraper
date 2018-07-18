@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Your stocks on your desktop"
+    },
+    "categories": [
+        "Finance"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "c6e1b95b4629c7116e8b1f90369d74c8f5418ee8e405d659c25f6c0476434ceabcdf1d189fec7cc6ff2783a288f81fae972252babdf2906d7982a2be5cfe27d4",
+        "size": 63856311,
+        "type": 2,
+        "url": "https://github.com/sagivo/StockStalk/releases/download/v1.0.5/StockStalk-1.0.5-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "stockstalk.desktop",
+    "keywords": [],
+    "name": {
+        "null": "StockStalk"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:21:45 GMT'"
+    }
+}

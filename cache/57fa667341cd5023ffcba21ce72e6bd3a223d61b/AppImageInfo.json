@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Cacher is a code snippet library for professional developers. Use it to build a technical knowledge base for you and your team."
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "bdcab0884a28dd8a73fab4daf1fb558720e0daab0acc1e1c7953472e0191cf3011d132ddfb3c7de278ea13dc1311ac941e77991415393abb5da8ed3ad0290101",
+        "size": 67600822,
+        "type": 2,
+        "url": "https://s3.amazonaws.com/download.cacher.io/cacher-1.5.7-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "cacher.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Cacher"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:31:25 GMT'"
+    }
+}

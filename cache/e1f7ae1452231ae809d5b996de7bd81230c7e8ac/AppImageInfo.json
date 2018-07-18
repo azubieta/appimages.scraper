@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "IOTA Wallet"
+    },
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "104e280c39958919c077b02b4dd65c858cf38ff607dd9dce51ba2b5eaea2ac8291d0d7247d16ba151fcb17320f1f96336fa5abc1075954c4a5914e79ba048459",
+        "size": 45350912,
+        "type": 1,
+        "url": "https://github.com/iotaledger/iota-gui-beta/releases/download/1.0.2/iota-wallet-1.0.2-32-bit.AppImage"
+    },
+    "format": 1,
+    "id": "iota.desktop",
+    "keywords": [],
+    "name": {
+        "null": "IOTA Wallet"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:08:05 GMT'"
+    }
+}

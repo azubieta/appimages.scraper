@@ -1,0 +1,28 @@
+{
+    "abstract": {
+        "null": "Zulip Desktop Client for Linux"
+    },
+    "categories": [
+        "Chat",
+        "GNOME",
+        "GTK",
+        "Network",
+        "InstantMessaging"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "c623d7abb72c5ff36b469207a946017cbb54552abcd4fab7aed0f7b2ebe4fc7b0098deaf9e05426ed992873feda2f47a773d8a6857bf2257d248e3ed5c4b2e35",
+        "size": 56630538,
+        "type": 2,
+        "url": "https://github.com/zulip/zulip-electron/releases/download/v1.9.0/Zulip-1.9.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "zulip.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Zulip"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 05:25:32 GMT'"
+    }
+}

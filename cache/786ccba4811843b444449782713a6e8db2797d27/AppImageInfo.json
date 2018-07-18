@@ -1,1 +1,24 @@
-{"name": {"null": "RetropieArcadeManager"}, "format": 1, "abstract": {"null": "Arcade games manager to be used with Retropie"}, "release": {"date": "Mon, 25 Jun 2018 20:24:34 GMT"}, "file": {"url": "https://github.com/cosmo0/arcade-manager/releases/download/v3.0/retropie-arcade-manager-linux-3.0.0.AppImage", "size": 48520353, "type": 2, "architecture": "x86-64", "sha512checksum": "18e8d49aedcf330c15e1c688d251954c8ba94252a9118e448371089e8be371e8f7f6ecc539fda486b1fc24bbd2adc2523dab921983df748846927f160e3ae9c9"}, "keywords": [], "id": "retropie-arcade-manager.desktop", "categories": ["Game"]}
+{
+    "abstract": {
+        "null": "Arcade games manager to be used with Retropie"
+    },
+    "categories": [
+        "Game"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "18e8d49aedcf330c15e1c688d251954c8ba94252a9118e448371089e8be371e8f7f6ecc539fda486b1fc24bbd2adc2523dab921983df748846927f160e3ae9c9",
+        "size": 48520353,
+        "type": 2,
+        "url": "https://github.com/cosmo0/arcade-manager/releases/download/v3.0/retropie-arcade-manager-linux-3.0.0.AppImage"
+    },
+    "format": 1,
+    "id": "retropie-arcade-manager.desktop",
+    "keywords": [],
+    "name": {
+        "null": "RetropieArcadeManager"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:19:39 GMT'"
+    }
+}

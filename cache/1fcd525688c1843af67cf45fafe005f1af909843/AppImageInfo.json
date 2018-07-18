@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Graphical interface for the Appium server, and an app inspector"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "63953bbff23bdb8b4642d6aed619d1ce375412f3dfd54ae60798ef9764a2a3482983accf3077784111b60cd86232cab06a4088c1cd1c0b8b03c9c0fc30c7a503",
+        "size": 145533574,
+        "type": 2,
+        "url": "https://github.com/appium/appium-desktop/releases/download/v1.3.0/appium-desktop-1.3.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "appium-desktop.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Appium"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:16:01 GMT'"
+    }
+}

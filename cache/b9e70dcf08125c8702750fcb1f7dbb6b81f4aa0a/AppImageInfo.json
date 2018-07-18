@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Electron application to draw mind maps"
+    },
+    "categories": [
+        "Graphics"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "5b7db268b03776adf3fc37b5dfa5d2ba3e28a2bf5ef41e9b27d112e82fcc05a3c699edc1939773f96593e09bb5bf487279642fa8d92bc8f06a0a5a7eb351a092",
+        "size": 106447843,
+        "type": 2,
+        "url": "https://github.com/Mindmapp/mindmapp/releases/download/v0.7.2/Mindmapp-0.7.2.AppImage"
+    },
+    "format": 1,
+    "id": "mindmapp.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Mindmapp"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:06:23 GMT'"
+    }
+}

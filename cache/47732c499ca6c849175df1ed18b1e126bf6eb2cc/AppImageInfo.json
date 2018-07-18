@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Watch your favorite Albanian TV channels through your PC"
+    },
+    "categories": [
+        "AudioVideo"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "fe8073c69f7378548b7f9c7376cd5f7f4f2fd9e15b4c86f81728fc1108b86f62344cf421c31cebaa1c7ce88bfe47123cf4238b7a7d75751b9bd3b83091267130",
+        "size": 62878645,
+        "type": 2,
+        "url": "https://tvalb.com/pcapp/linux/x64/tvalb-2.1.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "tvalb.desktop",
+    "keywords": [],
+    "name": {
+        "null": "TVALB"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:50:40 GMT'"
+    }
+}

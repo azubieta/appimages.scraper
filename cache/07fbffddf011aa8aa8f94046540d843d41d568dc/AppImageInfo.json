@@ -1,1 +1,24 @@
-{"name": {"null": "BunqDesktop"}, "format": 1, "abstract": {"null": "A desktop implementation for the bunq API"}, "release": {"date": "Mon, 25 Jun 2018 22:09:29 GMT"}, "file": {"url": "https://github.com/BunqCommunity/bunqDesktop/releases/download/0.8.4/bunqdesktop-0.8.4-x86_64.AppImage", "size": 51353866, "type": 2, "architecture": "x86-64", "sha512checksum": "c505f37ac9fa143f6461b1bc09e870526c6e80e016d9080efdd44101bc909cc46c65b6bd817de5262943c8105499492a543baa3a1b4a63ef519f8d437e608357"}, "keywords": [], "id": "bunqdesktop.desktop", "categories": ["Office"]}
+{
+    "abstract": {
+        "null": "A desktop implementation for the bunq API"
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "c505f37ac9fa143f6461b1bc09e870526c6e80e016d9080efdd44101bc909cc46c65b6bd817de5262943c8105499492a543baa3a1b4a63ef519f8d437e608357",
+        "size": 51353866,
+        "type": 2,
+        "url": "https://github.com/BunqCommunity/bunqDesktop/releases/download/0.8.4/bunqdesktop-0.8.4-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "bunqdesktop.desktop",
+    "keywords": [],
+    "name": {
+        "null": "BunqDesktop"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:27:27 GMT'"
+    }
+}

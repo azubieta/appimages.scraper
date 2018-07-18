@@ -1,1 +1,24 @@
-{"name": {"null": "Alva"}, "format": 1, "abstract": {"null": "Alva is a radically new design tool that enables cross-functional teams to design digital products."}, "release": {"date": "Mon, 25 Jun 2018 19:49:41 GMT"}, "file": {"url": "https://github.com/meetalva/alva/releases/download/v0.4.1/meetalva-0.4.1-x86_64.AppImage", "size": 61831522, "type": 2, "architecture": "x86-64", "sha512checksum": "c7d4e987a049e470d3f1a61f4f74951cb7476678bd2703980ab9edc6d78e30054c7a730bc83d4cbb58327af8aa917804630186ab35ad749388a924d5a21c01dd"}, "keywords": [], "id": "meetalva.desktop", "categories": ["Graphics"]}
+{
+    "abstract": {
+        "null": "Alva is a radically new design tool that enables cross-functional teams to design digital products."
+    },
+    "categories": [
+        "Graphics"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "c7d4e987a049e470d3f1a61f4f74951cb7476678bd2703980ab9edc6d78e30054c7a730bc83d4cbb58327af8aa917804630186ab35ad749388a924d5a21c01dd",
+        "size": 61831522,
+        "type": 2,
+        "url": "https://github.com/meetalva/alva/releases/download/v0.4.1/meetalva-0.4.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "meetalva.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Alva"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:08:46 GMT'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "categories": [
+        "Qt"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "13c8f0aeeddbd602b182d6448f041df374edced9b24bddb5ac303585e6b4f6b0eaca2e03876f00630a58012e24fe35885f1e4dc6ed8a4f3c710d1a389625f0d6",
+        "size": 27264952,
+        "type": 2,
+        "url": "https://github.com/sandman7920/Qt5Demo/releases/download/Demo-Qt5.10.1/mainwindow-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "Qt.desktop",
+    "keywords": [],
+    "name": {
+        "null": "mainwindow"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:27:30 GMT'"
+    }
+}

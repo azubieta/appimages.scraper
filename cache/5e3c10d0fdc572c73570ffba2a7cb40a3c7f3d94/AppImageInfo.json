@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Import from xls spredsheets, store and analyze student grade data"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "33aea91bd0455d2a05cac4dcab36671c6f7df6bbd0dc624b367c63e49e7372025d7c1715f43157361f0cfdd8817b138fb29491e99dd8f8903401fe887a766eca",
+        "size": 121438208,
+        "type": 1,
+        "url": "https://github.com/nikolio/GradeStats/releases/download/0.0.2/gradestats-0.0.2-i386.AppImage"
+    },
+    "format": 1,
+    "id": "gradestats.desktop",
+    "keywords": [],
+    "name": {
+        "null": "GradeStats"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:36:44 GMT'"
+    }
+}

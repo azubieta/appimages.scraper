@@ -1,0 +1,26 @@
+{
+    "abstract": {
+        "null": "Shadowsocks GUI client"
+    },
+    "categories": [
+        "Network"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "2a62264fec86290e852e5e6de0bc1fb243b0eef99d654044d102f030bfd6e60ca6d69c664b8ccd884bdb0bd0d1a2706a27b1fbc79398968cc3fd7289c5caebef",
+        "size": 13970800,
+        "type": 2,
+        "url": "https://github.com/shadowsocks/shadowsocks-qt5/releases/download/v3.0.1/Shadowsocks-Qt5-3.0.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "shadowsocks-qt5.desktop",
+    "keywords": [
+        "Shadowsocks-Qt5"
+    ],
+    "name": {
+        "null": "Shadowsocks-Qt5"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:56:40 GMT'"
+    }
+}

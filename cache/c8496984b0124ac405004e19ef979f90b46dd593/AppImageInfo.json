@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Pixel sorter"
+    },
+    "categories": [
+        "Graphics"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "d290d2e4cd3578cc532603a6ebac104bcddf348d6b19449b6f956de5777727bfdb8195ea67aa6d43a63326b6c4506ce87d0f3aab7e8248c9e5e12b3c1da41a22",
+        "size": 21424984,
+        "type": 2,
+        "url": "https://github.com/thorpelawrence/pixsrt/releases/download/1.4.1/pixsrt-1.4.1-clang-64-desktopintegration.AppImage"
+    },
+    "format": 1,
+    "id": "pixsrt.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Pixsrt"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:05:15 GMT'"
+    }
+}

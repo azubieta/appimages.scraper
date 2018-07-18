@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "An Electron wrapper of Spotify Web Player to increase desktop integration for a stable Spotify Player for Linux replacement"
+    },
+    "categories": [
+        "Audio"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "577d3e40d8c355c1a8d442e531c257f6a9fa40baaeeb5bc1b3a1401099e17d1be5887fb9fa69c671dc4dde6ea468fe8a2d41706615ebf2db5571d9a4da201759",
+        "size": 54525952,
+        "type": 1,
+        "url": "https://github.com/Quacky2200/Spotify-Web-Player-for-Linux/releases/download/1.0.25/spotifywebplayer-1.0.25-ia32.AppImage"
+    },
+    "format": 1,
+    "id": "spotifywebplayer.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Spotify Web Player for Linux"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:07:54 GMT'"
+    }
+}

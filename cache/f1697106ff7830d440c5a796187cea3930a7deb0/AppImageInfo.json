@@ -1,1 +1,29 @@
-{"name": {"null": "Embedded IDE", "es": "Embedded IDE"}, "format": 1, "abstract": {"null": "Makefile based IDE for embedded systems", "es": "IDE basado en Makefile para sistemas embebidos"}, "languages": ["es"], "release": {"date": "Mon, 25 Jun 2018 22:47:37 GMT"}, "file": {"url": "https://github.com/martinribelotta/embedded-ide-builder/releases/download/v0.4.0/CIAA_SUITE-0.4.0-x86_64.AppImage", "size": 170141944, "type": 2, "architecture": "x86-64", "sha512checksum": "40172b757285f4ff91ede9d9b59376e4ecd6262bc7b24a12d1c792260aa085593772c501e96cd7852cf2020b09fd964c0c32a3aed09d69cd82af3766879bd44a"}, "keywords": [], "id": "embedded-ide.desktop", "categories": ["Development"]}
+{
+    "abstract": {
+        "es": "IDE basado en Makefile para sistemas embebidos",
+        "null": "Makefile based IDE for embedded systems"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "40172b757285f4ff91ede9d9b59376e4ecd6262bc7b24a12d1c792260aa085593772c501e96cd7852cf2020b09fd964c0c32a3aed09d69cd82af3766879bd44a",
+        "size": 170141944,
+        "type": 2,
+        "url": "https://github.com/martinribelotta/embedded-ide-builder/releases/download/v0.4.0/CIAA_SUITE-0.4.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "embedded-ide.desktop",
+    "keywords": [],
+    "languages": [
+        "es"
+    ],
+    "name": {
+        "es": "Embedded IDE",
+        "null": "Embedded IDE"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:36:34 GMT'"
+    }
+}

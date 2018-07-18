@@ -1,0 +1,26 @@
+{
+    "abstract": {
+        "null": "UAS ground control station"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "71d2a7478fed3368b8cb4c37b5d117449513645c1924285efe73fd61220064b94245d947fed457399375768f221b42ef61cecc5f1fd64c4dff7e20bb990b3e97",
+        "size": 62586880,
+        "type": 1,
+        "url": "https://github.com/mavlink/qgroundcontrol/releases/download/v3.2.6/QGroundControl.AppImage"
+    },
+    "format": 1,
+    "id": "qgroundcontrol.desktop",
+    "keywords": [
+        "Ground Control Station"
+    ],
+    "name": {
+        "null": "QGroundControl"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:23:15 GMT'"
+    }
+}

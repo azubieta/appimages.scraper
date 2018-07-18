@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "A new age editor for academics who seek freedom and people with cryptography needs in rich text environments."
+    },
+    "categories": [
+        "Science"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "856df375ddc23957d3c70890fc315aec6508368b95251517b8d1f3fe5d8f2517b051fc89d6c60a783c070c11dedea6cc127c9e8915e8162728bf116daa1463b5",
+        "size": 60825962,
+        "type": 2,
+        "url": "https://github.com/fetacore/Infinitex/releases/download/v0.9.13/InfiniTex-0.9.13-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "infinitex.desktop",
+    "keywords": [],
+    "name": {
+        "null": "InfiniTex"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:04:25 GMT'"
+    }
+}

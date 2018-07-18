@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "An Electron wrapper for web pages"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "e014d533032e4c183954d4e9bf0b83384717db41ae860882f68739e5543882b268844fd254e4e28d3cea17e0fe76327f5bedfe7269796536f9303426a6474e03",
+        "size": 50284539,
+        "type": 2,
+        "url": "https://github.com/peterdanis/wrapbox/releases/download/v0.1.1/wrapbox-0.1.1.AppImage"
+    },
+    "format": 1,
+    "id": "wrapbox.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Wrapbox"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 05:13:56 GMT'"
+    }
+}

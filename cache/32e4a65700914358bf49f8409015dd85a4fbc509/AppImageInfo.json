@@ -1,0 +1,41 @@
+{
+    "abstract": {
+        "fr": "samplv1 est un \u00e9chantillonneur polyphonique \u00e0 l'ancienne",
+        "null": "samplv1 is an old school polyphonic sampler"
+    },
+    "categories": [
+        "Audio",
+        "AudioVideo",
+        "Midi",
+        "X-Alsa",
+        "X-Jack",
+        "Qt"
+    ],
+    "description": {
+        "null": "<p>samplv1 is an old-school polyphonic sampler synthesizer with stereo fx.</p> <p>features:<ul> <li>pure stand-alone JACK client with JACK-session, NSM and both JACK MIDI and ALSA MIDI input support;</li> <li>LV2 instrument plugin. URI: http://samplv1.sourceforge.net/lv2</li> </ul></p>"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "a84e4d335b34a57722fce7838032505bdd5f12a9047faaf1854b6cc0b50cb7844e7c765e34924f668014c3a4c638a8a40c8afd7a87c39419dd1356515b55ebee",
+        "size": 13087960,
+        "type": 2,
+        "url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/samplv1-latest-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "samplv1.desktop",
+    "keywords": [
+        "MIDI"
+    ],
+    "license": {
+        "id": "GPL-2.0+"
+    },
+    "links": {
+        "homepage": "https://samplv1.sourceforge.io"
+    },
+    "name": {
+        "null": "samplv1"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:36:52 GMT'"
+    }
+}

@@ -1,1 +1,21 @@
-{"name": {"null": "Auryo"}, "format": 1, "abstract": {"null": "A beautiful soundcloud desktop app"}, "release": {"date": "Mon, 25 Jun 2018 20:38:19 GMT"}, "file": {"url": "https://github.com/Superjo149/auryo/releases/download/v1.2.0/Auryo-1.2.0-x86_64.AppImage", "size": 63569920, "type": 1, "architecture": "x86-64", "sha512checksum": "bb6deee70eb8791e1a89801a0b704a60f8ca84d94791e09159cacba23216b5cfd29a0942bef0f8ce7dd4cd7278ef3c83700df6dabdcb7bb880f5d65f1f9146ec"}, "keywords": [], "id": "auryo.desktop"}
+{
+    "abstract": {
+        "null": "A beautiful soundcloud desktop app"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "bb6deee70eb8791e1a89801a0b704a60f8ca84d94791e09159cacba23216b5cfd29a0942bef0f8ce7dd4cd7278ef3c83700df6dabdcb7bb880f5d65f1f9146ec",
+        "size": 63569920,
+        "type": 1,
+        "url": "https://github.com/Superjo149/auryo/releases/download/v1.2.0/Auryo-1.2.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "auryo.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Auryo"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:50:10 GMT'"
+    }
+}

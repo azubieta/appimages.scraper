@@ -1,1 +1,24 @@
-{"name": {"null": "appimaged"}, "format": 1, "abstract": {"null": "Optional daemon to integrate AppImages with the desktop"}, "release": {"date": "Mon, 25 Jun 2018 18:22:44 GMT"}, "file": {"url": "https://github.com/AppImage/AppImageKit/releases/download/7/appimaged-i686.AppImage", "size": 221480, "type": 2, "architecture": "Intel 80386", "sha512checksum": "964c4c8b34ddb48f33d00a7fea1dc55e41edfdb804f6dd6b414eafcdaf5e96e5c9babaa7688b96059c1afe2ff860bf5e4e2612e801443cd138cd5d02a94859b0"}, "keywords": [], "id": "appimaged.desktop", "categories": ["Development"]}
+{
+    "abstract": {
+        "null": "Optional daemon to integrate AppImages with the desktop"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "964c4c8b34ddb48f33d00a7fea1dc55e41edfdb804f6dd6b414eafcdaf5e96e5c9babaa7688b96059c1afe2ff860bf5e4e2612e801443cd138cd5d02a94859b0",
+        "size": 221480,
+        "type": 2,
+        "url": "https://github.com/AppImage/AppImageKit/releases/download/7/appimaged-i686.AppImage"
+    },
+    "format": 1,
+    "id": "appimaged.desktop",
+    "keywords": [],
+    "name": {
+        "null": "appimaged"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:14:58 GMT'"
+    }
+}

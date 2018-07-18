@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "A simple & powerful app to organize your piled work at one place"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "95d19196ac06a61b188d7a371a0eede4bed31660402842f0c5f096ced58c062b38cae9c77cfb923401527334c167f7f2ffe4eaa919dfa8849e59406ec841c714",
+        "size": 62383966,
+        "type": 2,
+        "url": "https://github.com/mtobeiyf/pile/releases/download/v0.3.2/pile-0.3.2-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "pile.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Pile"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:02:02 GMT'"
+    }
+}

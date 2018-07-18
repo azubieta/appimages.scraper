@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "The best graphQL client you will ever need"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "78a690231c6d8fa142ff03cd214b886e8ffec7c6c4a80f1a397d6c209ba86af9b1d13eaff912f3d32c08df3fd9fe321ce26e2d0e0e510460402518d532502f0f",
+        "size": 100471317,
+        "type": 2,
+        "url": "https://github.com/imolorhe/altair/releases/download/v1.6.7/altair-1.6.7-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "altair.desktop",
+    "keywords": [],
+    "name": {
+        "null": "altair"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:06:30 GMT'"
+    }
+}

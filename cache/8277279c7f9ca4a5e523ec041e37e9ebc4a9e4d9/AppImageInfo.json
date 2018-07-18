@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "\ud83d\udcda P3X Onenote Linux"
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "30548b4a87accf50aa04561099efe96a3ea95ea07df635dcedd8be0a63437b926b4d0d96ea5e3c36c87a5c96d909f1fdc8998687104f9b1f5635778a86f209f7",
+        "size": 49668417,
+        "type": 2,
+        "url": "https://github.com/patrikx3/onenote/releases/download/1.2.356-438/p3x-onenote-1.2.356-438-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "p3x-onenote.desktop",
+    "keywords": [],
+    "name": {
+        "null": "P3X OneNote"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:33:12 GMT'"
+    }
+}

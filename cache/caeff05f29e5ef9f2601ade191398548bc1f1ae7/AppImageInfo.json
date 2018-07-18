@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Reverse Engineering for Angular"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "08eb1c628eff0ed206bc0285ca8928afc3c771458a5b6bda408d3f9c0e2cacfab768a2da3d6c8bff742731cbfbb89b6e403879b71fa4f2e31863b7299e983790",
+        "size": 69160761,
+        "type": 2,
+        "url": "https://github.com/mgechev/ngrev/releases/download/0.0.20/ngrev-0.0.20-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "ngrev.desktop",
+    "keywords": [],
+    "name": {
+        "null": "ngrev"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:26:29 GMT'"
+    }
+}

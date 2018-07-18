@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Rambox"
+    },
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "30ded087117d76917950bec2628cd0829f8977e3b81184a4a7e75eedf21e27708c6849bef4be006b7055a104e795693c00d4e04413aa4a88fa46f285bef29f8f",
+        "size": 52494336,
+        "type": 1,
+        "url": "https://github.com/saenzramiro/rambox/releases/download/0.5.3/Rambox-0.5.3-ia32.AppImage"
+    },
+    "format": 1,
+    "id": "rambox.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Rambox"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:31:06 GMT'"
+    }
+}

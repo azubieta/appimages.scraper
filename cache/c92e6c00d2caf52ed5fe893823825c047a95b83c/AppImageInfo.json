@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "RCON Tool for Miscreated game."
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "36dc38ff5262b18ac6251e7d4f64dfca6b5ef9038a535e59f657375bb1294e1309e40dafa4d28d6a1f18ebf4d42cfe2a1300711d5b47cad41577eb4f80444a9d",
+        "size": 51380224,
+        "type": 1,
+        "url": "https://github.com/csprance/MisRCON/releases/download/0.2.3/MisRCON-0.2.3-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "MisRCON.desktop",
+    "keywords": [],
+    "name": {
+        "null": "MisRCON"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:10:52 GMT'"
+    }
+}

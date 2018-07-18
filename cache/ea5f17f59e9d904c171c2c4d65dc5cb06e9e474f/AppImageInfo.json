@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Citron Interp"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "213383cb3e24c68d739d97746583f50e7376c7f8984d76b6159df52f714c7d0d13e985a79d41e4d949f79d447421c04975a3d713cac62351bc179f22d1d76547",
+        "size": 2719892,
+        "type": 2,
+        "url": "https://github.com/alimpfard/citron/releases/download/continuous/Citron-012c0af-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "citron.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Citron"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:36:59 GMT'"
+    }
+}

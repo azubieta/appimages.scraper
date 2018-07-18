@@ -1,0 +1,28 @@
+{
+    "abstract": {
+        "null": "Streaming music player that finds music sources automatically."
+    },
+    "categories": [
+        "Audio",
+        "AudioVideo",
+        "Network",
+        "Player",
+        "Music"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "f4aa6bdbc00ad396b0294792c96976dbbcdb37ef97be828e82e3713fea1eb87a56975a0bdb26a0839abefeac5c516ddc325e58958f742bd761c16ce582e583c0",
+        "size": 61620830,
+        "type": 2,
+        "url": "https://github.com/nukeop/nuclear/releases/download/v0.4.0/nuclear-0.4.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "nuclear.desktop",
+    "keywords": [],
+    "name": {
+        "null": "nuclear"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:31:36 GMT'"
+    }
+}

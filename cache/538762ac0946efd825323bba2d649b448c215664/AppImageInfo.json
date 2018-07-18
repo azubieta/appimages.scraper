@@ -1,0 +1,41 @@
+{
+    "abstract": {
+        "de": "IRC-Client",
+        "es": "Aplicaci\u00f3n de IRC",
+        "fi": "IRC-sovellus",
+        "fr": "Client IRC",
+        "hu": "IRC-kliens",
+        "lt": "IRC klientas",
+        "no": "IRC-klient",
+        "null": "Chat with other people using Internet Relay Chat",
+        "pl": "Klient IRC",
+        "pt_BR": "Cliente de IRC",
+        "ro": "Client de IRC",
+        "sl": "Odjemalec IRC",
+        "sv": "IRC-klient",
+        "zh_TW": "X-Chat \u804a\u5929\u7a0b\u5f0f"
+    },
+    "categories": [
+        "Network"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "405f8065f6b33a2ae961fa9dd0d85aa3c516198c73390515bc7c33655258859348317f00af8e868c322b092bf649945749ef17c585b85c514e4fa6a74ae95ce1",
+        "size": 11702008,
+        "type": 2,
+        "url": "https://github.com/probonopd/XChat/releases/download/continuous/XChat_IRC-5d0dbe1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "xchat.desktop",
+    "keywords": [],
+    "languages": [
+        "zh_TW"
+    ],
+    "name": {
+        "null": "XChat IRC",
+        "zh_TW": "\u7db2\u8def\u6e05\u8ac7"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 05:15:36 GMT'"
+    }
+}

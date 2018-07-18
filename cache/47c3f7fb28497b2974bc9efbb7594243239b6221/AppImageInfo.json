@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "PNG/JPEG optimization app"
+    },
+    "categories": [
+        "Graphics"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "35dd20d9d9d4a0d198f4af4fa881f0313779d63aa1be92193ac5e69bf79cf065c95162f487e3986b428c6be59ae0425fd6e16b3adc7d874185243811dab3d9fa",
+        "size": 54102448,
+        "type": 2,
+        "url": "https://github.com/meowtec/Imagine/releases/download/v0.4.1/Imagine-0.4.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "imagine.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Imagine"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:01:39 GMT'"
+    }
+}

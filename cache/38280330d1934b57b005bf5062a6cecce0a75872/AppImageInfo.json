@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Stemn Desktop: Versioning and project management"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "25fa4cd5cafcac7fb26c9460e25e5e0d22d3a99871b236c43e46a16b6c995de35c0e6ac12eb3037854fe2a231b2b4eb23826e98bb13df6f888bb34d72faba73f",
+        "size": 112787456,
+        "type": 1,
+        "url": "https://github.com/stemn/Stemn-Desktop/releases/download/v0.0.24/Stemn-0.0.24-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "stemn.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Stemn"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:17:57 GMT'"
+    }
+}

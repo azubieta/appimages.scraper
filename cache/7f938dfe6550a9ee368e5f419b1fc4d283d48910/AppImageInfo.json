@@ -1,0 +1,21 @@
+{
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "1bd5a936b90fa2b3112be11c691a85ca2b47633dcb532d1268e8f43efcc97a427b3711b7ef8cfd4ce4c7ff710220ec0ebab385587a04d8453b71bb5545388471",
+        "size": 45213624,
+        "type": 2,
+        "url": "https://github.com/DevTeamSCH/printer-client/releases/download/v0.1/PrinterClient-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "printerclient.desktop",
+    "keywords": [],
+    "name": {
+        "null": "PrinterClient"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:17:10 GMT'"
+    }
+}

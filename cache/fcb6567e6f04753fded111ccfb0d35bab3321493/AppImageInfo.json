@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Blockchain Wallet for desktop"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "adcf14fcb17d5191227da76e1357d0e9f0825664d45fbab993db71fe99ae95ce238ec84627aa86052c8a59a600616bd591fe946bb5aea8cb0594470be50d8ec9",
+        "size": 56376924,
+        "type": 2,
+        "url": "https://github.com/Jaxx-io/Jaxx/releases/download/v1.3.12/jaxx-1.3.12-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "jaxx.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Jaxx"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:12:22 GMT'"
+    }
+}

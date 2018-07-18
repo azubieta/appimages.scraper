@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "The next generation music client"
+    },
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "1a4d5e122d379a5e59ed8eed1b0e249689d58a4453552ddbaa3296945999a2f529ba3dac1721189fb1437b8b109899239a3164e7ab02b4654750a2fdf8dfcfe9",
+        "size": 106823680,
+        "type": 1,
+        "url": "https://github.com/EragonJ/Kaku/releases/download/1.8.0/Kaku-1.8.0-ia32.AppImage"
+    },
+    "format": 1,
+    "id": "Kaku.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Kaku"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:22:27 GMT'"
+    }
+}

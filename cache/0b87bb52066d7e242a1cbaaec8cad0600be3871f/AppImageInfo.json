@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "configuration tool for Marlin project"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "b540ea392bc4e883333d3f5073ab125bcbccd9bf91394ad62047a7652120546cd5840c2744dd7a0700f177c6dbdb09c9a6f2872a5c32a2430d205794137eb99f",
+        "size": 72418054,
+        "type": 2,
+        "url": "https://github.com/akaJes/marlin-config/releases/download/v2.10.3/marlin-conf-2.10.3-i386.AppImage"
+    },
+    "format": 1,
+    "id": "marlin-conf.desktop",
+    "keywords": [],
+    "name": {
+        "null": "marlin-conf"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:56:06 GMT'"
+    }
+}

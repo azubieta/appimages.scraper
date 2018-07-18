@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "CocoMusic"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "9697a13f9ff76db0c94381825498d8e6fcba6db96238f04d67c7a63a937e93e03a4c96b23ea2435154206f19b2a0cd0716848ef39d34151355202466c4466a89",
+        "size": 56164352,
+        "type": 1,
+        "url": "http://cocomusic-1252075019.cosgz.myqcloud.com/cocomusic-1.1.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "cocomusic.desktop",
+    "keywords": [],
+    "name": {
+        "null": "CocoMusic"
+    },
+    "release": {
+        "date": "Tue Jul 17 23:39:57 UTC 2018"
+    }
+}

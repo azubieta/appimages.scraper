@@ -1,1 +1,29 @@
-{"name": {"null": "Cuarzo Browser", "en_US": "cuarzobrowser"}, "format": 1, "abstract": {"null": "Minimal Browser made to shine."}, "languages": ["en_US"], "release": {"date": "Mon, 25 Jun 2018 23:17:36 GMT"}, "file": {"url": "https://github.com/CuarzoSoftware/CuarzoBrowser/releases/download/continuous/CuarzoBrowser-continuous-x86_64.AppImage", "size": 74475736, "type": 2, "architecture": "x86-64", "sha512checksum": "3525365f4d24011fbdf765664e1cc931296f795b9cfba5703e363f9b94fde96bf2a5254113ec4227dea30a3fe985257486485d351917955ba69389d66498b226"}, "keywords": [], "id": "cuarzobrowser.desktop", "categories": ["Network", "WebBrowser"]}
+{
+    "abstract": {
+        "null": "Minimal Browser made to shine."
+    },
+    "categories": [
+        "Network",
+        "WebBrowser"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "3525365f4d24011fbdf765664e1cc931296f795b9cfba5703e363f9b94fde96bf2a5254113ec4227dea30a3fe985257486485d351917955ba69389d66498b226",
+        "size": 74475736,
+        "type": 2,
+        "url": "https://github.com/CuarzoSoftware/CuarzoBrowser/releases/download/continuous/CuarzoBrowser-continuous-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "cuarzobrowser.desktop",
+    "keywords": [],
+    "languages": [
+        "en_US"
+    ],
+    "name": {
+        "en_US": "cuarzobrowser",
+        "null": "Cuarzo Browser"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:44:38 GMT'"
+    }
+}

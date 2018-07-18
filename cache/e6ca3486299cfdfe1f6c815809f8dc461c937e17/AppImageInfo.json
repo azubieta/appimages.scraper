@@ -1,1 +1,27 @@
-{"name": {"null": "amphetype2"}, "format": 1, "abstract": {"null": "Practice typing"}, "release": {"date": "Mon, 25 Jun 2018 19:56:02 GMT"}, "file": {"url": "https://github.com/coryo/amphetype2/releases/download/v0.3.0/amphetype2-linux-x86_64.AppImage", "size": 27525120, "type": 1, "architecture": "x86-64", "sha512checksum": "09ad1c7259b8519327d1fa5194d43174ac19cfd5e6a864184f3ad13b7603c5257abb697c34fb6eb4bc339da2f50b8597dd15cf27a93ccc1ec10adc07a7733f65"}, "keywords": ["Typing Trainer"], "id": "amphetype2.desktop", "categories": ["Education", "Office"]}
+{
+    "abstract": {
+        "null": "Practice typing"
+    },
+    "categories": [
+        "Education",
+        "Office"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "09ad1c7259b8519327d1fa5194d43174ac19cfd5e6a864184f3ad13b7603c5257abb697c34fb6eb4bc339da2f50b8597dd15cf27a93ccc1ec10adc07a7733f65",
+        "size": 27525120,
+        "type": 1,
+        "url": "https://github.com/coryo/amphetype2/releases/download/v0.3.0/amphetype2-linux-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "amphetype2.desktop",
+    "keywords": [
+        "Typing Trainer"
+    ],
+    "name": {
+        "null": "amphetype2"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:09:59 GMT'"
+    }
+}

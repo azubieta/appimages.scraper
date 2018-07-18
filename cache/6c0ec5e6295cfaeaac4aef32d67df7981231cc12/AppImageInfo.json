@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "MasterVyrn is a clean dedicated GBF loader."
+    },
+    "categories": [
+        "Game"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "cc90fc2db6e80b361252ff2d59eb416c98085e282f2c43d6cae7315748ba89ca40655d79c87316a6d525696f504126885bef7087e5fb06c691041d216bf574ec",
+        "size": 52096970,
+        "type": 2,
+        "url": "https://github.com/LightouchDev/MasterVyrn/releases/download/v0.4.5/MasterVyrn-0.4.5-linux-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "mastervyrn.desktop",
+    "keywords": [],
+    "name": {
+        "null": "MasterVyrn"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:58:51 GMT'"
+    }
+}

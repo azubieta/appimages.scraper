@@ -1,1 +1,27 @@
-{"name": {"null": "Discord PTB"}, "format": 1, "abstract": {"null": "All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone."}, "release": {"date": "Tue, 26 Jun 2018 00:14:12 GMT"}, "file": {"url": "https://github.com/simoniz0r/Discord-PTB-AppImage/releases/download/v0.0.9/discord-ptb-0.0.9-x86_64.AppImage", "size": 82122680, "type": 2, "architecture": "x86-64", "sha512checksum": "596b8ca52e12a2359aed8f1d4ec530b7844c063703cf1e7dcc0fe47d8c06b1355daee4a3836effa35c4b4badd017ee205edcc7e076611cdc4ef7243028defbc8"}, "keywords": ["Internet Messenger"], "id": "discord-ptb.desktop", "categories": ["Network", "InstantMessaging"]}
+{
+    "abstract": {
+        "null": "All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone."
+    },
+    "categories": [
+        "Network",
+        "InstantMessaging"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "596b8ca52e12a2359aed8f1d4ec530b7844c063703cf1e7dcc0fe47d8c06b1355daee4a3836effa35c4b4badd017ee205edcc7e076611cdc4ef7243028defbc8",
+        "size": 82122680,
+        "type": 2,
+        "url": "https://github.com/simoniz0r/Discord-PTB-AppImage/releases/download/v0.0.9/discord-ptb-0.0.9-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "discord-ptb.desktop",
+    "keywords": [
+        "Internet Messenger"
+    ],
+    "name": {
+        "null": "Discord PTB"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:01:10 GMT'"
+    }
+}

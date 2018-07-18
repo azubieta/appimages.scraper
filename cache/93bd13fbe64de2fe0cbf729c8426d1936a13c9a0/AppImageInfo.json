@@ -1,0 +1,25 @@
+{
+    "abstract": {
+        "null": "A falling block puzzle game"
+    },
+    "categories": [
+        "Game",
+        "BlocksGame"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "bcf135b70da4a28fb3e440aec0fc3f8189ecbda63552159a3bf60f0ad1060afd5631ea3fc5ce25b20f734ffcc448f871082ba857bfeb784f09b329a281de65e5",
+        "size": 20725104,
+        "type": 2,
+        "url": "https://github.com/mmatyas/openblok/releases/download/continuous/OpenBlok-git7734bfb-glibc2.14.glibc2.14-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "openblok.desktop",
+    "keywords": [],
+    "name": {
+        "null": "OpenBlok"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:36:57 GMT'"
+    }
+}

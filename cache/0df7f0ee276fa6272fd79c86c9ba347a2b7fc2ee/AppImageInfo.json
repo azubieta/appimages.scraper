@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Manage your company stocks with us."
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "05be0ea635c13742a58b9c95e8750864497da096189d4a1f8087bb96f790d6bc4f933ebd97abdd2479cfb3613179edb06f2268e6e911621172a003d56fa8c8af",
+        "size": 75735618,
+        "type": 2,
+        "url": "https://github.com/IndomaximTechID/storaji/releases/download/v1.0.0-beta.2/storaji-1.0.0-beta.2-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "storaji.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Storaji"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:26:19 GMT'"
+    }
+}

@@ -1,1 +1,21 @@
-{"name": {"null": "Embedded IDE"}, "format": 1, "abstract": {"null": "Makefile based IDE for embedded systems"}, "release": {"date": "Tue, 26 Jun 2018 00:43:06 GMT"}, "file": {"url": "https://github.com/martinribelotta/embedded-ide/releases/download/v0.3-rc4-inet/embedded-ide-v0.3-rc4-x86_64.AppImage", "size": 31463256, "type": 2, "architecture": "x86-64", "sha512checksum": "91caeeda73150615271927c95cbd17a6ce8bdecabd281eabe1679f8c65b2ff46f132bf06c73191b9048df7a22530b82d7f4f5f25a5aadadc9ef5d4175857cbee"}, "keywords": [], "id": "embedded-ide.desktop"}
+{
+    "abstract": {
+        "null": "Makefile based IDE for embedded systems"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "91caeeda73150615271927c95cbd17a6ce8bdecabd281eabe1679f8c65b2ff46f132bf06c73191b9048df7a22530b82d7f4f5f25a5aadadc9ef5d4175857cbee",
+        "size": 31463256,
+        "type": 2,
+        "url": "https://github.com/martinribelotta/embedded-ide/releases/download/v0.3-rc4-inet/embedded-ide-v0.3-rc4-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "embedded-ide.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Embedded IDE"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:13:41 GMT'"
+    }
+}

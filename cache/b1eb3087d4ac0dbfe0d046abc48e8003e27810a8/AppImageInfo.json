@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Rambox"
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "e810c6ad96ef423df5c3422a2f1102e85696753c41eb6ddeda9e16f4e3ab2ac15bd07f28c1fd4b702b3957af612bbafdb656c34698a39662e15720c222692eda",
+        "size": 61145088,
+        "type": 1,
+        "url": "https://github.com/saenzramiro/rambox/releases/download/0.5.12/Rambox-0.5.12-ia32.AppImage"
+    },
+    "format": 1,
+    "id": "rambox.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Rambox"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:31:06 GMT'"
+    }
+}

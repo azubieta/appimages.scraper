@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "draw.io desktop"
+    },
+    "categories": [
+        "Graphics"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "fd3101f383cbbddfea83850e9de6480682eb7de3dc5388b0f0481ba289dda049f38dab1e17f1ab47bafda472dbd12b48c670458777cab4ce18d9ccaa7240d865",
+        "size": 67846208,
+        "type": 2,
+        "url": "https://github.com/jgraph/drawio-desktop/releases/download/v8.8.0/draw.io-x86_64-8.8.0.AppImage"
+    },
+    "format": 1,
+    "id": "draw.io.desktop",
+    "keywords": [],
+    "name": {
+        "null": "draw.io"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:02:44 GMT'"
+    }
+}

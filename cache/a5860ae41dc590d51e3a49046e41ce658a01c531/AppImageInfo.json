@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "An open-source ER Diagram tool that is available for ALL platforms."
+    },
+    "categories": [
+        "Graphics"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "b53f343356ad501924bfd4a60fb8d63301bd1f5fb88c197563d11064412553dd8aea0524da733d2451324e29e09c4fa8637549f5db4a3ddaadccdceb6a4be453",
+        "size": 52363264,
+        "type": 1,
+        "url": "https://github.com/fvitas/erdesigner/releases/download/1.1.0/erdesigner-1.1.0-i386.AppImage"
+    },
+    "format": 1,
+    "id": "${name}-linux-${arch}.${ext}.desktop",
+    "keywords": [],
+    "name": {
+        "null": "erdesigner"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:19:28 GMT'"
+    }
+}

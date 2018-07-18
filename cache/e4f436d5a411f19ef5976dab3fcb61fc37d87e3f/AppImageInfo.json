@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Metabolomics Data and Pathway Browser"
+    },
+    "categories": [
+        "Science"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "4ad9cb5508564fe224689960eb5c20aa5a289f5a3d07f280359f03ad2a620e0f60a59acdcfb5c6454da00a9fd20f59491b80c507f9018f8bfa84dbe28dae6cfa",
+        "size": 32700256,
+        "type": 2,
+        "url": "https://github.com/eugenemel/maven/releases/download/8.0.8-alpha/Maven_8.0.8-alpha-Linux.AppImage"
+    },
+    "format": 1,
+    "id": "maven.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Maven"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:00:58 GMT'"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Desktop Client to assist with playing your damn turns."
+    },
+    "categories": [
+        "StrategyGame"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "4225cf150a6be42f3c82ab00b554673b574e2aaa513e744bbfe41195eb48784ea25d5566f92b69f597a6c5f54829a9ac61ba05194d2fad94ee6e1320f51b4665",
+        "size": 58245920,
+        "type": 2,
+        "url": "https://github.com/pydt/client/releases/download/v1.2.2/playyourdamnturn-1.2.2-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "playyourdamnturn.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Play Your Damn Turn Client"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:09:23 GMT'"
+    }
+}

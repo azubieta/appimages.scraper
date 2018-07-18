@@ -1,0 +1,25 @@
+{
+    "abstract": {
+        "null": "Franz is your messaging app / former Emperor of Austria and combines chat & messaging services into one application. Franz currently supports Slack, WhatsApp, WeChat, HipChat, Facebook Messenger, Telegram, Google Hangouts, GroupMe, Skype and many more. You can download Franz for free for Mac & Windows."
+    },
+    "categories": [
+        "Network",
+        "InstantMessaging"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "150fe2578e4147504b29c8b30da69b50854a9faa9a21cc74ed9a7c49e026b4ef7840428dd7700e62d798d2a6de456616176d393c3fe44d054c7f4fda544505aa",
+        "size": 66781184,
+        "type": 1,
+        "url": "https://github.com/meetfranz/franz/releases/download/v5.0.0-beta.17/franz-5.0.0-beta.17-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "franz.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Franz"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:26:04 GMT'"
+    }
+}

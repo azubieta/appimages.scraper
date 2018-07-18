@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "GUI Programming Tool for iCE40"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "b860f91198430fe4a0e0aade81460bdb52b27ad8fa16138560e8c1d5b7f9a6c9a8994c47162ab34a57cac929d77c674053d9025bfeaf9ead63a306c013b986b4",
+        "size": 143096,
+        "type": 2,
+        "url": "https://github.com/Cloud-V/Malice/releases/download/continuous/Malice_x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "Malice.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Malice"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:54:01 GMT'"
+    }
+}

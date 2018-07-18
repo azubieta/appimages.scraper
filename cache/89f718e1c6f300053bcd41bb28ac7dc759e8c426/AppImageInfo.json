@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "SDR and SWR Qt Application"
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "089eea7a20e18b3b2c4c6609416841748b6b47add95f0742d64632aebdaf231aacc8dda8a25ddff781353c930edf00b2b3f18f6f37bf97082ab54e641615d777",
+        "size": 29392800,
+        "type": 2,
+        "url": "https://github.com/PTDreamer/qSdrSwr/releases/download/VER1.0.1/SDR_Spectrum_and_SWR_analyser-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "sdrSwr.desktop",
+    "keywords": [],
+    "name": {
+        "null": "SDR Spectrum and SWR analyser"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:26:35 GMT'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Edit this default file"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "6e8cba8e6ac411091345798b9ab86ec2f9e988d8e1a804f7b1301dc7fa93f455a5fb32ccca1dcb9cda7d6ada1a5423a9991cc6d20667296045bff8ae844742f2",
+        "size": 40429592,
+        "type": 2,
+        "url": "https://github.com/VespucciProject/Vespucci/releases/download/1.0.0/Vespucci-1.0.0-linux-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "default.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Application"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:58:59 GMT'"
+    }
+}

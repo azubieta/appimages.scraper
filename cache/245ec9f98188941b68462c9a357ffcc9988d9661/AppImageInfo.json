@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "The Light/Responsive Inventory Management System."
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "902531082d325802d827d855fd3fba0422b89fea9786fb13a6066873a14c06a253222d7fce719d3c69655c043b26505eafbd318d1414a145eeb836047ef43aa0",
+        "size": 88014753,
+        "type": 2,
+        "url": "https://github.com/IndomaximTechID/storaji/releases/download/v1.0.0-beta.9/storaji-1.0.0-beta.9-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "storaji.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Storaji"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:26:19 GMT'"
+    }
+}

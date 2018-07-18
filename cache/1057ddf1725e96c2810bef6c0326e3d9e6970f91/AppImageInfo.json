@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Cryptocurrency portfolio management application which automatically retrieves balances and trades using exchange APIs"
+    },
+    "categories": [
+        "Finance"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "9d672d851d86a92c324bc4764be288e3d2f433ed23424bf93635e0e5feeb40865dbce8bab71e724e95b0e1ff4e511f4845753ae65aa615b612553ad9acdb4453",
+        "size": 55254551,
+        "type": 2,
+        "url": "https://github.com/foxfolio/foxfolio-desktop/releases/download/v0.0.2/foxfolio-0.0.2-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "foxfolio.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Foxfolio"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:25:15 GMT'"
+    }
+}

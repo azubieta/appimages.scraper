@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "JSplacement"
+    },
+    "categories": [
+        "Graphics"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "7145c4b5cfa3b6bb5083a256c152f85b9fb6a78608bc29a54c01ad88ae117c09197634d5986534e01f67af88267e408646aa51e178181756217ce838c67cd186",
+        "size": 66608181,
+        "type": 2,
+        "url": "https://windmillart.net/download/JSplacement-1.2.1.AppImage"
+    },
+    "format": 1,
+    "id": "jsplacement.desktop",
+    "keywords": [],
+    "name": {
+        "null": "JSplacement"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:21:07 GMT'"
+    }
+}

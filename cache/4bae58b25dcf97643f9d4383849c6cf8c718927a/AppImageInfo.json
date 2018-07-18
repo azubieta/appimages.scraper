@@ -1,1 +1,21 @@
-{"name": {"null": "Application"}, "format": 1, "abstract": {"null": "AnimationMaker"}, "release": {"date": "Mon, 25 Jun 2018 20:04:17 GMT"}, "file": {"url": "https://github.com/Artanidos/AnimationMaker/releases/download/v1.4/AnimationMaker-Linux-x86_64-1.4.AppImage", "size": 40896760, "type": 2, "architecture": "x86-64", "sha512checksum": "bb302ea7e888b7ed243df5c2b27a2e207ea13cb0d52417f3fecb592781190471c98adabfe890bba18bbbe36193d00944b0b33e1cdf65400279b79bc3800520ee"}, "keywords": [], "id": "default.desktop"}
+{
+    "abstract": {
+        "null": "AnimationMaker"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "bb302ea7e888b7ed243df5c2b27a2e207ea13cb0d52417f3fecb592781190471c98adabfe890bba18bbbe36193d00944b0b33e1cdf65400279b79bc3800520ee",
+        "size": 40896760,
+        "type": 2,
+        "url": "https://github.com/Artanidos/AnimationMaker/releases/download/v1.4/AnimationMaker-Linux-x86_64-1.4.AppImage"
+    },
+    "format": 1,
+    "id": "default.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Application"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:11:37 GMT'"
+    }
+}

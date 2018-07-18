@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Whiteboard - a slide-based activity presentation system"
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "0727ed1bab3c13f5579eb863aab15fbdb833e7b1e9c57709bac06ac8a3db1f94bf7427fbb27c0aa1c911cc8628308cd2df957afe724a18079422b75812689047",
+        "size": 65142784,
+        "type": 1,
+        "url": "https://github.com/michaelpb/whiteboard/releases/download/v0.0.39/whiteboard-app-0.0.39-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "whiteboard-app.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Whiteboard"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 05:08:41 GMT'"
+    }
+}

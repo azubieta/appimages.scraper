@@ -1,1 +1,21 @@
-{"name": {"null": "Cutter"}, "format": 1, "release": {"date": "Mon, 25 Jun 2018 23:27:12 GMT"}, "file": {"url": "https://github.com/radareorg/cutter/releases/download/v1.3/Cutter-v1.3-x86_64.AppImage", "size": 137004816, "type": 2, "architecture": "x86-64", "sha512checksum": "858a5e2475542f73f15c8ded7d71d5331e4477ae6b0e0525086f4662b0e5805acd321d0578b8801a5fd4da207ce056a7582780f03f0d854b20ec91b1efd0ba46"}, "keywords": [], "id": "Cutter.desktop", "categories": ["Development"]}
+{
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "858a5e2475542f73f15c8ded7d71d5331e4477ae6b0e0525086f4662b0e5805acd321d0578b8801a5fd4da207ce056a7582780f03f0d854b20ec91b1efd0ba46",
+        "size": 137004816,
+        "type": 2,
+        "url": "https://github.com/radareorg/cutter/releases/download/v1.3/Cutter-v1.3-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "Cutter.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Cutter"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:49:33 GMT'"
+    }
+}

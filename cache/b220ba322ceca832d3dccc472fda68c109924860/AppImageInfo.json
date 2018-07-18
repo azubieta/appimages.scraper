@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Messer for Steem"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "a581678412414660006e11241ea5dbc3e06fabe4d9def8c4c7964e4e43a3657eba8ad6bd59ba4b3ef79d51ff252d5357d6153a217d4dbdbc6aa6b6f837be1874",
+        "size": 58147492,
+        "type": 2,
+        "url": "https://github.com/therealwolf42/Steem-Chat-Wallet/releases/download/0.1.0/steemmessenger-0.1.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "steemmessenger.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Steem Messenger"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:16:46 GMT'"
+    }
+}

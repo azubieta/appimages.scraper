@@ -1,0 +1,25 @@
+{
+    "abstract": {
+        "null": "SmartServoGui helps you scan for servo devices easily view and tweak their settings!"
+    },
+    "categories": [
+        "Qt",
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "d4e3cd265bbfa4ecc4699195aaee55df11a3665a6db94a60e3f50420a6addd0e79771fec75a6724b6edbb6495161719973511d358ec47b3959a709b7232508fd",
+        "size": 23214008,
+        "type": 2,
+        "url": "https://github.com/emericg/SmartServoFramework/releases/download/v0.98/SmartServoGui-0.98-linux64.AppImage"
+    },
+    "format": 1,
+    "id": "smartservogui.desktop",
+    "keywords": [],
+    "name": {
+        "null": "SmartServoGui"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:05:48 GMT'"
+    }
+}

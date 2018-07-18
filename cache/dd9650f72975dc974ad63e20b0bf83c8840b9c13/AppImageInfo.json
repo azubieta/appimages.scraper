@@ -1,0 +1,38 @@
+{
+    "abstract": {
+        "null": "Python-based extendable tool"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "description": {
+        "null": "<p> Pext is a program whose behaviour is decided by modules. Depending on the module in use, Pext can be used for a wide variety of tasks. </p>"
+    },
+    "developer": {
+        "name": "The Pext team"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "63827b0c29221c07314b031447918e83c09a878bd3ab10ed97c789572c8a9bb79e9ba38c4ccc9ac799e1d458e849b1eef07a325deb1a852f3e08aa4f925c3f0b",
+        "size": 218935200,
+        "type": 2,
+        "url": "https://github.com/Pext/Pext/releases/download/v0.13/Pext-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "pext",
+    "keywords": [],
+    "license": {
+        "id": "GPL-3.0+"
+    },
+    "links": {
+        "bugtracker": "https://github.com/Pext/Pext",
+        "homepage": "https://pext.hackerchick.me",
+        "translate": "https://hosted.weblate.org/projects/pext"
+    },
+    "name": {
+        "null": "Pext"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:55:08 GMT'"
+    }
+}

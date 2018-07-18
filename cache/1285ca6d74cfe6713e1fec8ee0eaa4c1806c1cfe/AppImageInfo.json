@@ -1,0 +1,21 @@
+{
+    "categories": [
+        "AudioVideo"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "059d45ee372e7af3598177ed8fae043e8f9d724ede5775d2e8c0fcdc59b122b438449b8ea50c919ada588337a197e0a2c1e7fa039025d2237cfeb95d85121f88",
+        "size": 14758036,
+        "type": 2,
+        "url": "https://github.com/JvanKatwijk/swradio-8/releases/download/continuous/swradio-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "swradio.desktop",
+    "keywords": [],
+    "name": {
+        "null": "swradio"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:35:40 GMT'"
+    }
+}

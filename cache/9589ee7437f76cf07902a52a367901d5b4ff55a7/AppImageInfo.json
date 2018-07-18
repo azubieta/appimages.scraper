@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Desktop application for Instagram DMs"
+    },
+    "categories": [
+        "Chat"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "7e3c4ed012245f64ef281ecff2271e7a5479cc44e61371b2ec727448dc3b3397d13eb3b37d31801d042efbb983b57fdd4d79a08bb2bab3f4c272dd38b38af799",
+        "size": 70844416,
+        "type": 1,
+        "url": "https://github.com/ifedapoolarewaju/igdm/releases/download/v2.3.0/IGdm-2.3.0-i386.AppImage"
+    },
+    "format": 1,
+    "id": "igdm.desktop",
+    "keywords": [],
+    "name": {
+        "null": "IGdm"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:58:29 GMT'"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "A terminal built on web technologies"
+    },
+    "categories": [
+        "TerminalEmulator"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "b031d626b6d0be1ac9bb64df5086d453c2ce42f04dc592e3d36b1dec9c00e5bbe5621d692dce53f320adc3c8666410c19e49ffe8e3995f99c03909844a4b970b",
+        "size": 53937715,
+        "type": 2,
+        "url": "https://github.com/zeit/hyper/releases/download/2.0.0-canary.14/hyper-2.0.0-canary.14-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "hyper.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Hyper"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:47:15 GMT'"
+    }
+}

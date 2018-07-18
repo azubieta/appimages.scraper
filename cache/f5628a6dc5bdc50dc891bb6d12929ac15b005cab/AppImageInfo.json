@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Buckets Family Budgeting"
+    },
+    "categories": [
+        "Finance"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "50cd5db3f4f68bb19067f551bec998c62accac212d0263a2d6eea7df02729863613d7e102d56cab2559e273bea9f43cea160ac7cb9cf7ad69256a5cb001d95e5",
+        "size": 90155573,
+        "type": 2,
+        "url": "https://github.com/buckets/application/releases/download/v0.45.0/Buckets-0.45.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "buckets.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Buckets"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:25:37 GMT'"
+    }
+}

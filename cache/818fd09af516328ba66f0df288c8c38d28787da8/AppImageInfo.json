@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "A desktop implementation for the bunq API"
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "85cfa78ef4fed4d5b65dbafc3f3c912149605a9d0cea0fe0bf18117efda3f4daa84a5c478f8d0cabf2aa227d8bb5784b9497b390f5dbab3c51fd29f780c234c1",
+        "size": 53512823,
+        "type": 2,
+        "url": "https://github.com/BunqCommunity/bunqDesktop/releases/download/0.8.3/bunqdesktop-0.8.3-i386.AppImage"
+    },
+    "format": 1,
+    "id": "bunqdesktop.desktop",
+    "keywords": [],
+    "name": {
+        "null": "BunqDesktop"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:27:27 GMT'"
+    }
+}

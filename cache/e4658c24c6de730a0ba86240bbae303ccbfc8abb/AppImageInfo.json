@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Rambox"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "352841cbd6e9b77d05587f796da0ca8ec0d83ba2f5b73a330b1f12457e0e4d1cf52d19adb0b5082677dab0c2a653636d0571be2352bcd824b7df2e76ae586eeb",
+        "size": 51183616,
+        "type": 1,
+        "url": "https://github.com/saenzramiro/rambox/releases/download/0.5.2/Rambox-0.5.2-x64.AppImage"
+    },
+    "format": 1,
+    "id": "rambox.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Rambox"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:31:06 GMT'"
+    }
+}

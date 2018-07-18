@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "A simple wallet for managing your Steem accounts."
+    },
+    "categories": [
+        "Network"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "a6e93b8c7d03cdd1670dff4e94e38e8015b0b1c05bd6891a59997ae5835ff11939732314dc66e53cfcb30c3c4337c198efb1d1999161cc2afd48ef5dfa2ed9c3",
+        "size": 52297728,
+        "type": 1,
+        "url": "https://github.com/aaroncox/vessel/releases/download/v0.0.8/vessel-0.0.8-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "vessel.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Vessel"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:59:06 GMT'"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "abstract": {
+        "null": "Helps manage the Steam client application."
+    },
+    "categories": [
+        "Utility",
+        "FileTools"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "e3071dc59ffd7355865a2f434ba38d50306e9395d9e623466d4d5ff80ffee5f0e4cc46a16ae6d59ae2c1ffadcb891743114d96d453fb2ff57318d638bdf610ec",
+        "size": 53346304,
+        "type": 1,
+        "url": "https://github.com/l3laze/ReliefValve/releases/download/v1.2.2/ReliefValve-1.2.2-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "reliefvalve.desktop",
+    "keywords": [],
+    "name": {
+        "null": "ReliefValve"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:42:52 GMT'"
+    }
+}

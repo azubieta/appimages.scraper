@@ -1,0 +1,41 @@
+{
+    "abstract": {
+        "fr": "synthv1 est un synth\u00e9tiseur polyphonique \u00e0 l'ancienne",
+        "null": "synthv1 is an old school polyphonic synthesizer"
+    },
+    "categories": [
+        "Audio",
+        "AudioVideo",
+        "Midi",
+        "X-Alsa",
+        "X-Jack",
+        "Qt"
+    ],
+    "description": {
+        "null": "<p>synthv1 is an old-school 4-oscillator subtractive polyphonic synthesizer with stereo fx.</p> <p>features:<ul> <li>pure stand-alone JACK client with JACK-session, NSM and both JACK MIDI and ALSA MIDI input support;</li> <li>LV2 instrument plugin. URI: http://synthv1.sourceforge.net/lv2</li> </ul></p>"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "9c5b972274cda9fdcc7671c38f8bf51e3dbd54c82cd8b0dabe5f4e3f051e7d14b29ef18ff3e5d203d8f35bf17de1d2a0dd2ad707a22bde192cefda163b647e12",
+        "size": 12498136,
+        "type": 2,
+        "url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/synthv1-1531672080.7235f8f-Build1.1.glibc2.2.5-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "synthv1.desktop",
+    "keywords": [
+        "MIDI"
+    ],
+    "license": {
+        "id": "GPL-2.0+"
+    },
+    "links": {
+        "homepage": "https://synthv1.sourceforge.io"
+    },
+    "name": {
+        "null": "synthv1"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:36:52 GMT'"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "categories": [
+        "Network"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "f6b47fc53e2abd9796eb3dfc493c0ce05bcd269f14a6b860e05ee7e3044757204c41bf6051d509303ca5f13ded4478ba59e5d9a1da65492184f9184ab7a3fd3b",
+        "size": 3135736,
+        "type": 2,
+        "url": "https://github.com/AppImage/NCSA-Mosaic-AppImage/releases/download/1/NCSA_Mosaic-git.6f488cb-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "mosaic.desktop",
+    "keywords": [
+        "NCSA Mosaic Web Browser"
+    ],
+    "name": {
+        "null": "NCSA Mosaic"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:24:11 GMT'"
+    }
+}

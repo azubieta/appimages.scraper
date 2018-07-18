@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Gingko client rewritten in Elm, packaged with Electron."
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "d9bcad8a424806c3db6d0db2a8035690a62ce9ad7dcdd69ca6f9a37176fcd647b2b8d3b0237fc05761f32bb9ea521e2ec55ce92d6fd8b5df8ddbd54c12f001a0",
+        "size": 59423934,
+        "type": 2,
+        "url": "https://github.com/gingko/client/releases/download/v2.0.9/gingko-client-2.0.9-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "gingko-client.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Gingko"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:32:28 GMT'"
+    }
+}

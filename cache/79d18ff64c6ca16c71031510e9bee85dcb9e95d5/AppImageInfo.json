@@ -1,1 +1,24 @@
-{"name": {"null": "AHGequip"}, "format": 1, "abstract": {"null": "AHG Training App"}, "release": {"date": "Mon, 25 Jun 2018 19:13:50 GMT"}, "file": {"url": "https://github.com/TroopTrack/AHGequip/releases/download/v1.1.6/AHGequip-1.1.6-i386.AppImage", "size": 57263489, "type": 2, "architecture": "Intel 80386", "sha512checksum": "a7410f0b1211c596400fd32b5b49de55f2a4f823b3585c9ea2dd9d1484f8ce3aaa39e8959e1f2e3a83a7a0f6b12646255dcb4026f4ac3a94f8bbe0f995d02575"}, "keywords": [], "id": "ahgequip.desktop", "categories": ["Education"]}
+{
+    "abstract": {
+        "null": "AHG Training App"
+    },
+    "categories": [
+        "Education"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "a7410f0b1211c596400fd32b5b49de55f2a4f823b3585c9ea2dd9d1484f8ce3aaa39e8959e1f2e3a83a7a0f6b12646255dcb4026f4ac3a94f8bbe0f995d02575",
+        "size": 57263489,
+        "type": 2,
+        "url": "https://github.com/TroopTrack/AHGequip/releases/download/v1.1.6/AHGequip-1.1.6-i386.AppImage"
+    },
+    "format": 1,
+    "id": "ahgequip.desktop",
+    "keywords": [],
+    "name": {
+        "null": "AHGequip"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:01:05 GMT'"
+    }
+}

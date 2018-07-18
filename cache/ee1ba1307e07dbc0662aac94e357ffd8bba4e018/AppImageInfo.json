@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "A minimalist password manager"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "4ae44071b6787da1e9bac9e18b2273b7fab2cd30cc78d131b0a23a62d03d4a53201942831b80c3f11e8ed004726c965fba477fa6436acb54a16956b8c51fe9c1",
+        "size": 51563014,
+        "type": 2,
+        "url": "https://github.com/padlock/padlock/releases/download/v2.7.0/padlock-2.7.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "padlock.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Padlock"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:43:23 GMT'"
+    }
+}

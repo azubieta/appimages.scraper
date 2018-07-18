@@ -1,0 +1,24 @@
+{
+    "categories": [
+        "Network",
+        "WebBrowser"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "e49cd699f23daba6b71c082e6ce7ca934946daa30065dee1906de96ab465cafa62b3c20cf7331763504e85cffed3bc16406cc76404e182220d4908ad9a9db155",
+        "size": 78173968,
+        "type": 2,
+        "url": "https://github.com/showcheap/postman-appimage/releases/download/6.0.9/Postman-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "postman.desktop",
+    "keywords": [
+        "Postman"
+    ],
+    "name": {
+        "null": "Postman"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:15:09 GMT'"
+    }
+}

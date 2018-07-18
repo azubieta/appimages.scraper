@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Markdown Editor"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "03f81c897d4a796a32dcf8c529458daf70e0d2db273ebac7f88cc7ed27a917f8f8825f5dfcc7286cbf00efbb1cedbc173ebdd1df6a51d88c464fdf974e834cb2",
+        "size": 50069504,
+        "type": 1,
+        "url": "https://github.com/perry-mitchell/mead/releases/download/v0.2.0/mead-0.2.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "mead.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Mead"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:02:22 GMT'"
+    }
+}

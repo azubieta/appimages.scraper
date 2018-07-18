@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "EOS Blockchain Interface & Wallet"
+    },
+    "categories": [
+        "Network"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "cbda8f70338004bc18f7fbc5872e01d356ce710d5cda37a087b58a2e902b113f0313bcd908ba6ec0e01bc4cfe7d8dbb0bafe36ac524810f58d673aa7fc4e5e50",
+        "size": 74534367,
+        "type": 2,
+        "url": "https://github.com/eosrio/simpleos/releases/download/v0.6.2/simpleos-0.6.2-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "simpleos.desktop",
+    "keywords": [],
+    "name": {
+        "null": "simpleos"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:02:11 GMT'"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Text editor with ZX Spectrum theme"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "7d9f34904d7a9e95cc65c8b2c6b325022b501448c675af4d235054a7cbd871a5a21769de8d00ae85ad42a46fcb6584345b1688f3a4b80970d8f703563fd20aa1",
+        "size": 62652416,
+        "type": 1,
+        "url": "https://github.com/thorpelawrence/spectrum-editor/releases/download/v1.1.1/spectrum-editor-1.1.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "spectrum-editor.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Spectrum Editor"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:06:40 GMT'"
+    }
+}

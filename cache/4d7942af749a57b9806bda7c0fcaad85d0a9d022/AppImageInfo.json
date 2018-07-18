@@ -1,1 +1,24 @@
-{"name": {"null": "Aillio Bullet R1"}, "format": 1, "abstract": {"null": "The desktop application for Aillio Bullet R1"}, "release": {"date": "Mon, 25 Jun 2018 19:33:33 GMT"}, "file": {"url": "https://github.com/roastworld/roast-time-release/releases/download/v1.1.0-beta.1/aillio-ts-1.1.0-beta.1-x86_64.AppImage", "size": 63929403, "type": 2, "architecture": "x86-64", "sha512checksum": "37793f8ed8853382e49d0b4f413a09d557f305dd840fbb8dbdf12a28e709651a4c2cf9e5a7ade5d36b762e7b82d8575a069a0a0e2554e44a248bdd35685b65ed"}, "keywords": [], "id": "aillio-ts.desktop", "categories": ["Utility"]}
+{
+    "abstract": {
+        "null": "The desktop application for Aillio Bullet R1"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "37793f8ed8853382e49d0b4f413a09d557f305dd840fbb8dbdf12a28e709651a4c2cf9e5a7ade5d36b762e7b82d8575a069a0a0e2554e44a248bdd35685b65ed",
+        "size": 63929403,
+        "type": 2,
+        "url": "https://github.com/roastworld/roast-time-release/releases/download/v1.1.0-beta.1/aillio-ts-1.1.0-beta.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "aillio-ts.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Aillio Bullet R1"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:05:06 GMT'"
+    }
+}

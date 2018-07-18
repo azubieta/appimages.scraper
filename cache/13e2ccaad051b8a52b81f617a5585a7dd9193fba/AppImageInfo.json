@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Joplin for Desktop"
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "5fd505810398fd717e433899be36c958a3ec0d64db1f42f574d3f22486060524b67a652366599aed5af2a854397fa5398321e08f001ab16a237da3add4641612",
+        "size": 79068111,
+        "type": 2,
+        "url": "https://github.com/laurent22/joplin/releases/download/v1.0.100/Joplin-1.0.100-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "joplin.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Joplin"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:19:34 GMT'"
+    }
+}

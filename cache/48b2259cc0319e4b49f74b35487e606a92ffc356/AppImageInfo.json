@@ -1,1 +1,24 @@
-{"name": {"null": "AppImageAssistant"}, "format": 1, "abstract": {"null": "Turn AppDir into AppImage, part of AppImageKit"}, "release": {"date": "Mon, 25 Jun 2018 20:14:07 GMT"}, "file": {"url": "https://github.com/AppImage/AppImageKit/releases/download/6/AppImageAssistant_6-i686.AppImage", "size": 1245184, "type": 1, "architecture": "Intel 80386", "sha512checksum": "d5b3709e7fd1aee4fd306aa69485b217da2b1ed1b497595c6b36fc2e5ec8610f9e8d3c54a3e8efb95e76ba16b4aeab024d9286c28075467e37e0cd9e7d8a9e46"}, "keywords": [], "id": "AppImageAssistant.desktop", "categories": ["Development"]}
+{
+    "abstract": {
+        "null": "Turn AppDir into AppImage, part of AppImageKit"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "d5b3709e7fd1aee4fd306aa69485b217da2b1ed1b497595c6b36fc2e5ec8610f9e8d3c54a3e8efb95e76ba16b4aeab024d9286c28075467e37e0cd9e7d8a9e46",
+        "size": 1245184,
+        "type": 1,
+        "url": "https://github.com/AppImage/AppImageKit/releases/download/6/AppImageAssistant_6-i686.AppImage"
+    },
+    "format": 1,
+    "id": "AppImageAssistant.desktop",
+    "keywords": [],
+    "name": {
+        "null": "AppImageAssistant"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:14:58 GMT'"
+    }
+}

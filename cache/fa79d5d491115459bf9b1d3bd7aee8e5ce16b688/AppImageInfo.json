@@ -1,0 +1,22 @@
+{
+    "categories": [
+        "Graphics",
+        "3DGraphics"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "6f13b6ebb0304b0c61bb393ad0cabca45eab0a490f790b851be531b92051dff6ca24a1b17989f60b60c9f9a4eb08f90293b35933f52a842b49ef0df53c1d407e",
+        "size": 18184120,
+        "type": 2,
+        "url": "https://github.com/prusa3d/Slic3r/releases/download/version_1.40.1-beta/Slic3rPE-1.40.1-beta.linux64-full-201806220828.AppImage"
+    },
+    "format": 1,
+    "id": "slic3r.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Slic3r"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:05:27 GMT'"
+    }
+}

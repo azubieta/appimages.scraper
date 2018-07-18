@@ -1,0 +1,41 @@
+{
+    "abstract": {
+        "fr": "Interface graphique d'\u00e9dition XG",
+        "null": "QXGEdit is a Qt GUI XG editor application"
+    },
+    "categories": [
+        "Audio",
+        "AudioVideo",
+        "Midi",
+        "X-Alsa",
+        "Qt"
+    ],
+    "description": {
+        "null": "<p>QXGEdit is a Qt GUI for editing MIDI System Exclusive files for XG devices (eg. Yamaha DB50XG).</p> <p xml:lang=\"fr\">QXGedit est une interface Qt pour l'\u00e9dition des fichiers MIDI Sysex (System Exclusive) pour les p\u00e9riph\u00e9riques XG (exemple : Yamaha DB50XG).</p>"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "3f6bf57614e8819a66e58553a7190cf54aa323f47717ab43360dc2bcc968e3f36c43debfeed87022b0d628f41f5aefe732f9479fbc52b8f51e1680613eef68b3",
+        "size": 11687128,
+        "type": 2,
+        "url": "http://ftp.gwdg.de/pub/opensuse/repositories/home:/rncbc/AppImage/qxgedit-1530542161.59a6e44-Build1.4.glibc2.14-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "qxgedit.desktop",
+    "keywords": [
+        "\u00c9diteur XG",
+        "XG Editor"
+    ],
+    "license": {
+        "id": "GPL-2.0+"
+    },
+    "links": {
+        "homepage": "https://qxgedit.sourceforge.io"
+    },
+    "name": {
+        "null": "QXGEdit"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:28:05 GMT'"
+    }
+}

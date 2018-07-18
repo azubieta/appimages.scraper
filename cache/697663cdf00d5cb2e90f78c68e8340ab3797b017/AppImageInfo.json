@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Version Portable Outil PIA"
+    },
+    "categories": [
+        "Network"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "a7ea05efae0e77d02f6de0f14c48a0d1897f9e34546fa1dcede30462b9ea024bf2041b03e89d1b3ff174005f0b4bd8f1820e0d4df2436ba2df046187727af7ad",
+        "size": 59830640,
+        "type": 2,
+        "url": "https://github.com/LINCnil/pia-app/releases/download/1.6.0/PIA-1.6.0-i386.AppImage"
+    },
+    "format": 1,
+    "id": "pia.desktop",
+    "keywords": [],
+    "name": {
+        "null": "PIA"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:01:14 GMT'"
+    }
+}

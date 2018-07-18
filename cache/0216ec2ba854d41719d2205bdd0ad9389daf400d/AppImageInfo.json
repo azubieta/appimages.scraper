@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Watch your favorite Albanian TV channels through your PC"
+    },
+    "categories": [
+        "AudioVideo"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "136ef017208b4c5f495155f4125acf5fae9c7347c5cc0724c9ae2a480943c858adeb5c60e2b6b3625182acf6a97b695f4d17c80dd1647168b78dd79e6a8e6f64",
+        "size": 63920399,
+        "type": 2,
+        "url": "https://nimitv.com/pcapp/linux/x64/nimitv-2.1.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "nimitv.desktop",
+    "keywords": [],
+    "name": {
+        "null": "NimiTV"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:29:31 GMT'"
+    }
+}

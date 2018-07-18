@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "A DAB/DAB+ decoder using Qt and C++"
+    },
+    "categories": [
+        "AudioVideo"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "ce33a9de93985c947673e621c2ad5134f3906ff2cb310a85ca8188e335c5860b63a3bea533585a71b5a94c5a1a951404bf56400cb7e3c8c7839f415655758a85",
+        "size": 11702420,
+        "type": 2,
+        "url": "https://github.com/JvanKatwijk/qt-dab/releases/download/continuous/Qt_DAB-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "qt-dab.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Qt_DAB"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 03:28:16 GMT'"
+    }
+}

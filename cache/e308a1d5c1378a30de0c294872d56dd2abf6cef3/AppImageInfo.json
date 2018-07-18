@@ -1,0 +1,21 @@
+{
+    "categories": [
+        "Game"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "202995cea12a4a7d3dbae11436eda9ab2a6b5549b0ab29a9800cfa193c61ae633e6219b1a32b34e74b542d1a6386e87df1eee4b917a190bea2717aafce3a2483",
+        "size": 8655884,
+        "type": 2,
+        "url": "https://github.com/Vladar4/ng2gggrotto/releases/download/v1.2/gggrotto-1.2-i386.AppImage"
+    },
+    "format": 1,
+    "id": "gggrotto.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Glorious Glacier Grotto"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:28:23 GMT'"
+    }
+}

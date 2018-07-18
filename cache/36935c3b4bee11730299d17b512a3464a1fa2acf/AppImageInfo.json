@@ -1,0 +1,66 @@
+{
+    "categories": [
+        "Graphics",
+        "Qt"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "cc13bcf3d68dba485b1a6d7a8385f395c376590d2d4da55c73366b6d09c8bed79d4a4b9fb6fa066857fee1492f8779baf93514a456f9910be6d1a8658973fa61",
+        "size": 21142864,
+        "type": 2,
+        "url": "https://mirror.kumi.systems/kde/ftp/stable/atcore/1.0.0/AtCore_Test_Client-1.0.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "AtCoreTest.desktop",
+    "keywords": [],
+    "languages": [
+        "ast",
+        "ca",
+        "ca@valencia",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "en_GB",
+        "es",
+        "gl",
+        "nl",
+        "pl",
+        "pt",
+        "pt_BR",
+        "ru",
+        "sk",
+        "sv",
+        "tr",
+        "uk",
+        "x-test",
+        "zh_CN"
+    ],
+    "name": {
+        "ast": "Veceru de prueba d'AtCore",
+        "ca": "Client de prova de l'AtCore",
+        "ca@valencia": "Client de prova de l'AtCore",
+        "cs": "Testovac\u00ed klient AtCore",
+        "da": "AtCore-testklient",
+        "de": "AtCore-Testprogramm",
+        "el": "\u0395\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03b4\u03bf\u03ba\u03b9\u03bc\u03ae\u03c2 AtCore",
+        "en_GB": "AtCore Test Client",
+        "es": "Cliente de prueba de AtCore",
+        "gl": "Cliente de probas de AtCore",
+        "nl": "AtCore testclient",
+        "null": "AtCore Test Client",
+        "pl": "Klient testowy AtCore",
+        "pt": "Cliente de Testes do AtCore",
+        "pt_BR": "Cliente de teste AtCore",
+        "ru": "\u0422\u0435\u0441\u0442\u043e\u0432\u044b\u0439 \u043a\u043b\u0438\u0435\u043d\u0442 AtCore",
+        "sk": "AtCore Test Klient",
+        "sv": "AtCore testklient",
+        "tr": "AtCore Test \u0130stemcisi",
+        "uk": "\u0422\u0435\u0441\u0442\u043e\u0432\u0438\u0439 \u043a\u043b\u0456\u0454\u043d\u0442 AtCore",
+        "x-test": "xxAtCore Test Clientxx",
+        "zh_CN": "AtCore \u6d4b\u8bd5\u5ba2\u6237\u7aef"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 22:49:59 GMT'"
+    }
+}

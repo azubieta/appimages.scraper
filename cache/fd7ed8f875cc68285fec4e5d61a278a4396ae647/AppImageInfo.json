@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Dwyco Phoo Chat and Video Calling"
+    },
+    "categories": [
+        "Network"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "aecca15d1776d1623d72e96a5df7d0d8d1029be9e0c9bd5c41d9ca262c3b9dfff60ac6db753ab6547c6ec21e5355d7905aee77292db1c531d92506ab92f3fac9",
+        "size": 34070676,
+        "type": 2,
+        "url": "https://github.com/blindchimp/dwyco/releases/download/continuous/Dwyco_Phoo-e34ad2d-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "phoo.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Dwyco Phoo"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 00:09:15 GMT'"
+    }
+}

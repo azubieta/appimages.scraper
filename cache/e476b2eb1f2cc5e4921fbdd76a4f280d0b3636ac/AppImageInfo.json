@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Webrecorder Player -- Standalone Web Archive Browser App"
+    },
+    "categories": [
+        "network"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "213ea76afba82bdb110c5073002495d60bdc43e49cb27e9513a6fc38ed3a6c01ade01c6adf73aa4fa4189449c1684192a920ca85db15d54deae3616e60bb4e7d",
+        "size": 88342528,
+        "type": 1,
+        "url": "https://github.com/webrecorder/webrecorderplayer-electron/releases/download/v1.0.6/webrecorderplayer-electron-1.0.6-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "webrecorderplayer-electron.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Webrecorder Player"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 05:05:08 GMT'"
+    }
+}

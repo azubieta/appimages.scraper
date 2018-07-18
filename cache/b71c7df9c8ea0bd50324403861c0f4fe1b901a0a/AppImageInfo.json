@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "MineTime is a modern and multi-platform calendar application that lets you schedule events easier than ever before. It is free on Windows, macOS and Linux."
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "38c4a9bedd66318a43d052833babf261817d05e7dc87c7be71ab05f2754f00f252d7f310c0218e437c6641d12247ec53ff2161162693a90938cf8ecda8d374af",
+        "size": 87829310,
+        "type": 2,
+        "url": "https://github.com/marcoancona/MineTime/releases/download/v1.2.1/MineTime-1.2.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "minetime.desktop",
+    "keywords": [],
+    "name": {
+        "null": "MineTime"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:07:54 GMT'"
+    }
+}

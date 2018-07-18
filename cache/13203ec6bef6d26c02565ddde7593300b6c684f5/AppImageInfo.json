@@ -1,1 +1,27 @@
-{"name": {"null": "Brackets-Electron"}, "format": 1, "abstract": {"null": "Brackets-Electron"}, "release": {"date": "Mon, 25 Jun 2018 21:48:32 GMT"}, "file": {"url": "https://github.com/brackets-userland/brackets-electron/releases/download/v1.9.4/brackets-electron-1.9.4-x86_64.AppImage", "size": 84475904, "type": 1, "architecture": "x86-64", "sha512checksum": "9381e16f385ccab755cbfc09be87acfc18c0267531555ffbb87aab4411ab341eabf932f03a0011bc69ad0dd26f01d1da8406adbc34cf84d46bb4494ef6149f53"}, "keywords": [], "id": "brackets-electron.desktop", "categories": ["Utility", "TextEditor", "Development", "IDE"]}
+{
+    "abstract": {
+        "null": "Brackets-Electron"
+    },
+    "categories": [
+        "Utility",
+        "TextEditor",
+        "Development",
+        "IDE"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "9381e16f385ccab755cbfc09be87acfc18c0267531555ffbb87aab4411ab341eabf932f03a0011bc69ad0dd26f01d1da8406adbc34cf84d46bb4494ef6149f53",
+        "size": 84475904,
+        "type": 1,
+        "url": "https://github.com/brackets-userland/brackets-electron/releases/download/v1.9.4/brackets-electron-1.9.4-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "brackets-electron.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Brackets-Electron"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:22:48 GMT'"
+    }
+}

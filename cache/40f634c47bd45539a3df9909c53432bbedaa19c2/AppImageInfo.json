@@ -1,1 +1,24 @@
-{"name": {"null": "Cromberg"}, "format": 1, "abstract": {"null": "Personal accounting system"}, "release": {"date": "Mon, 25 Jun 2018 23:12:52 GMT"}, "file": {"url": "https://github.com/z17/home-accounting-system/releases/download/v1.2.2/Cromberg.v1.2.2-x86_64.AppImage", "size": 45674897, "type": 2, "architecture": "x86-64", "sha512checksum": "929bb2f71bb030c9f4c3b044a5fa17a0c795a0e5e99855a040199bdd6a001a27db58b492c538663021be370f9f9ef63af4a53e003eac2d4836b5679a583b93f7"}, "keywords": [], "id": "cromberg.desktop", "categories": ["Finance"]}
+{
+    "abstract": {
+        "null": "Personal accounting system"
+    },
+    "categories": [
+        "Finance"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "929bb2f71bb030c9f4c3b044a5fa17a0c795a0e5e99855a040199bdd6a001a27db58b492c538663021be370f9f9ef63af4a53e003eac2d4836b5679a583b93f7",
+        "size": 45674897,
+        "type": 2,
+        "url": "https://github.com/z17/home-accounting-system/releases/download/v1.2.2/Cromberg.v1.2.2-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "cromberg.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Cromberg"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:43:33 GMT'"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "See and configure the mute status of all your X32\u2019s channels (on every mixbus) in one place."
+    },
+    "categories": [
+        "Audio"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "4b4e633239d112018a26ba94f48aad4bacc7f875fab2343d047924ad08716fd30b02e61d5adf26cb5d1dcc4e6b499ba2c1342ab6617e0bbadf0d007c3ba9fc62",
+        "size": 55377920,
+        "type": 1,
+        "url": "https://github.com/Lange/x32-mute-matrix/releases/download/v0.0.1/x32-mute-matrix-0.0.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "x32-mute-matrix.desktop",
+    "keywords": [],
+    "name": {
+        "null": "X32 Mute Matrix"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 05:14:36 GMT'"
+    }
+}

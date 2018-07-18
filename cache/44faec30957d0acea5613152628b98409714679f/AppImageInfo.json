@@ -1,1 +1,24 @@
-{"name": {"null": "devRantron"}, "format": 1, "abstract": {"null": "An open source cross platform desktop application for devRant"}, "release": {"date": "Mon, 25 Jun 2018 23:53:21 GMT"}, "file": {"url": "https://github.com/tahnik/devRantron/releases/download/v1.5.3/devrantron-1.5.3-x86_64.AppImage", "size": 56824000, "type": 2, "architecture": "x86-64", "sha512checksum": "160f82fec82c373feff4085507a754407d6996bcc5f6093e414a2a7da967a9ef5f2452de1b40bf70ee9af8a7e6249c0c78bc4ced24995a1f6d0077504e781725"}, "keywords": [], "id": "devrantron.desktop", "categories": ["Development"]}
+{
+    "abstract": {
+        "null": "An open source cross platform desktop application for devRant"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "160f82fec82c373feff4085507a754407d6996bcc5f6093e414a2a7da967a9ef5f2452de1b40bf70ee9af8a7e6249c0c78bc4ced24995a1f6d0077504e781725",
+        "size": 56824000,
+        "type": 2,
+        "url": "https://github.com/tahnik/devRantron/releases/download/v1.5.3/devrantron-1.5.3-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "devrantron.desktop",
+    "keywords": [],
+    "name": {
+        "null": "devRantron"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:56:46 GMT'"
+    }
+}

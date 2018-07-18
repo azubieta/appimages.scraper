@@ -1,0 +1,14 @@
+{
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "a788816cd690e05d26e6ae8a20a1cc6830fa299c7ee8a2797263ba37603c92afd53eabf6af3097c6fb23a9ad37f698f178553f930ef1bc5117def7fb33a8adde",
+        "size": 1958256,
+        "type": 2,
+        "url": "https://github.com/ValdikSS/windows2usb/releases/download/0.1.1/windows2usb-0.1.1-i686.AppImage"
+    },
+    "format": 1,
+    "keywords": [],
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 05:09:31 GMT'"
+    }
+}

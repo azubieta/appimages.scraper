@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Desktop version of Calculist.io"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "4fb33415a939e53d5a9d926f8a9fce275c9c642cdc23b18219aac20c7b9fdf1e1f40ca0ddad48d349c833313a31989f4ef6825aa16375905ad1541ed7dafa1e2",
+        "size": 282722304,
+        "type": 1,
+        "url": "https://github.com/calculist/calculist-desktop/releases/download/v0.1.0-beta/Calculist-0.1.0-beta-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "calculistdesktop.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Calculist"
+    },
+    "release": {
+        "date": "b'Tue, 17 Jul 2018 23:31:37 GMT'"
+    }
+}

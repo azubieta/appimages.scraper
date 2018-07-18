@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Node.js Booru Browser"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "ce6a233f2d9843fbea88fd494db3b63f94e60a0309e2f4334692f51d0c63929c60aecd1f3053f252f59d9a78946080b74487479d3904ed28c0fd101aef17a906",
+        "size": 44040192,
+        "type": 1,
+        "url": "https://files.kuudere.moe:443/nbb/linux/nbb-1.0.11-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "nbb.desktop",
+    "keywords": [],
+    "name": {
+        "null": "nbb"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 02:21:24 GMT'"
+    }
+}

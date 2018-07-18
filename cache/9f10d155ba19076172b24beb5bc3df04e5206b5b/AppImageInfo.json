@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "break time reminder app"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "be1b1aa72f8a5417d276375f5bdcbf4bd8a716498fd0a29b761fc16676e3af04510b9fd98c239758669bb0430e4e6482a7f6a0b901d0064028bc60fe3954b5cf",
+        "size": 50724864,
+        "type": 1,
+        "url": "https://github.com/hovancik/stretchly/releases/download/v0.8.1/stretchly-0.8.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "stretchly.desktop",
+    "keywords": [],
+    "name": {
+        "null": "stretchly"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:28:55 GMT'"
+    }
+}

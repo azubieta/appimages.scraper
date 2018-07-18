@@ -1,0 +1,14 @@
+{
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "0af7b3e22186fdf17a2d9aba62ecbb1eb2b2d0510b35064fd4a5e7288f8820fa3f5691a9b64e51b5edc576fe4a960e46612dcdd36a725f1d7bf779e5c96a6b06",
+        "size": 1955680,
+        "type": 2,
+        "url": "https://github.com/ValdikSS/windows2usb/releases/download/0.1.2/windows2usb-0.1.2-x86_64.AppImage"
+    },
+    "format": 1,
+    "keywords": [],
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 05:09:31 GMT'"
+    }
+}

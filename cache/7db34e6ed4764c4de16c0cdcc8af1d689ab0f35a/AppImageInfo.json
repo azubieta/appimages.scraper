@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Edit this default file"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "40525b98ac96b71b53e615410f99f3db29f1cd23902cb482779127c0284d0b7750154e707a969084d585b200420542c78f4bdca7f3606bd46c1c091f0145360c",
+        "size": 43862872,
+        "type": 2,
+        "url": "https://github.com/p-edelman/Transcribe/releases/download/cyberman/transcribe-cyberman.AppImage"
+    },
+    "format": 1,
+    "id": "default.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Application"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:46:50 GMT'"
+    }
+}

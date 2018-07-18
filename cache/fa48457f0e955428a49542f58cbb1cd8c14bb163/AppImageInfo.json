@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "a utility to scrape a Tumblr profile for user uploadede posts"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "c0708f9a52b5aecd8bb1a83c850c17622c4911383ba6118f02c2b6b7c3064e0937da0a14075eddd4b6428e571f29582913076d951b285bbfa041ba8a628fe375",
+        "size": 45704012,
+        "type": 2,
+        "url": "https://github.com/lluisrojass/tumblr-scraper/releases/download/v1.2/tumblr-scraper-1.2.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "tumblr-scraper.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Tumblr Scraper"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:47:54 GMT'"
+    }
+}

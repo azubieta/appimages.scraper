@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Keyboard Settings Client"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "05e06acf373aa5597a73ab19f256dc0571fb77388a09a9a522e267a9aad62bae69250c58a3f4f9869e21f3000f8e35f8cb06715d65fff22cd2347bce2cba6ff2",
+        "size": 29616056,
+        "type": 2,
+        "url": "https://github.com/chrisandreae/keyboard-firmware/releases/download/v1.1.3/KeyboardClient-f00ef2d-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "KeyboardClient.desktop",
+    "keywords": [],
+    "name": {
+        "null": "KeyboardClient"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 01:26:14 GMT'"
+    }
+}

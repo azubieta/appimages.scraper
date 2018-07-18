@@ -1,0 +1,14 @@
+{
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "e361f0c8b09d885786ff820a3a0c20082380615bcdcf22ff399635d22572c2111d1c844963bdaf89aa6fafba2031479833be9875a2d3e92c4eafff99fe0b2234",
+        "size": 25308496,
+        "type": 2,
+        "url": "https://github.com/lmcapacho/SimDSP/releases/download/v1.0.0/SimDSP-x86_64.AppImage"
+    },
+    "format": 1,
+    "keywords": [],
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:01:52 GMT'"
+    }
+}

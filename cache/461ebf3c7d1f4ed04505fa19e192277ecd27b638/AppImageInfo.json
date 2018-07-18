@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "A simple word processor built with web technologies"
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "1cb8009ab84d2b2e2ebc71cd261d29640ee9de357115c991eece2487a36023baef4a510149b4ba5764156615c359ee10c3076f0ff88b9dd9c3a98a69a18fdeac",
+        "size": 100466688,
+        "type": 1,
+        "url": "https://github.com/Skrifa/Skrifa/releases/download/v0.2.1/Skrifa-0.2.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "skrifa.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Skrifa"
+    },
+    "release": {
+        "date": "b'Wed, 18 Jul 2018 04:03:59 GMT'"
+    }
+}
