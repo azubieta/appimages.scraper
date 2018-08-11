@@ -7,8 +7,8 @@
     ],
     "file": {
         "architecture": "x86-64",
-        "sha512checksum": "092f81b7729cd0c3995a5f7ff2303ef9b8bb9ffe74c8ff26fa398ad6e1c14f87b3d63064428a047a8f9829c0d26519916833dad74c6e16bb84c262b9be2b640a",
-        "size": 14885012,
+        "sha512checksum": "e7184348306bd124445a291a58edaf2cc8bc95c4077f5128101f794ce20751f3ce8c2164a0040d1b9153edadc9b70e7255414fd3abad047eec171aa1aa804897",
+        "size": 14649416,
         "type": 2,
         "url": "https://github.com/probonopd/linuxdeployqt/releases/download/continuous/linuxdeployqt-continuous-x86_64.AppImage"
     },
@@ -19,6 +19,6 @@
         "null": "linuxdeployqt"
     },
     "release": {
-        "date": "b'Wed, 18 Jul 2018 01:40:55 GMT'"
+        "date": "b'Thu, 02 Aug 2018 22:27:36 GMT'"
     }
 }

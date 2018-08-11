@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Podcast Manager in Electron"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "c3c77f7f4c6f041641bc60927ce06680b5a087a68581d9aa6cc937acc1ebfae9ab50889e5ba47007dcf748d65f86a08b56c6fee54d2fb1f09200ac4fb5b3576f",
+        "size": 55430042,
+        "type": 2,
+        "url": "https://github.com/Fraktal-JS/fraktal/releases/download/v1.1.0/fraktal-1.1.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "fraktal.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Fraktal"
+    },
+    "release": {
+        "date": "b'Thu, 02 Aug 2018 21:19:47 GMT'"
+    }
+}

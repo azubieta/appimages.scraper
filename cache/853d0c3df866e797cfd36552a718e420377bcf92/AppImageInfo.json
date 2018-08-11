@@ -4,7 +4,7 @@
     },
     "file": {
         "architecture": "x86-64",
-        "sha512checksum": "1f63ff21c81f0ab9861ac118c7e3b561002c51133135f5094c9793176eafbb0c3146c603c6bc40049c13de06c6c5411b350f214794d7ee03b53687b629ee5c75",
+        "sha512checksum": "b25f02d0672bfde7d97147b439ca005a8859f5c06fce15e941cbd3b877eb0cf2f50d3444a558a2b9780c1997e1a487df4c8656a7a09b20f8a11ab42287d70c99",
         "size": 423128,
         "type": 2,
         "url": "http://download.opensuse.org/repositories/home:/nandub:/MyAppImages/AppImage/ttygif-latest-x86_64.AppImage"
@@ -16,6 +16,6 @@
         "null": "ttygif"
     },
     "release": {
-        "date": "b'Tue, 17 Jul 2018 22:32:27 GMT'"
+        "date": "b'Fri, 10 Aug 2018 05:02:18 GMT'"
     }
 }

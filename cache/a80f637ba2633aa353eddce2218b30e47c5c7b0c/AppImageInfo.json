@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Medical Image Registration ToolKit (ce3d696a45639e9d6cdf225e3a574768c44b9d16)"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "9442326f44a38631c01ff1c12c7a7fdf7111b323b5de02ad1cedcc3c2f5c9e91e7d3fdd50e7d324281377edf90520fed647b90d9fe7f3ca422fba208c71386ed",
+        "size": 18933688,
+        "type": 2,
+        "url": "https://akamai.bintray.com/27/271b53b5902c1173a9d44aa6aac4d62358b2ed226a343344f8166ef8b9575b2f?__gda__=exp=1533251163~hmac=e017e6bb046fbd638f592f0787b72b0ec2ab9db1aa5658cfb09a567b0082e5c1&response-content-disposition=attachment%3Bfilename%3D%22MIRTK-latest-x86_64-glibc2.14.AppImage%22&response-content-type=application%2Fx-www-form-urlencoded&requestInfo=U2FsdGVkX18s2Qc4_6kAHx7ISgKNbVNYDygLWww-sJV8lY9tVMukTJN19T5auRNNI7KkHvmx8uxNRZRRvI0SN8IH6hZIriK4Y5lmE0YjYmoVq6b3Mldti4kDt9GiPF2xFGua11bcjbOJT6IXRgGK3A&response-X-Checksum-Sha1=614ff264855e4c51e07fd08c58cf949860dd1e1e&response-X-Checksum-Sha2=271b53b5902c1173a9d44aa6aac4d62358b2ed226a343344f8166ef8b9575b2f"
+    },
+    "format": 1,
+    "id": "MIRTK.desktop",
+    "keywords": [],
+    "name": {
+        "null": "MIRTK"
+    },
+    "release": {
+        "date": "b'Thu, 02 Aug 2018 22:54:08 GMT'"
+    }
+}

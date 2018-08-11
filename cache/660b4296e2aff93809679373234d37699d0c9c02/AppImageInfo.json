@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Rambox"
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "6f250a1ac641b609a798393b2f92703850ac890d8cc70385fd2245b5acc73c8251e38b28afea2b6ed270f41bd8526c01bcd31226920590e8e89c3910f192a767",
+        "size": 63700992,
+        "type": 1,
+        "url": "https://github.com/ramboxapp/community-edition/releases/download/0.5.15/Rambox-0.5.15-x64.AppImage"
+    },
+    "format": 1,
+    "id": "rambox.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Rambox"
+    },
+    "release": {
+        "date": "b'Fri, 10 Aug 2018 09:56:13 GMT'"
+    }
+}

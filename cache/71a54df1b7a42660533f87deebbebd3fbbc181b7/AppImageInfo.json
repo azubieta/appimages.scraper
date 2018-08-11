@@ -1,0 +1,29 @@
+{
+    "abstract": {
+        "null": "A REST client with grand ambitions and limited scope."
+    },
+    "categories": [
+        "Network",
+        "Qt",
+        "X-REST",
+        "X-Productivity"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "af7cf42dad07a56f357a4490c5db0f3c5a332078dfe4218fd3db80f0a92a6b477ab4f90ce6e35c4f53d7cae6e525c35a08815a1416ee2c40ba20450ab4e8e1dd",
+        "size": 29161544,
+        "type": 2,
+        "url": "https://github.com/tmstieff/Woke/releases/download/continuous/Woke-6ac783d-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "woke.desktop",
+    "keywords": [
+        "REST Client"
+    ],
+    "name": {
+        "null": "Woke"
+    },
+    "release": {
+        "date": "b'Fri, 10 Aug 2018 11:27:53 GMT'"
+    }
+}

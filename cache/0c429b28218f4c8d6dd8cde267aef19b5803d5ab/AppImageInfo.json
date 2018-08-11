@@ -16,8 +16,8 @@
     },
     "file": {
         "architecture": "x86-64",
-        "sha512checksum": "d3efa80b101d2a8ef7ddd7cbf1496833b9b29b1db3ea7c553ec03bbb4dc1ef2dcabcd5e8ef51e64c56de1c66a9aabef353c084ea7aae032cd8cc28070b86a8fd",
-        "size": 13358296,
+        "sha512checksum": "dd6ee66266cfd1399f150cc11eb0f0d9bac409649809be6de37bc696877236088fc4555ab9a4ce690a9f6afc638f6d3b8e738f48318773ddcdfcfcbb4a3ef549",
+        "size": 13550808,
         "type": 2,
         "url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/padthv1-latest-x86_64.AppImage"
     },
@@ -36,6 +36,6 @@
         "null": "padthv1"
     },
     "release": {
-        "date": "b'Wed, 18 Jul 2018 03:36:52 GMT'"
+        "date": "b'Fri, 03 Aug 2018 00:00:23 GMT'"
     }
 }

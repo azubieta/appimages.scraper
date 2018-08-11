@@ -10,8 +10,8 @@
     },
     "file": {
         "architecture": "x86-64",
-        "sha512checksum": "ba16b249a6e1b42df5d8f729f3e58b89e166f19221a155d72d34a4518ee664a348acb5757c17fe90c2546305c83b8868fa8c1a51b608939d8742572ea6ebcc39",
-        "size": 1894696,
+        "sha512checksum": "7c56c8e869c7efc97e7acd606d750cc5c197ce16eb52b3b0c1c9a88606e40c013792555ad265da38ee36ecf3cc86bf8b9a37ecd448ae8ebda41ca29e392405ee",
+        "size": 1910856,
         "type": 2,
         "url": "https://github.com/AppImage/AppImageKit/releases/download/continuous/appimagetool-x86_64.AppImage"
     },
@@ -28,6 +28,6 @@
         "null": "appimagetool"
     },
     "release": {
-        "date": "b'Tue, 17 Jul 2018 22:14:58 GMT'"
+        "date": "b'Fri, 10 Aug 2018 04:56:16 GMT'"
     }
 }

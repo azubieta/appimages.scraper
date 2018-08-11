@@ -4,8 +4,8 @@
     ],
     "file": {
         "architecture": "x86-64",
-        "sha512checksum": "059d45ee372e7af3598177ed8fae043e8f9d724ede5775d2e8c0fcdc59b122b438449b8ea50c919ada588337a197e0a2c1e7fa039025d2237cfeb95d85121f88",
-        "size": 14758036,
+        "sha512checksum": "8deb51e8cdd27d4b85e1fc0ce04752770461c9dcc880c70461a8085f37785d69ed7d9dac16c3ce8fe4383b9bfb892da84a91da189afcea60b7211f11be87c7c6",
+        "size": 14538824,
         "type": 2,
         "url": "https://github.com/JvanKatwijk/swradio-8/releases/download/continuous/swradio-x86_64.AppImage"
     },
@@ -16,6 +16,6 @@
         "null": "swradio"
     },
     "release": {
-        "date": "b'Wed, 18 Jul 2018 04:35:40 GMT'"
+        "date": "b'Fri, 10 Aug 2018 10:52:51 GMT'"
     }
 }

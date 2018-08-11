@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "A tool for working with Games Data files from CRG"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "80552a777fc02b14433b83dd59949e150dcfd7db0b57f7eb7349768d887c8ce70062347f9942b141e2b0bfef8e715fa55b392940a06cc6ca3c64ffc19a0d9cd6",
+        "size": 65272580,
+        "type": 2,
+        "url": "https://github.com/AdamSmasherDerby/CRG-To-Statsbook/releases/download/v0.3-beta.3/crgdatatool-0.3.3-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "crgdatatool.desktop",
+    "keywords": [],
+    "name": {
+        "null": "CRG Data Tool"
+    },
+    "release": {
+        "date": "b'Fri, 10 Aug 2018 05:58:14 GMT'"
+    }
+}

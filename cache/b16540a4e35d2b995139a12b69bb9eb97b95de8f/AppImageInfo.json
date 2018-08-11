@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Make Lists. Not War."
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "7771480879ae31499b4224ac008e1734e4bc9d9ed42e13d68e1c9c056fff14db943203f6e01a0617d5a1145fa54f1499341996a0b2815df018cfa822426ed6b9",
+        "size": 51550621,
+        "type": 2,
+        "url": "https://github.com/workflowy/desktop/releases/download/v1.0.21/WorkFlowy-1.0.21-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "workflowy.desktop",
+    "keywords": [],
+    "name": {
+        "null": "WorkFlowy"
+    },
+    "release": {
+        "date": "b'Fri, 10 Aug 2018 11:28:01 GMT'"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "4a13c4f94dc6aa5c98151e83747c955f6908f84ff0592633fc264f3f39d8063a05b000c957bf26bebd48d05574445eea11c354ac2488ca5c8eb7bca6fc56caa4",
+        "size": 2758728,
+        "type": 2,
+        "url": "https://github.com/AppImage/AppImageUpdate/releases/download/continuous/appimageupdatetool-365-db93246-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "appimageupdatetool.desktop",
+    "keywords": [],
+    "name": {
+        "null": "appimageupdatetool"
+    },
+    "release": {
+        "date": "b'Thu, 02 Aug 2018 19:36:40 GMT'"
+    }
+}

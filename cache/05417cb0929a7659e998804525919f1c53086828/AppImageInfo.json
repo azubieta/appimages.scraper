@@ -1,0 +1,41 @@
+{
+    "abstract": {
+        "fr": "drumkv1 est un \u00e9chantillonneur de batterie \u00e0 l'ancienne",
+        "null": "drumkv1 is an old school drum-kit sampler"
+    },
+    "categories": [
+        "Audio",
+        "AudioVideo",
+        "Midi",
+        "X-Alsa",
+        "X-Jack",
+        "Qt"
+    ],
+    "description": {
+        "null": "<p>drumkv1 is an old-school drum-kit sampler synthesizer with stereo fx.</p> <p>features:<ul> <li>pure stand-alone JACK client with JACK-session, NSM and both JACK MIDI and ALSA MIDI input support;</li> <li>LV2 instrument plugin. URI: http://drumkv1.sourceforge.net/lv2</li> </ul></p>"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "4cd0ad53d6058a9ec47ba6e20514f82df4b85e570eb068ffefcdb6fa2591c9e5a206418cdca4d321f72df1f82739d38b48553d650c560605739188dbcdbe9221",
+        "size": 13305048,
+        "type": 2,
+        "url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/drumkv1-1532425160.4e9d507-Build2.4.glibc2.2.5-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "drumkv1.desktop",
+    "keywords": [
+        "MIDI"
+    ],
+    "license": {
+        "id": "GPL-2.0+"
+    },
+    "links": {
+        "homepage": "https://drumkv1.sourceforge.io"
+    },
+    "name": {
+        "null": "drumkv1"
+    },
+    "release": {
+        "date": "b'Fri, 03 Aug 2018 00:00:23 GMT'"
+    }
+}

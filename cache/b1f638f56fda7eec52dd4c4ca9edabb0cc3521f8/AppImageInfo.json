@@ -4,8 +4,8 @@
     },
     "file": {
         "architecture": "x86-64",
-        "sha512checksum": "172f1c9dfa83d3afc8e4c5c50de9122b95310956ef315bd17755f1d4e88a76ab67bb9ef7a02139a3cb11cf6abfe9cae58558f28b3ac7aff1de3a5ae1b3dbd054",
-        "size": 39560408,
+        "sha512checksum": "180380c20f7208c56d04657e3b0ae08255c7b922b7126308767c0d0f6f4e51ab7fdc968af757d1e7baa9189e5dac64da1003d7d55f28c6c5e3c266e87169f076",
+        "size": 39539928,
         "type": 2,
         "url": "http://download.opensuse.org/repositories/home:/nandub:/MyAppImages/AppImage/magic-latest-x86_64.AppImage"
     },
@@ -16,6 +16,6 @@
         "null": "Magic-Wormhole"
     },
     "release": {
-        "date": "b'Tue, 17 Jul 2018 22:32:27 GMT'"
+        "date": "b'Thu, 02 Aug 2018 19:41:21 GMT'"
     }
 }

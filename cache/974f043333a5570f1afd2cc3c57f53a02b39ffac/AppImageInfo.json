@@ -7,8 +7,8 @@
     ],
     "file": {
         "architecture": "x86-64",
-        "sha512checksum": "ce33a9de93985c947673e621c2ad5134f3906ff2cb310a85ca8188e335c5860b63a3bea533585a71b5a94c5a1a951404bf56400cb7e3c8c7839f415655758a85",
-        "size": 11702420,
+        "sha512checksum": "a734120e6788164c1c61594ee65deb295d62c151da9603d11f4f7ccade873d4dbaeb093d0d193d1b0c316d59cc10595834417d853805ab6ff14d0b5f8cf123e7",
+        "size": 11458632,
         "type": 2,
         "url": "https://github.com/JvanKatwijk/qt-dab/releases/download/continuous/Qt_DAB-x86_64.AppImage"
     },
@@ -19,6 +19,6 @@
         "null": "Qt_DAB"
     },
     "release": {
-        "date": "b'Wed, 18 Jul 2018 03:28:16 GMT'"
+        "date": "b'Fri, 10 Aug 2018 09:53:34 GMT'"
     }
 }

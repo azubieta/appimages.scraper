@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "The community platform for the future."
+    },
+    "categories": [
+        "Network"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "d1b2c866dfe1b74503fbda1450f92ab822490b6f77466eb89a672221c18871445ae0aab76bd37434846f96580dfb77988cc2004b3d08c57149aab599a6e87332",
+        "size": 54142661,
+        "type": 2,
+        "url": "https://github.com/withspectrum/spectrum/releases/download/v1.0.4/Spectrum-1.0.4-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "spectrum.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Spectrum"
+    },
+    "release": {
+        "date": "b'Fri, 10 Aug 2018 10:26:27 GMT'"
+    }
+}

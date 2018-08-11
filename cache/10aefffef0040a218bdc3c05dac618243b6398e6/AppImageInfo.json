@@ -1,0 +1,23 @@
+{
+    "categories": [
+        "Graphics"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "70712d8cf84e0479b809a4144a397e370439daab88a983a03bf4dcb1e898d0da178279cb0c6594b50d979a0b441096218a3c9e75933a43fce7726478627bb286",
+        "size": 32047104,
+        "type": 1,
+        "url": "https://d29vzk4ow07wi7.cloudfront.net/bb1df0da5113d4a7ce6debb260962df8c6f9080239251bf5dc983a41796b4a1f?response-content-disposition=attachment%3Bfilename%3D%22ipe-7.2.7-x86_64.AppImage%22&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vZDI5dnprNG93MDd3aTcuY2xvdWRmcm9udC5uZXQvYmIxZGYwZGE1MTEzZDRhN2NlNmRlYmIyNjA5NjJkZjhjNmY5MDgwMjM5MjUxYmY1ZGM5ODNhNDE3OTZiNGExZj9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPWF0dGFjaG1lbnQlM0JmaWxlbmFtZSUzRCUyMmlwZS03LjIuNy14ODZfNjQuQXBwSW1hZ2UlMjIiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE1MzM4ODc1MDB9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19&Signature=jXF9zPTPi28E~WtPvKcXYCvuesnl3rdH8TDUYMBVZkLNDkOWruWW7o8yauDxYyubYygrDA-LyMMOyH8NplRlS05TpT~tRmh4iF3E930JW9~ZUlgF5pYEopjo5yyqvNeBZNH2fMaTgfg-syXL8g4aSEP2TV2y-pFuq1EVPcx~LfRE2T6qg~wJIrrwWvrEiA-wo0C66w7EN0z0XwjgdTAavyh2k9u5edojyGdJPNCuculzRWdSBxjWBdJFo79ypuxa-moWij9Nvn5uYG12oqHB4XO31mA6mReYyUxMI-NYhRD~3zSW89T8Bw957TSTVXsfX0J-1RCs3Oiji0vYpBc6BA__&Key-Pair-Id=APKAIFKFWOMXM2UMTSFA"
+    },
+    "format": 1,
+    "id": "Ipe.desktop",
+    "keywords": [
+        "drawing program"
+    ],
+    "name": {
+        "null": "Ipe"
+    },
+    "release": {
+        "date": "b'Wed, 08 Aug 2018 08:01:09 GMT'"
+    }
+}

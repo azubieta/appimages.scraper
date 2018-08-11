@@ -1,0 +1,48 @@
+{
+    "abstract": {
+        "de": "Grafisches Werkzeug zur Steuerung des JACK-Audio-Systems",
+        "fr": "QjackCtl est une interface graphique Qt pour le kit de connexion audio JACK",
+        "it": "QjackCtl \u00e8 un'interfaccia di controllo per JACK basata su Qt",
+        "null": "QjackCtl is a JACK Audio Connection Kit Qt GUI Interface",
+        "ru": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u0434\u043b\u044f \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0437\u0432\u0443\u043a\u043e\u0432\u044b\u043c \u0441\u0435\u0440\u0432\u0435\u0440\u043e\u043c JACK"
+    },
+    "categories": [
+        "Audio",
+        "AudioVideo",
+        "Midi",
+        "X-Alsa",
+        "X-Jack",
+        "Qt"
+    ],
+    "description": {
+        "null": "<p>JACK Audio Connection Kit - Qt GUI Interface: A simple Qt application to control the JACK server. Written in C++ around the Qt framework for X11, most exclusively using Qt Designer. Provides a simple GUI dialog for setting several JACK server parameters, which are properly saved between sessions, and a way control of the status of the audio server. With time, this primordial interface has become richer by including a enhanced patchbay and connection control features.</p> <p xml:lang=\"fr\">Interface graphique Qt pour le kit de connexion audio Jack : une application Qt simple pour contr\u00f4ler le server Jack. \u00c9crite en c++ autour du kit de d\u00e9veloppement Qt pour X11, presque exclusivement en utilisant Qt Designer. Fourni une interface graphique simple de dialogue pour plusieurs param\u00e8tres du serveur JACK qui sont sauvegard\u00e9s proprement entre les sessions, et un moyen de contr\u00f4le du status du serveur audio. Avec le temps, cette interface primordiale est devenue plus riche en incluant une baie de brassage am\u00e9lior\u00e9e et des fonctionnalit\u00e9s de contr\u00f4le de connexion.</p>"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "5365565156b1a9c817287a459f135bcd26297ad57ad30ab4e4667361a96ba23d2944fe05c30f0ad9ac59617362e6a8ec48778515d68ccef8250d7432dc019af9",
+        "size": 13075672,
+        "type": 2,
+        "url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/qjackctl-1532361519.49d2712-Build1.3.glibc2.14-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "qjackctl.desktop",
+    "keywords": [
+        "JACK-Steuerung",
+        "Contr\u00f4le JACK",
+        "Interfaccia di controllo per JACK",
+        "JACK Control",
+        "\u0423\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u0435 JACK"
+    ],
+    "license": {
+        "id": "GPL-2.0+"
+    },
+    "links": {
+        "homepage": "https://qjackctl.sourceforge.io"
+    },
+    "name": {
+        "null": "QjackCtl"
+    },
+    "release": {
+        "date": "b'Fri, 03 Aug 2018 00:00:23 GMT'"
+    }
+}

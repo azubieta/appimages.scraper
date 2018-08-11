@@ -1,0 +1,26 @@
+{
+    "abstract": {
+        "null": "Brainsick code compiler"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "38d1c5ddf28025c4a300cf27b0cff4344257f2eb932c5f4bd0c42b8cc033ea3c6c6c1230e1bbce82df784d75cb8561a1d038ecd6b8e0c9a6b408465f57c67b2c",
+        "size": 22216704,
+        "type": 1,
+        "url": "https://bohemia.brainsick.cc/pub/brainsick/bscc/v0.2.1/bscc-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "bscc.desktop",
+    "keywords": [
+        "Compiler for VB language"
+    ],
+    "name": {
+        "null": "bscc"
+    },
+    "release": {
+        "date": "b'Thu, 02 Aug 2018 20:19:46 GMT'"
+    }
+}

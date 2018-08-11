@@ -1,0 +1,25 @@
+{
+    "abstract": {
+        "null": "Virtual Machine for Atari 32-bit applications"
+    },
+    "categories": [
+        "System",
+        "Emulator"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "1cdada7b8662116aeb1c2da5fd5d711e59a44b57da433214ac524b5cbf8617948c0092763cfb23ba09175595e50b6288253fc498fa661754931c5710335462f8",
+        "size": 3250104,
+        "type": 2,
+        "url": "https://akamai.bintray.com/31/312519ee0dcbc840cd577b97d09680192b7b1697f4519be29ee0a09b0a649605?__gda__=exp=1533239550~hmac=8f908f4e895c44516b159d2e3cfc80c38cbcca42c329f678246fda0a25ff61c9&response-content-disposition=attachment%3Bfilename%3D%22ARAnyM-1.0.2-x86_64-0fa61bd.AppImage%22&response-content-type=application%2Fx-executable&requestInfo=U2FsdGVkX18uTdDDcIA2ZBrFEFx_vEz1TNNoiM5N8oG2mX0JPd7mDXy3SJ0MPalsS5I0E0OpLtl35nx5RqYVDXXXf1_O5gJG7TXTj-ZK9ee3ot2G3qBBdFBYayzM8sGUD2hp7uHrEG6nrV4RciydNoxN2nar4MSfEfABHvA4BEg&response-X-Checksum-Sha1=a6e7a99e47d315a47ac176b6df32bb3ddd4c36ff&response-X-Checksum-Sha2=312519ee0dcbc840cd577b97d09680192b7b1697f4519be29ee0a09b0a649605"
+    },
+    "format": 1,
+    "id": "aranym.desktop",
+    "keywords": [],
+    "name": {
+        "null": "ARAnyM"
+    },
+    "release": {
+        "date": "b'Thu, 02 Aug 2018 19:40:34 GMT'"
+    }
+}

@@ -4,7 +4,7 @@
     },
     "file": {
         "architecture": "x86-64",
-        "sha512checksum": "999f56efa3882df8e920f029299aeb2b7cf42866844ffa36eeaba65376cb1c473d1990ddbe70d6b7db830248fbf0d3c668c432d2369d949717448786f76942ff",
+        "sha512checksum": "9301f4f84a430cc6e85240e18b6c838b22d1bfcea5dce5221f7732f3ff1ec63933faa8707deec52dd60bcd49f9ef69284143870513cdcc54702094ee4b1fb09c",
         "size": 5280984,
         "type": 2,
         "url": "http://download.opensuse.org/repositories/home:/nandub:/MyAppImages/AppImage/aria2-latest-x86_64.AppImage"
@@ -16,6 +16,6 @@
         "null": "Aria2"
     },
     "release": {
-        "date": "b'Tue, 17 Jul 2018 22:59:07 GMT'"
+        "date": "b'Fri, 10 Aug 2018 05:02:18 GMT'"
     }
 }

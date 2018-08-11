@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "The best way to model, document, and test APIs."
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "1983e6971cefdf2f147cd999ebb9a8366cddc4abdf62e6797b329952a14ed89012ab036a9368bdb7fe5d2b9ba35b70102655369ce0182cded8b93eb945e14af0",
+        "size": 62243150,
+        "type": 2,
+        "url": "https://github.com/stoplightio/desktop/releases/download/v4.4.0/stoplight-next-4.4.0-i386.AppImage"
+    },
+    "format": 1,
+    "id": "stoplight-next.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Stoplight Next"
+    },
+    "release": {
+        "date": "b'Fri, 10 Aug 2018 10:40:57 GMT'"
+    }
+}

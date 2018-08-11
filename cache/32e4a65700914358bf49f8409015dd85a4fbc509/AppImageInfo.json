@@ -16,8 +16,8 @@
     },
     "file": {
         "architecture": "x86-64",
-        "sha512checksum": "a84e4d335b34a57722fce7838032505bdd5f12a9047faaf1854b6cc0b50cb7844e7c765e34924f668014c3a4c638a8a40c8afd7a87c39419dd1356515b55ebee",
-        "size": 13087960,
+        "sha512checksum": "0377eb33c23b101cd1d0d5b9d4de6dfc32d432f8027e6d34fc2901b526a8df93a853c3d7dd0ee5a1bdd76fdea3070f4d9079f9f273027cd9990104b537c4846e",
+        "size": 13284568,
         "type": 2,
         "url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/samplv1-latest-x86_64.AppImage"
     },
@@ -36,6 +36,6 @@
         "null": "samplv1"
     },
     "release": {
-        "date": "b'Wed, 18 Jul 2018 03:36:52 GMT'"
+        "date": "b'Fri, 03 Aug 2018 00:00:23 GMT'"
     }
 }

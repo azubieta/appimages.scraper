@@ -4,7 +4,7 @@
     },
     "file": {
         "architecture": "x86-64",
-        "sha512checksum": "f09fb6a3f7b1416e71c05d1a4a310dd6f150bea225953dbe24beaf64c64e393a9ccace0d928a28d87c1461256608efa9c85e953be1f9e8404fd9b3d247ebbfcd",
+        "sha512checksum": "9baaaebf40651f805334928614d030622fc45e3fb384b9df9d1576ef31712f69536027c46583c6fdb45a7b8cb2d681beda31f92eacb1260f13639e7b024f3584",
         "size": 28030168,
         "type": 2,
         "url": "http://download.opensuse.org/repositories/home:/nandub:/MyAppImages/AppImage/AppImageScripts-latest-x86_64.AppImage"
@@ -16,6 +16,6 @@
         "null": "AppImageScripts"
     },
     "release": {
-        "date": "b'Tue, 17 Jul 2018 22:32:27 GMT'"
+        "date": "b'Fri, 10 Aug 2018 05:02:18 GMT'"
     }
 }

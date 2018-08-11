@@ -17,8 +17,8 @@
     },
     "file": {
         "architecture": "x86-64",
-        "sha512checksum": "f8710c9f4cbbfa70b4617bd848130c70169a7e993524ac46daf5367f71253a52da7f228aec7ee9c5f88bc3294ffc6b719ee9dfb19bd08b05ef8a6a73df420ea6",
-        "size": 13014232,
+        "sha512checksum": "fbf8ff576366a408ecd7ff97ce94f03d81c90a8fa9bc237ae935a782deda1a90b82b90d9c6cd52b68c3ed01c977cbc3bad263a9d5033180b440228b1c969f685",
+        "size": 13190360,
         "type": 2,
         "url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/qsynth-latest-x86_64.AppImage"
     },
@@ -39,6 +39,6 @@
         "null": "Qsynth"
     },
     "release": {
-        "date": "b'Wed, 18 Jul 2018 03:36:52 GMT'"
+        "date": "b'Fri, 03 Aug 2018 00:00:23 GMT'"
     }
 }

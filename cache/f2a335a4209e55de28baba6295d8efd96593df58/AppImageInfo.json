@@ -15,8 +15,8 @@
     },
     "file": {
         "architecture": "x86-64",
-        "sha512checksum": "674504cfe50cf01c0bdb1a120434b1caf17b8b274ee329b4d9d22d54e84b294bbbf33000b94bd401880ec9d5e8c83ecef71d57f17c49c2220ecdc1c63597cf87",
-        "size": 11453656,
+        "sha512checksum": "77f5855d1360844a15b21605cd6e7c0a6fbd00512e053bf164bc297d38ade04ab08c02b020305fb1fcef8b7e6a9307a4d13084d4cd19bd223e8547b5899ef9a4",
+        "size": 11637976,
         "type": 2,
         "url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/qmidictl-latest-x86_64.AppImage"
     },
@@ -33,6 +33,6 @@
         "null": "QmidiCtl"
     },
     "release": {
-        "date": "b'Wed, 18 Jul 2018 03:36:52 GMT'"
+        "date": "b'Fri, 03 Aug 2018 00:00:23 GMT'"
     }
 }

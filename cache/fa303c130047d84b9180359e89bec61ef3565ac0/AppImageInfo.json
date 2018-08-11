@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "An elegant Go/Baduk/Weiqi board and SGF editor for a more civilized age."
+    },
+    "categories": [
+        "Game"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "f9cf16c49cb3287b869a6f0e15381e8f7496a67603e1dc3d9aa76532defb64b7e3d657d7e56c51ae0f2e06a49f49ed4d64517c6d0b4fc79306e5e65cef2838a0",
+        "size": 41608167,
+        "type": 2,
+        "url": "https://github.com/SabakiHQ/Sabaki/releases/download/v0.35.1/sabaki-v0.35.1-linux-x64.AppImage"
+    },
+    "format": 1,
+    "id": "sabaki.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Sabaki"
+    },
+    "release": {
+        "date": "b'Fri, 10 Aug 2018 10:09:47 GMT'"
+    }
+}

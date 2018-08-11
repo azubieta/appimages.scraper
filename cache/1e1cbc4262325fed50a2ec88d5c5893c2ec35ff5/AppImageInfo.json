@@ -4,8 +4,8 @@
     },
     "file": {
         "architecture": "x86-64",
-        "sha512checksum": "ba5b06b032bc5cf2d5362618bac6a9cbe772e5e1a2b3e327cc217ee84180a677d44f7c7d914edca648b7cb0db40e6131510dcdd20eb489b6b546ef3243aae908",
-        "size": 1873112,
+        "sha512checksum": "8b6ff5289a22b939134fd32ad14c1b3a66dc2e6019160c8c9a3cf00d59a67b32778ba05d893479883c6dcd4a5c43f6debfa98251574263086308f3e3e5da8254",
+        "size": 1877208,
         "type": 2,
         "url": "http://download.opensuse.org/repositories/home:/nandub:/MyAppImages/AppImage/IOQuake3-Server-latest-x86_64.AppImage"
     },
@@ -16,6 +16,6 @@
         "null": "IOQuake3-Server"
     },
     "release": {
-        "date": "b'Tue, 17 Jul 2018 22:32:27 GMT'"
+        "date": "b'Fri, 10 Aug 2018 05:02:18 GMT'"
     }
 }

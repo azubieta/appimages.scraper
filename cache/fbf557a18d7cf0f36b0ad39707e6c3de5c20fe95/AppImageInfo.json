@@ -1,0 +1,26 @@
+{
+    "abstract": {
+        "null": "ping viewer interface"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "f199ddad4c9440f4126f798e76a7c83918429f93c45152cfa3f53111e4b54d86def0c0a77413ec56c775edcbae9865181c518e5f254bcf9d2eb3770b69fc86d9",
+        "size": 32065608,
+        "type": 2,
+        "url": "https://github.com/bluerobotics/ping-viewer/releases/download/csv/pingviewer-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "pingviewer.desktop",
+    "keywords": [
+        "Ping Viewer"
+    ],
+    "name": {
+        "null": "pingviewer"
+    },
+    "release": {
+        "date": "b'Thu, 02 Aug 2018 23:41:04 GMT'"
+    }
+}

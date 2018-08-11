@@ -1,0 +1,37 @@
+{
+    "abstract": {
+        "null": "Transfer files from/to MTP devices"
+    },
+    "categories": [
+        "Utility",
+        "System",
+        "FileTools",
+        "Filesystem",
+        "Qt"
+    ],
+    "description": {
+        "null": "<p> -Simple Qt UI with progress dialogs. -FUSE wrapper (If you'd prefer mounting your device), supporting partial read/writes, allowing instant access to your files. -No file size limits. -Automatically renames album cover to make it visible from media player. -No extra dependencies (e.g. libptp/libmtp). -Available as static/shared library. -Simple CLI tool. </p>"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "d8a99850f9e4b5b69f0f14fbf63d1f5b83963d53c26f68fa40121fc758dc2880074a5dc78c0338ad60b7c17d0fbe63e19449aa53e2de2281706b16e0530bad09",
+        "size": 20998216,
+        "type": 2,
+        "url": "https://github.com/whoozle/android-file-transfer-linux/releases/download/continuous/Android_File_Transfer-509bea3-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "android-file-transfer.desktop",
+    "keywords": [],
+    "license": {
+        "id": "LGPL-2.1+"
+    },
+    "links": {
+        "homepage": "https://whoozle.github.io/android-file-transfer-linux/"
+    },
+    "name": {
+        "null": "Android File Transfer"
+    },
+    "release": {
+        "date": "b'Fri, 10 Aug 2018 04:47:50 GMT'"
+    }
+}

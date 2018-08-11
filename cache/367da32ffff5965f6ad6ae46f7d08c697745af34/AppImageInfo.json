@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "UBports Installer: The easy way to install Ubuntu Touch on UBports devices. A friendly cross-platform Installer for Ubuntu Touch. Just connect a supported device to your PC, follow the on-screen instructions and watch this awesome tool do all the rest."
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "e34d3ed935df20b07e817ee530484ff7f367866139bd2c2210a25fd5e874f8cf4b03b48cb41b333e4013af78e95413d8d127ec7f33c176e58e9d1721b67f3862",
+        "size": 71015289,
+        "type": 2,
+        "url": "https://github.com/ubports/ubports-installer/releases/download/0.1.21-beta/ubports-installer-0.1.21-beta-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "ubports-installer.desktop",
+    "keywords": [],
+    "name": {
+        "null": "ubports-installer"
+    },
+    "release": {
+        "date": "b'Fri, 10 Aug 2018 11:07:07 GMT'"
+    }
+}

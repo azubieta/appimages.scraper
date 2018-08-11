@@ -7,8 +7,8 @@
     ],
     "file": {
         "architecture": "ARM",
-        "sha512checksum": "04f90f3de2f9801c3440f6fcbd655d65dcd1ccfbe081d3db5b422740e84f40e7703e8b17ad8749dc8fd2b461d25160cbb36029d4705c8d776066b60be3fbef64",
-        "size": 36438076,
+        "sha512checksum": "fa023cd2bb1bd842db1427a37e927da59db558684ea8d9b1c439c97698ee559056accb2ba582c6eae423082183edbeb6777222df1c78230d7459ba7f9b6dce41",
+        "size": 30261308,
         "type": 2,
         "url": "https://github.com/JvanKatwijk/qt-dab/releases/download/qt-dab-2.0/Qt_DAB-ARM.AppImage"
     },
@@ -19,6 +19,6 @@
         "null": "Qt_DAB"
     },
     "release": {
-        "date": "b'Wed, 18 Jul 2018 03:28:16 GMT'"
+        "date": "b'Fri, 03 Aug 2018 00:04:00 GMT'"
     }
 }

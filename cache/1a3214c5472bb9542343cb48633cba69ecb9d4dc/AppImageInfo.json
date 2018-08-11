@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Medical Image Registration ToolKit (ce3d696a45639e9d6cdf225e3a574768c44b9d16)"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "9442326f44a38631c01ff1c12c7a7fdf7111b323b5de02ad1cedcc3c2f5c9e91e7d3fdd50e7d324281377edf90520fed647b90d9fe7f3ca422fba208c71386ed",
+        "size": 18933688,
+        "type": 2,
+        "url": "https://d29vzk4ow07wi7.cloudfront.net/271b53b5902c1173a9d44aa6aac4d62358b2ed226a343344f8166ef8b9575b2f?response-content-disposition=attachment%3Bfilename%3D%22MIRTK-latest-x86_64-glibc2.14.AppImage%22&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vZDI5dnprNG93MDd3aTcuY2xvdWRmcm9udC5uZXQvMjcxYjUzYjU5MDJjMTE3M2E5ZDQ0YWE2YWFjNGQ2MjM1OGIyZWQyMjZhMzQzMzQ0ZjgxNjZlZjhiOTU3NWIyZj9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPWF0dGFjaG1lbnQlM0JmaWxlbmFtZSUzRCUyMk1JUlRLLWxhdGVzdC14ODZfNjQtZ2xpYmMyLjE0LkFwcEltYWdlJTIyIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTMzODkwOTEwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=cjf0vEyS54c-LoYDX4glVSrBFDSCtQsV0R~qGOYf2G9lGzsqfb7IGt4nmhFV~icN-sgj6Kp1Rdc4hjatI~xgfix4NMZcOJ4jcBUcgfgvCNVu~Npyhgi69CBPVMFAUpOaW5utB7bCITYYYZYpoEkpubY0S2zOwlKz-NqK~9zTIP90KXrdDU3j8AtYN~liXYuUbtSppjYDFBZIs5-LZYoWaOYVaRRJYfNqkD4fSFl2kB0-pI8~hMOajgA6DuUUF1rp9TJGi9lDIAn~z9SG1u4YXBusENNfpBYG4xXXXzOE~W9DMp6r56uoKZAfvKklBjDLIXTUM1yRpROGbLE2Q102cQ__&Key-Pair-Id=APKAIFKFWOMXM2UMTSFA"
+    },
+    "format": 1,
+    "id": "MIRTK.desktop",
+    "keywords": [],
+    "name": {
+        "null": "MIRTK"
+    },
+    "release": {
+        "date": "b'Fri, 10 Aug 2018 08:36:36 GMT'"
+    }
+}

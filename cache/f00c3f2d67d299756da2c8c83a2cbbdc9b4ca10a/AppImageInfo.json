@@ -1,0 +1,21 @@
+{
+    "categories": [
+        "Network"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "1e56c501f08f121909854ad81d6368b4515959d2fcb5c85871b8c1fea62bc8e7c6e57c3b3cc9f719acbcf9aa5cd67b1ad20221a57827755807ba9834306e81e0",
+        "size": 2570536,
+        "type": 2,
+        "url": "https://github.com/AppImage/zsync2/releases/download/continuous/zsync2-125-f93e10a-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "zsync2.desktop",
+    "keywords": [],
+    "name": {
+        "null": "zsync2"
+    },
+    "release": {
+        "date": "b'Fri, 10 Aug 2018 11:40:04 GMT'"
+    }
+}

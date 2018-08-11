@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "CNC Milling Controller"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "882ddecdfee15f07edfc187ae4833921ffcdb4158d3a7a6335c66bcf1bca06abc91fa2a74cfb6a7059154cdbe942872aaaa8db7503b24d6c7ce3e19ddae4576c",
+        "size": 59071032,
+        "type": 2,
+        "url": "https://github.com/cncjs/cncjs/releases/download/master-latest/cncjs-app-1.9.16-pre-latest-linux-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "cncjs-app.desktop",
+    "keywords": [],
+    "name": {
+        "null": "CNCjs"
+    },
+    "release": {
+        "date": "b'Thu, 02 Aug 2018 20:32:11 GMT'"
+    }
+}

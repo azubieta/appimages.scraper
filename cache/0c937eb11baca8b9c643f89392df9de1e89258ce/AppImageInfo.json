@@ -16,8 +16,8 @@
     },
     "file": {
         "architecture": "x86-64",
-        "sha512checksum": "9c5b972274cda9fdcc7671c38f8bf51e3dbd54c82cd8b0dabe5f4e3f051e7d14b29ef18ff3e5d203d8f35bf17de1d2a0dd2ad707a22bde192cefda163b647e12",
-        "size": 12498136,
+        "sha512checksum": "35a094eed4e482b002cb87748d269d9bf8555e8f41215d56dc62a183568ff238af25abb0d335f12dc91d98a248591b124539b4da6ec63c3445000f36643f6a14",
+        "size": 12694744,
         "type": 2,
         "url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/synthv1-latest-x86_64.AppImage"
     },
@@ -36,6 +36,6 @@
         "null": "synthv1"
     },
     "release": {
-        "date": "b'Wed, 18 Jul 2018 03:36:52 GMT'"
+        "date": "b'Fri, 03 Aug 2018 00:00:23 GMT'"
     }
 }

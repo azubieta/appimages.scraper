@@ -7,8 +7,8 @@
     ],
     "file": {
         "architecture": "Intel 80386",
-        "sha512checksum": "e9066f24d66a1f053804427528a33a610b8c36f668871d90de2d1d4e551431ff9818bce698d8bf2fb1857608e05c91c04fdd0661db44c41d30a4cdee2eed4f69",
-        "size": 57050296,
+        "sha512checksum": "7f052c6edcd5351165f71bdbd0c404cadeda05766945065bc02db6dd701717854079ca604d2e07a33475dc2e2414e83535d1c66ad68045abb962f1b8a26b5686",
+        "size": 56309034,
         "type": 2,
         "url": "https://github.com/cncjs/cncjs/releases/download/v1.9.15/cncjs-app-1.9.15-linux-i386.AppImage"
     },
@@ -19,6 +19,6 @@
         "null": "CNCjs"
     },
     "release": {
-        "date": "b'Tue, 17 Jul 2018 23:38:38 GMT'"
+        "date": "b'Thu, 02 Aug 2018 20:32:11 GMT'"
     }
 }

@@ -1,0 +1,41 @@
+{
+    "abstract": {
+        "fr": "padthv1 est un synth\u00e9tiseur polyphonique additif \u00e0 l'ancienne",
+        "null": "padthv1 is an old school polyphonic additive synthesizer"
+    },
+    "categories": [
+        "Audio",
+        "AudioVideo",
+        "Midi",
+        "X-Alsa",
+        "X-Jack",
+        "Qt"
+    ],
+    "description": {
+        "null": "<p>padthv1 is an old-school polyphonic additive synthesizer with stereo fx.</p> <p>features:<ul> <li>pure stand-alone JACK client with JACK-session, NSM and both JACK MIDI and ALSA MIDI input support;</li> <li>LV2 instrument plugin. URI: http://padthv1.sourceforge.net/lv2</li> </ul></p>"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "dd6ee66266cfd1399f150cc11eb0f0d9bac409649809be6de37bc696877236088fc4555ab9a4ce690a9f6afc638f6d3b8e738f48318773ddcdfcfcbb4a3ef549",
+        "size": 13550808,
+        "type": 2,
+        "url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/padthv1-1532425160.6fc0b0d-Build2.4.glibc2.2.5-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "padthv1.desktop",
+    "keywords": [
+        "MIDI"
+    ],
+    "license": {
+        "id": "GPL-2.0+"
+    },
+    "links": {
+        "homepage": "https://padthv1.sourceforge.io"
+    },
+    "name": {
+        "null": "padthv1"
+    },
+    "release": {
+        "date": "b'Fri, 03 Aug 2018 00:00:23 GMT'"
+    }
+}

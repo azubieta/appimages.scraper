@@ -1,0 +1,18 @@
+{
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "2b7db4a1c7c91c61acc705d6f7b7f1f5864339a493d441cbe663c80eefca389a8c6dd7fc75ff22f5ba97be95342a0ef0ec77a80a3c2a07a24d62010d94da5fd3",
+        "size": 22804876,
+        "type": 2,
+        "url": "https://github.com/AppImage/AppImageUpdate/releases/download/continuous/AppImageUpdate-365-db93246-i386.AppImage"
+    },
+    "format": 1,
+    "id": "AppImageUpdate.desktop",
+    "keywords": [],
+    "name": {
+        "null": "AppImageUpdate"
+    },
+    "release": {
+        "date": "b'Thu, 02 Aug 2018 19:36:40 GMT'"
+    }
+}

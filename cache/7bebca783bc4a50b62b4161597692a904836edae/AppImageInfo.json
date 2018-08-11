@@ -19,8 +19,8 @@
     },
     "file": {
         "architecture": "x86-64",
-        "sha512checksum": "6a4a073ff2b0f4b5efa35cab5ef712f0aac459ed90bab4c758d6fb19f4c05cdaedf7cde2c2663a0570617ce1ca727ffec67dfb4973ef152f0e8152816e9454fb",
-        "size": 12907736,
+        "sha512checksum": "e663d8422e1c3c2a2945d7bd24c326b8f63a7dbe1dd09d03b2650be2a959f55e7f3a8b25d95d39c234e18b21bc2af79f9a166c528a8e38eab41c91a05592b7b3",
+        "size": 13075672,
         "type": 2,
         "url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/qjackctl-latest-x86_64.AppImage"
     },
@@ -43,6 +43,6 @@
         "null": "QjackCtl"
     },
     "release": {
-        "date": "b'Wed, 18 Jul 2018 03:36:52 GMT'"
+        "date": "b'Fri, 10 Aug 2018 09:49:58 GMT'"
     }
 }

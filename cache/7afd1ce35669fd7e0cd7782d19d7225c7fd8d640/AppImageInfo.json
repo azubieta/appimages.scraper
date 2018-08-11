@@ -16,8 +16,8 @@
     },
     "file": {
         "architecture": "x86-64",
-        "sha512checksum": "c6111bc0fda9c668925c6f6879f6051e47e6eecffdf56b2b32d0f798e5cc47b1d48209d83bc193ef8003a897a6796b11b7acb4aa0834a7cd0aa72a1b7a024f56",
-        "size": 11932888,
+        "sha512checksum": "9c72b2bbb96d39c3e06fb66dbec623e8e020947190122c3245c357a9af9306056dc86a42e1c5b2ce0a32f1b68bfe20d1018ce4b9a82c87428d57b9d83853d922",
+        "size": 12092632,
         "type": 2,
         "url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/qsampler-latest-x86_64.AppImage"
     },
@@ -37,6 +37,6 @@
         "null": "Qsampler"
     },
     "release": {
-        "date": "b'Wed, 18 Jul 2018 03:36:52 GMT'"
+        "date": "b'Fri, 03 Aug 2018 00:00:23 GMT'"
     }
 }

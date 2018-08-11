@@ -1,0 +1,42 @@
+{
+    "abstract": {
+        "fr": "Qsampler est une interface graphique Qt pour LinuxSampler",
+        "null": "Qsampler is a LinuxSampler Qt GUI Interface"
+    },
+    "categories": [
+        "Audio",
+        "AudioVideo",
+        "Midi",
+        "X-Alsa",
+        "X-Jack",
+        "Qt"
+    ],
+    "description": {
+        "null": "<p>QSampler is a LinuxSampler GUI front-end application written in C++ around the Qt framework using Qt Designer. For the moment it just wraps the client interface of LinuxSampler Control Protocol (LSCP) (http://www.linuxsampler.org).</p>"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "9c72b2bbb96d39c3e06fb66dbec623e8e020947190122c3245c357a9af9306056dc86a42e1c5b2ce0a32f1b68bfe20d1018ce4b9a82c87428d57b9d83853d922",
+        "size": 12092632,
+        "type": 2,
+        "url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/qsampler-1532210786.9333427-Build1.2.glibc2.14-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "qsampler.desktop",
+    "keywords": [
+        "Interface graphique pour LinuxSampler",
+        "LinuxSampler GUI"
+    ],
+    "license": {
+        "id": "GPL-2.0+"
+    },
+    "links": {
+        "homepage": "https://qsampler.sourceforge.io"
+    },
+    "name": {
+        "null": "Qsampler"
+    },
+    "release": {
+        "date": "b'Fri, 03 Aug 2018 00:00:23 GMT'"
+    }
+}

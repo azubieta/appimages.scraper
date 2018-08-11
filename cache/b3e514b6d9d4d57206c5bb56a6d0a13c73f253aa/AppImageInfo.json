@@ -1,0 +1,26 @@
+{
+    "abstract": {
+        "null": "ping viewer interface"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "a3805bffa683104f00a6c036ac3ba83c93bd04fcb406b372a9568436728a68c768946a9cd46b366888336e630f1de4d3361b4efb6561fb03d03625ef8cee48fe",
+        "size": 28264520,
+        "type": 2,
+        "url": "https://github.com/bluerobotics/ping-viewer/releases/download/udp-fix/pingviewer-x86_64_QGC.AppImage"
+    },
+    "format": 1,
+    "id": "pingviewer.desktop",
+    "keywords": [
+        "Ping Viewer"
+    ],
+    "name": {
+        "null": "pingviewer"
+    },
+    "release": {
+        "date": "b'Thu, 02 Aug 2018 23:41:04 GMT'"
+    }
+}

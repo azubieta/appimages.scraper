@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Extensible, fast and innovative web browser with material UI."
+    },
+    "categories": [
+        "Network"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "1bd8c1e3b7362ecade65446b0b251f003125340084179eb7439051b376f60ba30d31696d5141492f61fe15728eb1e9acde052b1857403d687d34414bff136377",
+        "size": 68544220,
+        "type": 2,
+        "url": "https://github.com/wexond/wexond/releases/download/v1.0.0-beta.1/wexond-1.0.0-beta.1-i386.AppImage"
+    },
+    "format": 1,
+    "id": "wexond.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Wexond"
+    },
+    "release": {
+        "date": "b'Fri, 10 Aug 2018 11:24:10 GMT'"
+    }
+}

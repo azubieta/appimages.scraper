@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "Python is a programming language that lets you work quickly and integrate systems more effectively."
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "be6e642984727d235a21cc61bf6f1d90d46cd10ea9bf279d40caf28dba30f174acbba61003ed7f929e5578df31fc800141e760a3bf83d0612b5cacbb6a5f5602",
+        "size": 28124376,
+        "type": 2,
+        "url": "http://download.opensuse.org/repositories/home:/nandub:/MyAppImages/AppImage/python3-0-Build16.22.glibc2.2.5-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "python.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Python3"
+    },
+    "release": {
+        "date": "b'Fri, 10 Aug 2018 05:02:18 GMT'"
+    }
+}

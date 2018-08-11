@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Advanced wallet interface for the BitShares financial blockchain."
+    },
+    "categories": [
+        "Finance"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "179bb83cebc1313de9ce5b7413a90b71eb3b7f2428034ca7ce508341e06ef6b2897c21bf0c61a3eb5240685328cc401140c781686dbee1d6368edb77fcc24b48",
+        "size": 55205620,
+        "type": 2,
+        "url": "https://github.com/bitshares/bitshares-ui/releases/download/2.0.180808/BitShares2-light-2.0.180808-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "bitshares2-light.desktop",
+    "keywords": [],
+    "name": {
+        "null": "BitShares"
+    },
+    "release": {
+        "date": "b'Fri, 10 Aug 2018 05:13:58 GMT'"
+    }
+}

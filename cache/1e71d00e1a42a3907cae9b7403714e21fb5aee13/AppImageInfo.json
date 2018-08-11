@@ -1,0 +1,23 @@
+{
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "ea962cd6e49b50b830c364911286f479ae8b75670224427bf41fa6d55c31b167fbd8e6101571b1873d42bc61b023e0c4ca498a2c1dd8a7e725e763b0d0a7f73d",
+        "size": 39536712,
+        "type": 2,
+        "url": "https://github.com/Subsurface-divelog/subsurface/releases/download/continuous-androidIntent/smtk2ssrf-4.8.1-162-g2806e9b00062-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "smtk2ssrf.desktop",
+    "keywords": [
+        "SmartTrak log importer"
+    ],
+    "name": {
+        "null": "smtk2ssrf"
+    },
+    "release": {
+        "date": "b'Fri, 10 Aug 2018 10:48:51 GMT'"
+    }
+}

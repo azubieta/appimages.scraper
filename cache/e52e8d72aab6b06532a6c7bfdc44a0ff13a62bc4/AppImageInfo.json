@@ -7,8 +7,8 @@
     ],
     "file": {
         "architecture": "x86-64",
-        "sha512checksum": "401572a0631868abdb9ef8fb6b3e5f98dd22b747ecc549e2c744d0df5cc5651cd79d7c8819b26b513660d6c484ad15d86f770eecd92175fa9dec70f581f17b3d",
-        "size": 183442914,
+        "sha512checksum": "0718d2fff32a74f896785a977daeb19a5906c4db18f2efc4c479662a11160073cc9a63580fb94756f873b4338fec8ac487a968ca21cb289c3116d89398d5a63b",
+        "size": 183848678,
         "type": 2,
         "url": "https://s3-us-west-2.amazonaws.com/lite.sigecloud.com.br/Installers/SIGE+Lite.AppImage"
     },
@@ -19,6 +19,6 @@
         "null": "SIGE Lite"
     },
     "release": {
-        "date": "b'Wed, 18 Jul 2018 04:00:19 GMT'"
+        "date": "b'Fri, 10 Aug 2018 10:21:14 GMT'"
     }
 }

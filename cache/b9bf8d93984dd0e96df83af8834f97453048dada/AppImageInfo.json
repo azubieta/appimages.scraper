@@ -11,8 +11,8 @@
     },
     "file": {
         "architecture": "x86-64",
-        "sha512checksum": "b51c28a640dd34f6132f899d2e4865271dcf3dd1c007d32bb6016365f924d1b12a7398ef4db55a5ae4a3ea43415b03e9a26c6b87889d34142a3a3adfcad13266",
-        "size": 21615832,
+        "sha512checksum": "9ff771fcb7aaccb7f4e0898503d075cd4be62f12ab16dfb5bee41d4b20a73ac644d1997ece63d53f5ef0a2d74186ac842f7ad427b44977a8ae9e8e80b76e66e4",
+        "size": 21808344,
         "type": 2,
         "url": "https://download.opensuse.org/repositories/home:/pbek:/QOwnNotes/AppImage/QOwnNotes-latest-x86_64.AppImage"
     },
@@ -29,6 +29,6 @@
         "null": "QOwnNotes"
     },
     "release": {
-        "date": "b'Wed, 18 Jul 2018 03:38:34 GMT'"
+        "date": "b'Fri, 10 Aug 2018 09:51:43 GMT'"
     }
 }

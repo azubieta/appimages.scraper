@@ -1,0 +1,25 @@
+{
+    "abstract": {
+        "null": "Virtual Machine for Atari 32-bit applications"
+    },
+    "categories": [
+        "System",
+        "Emulator"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "1cdada7b8662116aeb1c2da5fd5d711e59a44b57da433214ac524b5cbf8617948c0092763cfb23ba09175595e50b6288253fc498fa661754931c5710335462f8",
+        "size": 3250104,
+        "type": 2,
+        "url": "https://d29vzk4ow07wi7.cloudfront.net/312519ee0dcbc840cd577b97d09680192b7b1697f4519be29ee0a09b0a649605?response-content-disposition=attachment%3Bfilename%3D%22ARAnyM-1.0.2-x86_64-0fa61bd.AppImage%22&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vZDI5dnprNG93MDd3aTcuY2xvdWRmcm9udC5uZXQvMzEyNTE5ZWUwZGNiYzg0MGNkNTc3Yjk3ZDA5NjgwMTkyYjdiMTY5N2Y0NTE5YmUyOWVlMGEwOWIwYTY0OTYwNT9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPWF0dGFjaG1lbnQlM0JmaWxlbmFtZSUzRCUyMkFSQW55TS0xLjAuMi14ODZfNjQtMGZhNjFiZC5BcHBJbWFnZSUyMiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTUzMzg3Nzk5NX0sIklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiIwLjAuMC4wLzAifX19XX0_&Signature=KcjxqaC1-gexjZDO8eRJ2ai6zXteo-trPxpL-WvUTuPDzDJKi7fRsrBfO3pF4onhQF1pP2xN2XE6d5rUoCwbDDNu5Rbd~PpGt3H6vHAEpF2YbhO9srwis8S9r1empf1a6eXzKBx-vRmb8bFpDJbVNd9c9ENS2-tFR5TnUzSoPE5cQhvAVJnZBDjRcpFVa3k0Lh0A9wjH2H129iEXavGmNNZt2UZaKMu1sDbysaYHmgcMTpwg-Ml6WlMFES~Qf4kV5jJrZvpmmlGARUtFDreQyRTpLw-3VgGgs9hgft3P1r-0rJygx5reorNsoxGomKNcBYZMyBiqbyLZIEJDV6xfrA__&Key-Pair-Id=APKAIFKFWOMXM2UMTSFA"
+    },
+    "format": 1,
+    "id": "aranym.desktop",
+    "keywords": [],
+    "name": {
+        "null": "ARAnyM"
+    },
+    "release": {
+        "date": "b'Fri, 10 Aug 2018 05:01:19 GMT'"
+    }
+}

@@ -13,8 +13,8 @@
     },
     "file": {
         "architecture": "x86-64",
-        "sha512checksum": "602502e66e2f0c18e075a20338594dc4962122fb728f2501c72b88f4e12d26238ce4a4e1cb1f85d6a4f0e662214238f6f4f617330d4a1371f70526ca056ad114",
-        "size": 102641812,
+        "sha512checksum": "e0dd7189abb8faa5386a4927fbe628a3bf336cb4b600644eaac9fd90f22c39e4a5995b285eda8ad83287392f6c28d0c9269c7e223bf789bfc13a76e9c720b07a",
+        "size": 102504520,
         "type": 2,
         "url": "https://github.com/d1vanov/quentier/releases/download/continuous-development/Quentier-development-x86_64.AppImage"
     },
@@ -33,6 +33,6 @@
         "null": "Quentier"
     },
     "release": {
-        "date": "b'Wed, 18 Jul 2018 03:29:52 GMT'"
+        "date": "b'Fri, 03 Aug 2018 00:05:38 GMT'"
     }
 }

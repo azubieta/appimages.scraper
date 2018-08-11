@@ -1,0 +1,18 @@
+{
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "a3fd03dc4b408ef02d47be8ab6578170551e5f1911cf04c900ac9b44de8b165cc79c5fb7b4dec8c02d3123a85da00596e82acd50fabd95837de77230ef0a5c3a",
+        "size": 2541964,
+        "type": 2,
+        "url": "https://github.com/AppImage/AppImageUpdate/releases/download/continuous/appimageupdatetool-365-db93246-i386.AppImage"
+    },
+    "format": 1,
+    "id": "appimageupdatetool.desktop",
+    "keywords": [],
+    "name": {
+        "null": "appimageupdatetool"
+    },
+    "release": {
+        "date": "b'Thu, 02 Aug 2018 19:36:40 GMT'"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "abstract": {
+        "null": "manage and display dive computer data"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "description": {
+        "null": "<p> Subsurface is an opensource diving logbook that runs on Linux, Windows and Mac. With this program, users can keep track of their dives by logging dive locations (with GPS coordinates), weights and exposure protection used, divemasters and dive buddies, etc. Subsurface also enables the users to rate their dives and provide additional dive notes. </p> <p> Dives can be downloaded from a variety of dive computers, inserted manually or imported from other programs. A wide array of diving statistics and information is calculated and displayed, like the user\u2019s SAC rate, partial pressures of O2, N2 and He, calculated deco information, and many more. </p> <p> The dive profiles (and the tank pressure curves) can be visualized in a comprehensive and clean way, that provides the user with additional information on relative velocity (and momentary air consumption) during the dive. Subsurface also allows the user to print out a detailed log book that includes dive profiles and other relevant information. The program is localized in about 20 languages and well supported by an active developer community. </p>"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "681f9b4d90bcacccf1dd79c6fe0384288560c3ba9a77104d442a090710e78a5565b2c337d10e3dd24c534b4cb2b316e26cc2b3b4bf50b77d638a0c1637d60af2",
+        "size": 82098248,
+        "type": 2,
+        "url": "https://github.com/Subsurface-divelog/subsurface/releases/download/continuous/Subsurface-4.8.1-151-gb9fcc9543dac-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "subsurface.desktop",
+    "keywords": [
+        "dive log program"
+    ],
+    "links": {
+        "homepage": "http://www.http://subsurface-divelog.org/"
+    },
+    "name": {
+        "null": "Subsurface"
+    },
+    "release": {
+        "date": "b'Fri, 10 Aug 2018 10:48:51 GMT'"
+    }
+}

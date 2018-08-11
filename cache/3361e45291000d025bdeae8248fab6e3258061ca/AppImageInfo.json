@@ -16,8 +16,8 @@
     },
     "file": {
         "architecture": "x86-64",
-        "sha512checksum": "1dc30e4d1ce6116d18862101fd461d7a0f6b2c3856a533f8af025f6baebd6874409581770819505afd450f7c6ed4a578901897707358b88cf84f2c70d123abf7",
-        "size": 13108440,
+        "sha512checksum": "4cd0ad53d6058a9ec47ba6e20514f82df4b85e570eb068ffefcdb6fa2591c9e5a206418cdca4d321f72df1f82739d38b48553d650c560605739188dbcdbe9221",
+        "size": 13305048,
         "type": 2,
         "url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/drumkv1-latest-x86_64.AppImage"
     },
@@ -36,6 +36,6 @@
         "null": "drumkv1"
     },
     "release": {
-        "date": "b'Wed, 18 Jul 2018 03:36:52 GMT'"
+        "date": "b'Fri, 03 Aug 2018 00:00:23 GMT'"
     }
 }

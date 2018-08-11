@@ -7,8 +7,8 @@
     ],
     "file": {
         "architecture": "x86-64",
-        "sha512checksum": "cc768dc36c06f65f0509add12968c4c27f9338cbc339c408cd4ddd961f45598612a3bff9611f09c31ab88e9c32d551f0ef918b1192590af6bb10ed2cf664a5d2",
-        "size": 28434580,
+        "sha512checksum": "b18094e1b4fdebbadb9ccd5bbcc0c91737efc60da6585929b66283228f07a3a49626113d90ce17c890996cb4f454dab965f2cd30887210dfc383de7fb7b65f93",
+        "size": 28264520,
         "type": 2,
         "url": "https://github.com/bluerobotics/ping-viewer/releases/download/continuous/pingviewer-x86_64_QGC.AppImage"
     },
@@ -21,6 +21,6 @@
         "null": "pingviewer"
     },
     "release": {
-        "date": "b'Wed, 18 Jul 2018 03:02:26 GMT'"
+        "date": "b'Fri, 10 Aug 2018 09:29:14 GMT'"
     }
 }

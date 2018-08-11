@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Citron Interp"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "a3bf1024734aca04d3b124e8d88bc4b4e2abe90c4755834210cc15ef621cbf12ee1709359daa33ea5345272e2f7d1fad28e55a39f76e28fc68a9f8220ec56991",
+        "size": 2549832,
+        "type": 2,
+        "url": "https://github.com/alimpfard/citron/releases/download/continuous/Citron-518bc80-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "citron.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Citron"
+    },
+    "release": {
+        "date": "b'Thu, 02 Aug 2018 20:30:42 GMT'"
+    }
+}

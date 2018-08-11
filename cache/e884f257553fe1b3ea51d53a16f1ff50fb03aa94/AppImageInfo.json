@@ -7,8 +7,8 @@
     ],
     "file": {
         "architecture": "x86-64",
-        "sha512checksum": "a98ee2a210ea54486635fdc3709ce55e812cff560d465ad81ec56c15c648cbf96646017f795c4f79414cfa20ed4a51d9ee9f5eca5e5d388f36a88fad35deffe6",
-        "size": 54905035,
+        "sha512checksum": "df8ea346734a1f541fd305a722fe7a455e13b587f1bbd787b3b0c70ec90b7a01ee3a4baccc5f2ee2cfc33bbd0cb426feb2d5014ab62894b0a23b2c2b8ae0152e",
+        "size": 54122339,
         "type": 2,
         "url": "https://github.com/cncjs/cncjs/releases/download/v1.9.15/cncjs-app-1.9.15-linux-x86_64.AppImage"
     },
@@ -19,6 +19,6 @@
         "null": "CNCjs"
     },
     "release": {
-        "date": "b'Tue, 17 Jul 2018 23:38:38 GMT'"
+        "date": "b'Thu, 02 Aug 2018 20:32:11 GMT'"
     }
 }

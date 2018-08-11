@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Debug APIs like a human, not a robot"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "5c506e22670d95b7e41450808162f25e040c3ee65f0945fa36a60d1f74d1472c4e29ce79a560fc87d7e16bf0f02f673608f1f50fd778c8fb0da3969132d1ce8b",
+        "size": 64844830,
+        "type": 2,
+        "url": "https://github.com/getinsomnia/insomnia/releases/download/v6.0.2/insomnia-6.0.2-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "insomnia.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Insomnia"
+    },
+    "release": {
+        "date": "b'Thu, 02 Aug 2018 21:59:05 GMT'"
+    }
+}

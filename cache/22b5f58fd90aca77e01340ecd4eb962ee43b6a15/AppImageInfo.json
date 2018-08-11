@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "nRF Connect for PC"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "91f38bee6ffe155aa40f37ca5fd112397fe9444a8ae90fe3cdab3097f10ededaa0254f533db7a6e5f9d811bfd0853ceed978f54af9b467f88499252df0a943b4",
+        "size": 63975753,
+        "type": 2,
+        "url": "https://github.com/NordicSemiconductor/pc-nrfconnect-core/releases/download/v2.5.0-alpha.2/nrfconnect-2.5.0-alpha.2-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "nrfconnect.desktop",
+    "keywords": [],
+    "name": {
+        "null": "nRF Connect"
+    },
+    "release": {
+        "date": "b'Thu, 02 Aug 2018 23:11:51 GMT'"
+    }
+}

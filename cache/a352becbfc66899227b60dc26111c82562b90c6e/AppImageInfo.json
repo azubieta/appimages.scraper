@@ -10,8 +10,8 @@
     },
     "file": {
         "architecture": "Intel 80386",
-        "sha512checksum": "d572d9c91dc9e76ba9d93606bf3f85ee7eb2e40040ec888376acb93d045c967301fa2edc83b30666b1ce0ac54b8c996af212ea16fff6f880ecc61e53d9a0e4cb",
-        "size": 1906280,
+        "sha512checksum": "460363dd323838751234457feec4aec5e9e5a1849ee59f2212fe2595518d89c2eb660525b2289ea7c3c43bddbd93de2ed9b7b09fe258c74e95bb839119279e8a",
+        "size": 1899412,
         "type": 2,
         "url": "https://github.com/AppImage/AppImageKit/releases/download/continuous/appimagetool-i686.AppImage"
     },
@@ -28,6 +28,6 @@
         "null": "appimagetool"
     },
     "release": {
-        "date": "b'Tue, 17 Jul 2018 22:14:58 GMT'"
+        "date": "b'Fri, 10 Aug 2018 04:56:16 GMT'"
     }
 }

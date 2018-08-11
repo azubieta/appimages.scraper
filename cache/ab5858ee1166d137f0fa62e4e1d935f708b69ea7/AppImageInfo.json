@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "A simple and private place for your notes, thoughts, and life\u2019s work."
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "ae220259b66e410333f8f74551182c7ec0a0489b275942eb41a82939d19fdad7e5dda61759ebeaa4fd34bea8d8c07387a3c16bcf69c9b3e1975dc657783e9105",
+        "size": 59769786,
+        "type": 2,
+        "url": "https://github.com/standardnotes/desktop/releases/download/v2.3.1/standard-notes-2.3.1-i386.AppImage"
+    },
+    "format": 1,
+    "id": "standard-notes.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Standard Notes"
+    },
+    "release": {
+        "date": "b'Fri, 10 Aug 2018 10:29:24 GMT'"
+    }
+}

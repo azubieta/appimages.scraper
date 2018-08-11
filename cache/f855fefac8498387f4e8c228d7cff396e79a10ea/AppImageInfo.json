@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Free, open-source SQL client for Windows, Mac and Linux"
+    },
+    "categories": [
+        "Database"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "74c7a3f7b1684f0d2ce923e440ce433d09b28da138d7d03fda8532a24fce244be5492dd167419371fa643e3dd9e2e3cecb503629f84024c0d9a9c9b876c70ed3",
+        "size": 108894305,
+        "type": 2,
+        "url": "https://github.com/plotly/falcon-sql-client/releases/download/v3.0.1/falcon-sql-client-3.0.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "falcon-sql-client.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Falcon SQL Client"
+    },
+    "release": {
+        "date": "b'Fri, 10 Aug 2018 06:42:20 GMT'"
+    }
+}

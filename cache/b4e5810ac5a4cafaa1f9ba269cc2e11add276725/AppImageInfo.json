@@ -11,8 +11,8 @@
     },
     "file": {
         "architecture": "x86-64",
-        "sha512checksum": "527e979f6c8a4bdc36caa28b748df58828501c9a8b0fe347a6b321356daefbea98c1ca429341720e2d06ae81fd216e6a6b9a090a3af50f5a18afc3e38217dec6",
-        "size": 90773432,
+        "sha512checksum": "0a0d0ae88797ff6fbc19a10a6ca8b28fe088a3076b9f767981dd64f65abeb1980db579acd61e319e99c1c0e0a4e9692f3f6dc9420978c502e6353f0ccb82e4f1",
+        "size": 90798152,
         "type": 2,
         "url": "https://github.com/ColinDuquesnoy/MellowPlayer/releases/download/Continuous/MellowPlayer-x86_64.AppImage"
     },
@@ -34,6 +34,6 @@
         "null": "MellowPlayer"
     },
     "release": {
-        "date": "b'Wed, 18 Jul 2018 02:04:25 GMT'"
+        "date": "b'Fri, 10 Aug 2018 08:30:03 GMT'"
     }
 }

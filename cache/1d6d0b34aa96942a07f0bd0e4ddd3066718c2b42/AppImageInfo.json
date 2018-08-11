@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "Unofficial WeChat client built with React, MobX and Electron."
+    },
+    "categories": [
+        "Chat"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "3a162b727f0eecbdaf8efcf675c3a1b6d3cac07b7650760c8b5350de808e8ab09fc427f61aba6689e3bee55f6e24d699ce78b69a03ab882e9bb29a17c70ce183",
+        "size": 101797146,
+        "type": 2,
+        "url": "https://github.com/trazyn/weweChat/releases/download/v1.1.7/wewechat-1.1.7-linux-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "wewechat.desktop",
+    "keywords": [],
+    "name": {
+        "null": "wewechat"
+    },
+    "release": {
+        "date": "b'Fri, 10 Aug 2018 11:22:59 GMT'"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "A science fiction desktop running everywhere. Awesome."
+    },
+    "categories": [
+        "System"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "03d8178ae19287dd17a427eb728552a24b5d4454677c687fee614d19c3ab3404238070d67925c72f464d95bef13b037e352841adff664c8246a1e463e3fede06",
+        "size": 42437324,
+        "type": 2,
+        "url": "https://github.com/GitSquared/edex-ui/releases/download/v1.0.0-rc1/eDEX-UI.Linux.i386.AppImage"
+    },
+    "format": 1,
+    "id": "edex-ui.desktop",
+    "keywords": [],
+    "name": {
+        "null": "eDEX-UI"
+    },
+    "release": {
+        "date": "b'Fri, 10 Aug 2018 06:30:44 GMT'"
+    }
+}

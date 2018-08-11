@@ -16,8 +16,8 @@
     },
     "file": {
         "architecture": "x86-64",
-        "sha512checksum": "89c07a67ec08656b7e695fd9ffeedb14e7c15629af6efc18028ce937a7b3c3e585c8b0b5be88fa668a4aa92964dd24369ddd0708b61215f28c456def2a172991",
-        "size": 12076248,
+        "sha512checksum": "2edaf5f6923e4ed11238d4a325cfc146ef714955eb62524d764b74139d3bf91f9abf5a751c027387ccb7b59f2dec29c0589eb6be14df0ddbec02c5300d283965",
+        "size": 12268760,
         "type": 2,
         "url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/qmidinet-latest-x86_64.AppImage"
     },
@@ -37,6 +37,6 @@
         "null": "QmidiNet"
     },
     "release": {
-        "date": "b'Wed, 18 Jul 2018 03:36:52 GMT'"
+        "date": "b'Fri, 03 Aug 2018 00:00:23 GMT'"
     }
 }

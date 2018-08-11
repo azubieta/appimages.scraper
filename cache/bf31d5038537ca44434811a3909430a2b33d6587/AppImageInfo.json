@@ -1,0 +1,23 @@
+{
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "6a5f32fe755a81cc736fc71009350b3172da44a86a7f04034715284204726f5c7a8f1ae2bec8867e610ae521968fbb3eed501ba7c14de5cb3e1ded87c81a6a57",
+        "size": 39520328,
+        "type": 2,
+        "url": "https://github.com/Subsurface-divelog/subsurface/releases/download/continuous-WhitespaceAndWarnings/smtk2ssrf-4.8.1-85-g4a37c16de953-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "smtk2ssrf.desktop",
+    "keywords": [
+        "SmartTrak log importer"
+    ],
+    "name": {
+        "null": "smtk2ssrf"
+    },
+    "release": {
+        "date": "b'Fri, 10 Aug 2018 10:48:51 GMT'"
+    }
+}

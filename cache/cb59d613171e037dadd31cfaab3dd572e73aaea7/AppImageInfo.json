@@ -1,0 +1,21 @@
+{
+    "abstract": {
+        "null": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "b30281fde1eb23f83db5a89393e4457fe4c0f95caa5456df4b731d9bc0add272e90e1ee0f40ca0a7907037b1452e33f7e74df1eabe082756d171cb785c85fb4e",
+        "size": 52163800,
+        "type": 2,
+        "url": "http://download.opensuse.org/repositories/home:/nandub:/MyAppImages/AppImage/Mitmproxy-0-Build98.20.glibc2.14-x86_64.AppImage"
+    },
+    "format": 1,
+    "id": "mitmproxy.desktop",
+    "keywords": [],
+    "name": {
+        "null": "Mitmproxy"
+    },
+    "release": {
+        "date": "b'Thu, 02 Aug 2018 19:41:21 GMT'"
+    }
+}

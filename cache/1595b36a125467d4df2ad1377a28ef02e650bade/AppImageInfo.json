@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "null": "AHG Training App"
+    },
+    "categories": [
+        "Education"
+    ],
+    "file": {
+        "architecture": "Intel 80386",
+        "sha512checksum": "f465db7983a517bdd08826d57a42344d1833b7f68ba32cb0c3388ce0f9970ed207c2edc9bd9e7c6a808ea7e441e59524102a9c2c9d77c7b6d96cf02a1af6a7f0",
+        "size": 57308519,
+        "type": 2,
+        "url": "https://github.com/TroopTrack/AHGequip/releases/download/v1.2.0/AHGequip-1.2.0-i386.AppImage"
+    },
+    "format": 1,
+    "id": "ahgequip.desktop",
+    "keywords": [],
+    "name": {
+        "null": "AHGequip"
+    },
+    "release": {
+        "date": "b'Fri, 10 Aug 2018 04:38:09 GMT'"
+    }
+}
