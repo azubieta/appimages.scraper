@@ -7,9 +7,9 @@ import logging
 import subprocess
 
 # Write data to file
-filename = "/tmp/AppImage_Metadata_Extractor.linuxdeploy.AppImage"
-file_url = 'https://github.com/azubieta/appimage-metadata-extractor/releases/download/continuous' \
-           '/AppImage_Metadata_Extractor.linuxdeploy.AppImage'
+filename = "/tmp/AppImage_Info_Tool-x86_64.AppImage"
+file_url = 'https://github.com/azubieta/AppImageInfo/releases/download/' \
+           'continuous/AppImage_Info_Tool-x86_64.AppImage'
 
 logger = logging.getLogger(__name__)
 
@@ -19,7 +19,9 @@ def extract_appimage_metadata(path, target_dir):
     if not os.path.exists(filename):
         download_metadata_extractor_binary()
 
-    process = subprocess.Popen([filename, "-t", target_dir, path])
+    process = subprocess.Popen([filename,
+                                "-o", target_dir + "/AppImageInfo.json",
+                                "-i", target_dir + "/AppImageIcon", path])
     process.communicate()
 
     if process.returncode == 0:
