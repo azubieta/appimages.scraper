@@ -1,0 +1,51 @@
+{
+    "abstract": {
+        "default": "A game of searching in the stages designed with mki3d"
+    },
+    "categories": [
+        "Game"
+    ],
+    "description": {
+        "default": "\n    <p>\n      A simple OpenGL game of searching for tokens in 3D stages.\n      You also have to avoid the monsters.\n    </p>\n    <p>\n      The stages, monsters and tokens are\n      designed with MKI3D RAPID MODELLER.\n    </p>\n  "
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "577c166e2ffc09e7cc35163c9ebd45da3224c0eda70366dc68bd999fae6ffcece81c721ccee21170e41e24937b083ceffa43b66d42c0d70e2314fef8fa4dcd1a",
+        "size": 2292728,
+        "type": 2,
+        "url": "https://github.com/mki1967/mki3dgame/releases/download/v1.15/mki3dgame-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "io.github.mki1967.mki3dgame.desktop",
+    "license": {
+        "id": "GPL-3.0"
+    },
+    "links": {
+        "bugtracker": "https://github.com/mki1967/mki3dgame/issues",
+        "help": "https://github.com/mki1967/mki3dgame/blob/master/README.md",
+        "homepage": "https://mki1967.github.io/mki3dgame"
+    },
+    "name": {
+        "default": "mki3dgame"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 02:15:08 GMT'"
+    },
+    "screenshots": [
+        {
+            "caption": "A stage of mki3dgame",
+            "height": "",
+            "language": "",
+            "url": "https://mki1967.github.io/mki3dgame/img/mki3dgame-screenshot1-1280-720.png",
+            "width": ""
+        },
+        {
+            "caption": "A stage of mki3dgame",
+            "height": "",
+            "language": "",
+            "url": "https://mki1967.github.io/mki3dgame/img/mki3dgame-screenshot-1280x720.png",
+            "width": ""
+        }
+    ]
+}

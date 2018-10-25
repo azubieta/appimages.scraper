@@ -1,6 +1,6 @@
 {
     "abstract": {
-        "null": "AHG Training App"
+        "default": "AHG Training App"
     },
     "categories": [
         "Education"
@@ -13,12 +13,12 @@
         "url": "https://github.com/TroopTrack/AHGequip/releases/download/v1.2.0/AHGequip-1.2.0-x86_64.AppImage"
     },
     "format": 1,
-    "id": "ahgequip.desktop",
-    "keywords": [],
+    "icon": "",
+    "id": "appimage-info-d753202ec1a7.desktop",
     "name": {
-        "null": "AHGequip"
+        "default": "AHGequip"
     },
     "release": {
-        "date": "b'Fri, 10 Aug 2018 04:38:09 GMT'"
+        "date": "b'Wed, 24 Oct 2018 23:37:31 GMT'"
     }
 }

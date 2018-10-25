@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "Sync your user directory to your Bitwarden organization."
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "53787c629f1b4986af98fe8923b01d906c0587cf5c78d711af9142412cfe5df583ba9cb7ff57978f31d563865ccfa44a9ca3ed1a4d1f02fef326d0c17e2b4e39",
+        "size": 53183718,
+        "type": 2,
+        "url": "https://github.com/bitwarden/directory-connector/releases/download/v2.2.0/Bitwarden-Connector-2.2.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-4f11c3e943b5.desktop",
+    "name": {
+        "default": "Bitwarden Directory Connector"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 00:03:51 GMT'"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "Desktop application to draw mind maps."
+    },
+    "categories": [
+        "Graphics"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "8801c086703f69ba7c5a36db3dcdd7ff7b6258b0295e4a7f31ae45227aa690bb303d40cea4ab7c4476e2c40fc3f509a22880a61cec6d28ee23eb5c1525957bd3",
+        "size": 52629347,
+        "type": 2,
+        "url": "https://github.com/Mindmapp/mindmapp/releases/download/v0.7.15/Mindmapp-0.7.15.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-cbc64f4a3e88.desktop",
+    "name": {
+        "default": "Mindmapp"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 02:12:12 GMT'"
+    }
+}

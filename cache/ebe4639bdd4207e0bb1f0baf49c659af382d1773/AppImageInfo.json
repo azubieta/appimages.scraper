@@ -1,6 +1,6 @@
 {
     "abstract": {
-        "null": "An Electron application which includes testing workspaces for most Riddles.io competitions."
+        "default": "An Electron application which includes testing workspaces for most Riddles.io competitions."
     },
     "categories": [
         "Development"
@@ -13,12 +13,12 @@
         "url": "https://github.com/jmerle/ai-bot-workspace/releases/download/v2.4.2/ai-bot-workspace-2.4.2-x86_64.AppImage"
     },
     "format": 1,
-    "id": "ai-bot-workspace.desktop",
-    "keywords": [],
+    "icon": "",
+    "id": "appimage-info-0ada1f1b8558.desktop",
     "name": {
-        "null": "AI Bot Workspace"
+        "default": "AI Bot Workspace"
     },
     "release": {
-        "date": "b'Tue, 17 Jul 2018 22:03:01 GMT'"
+        "date": "b'Wed, 24 Oct 2018 23:38:36 GMT'"
     }
 }

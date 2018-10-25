@@ -1,0 +1,27 @@
+{
+    "abstract": {
+        "default": "Local Area Network (LAN) File Transfer"
+    },
+    "categories": [
+        "Network"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "efdd01f85aec0696af96f798f09b3525283b0f3c94a606400f438f007446a82eca1c69bbf4f6be25a005b2edaaa4acc529eeb592ac01875e63405201149b054b",
+        "size": 21022792,
+        "type": 2,
+        "url": "https://github.com/abdularis/LAN-Share/releases/download/continuous/LANShare-37295bf-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-395d3b7a22f4.desktop",
+    "keywords": [
+        "LAN File Transfer"
+    ],
+    "name": {
+        "default": "LANShare"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 01:49:08 GMT'"
+    }
+}

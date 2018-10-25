@@ -1,7 +1,7 @@
 {
     "abstract": {
-        "fr": "Interface graphique d'\u00e9dition XG",
-        "null": "QXGEdit is a Qt GUI XG editor application"
+        "default": "QXGEdit is a Qt GUI XG editor application",
+        "fr": "Interface graphique d'\u00e9dition XG"
     },
     "categories": [
         "Audio",
@@ -11,20 +11,24 @@
         "Qt"
     ],
     "description": {
-        "null": "<p>QXGEdit is a Qt GUI for editing MIDI System Exclusive files for XG devices (eg. Yamaha DB50XG).</p> <p xml:lang=\"fr\">QXGedit est une interface Qt pour l'\u00e9dition des fichiers MIDI Sysex (System Exclusive) pour les p\u00e9riph\u00e9riques XG (exemple : Yamaha DB50XG).</p>"
+        "default": "\n  <p>QXGEdit is a Qt GUI for editing MIDI System Exclusive files\n  for XG devices (eg. Yamaha DB50XG).</p>\n  <p xml:lang=\"fr\">QXGedit est une interface Qt pour l'\u00e9dition des\n  fichiers MIDI Sysex (System Exclusive) pour les p\u00e9riph\u00e9riques\n  XG (exemple : Yamaha DB50XG).</p>\n "
+    },
+    "developer": {
+        "name": "rncbc aka. Rui Nuno Capela"
     },
     "file": {
         "architecture": "x86-64",
-        "sha512checksum": "1a4419008b3ee0af77459bab79f0045f6386335dfe3b9e15e867a6eece2f0be6c9b759ba0a9b42cea2432795cb91528938faf3566bbd6ce27ddf10c5d7de242b",
+        "sha512checksum": "8c0182ff4f9db1ddb262f0842eac59f718dcdfec27045a75a53a19b8b994f2b0228220bd456174cfd0cf09d52f4fb0722ef85c927b4bc45bc42366a145ad3188",
         "size": 11855064,
         "type": 2,
         "url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/qxgedit-latest-x86_64.AppImage"
     },
     "format": 1,
-    "id": "qxgedit.desktop",
+    "icon": "",
+    "id": "org.rncbc.qxgedit",
     "keywords": [
-        "\u00c9diteur XG",
-        "XG Editor"
+        "XG Editor",
+        "\u00c9diteur XG"
     ],
     "license": {
         "id": "GPL-2.0+"
@@ -33,9 +37,18 @@
         "homepage": "https://qxgedit.sourceforge.io"
     },
     "name": {
-        "null": "QXGEdit"
+        "default": "QXGEdit"
     },
     "release": {
-        "date": "b'Fri, 03 Aug 2018 00:00:23 GMT'"
-    }
+        "date": "b'Thu, 25 Oct 2018 03:03:08 GMT'"
+    },
+    "screenshots": [
+        {
+            "caption": "Fen\u00eatre principale montrant l'application en action",
+            "height": "",
+            "language": "",
+            "url": "http://qxgedit.sourceforge.net/image/qxgedit-screenshot2.png",
+            "width": ""
+        }
+    ]
 }

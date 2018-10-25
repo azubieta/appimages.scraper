@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "The Expo Development Environment"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "9f550bbf4039d6a1ff933eb4abc97126c51be8f6f005ce3c9e4bd5d6daf759d4a810180c33efd92e71d8e1207b3e9b8694b5b962387baec0ddef83bbd5d256bf",
+        "size": 72667070,
+        "type": 2,
+        "url": "https://github.com/expo/xde/releases/download/v2.25.0/xde-2.25.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-c352c7b88f5a.desktop",
+    "name": {
+        "default": "Expo XDE"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 04:12:33 GMT'"
+    }
+}

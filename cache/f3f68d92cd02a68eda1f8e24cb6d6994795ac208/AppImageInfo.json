@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "Personal accounting system"
+    },
+    "categories": [
+        "Finance"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "a1b1790087be57844e31e090489095d23bc568d92e965ba5bd492f29fa01b0b2a7648f25981ad764388a6abcf31761d3f031f9851f475c13d7a01394103f1722",
+        "size": 45687456,
+        "type": 2,
+        "url": "https://github.com/z17/home-accounting-system/releases/download/v.1.2.3/Cromberg-1.2.3-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-501776f2b075.desktop",
+    "name": {
+        "default": "Cromberg"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 00:23:58 GMT'"
+    }
+}

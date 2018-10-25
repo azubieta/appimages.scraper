@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "Democratizing Code Snippets Management (macOS/Win/Linux)"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "ebc790746718c2b4c2d593e5535eb37cc39f9539c6b2d0246f6f60f37cb51d0347529dcb2ac63833fc8fc3f3d9b68e91f5f88a32407d724ef4f5e6758d6bc43d",
+        "size": 83082087,
+        "type": 2,
+        "url": "https://github.com/hackjutsu/Lepton/releases/download/v1.7.0/Lepton-1.7.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-052145c67ddb.desktop",
+    "name": {
+        "default": "Lepton"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 01:50:34 GMT'"
+    }
+}

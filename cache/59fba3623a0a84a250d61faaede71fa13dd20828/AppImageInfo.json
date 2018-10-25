@@ -1,0 +1,61 @@
+{
+    "abstract": {
+        "default": "Python-based extendable tool"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "description": {
+        "default": "\n    <p>\n      Pext is a program whose behaviour is decided by modules. Depending on the\n      module in use, Pext can be used for a wide variety of tasks.\n    </p>\n  "
+    },
+    "developer": {
+        "name": "The Pext team"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "30476de713cfca6ed9fd796c6d4b986279b73ad23a148195977f6619901fc5cd1aa80bf778e591789cb254201e411b9a7c90ab346e235a8e7e5f8814e85b80b6",
+        "size": 395185256,
+        "type": 2,
+        "url": "https://github.com/Pext/Pext/releases/download/v0.19/Pext-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "pext",
+    "license": {
+        "id": "GPL-3.0+"
+    },
+    "links": {
+        "bugtracker": "https://github.com/Pext/Pext",
+        "homepage": "https://pext.hackerchick.me",
+        "translate": "https://hosted.weblate.org/projects/pext"
+    },
+    "name": {
+        "default": "Pext"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 02:44:34 GMT'"
+    },
+    "screenshots": [
+        {
+            "caption": "The Radio module",
+            "height": "",
+            "language": "",
+            "url": "https://raw.githubusercontent.com/Pext/Pext/master/screenshots/pext_radiobrowser_infopanel.png",
+            "width": ""
+        },
+        {
+            "caption": "The Weather module",
+            "height": "",
+            "language": "",
+            "url": "https://raw.githubusercontent.com/Pext/Pext/master/screenshots/pext_openweathermap_contextmenu.png",
+            "width": ""
+        },
+        {
+            "caption": "The Emoji module",
+            "height": "",
+            "language": "",
+            "url": "https://raw.githubusercontent.com/Pext/Pext/master/screenshots/pext_emoji.png",
+            "width": ""
+        }
+    ]
+}

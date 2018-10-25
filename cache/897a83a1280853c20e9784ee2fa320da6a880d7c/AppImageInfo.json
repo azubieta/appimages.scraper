@@ -1,0 +1,25 @@
+{
+    "abstract": {
+        "default": "\u9489\u9489\u684c\u9762\u7248\uff0c\u57fa\u4e8eelectron\u548c\u9489\u9489\u7f51\u9875\u7248\u5f00\u53d1\uff0c\u652f\u6301Windows\u3001Linux\u548cmacOS"
+    },
+    "categories": [
+        "InstantMessaging",
+        "Network"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "d99c7e864a6ac8f99850812dc1ebe7cbb79596b7d101eae1d54b30fa277b676b01970a78b035d5b23277e0d328fb06575a358cd7d2ca992cc98db82e8cf2efcd",
+        "size": 53363828,
+        "type": 2,
+        "url": "https://github.com/nashaofu/dingtalk/releases/download/v2.0.6/dingtalk-2.0.6-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-81d686b16524.desktop",
+    "name": {
+        "default": "\u9489\u9489"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 00:34:03 GMT'"
+    }
+}

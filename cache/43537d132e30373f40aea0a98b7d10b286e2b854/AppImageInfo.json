@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "configuration tool for Marlin project"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "a9a25a8c6838ba0a5df9b4efd78d2b3498b844990025f41c076b674d0e732d7b884fd07661231ce163408ab15732ad3c1188632977ff766859ca30571c60e07e",
+        "size": 71908467,
+        "type": 2,
+        "url": "https://github.com/akaJes/marlin-config/releases/download/v2.10.7/marlin-conf-2.10.7-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-5544e6b2f092.desktop",
+    "name": {
+        "default": "marlin-conf"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 02:06:11 GMT'"
+    }
+}

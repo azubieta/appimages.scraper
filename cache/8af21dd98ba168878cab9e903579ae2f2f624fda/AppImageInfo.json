@@ -1,0 +1,24 @@
+{
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "444320b25e4f6309c4ea95a7f768ba44f5482ed1b65ea39c442f69ed47085f42cae5f64b7f6b91556f98fcfb949b0c4239c44a1f76c548cdff65be951bffc3df",
+        "size": 39517576,
+        "type": 2,
+        "url": "https://github.com/Subsurface-divelog/subsurface/releases/download/continuous-cmakeTest/smtk2ssrf-4.8.3-83-g374f4fea9681-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-fd80a7d7aa62.desktop",
+    "keywords": [
+        "SmartTrak log importer"
+    ],
+    "name": {
+        "default": "smtk2ssrf"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 03:44:21 GMT'"
+    }
+}

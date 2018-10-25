@@ -1,6 +1,6 @@
 {
     "abstract": {
-        "null": "Open-source clone of UFO: Enemy Unknown"
+        "default": "Open-source clone of UFO: Enemy Unknown"
     },
     "categories": [
         "Game",
@@ -14,12 +14,12 @@
         "url": "https://knapsu.eu/download/OpenXcom_1.0_x86-64.AppImage"
     },
     "format": 1,
-    "id": "openxcom.desktop",
-    "keywords": [],
+    "icon": "",
+    "id": "appimage-info-dc64bdf2339e.desktop",
     "name": {
-        "null": "OpenXcom"
+        "default": "OpenXcom"
     },
     "release": {
-        "date": "b'Wed, 18 Jul 2018 02:40:24 GMT'"
+        "date": "b'Thu, 25 Oct 2018 02:35:30 GMT'"
     }
 }

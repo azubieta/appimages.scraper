@@ -1,0 +1,45 @@
+{
+    "abstract": {
+        "default": "Your open source video to GIF maker built with Haskell."
+    },
+    "categories": [
+        "AudioVideo",
+        "Video",
+        "Graphics",
+        "Utility"
+    ],
+    "description": {
+        "default": "\n    <p>\n      Gifcurry is your open source video to GIF maker built with Haskell.\n      Import a video, trim, crop, add text, pick a font, set the size, and\n      save your creation as a GIF or a video. Making GIFs with Gifcurry is\n      fun so try it out!\n    </p>\n  "
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "071c26678cc434c8ad2b8c5a68b96edabfb7f5466e0e05f2c1a575237073ed5845206cd1641fc9362b27e4ed86e09413c750bdd4374157fde5f9d23575c70581",
+        "size": 41298136,
+        "type": 2,
+        "url": "https://github.com/lettier/gifcurry/releases/download/5.0.0.0/gifcurry-5.0.0.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "com.lettier.gifcurry",
+    "license": {
+        "id": "BSD-3-Clause"
+    },
+    "links": {
+        "homepage": "https://github.com/lettier/gifcurry"
+    },
+    "name": {
+        "default": "Gifcurry"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 00:56:03 GMT'"
+    },
+    "screenshots": [
+        {
+            "caption": "Gifcurry",
+            "height": "656",
+            "language": "",
+            "url": "https://i.imgur.com/NG29XOB.png",
+            "width": "1001"
+        }
+    ]
+}

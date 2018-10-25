@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "Bnb takes care of launching your web app on your development machine."
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "fac8402d1c2c32c0fbcd4e4ca4848d7c7961a95433b9798d5268b49e20149d5d94415f2800c8ca922a490b0c5a34f98fdf6c76c91f6427e3b5747dd9881440e6",
+        "size": 77546389,
+        "type": 2,
+        "url": "https://github.com/layerssss/bnb/releases/download/1.0.6/bnb-1.0.6-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-e2683a4d73d9.desktop",
+    "name": {
+        "default": "bnb"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 00:05:16 GMT'"
+    }
+}

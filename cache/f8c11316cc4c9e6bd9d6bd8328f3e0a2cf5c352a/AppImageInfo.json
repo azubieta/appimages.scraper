@@ -1,0 +1,25 @@
+{
+    "abstract": {
+        "default": "Secure text editor and binary encryptor"
+    },
+    "categories": [
+        "Utility",
+        "TextEditor"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "3168c032f712fa27f3ddb58759bf8f4f758846562eb2b0f98d4fe1d7aa08d526f77da421961d52b64ee1d088f1561c40402b3adc90f84b7d22d93a27e5711dd9",
+        "size": 25624576,
+        "type": 1,
+        "url": "https://github.com/evpo/EncryptPad/releases/download/v0.3.2.5/encryptpad0_3_2_5.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-cf5427b36238.desktop",
+    "name": {
+        "default": "EncryptPad"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 00:46:13 GMT'"
+    }
+}

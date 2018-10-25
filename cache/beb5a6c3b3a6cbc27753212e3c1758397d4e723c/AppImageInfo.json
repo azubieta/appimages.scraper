@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "A new age editor for academics who seek freedom and people with cryptography needs in rich text environments."
+    },
+    "categories": [
+        "Science"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "491af61cc35b33301e917e4359fe7205977dbcb3e08288ebeebda3333f3409a4b1860763e1ce26adadd3673b62e937ca9072bfddca674a975d49862809814762",
+        "size": 69141752,
+        "type": 2,
+        "url": "https://github.com/fetacore/Infinitex/releases/download/v0.9.15/InfiniTex-0.9.15-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-6477c11002d2.desktop",
+    "name": {
+        "default": "InfiniTex"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 01:20:24 GMT'"
+    }
+}

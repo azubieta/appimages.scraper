@@ -1,6 +1,6 @@
 {
     "abstract": {
-        "null": "Emulator for the Microsoft Bot Framework. Allows developers to test and debug bots on localhost."
+        "default": "Emulator for the Microsoft Bot Framework. Allows developers to test and debug bots on localhost."
     },
     "categories": [
         "Development"
@@ -13,12 +13,12 @@
         "url": "https://github.com/Microsoft/BotFramework-Emulator/releases/download/v3.5.36/botframework-emulator-3.5.36-x86_64.AppImage"
     },
     "format": 1,
-    "id": "botframework-emulator.desktop",
-    "keywords": [],
+    "icon": "",
+    "id": "appimage-info-bbaf788bdfd5.desktop",
     "name": {
-        "null": "botframework-emulator"
+        "default": "botframework-emulator"
     },
     "release": {
-        "date": "b'Tue, 17 Jul 2018 23:02:33 GMT'"
+        "date": "b'Thu, 25 Oct 2018 00:08:28 GMT'"
     }
 }

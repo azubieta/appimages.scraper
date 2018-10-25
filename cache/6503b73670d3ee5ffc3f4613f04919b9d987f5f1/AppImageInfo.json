@@ -1,0 +1,25 @@
+{
+    "abstract": {
+        "default": "Magic Lantern Video Processing Application"
+    },
+    "categories": [
+        "AudioVideo",
+        "Video"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "fd10f8fdc93ec40d17fd75d7d3a4c3a8c39ff6699503ef2de5ddb67f668f24b27234b04e0372a015a162c394d9dfdb5849c92b51e95278ca2b9f534e0c7d04fb",
+        "size": 57554872,
+        "type": 2,
+        "url": "https://github.com/ilia3101/MLV-App/releases/download/QTv1.0/MLV.App.v1.0.Linux.x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-e7bba0b9a27a.desktop",
+    "name": {
+        "default": "MLVApp"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 02:15:49 GMT'"
+    }
+}

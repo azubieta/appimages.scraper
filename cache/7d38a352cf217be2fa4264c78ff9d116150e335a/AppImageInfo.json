@@ -1,0 +1,25 @@
+{
+    "abstract": {
+        "default": "Xiami Electron desktop application"
+    },
+    "categories": [
+        "AudioVideo",
+        "Audio"
+    ],
+    "file": {
+        "architecture": "i386",
+        "sha512checksum": "74c541bdfb54d03bc9b8e3c99b91dc6ab6164244ce16c53dfc4635f436fb2116d8a00740c10ba6a9b0c06fa7c76ef4ff06b7aba9fc58ceb8ae4eaa31ba41a65b",
+        "size": 81973176,
+        "type": 2,
+        "url": "https://github.com/eNkru/electron-xiami/releases/download/v1.5.1/electron-xiami-1.5.1-i386.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-439a274ee349.desktop",
+    "name": {
+        "default": "Xiami Music"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 00:44:35 GMT'"
+    }
+}

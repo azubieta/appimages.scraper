@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "Listen to SoundCloud\u00ae from the comfort of your desktop. Use keyboard shortcuts to navigate through your music. Be more productive."
+    },
+    "categories": [
+        "Audio"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "8cc1d6dd0f160825e45b630cc8dd4b3dc9cb8ba349598a0cd8cb13bce3de48a5a00bf0a99fab31f9716ee852a4725dedfbdd4ba68531279636eaf8cf9b997bad",
+        "size": 85017898,
+        "type": 2,
+        "url": "https://github.com/Superjo149/auryo/releases/download/v2.1.1/auryo-2.1.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-dbc2e1ce2135.desktop",
+    "name": {
+        "default": "Auryo"
+    },
+    "release": {
+        "date": "b'Wed, 24 Oct 2018 23:58:49 GMT'"
+    }
+}

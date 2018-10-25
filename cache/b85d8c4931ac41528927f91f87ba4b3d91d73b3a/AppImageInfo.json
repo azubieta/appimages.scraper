@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "EnvKey\u2019s cross-platform native app"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "24d45a3111e78569e5976ec21eb2c235ecf41d8e034a4366799bfec7c7420f0ed1e7112ceeb3385fd508ef09b1473f774a29995c961805fae66e56cfb35081d4",
+        "size": 54012220,
+        "type": 2,
+        "url": "https://github.com/envkey/envkey-app/releases/download/linux-x64-prod-v1.4.0/EnvKey-1.4.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-81b9df912d00.desktop",
+    "name": {
+        "default": "EnvKey"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 00:46:40 GMT'"
+    }
+}

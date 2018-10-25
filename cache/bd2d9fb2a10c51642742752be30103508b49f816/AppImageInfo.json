@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "The desktop app for MJML"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "6fa0db296e6c28a0905bd681d0803174b5ecbc55158fa64c8db87ecbe9258565705a2470bf5f5982a19639f968872ee25700882d576bc0e3511001b928119fbb",
+        "size": 58398922,
+        "type": 2,
+        "url": "https://github.com/mjmlio/mjml-app/releases/download/v2.10.0/mjml-app-2.10.0-linux-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-f06562b53e6e.desktop",
+    "name": {
+        "default": "MJML"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 02:14:50 GMT'"
+    }
+}

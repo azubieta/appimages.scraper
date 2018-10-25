@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "Grandma-Friendly Atomic Swaps"
+    },
+    "categories": [
+        "Finance"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "734457b60462334461f5b3f9eedf4d352ed6844dfe1a585aa04be3a54622fcb0631d1fee782c7a2c4777b6ab6b6e9f0a78cb3202ff0d2e2e22bde9691369a07e",
+        "size": 59624891,
+        "type": 2,
+        "url": "https://github.com/atomiclabs/hyperdex/releases/download/v0.2.0/hyperdex-0.2.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-0f3cc78e3b0c.desktop",
+    "name": {
+        "default": "HyperDEX"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 01:14:12 GMT'"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "It\u2019s only an Internet Message Access Protocol Synchronization Client"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "3e0f806cd10f293c48b7902f5b7edbb01d1df2f26e6aa6c73faf849fd3c436618eaf767f0b49d8fecb2ad20891843cccff10b66bf33b1cd451bf713494e5148c",
+        "size": 51145584,
+        "type": 2,
+        "url": "https://github.com/ridaamirini/ImapSyncClient/releases/download/v0.0.5/imapsyncclient-0.0.5-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-056a88479667.desktop",
+    "name": {
+        "default": "ImapSync Client"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 01:19:22 GMT'"
+    }
+}

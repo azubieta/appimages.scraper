@@ -1,24 +1,24 @@
 {
     "abstract": {
-        "null": "An elegant Go/Baduk/Weiqi board and SGF editor for a more civilized age."
+        "default": "An elegant Go/Baduk/Weiqi board and SGF editor for a more civilized age."
     },
     "categories": [
         "Game"
     ],
     "file": {
-        "architecture": "Intel 80386",
+        "architecture": "i386",
         "sha512checksum": "b71eae34ed1aa489c08c34cd3724cf9beb2ec1100633abfbdef13e36ce481781c35ea9b8165ff5896c2e3750fee1ffab62177380462cc18d6da2b51088b75590",
         "size": 44257592,
         "type": 2,
         "url": "https://github.com/SabakiHQ/Sabaki/releases/download/v0.35.0/sabaki-v0.35.0-linux-ia32.AppImage"
     },
     "format": 1,
-    "id": "sabaki.desktop",
-    "keywords": [],
+    "icon": "",
+    "id": "appimage-info-189293445386.desktop",
     "name": {
-        "null": "Sabaki"
+        "default": "Sabaki"
     },
     "release": {
-        "date": "b'Wed, 18 Jul 2018 03:47:00 GMT'"
+        "date": "b'Thu, 25 Oct 2018 03:18:13 GMT'"
     }
 }

@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "DeDop Studio"
+    },
+    "categories": [
+        "Science"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "5302b58dd866a91280a24f16cd3ff1917b044a71f0c1a39fa419c9a1d8f21fb80f1afb8f3b2db24c8de52d065d3979af73d7f28bcf7d01770bf95941bd0c96fe",
+        "size": 72965911,
+        "type": 2,
+        "url": "https://github.com/DeDop/dedop-studio/releases/download/v1.5.0/DeDop-studio-1.5.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-76347326dab5.desktop",
+    "name": {
+        "default": "DeDop-studio"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 00:30:16 GMT'"
+    }
+}

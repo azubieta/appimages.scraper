@@ -1,0 +1,25 @@
+{
+    "abstract": {
+        "default": "A simple, beautiful podcast app."
+    },
+    "categories": [
+        "Audio",
+        "AudioVideo"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "a76a2caefdfa065903ac1be9b9400d89d0a7e0fefe9516f5c4854f676fa89f2ed5279f9532cfcdeff70c758472fe98ba03ff972e0b1947e90b0062a04405af54",
+        "size": 56005092,
+        "type": 2,
+        "url": "https://github.com/z-------------/CPod/releases/download/v1.26.0/CPod-1.26.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-8c34a0144b65.desktop",
+    "name": {
+        "default": "CPod"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 00:25:18 GMT'"
+    }
+}

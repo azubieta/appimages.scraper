@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "EnvKey\u2019s cross-platform native app"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "i386",
+        "sha512checksum": "b6bb081e8cb97d9d8866d82b28875b0afa71ffec2f314156882c1895f17cef9401e7bb8e042b2cffc0578e59e163b9cc927dcece71a4348e2e29c3f6e59d6db3",
+        "size": 55098267,
+        "type": 2,
+        "url": "https://github.com/envkey/envkey-app/releases/download/linux-ia32-prod-v1.4.0/EnvKey-1.4.0-i386.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-077ff07d0525.desktop",
+    "name": {
+        "default": "EnvKey"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 00:46:40 GMT'"
+    }
+}

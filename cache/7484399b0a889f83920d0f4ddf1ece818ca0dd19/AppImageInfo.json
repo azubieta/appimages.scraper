@@ -1,0 +1,26 @@
+{
+    "abstract": {
+        "default": "WebRTC client"
+    },
+    "categories": [
+        "Audio",
+        "Video",
+        "AudioVideo"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "49e6d43bf30be001452e031325e98dea0796bb31fe8d6d7f00790eb9bafc242c504349527b16c0d25ef4a2c5458ce6cfd6c40255484955eb97c363c155440c80",
+        "size": 59308424,
+        "type": 2,
+        "url": "http://download.ag-projects.com/Sylk/sylk-electron-2.0.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-0223d338d85d.desktop",
+    "name": {
+        "default": "Sylk"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 03:47:29 GMT'"
+    }
+}

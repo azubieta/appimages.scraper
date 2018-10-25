@@ -1,0 +1,22 @@
+{
+    "abstract": {
+        "default": "Lighting control and sequencing"
+    },
+    "description": null,
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "79b955b785bc372c423eafb1e74a8012ab2c8bb174a07d214e44591235c803ebb71a32a525e42809a109b069dba2adc21cee701049cf972a208f6d5c742b314a",
+        "size": 48904440,
+        "type": 2,
+        "url": "https://www.adebenham.com/wp-content/uploads/xlights/xLights-2017.20.glibc2.17-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-2c31552d1fcc.desktop",
+    "name": {
+        "default": "xLights"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 04:14:19 GMT'"
+    }
+}

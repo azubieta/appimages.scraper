@@ -1,0 +1,27 @@
+{
+    "abstract": {
+        "default": "TimeCamp Desktop Application"
+    },
+    "categories": [
+        "Office",
+        "ProjectManagement",
+        "Monitor",
+        "Network"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "5eb5878245e321c476d9c7b4283ffe53eba4002431b782838bc0f37783f051c7dfecdf2a180b143e3da1b1b70da3125807cc2783229f2608e5f9bb3266a03701",
+        "size": 88677768,
+        "type": 2,
+        "url": "https://github.com/timecamp/timecamp-v2.1-desktop-app/releases/download/2.0.133/TimeCampDesktop-40d794f-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-f999798c148e.desktop",
+    "name": {
+        "default": "TimeCampDesktop"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 03:51:42 GMT'"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "abstract": {
+        "default": "ttyrec is a tty recorder"
+    },
+    "description": null,
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "0e6ba513bbae557f0cca01381b5d3291f5ddb2edf75003f0997ae4c6497a8ffb6a439918f5abe40bbe9ce4751f456e6c687bf8a859a400947c248cf658b81136",
+        "size": 423128,
+        "type": 2,
+        "url": "http://download.opensuse.org/repositories/home:/nandub:/MyAppImages/AppImage/ttyrec-1282497374.c4fd0f2-Build9.38.glibc2.7-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-c2e5e1d823c8.desktop",
+    "name": {
+        "default": "ttyrec"
+    },
+    "release": {
+        "date": "b'Wed, 24 Oct 2018 23:53:20 GMT'"
+    }
+}

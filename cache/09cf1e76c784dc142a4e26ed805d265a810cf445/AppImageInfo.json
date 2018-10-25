@@ -1,0 +1,24 @@
+{
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "791d99080eb5f51c65eef0b8eeba57c5fe0be333d8f630165d980715d5ea8834af3374d96961c0e1983f6141c4864ce9038495c57d9d55505878e1dcd5511ffe",
+        "size": 39517576,
+        "type": 2,
+        "url": "https://github.com/Subsurface-divelog/subsurface/releases/download/continuous-macBT/smtk2ssrf-4.8.3-92-g41da259f1cce-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-fd01503d80e7.desktop",
+    "keywords": [
+        "SmartTrak log importer"
+    ],
+    "name": {
+        "default": "smtk2ssrf"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 03:44:21 GMT'"
+    }
+}

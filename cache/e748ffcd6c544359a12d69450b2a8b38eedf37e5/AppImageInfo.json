@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "Free and Open Source messaging and emailing app that combines common web applications into one."
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "i386",
+        "sha512checksum": "115dce430983bce188bd35fcc31f9ba8b488a4308b7337042130b5cad2302c8c1e88feb45aa1fb3e7d4524108363194486856a0bc2d5e6ea1a7b00e933e161e3",
+        "size": 63188890,
+        "type": 2,
+        "url": "https://github.com/ramboxapp/community-edition/releases/download/0.6.2/Rambox-0.6.2-linux-i386.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-3c85447bca63.desktop",
+    "name": {
+        "default": "Rambox"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 03:07:28 GMT'"
+    }
+}

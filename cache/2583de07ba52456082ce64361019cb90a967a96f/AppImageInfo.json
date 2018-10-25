@@ -10,14 +10,15 @@
         "url": "https://drawpile.net/files/appimage/Drawpile-srv-2.0.10.1.AppImage"
     },
     "format": 1,
-    "id": "drawpile-srv.desktop",
+    "icon": "",
+    "id": "appimage-info-4e19a7fcf908.desktop",
     "keywords": [
         "Dedicated server for Drawpile"
     ],
     "name": {
-        "null": "Drawpile Server"
+        "default": "Drawpile Server"
     },
     "release": {
-        "date": "b'Wed, 18 Jul 2018 00:04:16 GMT'"
+        "date": "b'Thu, 25 Oct 2018 00:39:56 GMT'"
     }
 }

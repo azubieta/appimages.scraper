@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "a P2P LAN chatting and file sharing tool"
+    },
+    "categories": [
+        "Network"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "4b3d8844dadae5da9284a5799c299bb9c37ce7aa4e8fffc2ece438728b78c82798e338d5d8b49edeabfe5fc5ae4887ffbf8295293bd0c05da6a8cb2029f96a34",
+        "size": 52511904,
+        "type": 2,
+        "url": "https://github.com/dgeibi/p2p-chat/releases/download/v1.5.5/p2p-chat-1.5.5-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-8072da682a92.desktop",
+    "name": {
+        "default": "p2p-chat"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 02:36:52 GMT'"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "WebCatalog helps you turn any website into desktop app with just one click."
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "85cd85e15af3d84404cf54f213f0ae294cf9167ba9b58e48a54dbf4a5a5cc4c724882df5213c6c5e17bb1e6505b33743cfc4365e42bca501f0adacc415a262b1",
+        "size": 57774941,
+        "type": 2,
+        "url": "https://github.com/webcatalog/webcatalog/releases/download/v12.6.0/webcatalog-12.6.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-21a5c0be2f0e.desktop",
+    "name": {
+        "default": "WebCatalog"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 04:05:19 GMT'"
+    }
+}

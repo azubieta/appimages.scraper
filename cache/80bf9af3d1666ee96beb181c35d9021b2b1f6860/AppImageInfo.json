@@ -1,0 +1,30 @@
+{
+    "abstract": {
+        "default": "The payment system of the future today"
+    },
+    "categories": [
+        "Office",
+        "Utility",
+        "Network",
+        "Finance",
+        "P2P",
+        "Economy",
+        "Qt"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "b91806c4824b3a0f440262aea9c0278eadd5ebd0ca42e6e8bf068a9ac4ee7244c91d204b0e8123aa9239bb161f7ad41138061c5103fcbdf2b3a87e7ea9866313",
+        "size": 61492424,
+        "type": 2,
+        "url": "https://github.com/Gulden/gulden-official/releases/download/v2.0.0.14/Gulden-2.0.0.14-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-92fe69e50194.desktop",
+    "name": {
+        "default": "Gulden"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 01:07:50 GMT'"
+    }
+}

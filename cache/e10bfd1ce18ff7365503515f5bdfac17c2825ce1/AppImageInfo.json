@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "AnimationMaker"
+    },
+    "categories": [
+        "Graphics"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "39d6fe4599181cf47cbc69ce30bb58715dc5c33e433cf19aedb7419ef66ba44ff1772edd43eb169f2d9d0bf8b611d75e035f116845d9bfbb2b983000fba5b068",
+        "size": 38390616,
+        "type": 2,
+        "url": "https://github.com/Artanidos/AnimationMaker/releases/download/v1.8.1/AnimationMaker-Linux-x86_64-1.8.1.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-a2063feb8197.desktop",
+    "name": {
+        "default": "AnimationMaker"
+    },
+    "release": {
+        "date": "b'Wed, 24 Oct 2018 23:43:48 GMT'"
+    }
+}

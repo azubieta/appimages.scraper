@@ -1,6 +1,6 @@
 {
     "abstract": {
-        "null": "ShareX for Unix-like systems"
+        "default": "ShareX for Unix-like systems"
     },
     "categories": [
         "Graphics",
@@ -15,12 +15,12 @@
         "url": "https://github.com/ShareXin/ShareXin/releases/download/0.5.8.1/sharexin-0.5.8.1-x86_64.AppImage"
     },
     "format": 1,
-    "id": "sharexin.desktop",
-    "keywords": [],
+    "icon": "",
+    "id": "appimage-info-be415f6d3559.desktop",
     "name": {
-        "null": "ShareXin"
+        "default": "ShareXin"
     },
     "release": {
-        "date": "b'Wed, 18 Jul 2018 03:56:59 GMT'"
+        "date": "b'Thu, 25 Oct 2018 03:23:12 GMT'"
     }
 }

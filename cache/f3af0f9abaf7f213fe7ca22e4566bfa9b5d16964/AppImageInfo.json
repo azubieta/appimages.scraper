@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "Medical Image Registration ToolKit (356601ef1123136876bcde395969b8698f58960a)"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "189d316dfdc39a5c50e88da0532b78282f26f73634e149b52f84149e71bd8882d02c2a0e02095defdcdca9d5d791db17aec733ef7db346a678276fe96a7962d1",
+        "size": 20327816,
+        "type": 2,
+        "url": "https://d29vzk4ow07wi7.cloudfront.net/6e37fb087df97e195a95f5ce62003c2b66f684204483295fd7865dd5bc45ceed?response-content-disposition=attachment%3Bfilename%3D%22MIRTK-latest-x86_64-glibc2.14.AppImage%22&Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHAqOi8vZDI5dnprNG93MDd3aTcuY2xvdWRmcm9udC5uZXQvNmUzN2ZiMDg3ZGY5N2UxOTVhOTVmNWNlNjIwMDNjMmI2NmY2ODQyMDQ0ODMyOTVmZDc4NjVkZDViYzQ1Y2VlZD9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPWF0dGFjaG1lbnQlM0JmaWxlbmFtZSUzRCUyMk1JUlRLLWxhdGVzdC14ODZfNjQtZ2xpYmMyLjE0LkFwcEltYWdlJTIyIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTQwNDM0MzgzfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=CjaikTTWw-LLCeW7KyIFK45LEm0i5e8evcD-fwJsM6V0bjVs7eVwV2SHRP56-G2sLgjMtymBcBVafpiPlRr-5sM8JIMCcoJsO61GCdONIcGercTy6V6eFc1kBW8BijhfRj1ZZ5urDxHkCaXhilIc5tYktGOA1hBGXUi9XD-qQq~XANB1BFnFMZrkDLrbKhixM6DhVXLWXrYsDhfpbwsSHnDoBwddfISXnfNeoPcNcYvVcWYZ5iE-56B6zPw~7jK1oll80YOxzYB7Zl-GPmgPONrPc02DcPgRCnBWGgGGfyYmQjEzkw8m5w1Nv4M85VZCxNSO~ME29Zisgpuv6~lc8Q__&Key-Pair-Id=APKAIFKFWOMXM2UMTSFA"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-a30f203dcde8.desktop",
+    "name": {
+        "default": "MIRTK"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 02:14:29 GMT'"
+    }
+}

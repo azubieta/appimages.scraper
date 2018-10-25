@@ -1,0 +1,24 @@
+{
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "37c9923b590d252d06b95c6c2bc41694e004d2b0d5f88bc870b2850402d309a17d7fde9d1d155727554fbbb4b2c35755b65fa7a11a66d2faac5bcc4a46592e16",
+        "size": 39517576,
+        "type": 2,
+        "url": "https://github.com/Subsurface-divelog/subsurface/releases/download/continuous-mobileFilter2/smtk2ssrf-4.8.3-268-gf678f1fe9f82-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-e523bc73bcfa.desktop",
+    "keywords": [
+        "SmartTrak log importer"
+    ],
+    "name": {
+        "default": "smtk2ssrf"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 03:44:21 GMT'"
+    }
+}

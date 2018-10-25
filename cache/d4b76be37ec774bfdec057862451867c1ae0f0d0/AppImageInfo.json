@@ -1,6 +1,6 @@
 {
     "abstract": {
-        "null": "Distributed audio player"
+        "default": "Distributed audio player"
     },
     "categories": [
         "AudioVideo"
@@ -13,12 +13,12 @@
         "url": "https://github.com/pathephone/pathephone-desktop/releases/download/v2.0.1/pathephone-desktop-2.0.1-x86_64.AppImage"
     },
     "format": 1,
-    "id": "pathephone-desktop.desktop",
-    "keywords": [],
+    "icon": "",
+    "id": "appimage-info-dabeff9f89ba.desktop",
     "name": {
-        "null": "Pathephone"
+        "default": "Pathephone"
     },
     "release": {
-        "date": "b'Wed, 18 Jul 2018 02:45:34 GMT'"
+        "date": "b'Thu, 25 Oct 2018 02:40:01 GMT'"
     }
 }

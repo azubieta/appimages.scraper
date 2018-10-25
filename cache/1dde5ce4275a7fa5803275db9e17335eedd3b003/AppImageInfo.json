@@ -1,0 +1,18 @@
+{
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "75ba896abb728952ccefbc9612db5e5ca807b6c039985934dfe0a453e0ca8ee61a69c34796fa1eae1cfa7f850586d4afc3a703cd252290f183b4a6fc267229fa",
+        "size": 22830184,
+        "type": 2,
+        "url": "https://github.com/AppImage/AppImageUpdate/releases/download/continuous/AppImageUpdate-382-b61bee3-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-d05642949b9e.desktop",
+    "name": {
+        "default": "AppImageUpdate"
+    },
+    "release": {
+        "date": "b'Wed, 24 Oct 2018 23:46:07 GMT'"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "Free and Open Source password vault"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "7c9cebcfb4f9d9760e6e2a3e081f69b382fcf32be296158c110fa962f3468200598cb6b2c0c9ead85c18f4005d206e12cbb821e82ebad02cbef8715084db14ad",
+        "size": 54028471,
+        "type": 2,
+        "url": "https://github.com/buttercup/buttercup-desktop/releases/download/v1.10.1/buttercup-desktop-1.10.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-d5448ab14271.desktop",
+    "name": {
+        "default": "Buttercup"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 00:14:37 GMT'"
+    }
+}

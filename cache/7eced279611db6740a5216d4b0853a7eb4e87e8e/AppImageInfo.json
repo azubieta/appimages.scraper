@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "Alva is a radically new design tool that enables cross-functional teams to design digital products."
+    },
+    "categories": [
+        "Graphics"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "1643092796e2956a22b771aedafde036849541434fe9593657a5c75c840a00555fbc4e644033ca320e668a33c855f3f76d9b33b727bff4b244f5c317da94223c",
+        "size": 92016401,
+        "type": 2,
+        "url": "https://github.com/meetalva/alva/releases/download/v0.8.0/Alva-0.8.0.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-2ccbc4ddcb04.desktop",
+    "name": {
+        "default": "Alva"
+    },
+    "release": {
+        "date": "b'Wed, 24 Oct 2018 23:41:54 GMT'"
+    }
+}

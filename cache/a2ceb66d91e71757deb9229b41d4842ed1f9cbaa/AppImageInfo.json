@@ -10,12 +10,12 @@
         "url": "https://depot.flexvdi.com/clients/linux-x86_64/flexvdi-linux-client-2.2.12-3-x86_64.AppImage"
     },
     "format": 1,
-    "id": "flexvdi-client.desktop",
-    "keywords": [],
+    "icon": "",
+    "id": "appimage-info-70340b2b278d.desktop",
     "name": {
-        "null": "flexVDI Client"
+        "default": "flexVDI Client"
     },
     "release": {
-        "date": "b'Wed, 18 Jul 2018 00:23:37 GMT'"
+        "date": "b'Thu, 25 Oct 2018 00:51:17 GMT'"
     }
 }

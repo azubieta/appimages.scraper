@@ -1,0 +1,33 @@
+{
+    "abstract": {
+        "default": "Streaming music player that finds music sources automatically.",
+        "es": "Reproductor que retransmite m\u00fasica desde fuentes encontradas autom\u00e1ticamente."
+    },
+    "categories": [
+        "Audio",
+        "AudioVideo",
+        "Network",
+        "Player",
+        "Music"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "0be89b611174ab1f80c5fa3172d8fa60fd33cc051a46e7ca7d0aae9561ae8a5409a0e072372f376792d09b860bb39da7c81c3d6031559279f28cee06250d844c",
+        "size": 65336413,
+        "type": 2,
+        "url": "https://github.com/nukeop/nuclear/releases/download/v0.4.3/nuclear-0.4.3-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-b5206688d54d.desktop",
+    "languages": [
+        "es"
+    ],
+    "name": {
+        "default": "Nuclear",
+        "es": "Reproductor de m\u00fasica Nuclear"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 02:29:24 GMT'"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "configuration tool for Marlin project"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "i386",
+        "sha512checksum": "b85214d97bddb6c34296f722fb0e965c7143132ac6acebe17f32bbdf866d51d1feec882da3eac59bc20cd6dc27682871d5e3aa8c80e890d8f88c8a15aa47ec6f",
+        "size": 75074571,
+        "type": 2,
+        "url": "https://github.com/akaJes/marlin-config/releases/download/v2.10.4/marlin-conf-2.10.4-i386.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-a3d7149a2bbe.desktop",
+    "name": {
+        "default": "marlin-conf"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 02:06:11 GMT'"
+    }
+}

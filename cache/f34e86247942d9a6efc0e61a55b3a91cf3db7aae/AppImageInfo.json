@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "This tool will parse intercepted data from Summoners War and extract information on the monsters and runes of the user."
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "64a0cd9a4371881fcc8abdc1f454d1d71c9d26e0cbab2a3bebc1ba75655efd43bd06f0d66c2dba0abe974fd825dacc99dff64d92ea77ac6f4c676e5e0ab6d238",
+        "size": 56416184,
+        "type": 2,
+        "url": "https://github.com/Xzandro/sw-exporter/releases/download/0.0.23/Summoners.War.Exporter-0.0.23_1-linux.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-511589a0f745.desktop",
+    "name": {
+        "default": "Summoners War Exporter"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 03:45:53 GMT'"
+    }
+}

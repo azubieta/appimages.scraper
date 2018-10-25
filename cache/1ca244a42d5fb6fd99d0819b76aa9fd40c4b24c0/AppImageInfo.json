@@ -1,0 +1,22 @@
+{
+    "abstract": {
+        "default": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink"
+    },
+    "description": null,
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "41efb4d355233ac9e43925f1a38f259725f9a0833f0c31a716617081a14b344066c65efec9a9e202a215f5b96cba133da5b5b29c12dadd9ad5c220b12e9f0f9f",
+        "size": 5285080,
+        "type": 2,
+        "url": "http://download.opensuse.org/repositories/home:/nandub:/MyAppImages/AppImage/aria2-1.24.0-3.2.Build13.6055.glibc2.17-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-0f7c8b0bcc73.desktop",
+    "name": {
+        "default": "Aria2"
+    },
+    "release": {
+        "date": "b'Wed, 24 Oct 2018 23:53:20 GMT'"
+    }
+}

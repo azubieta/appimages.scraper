@@ -1,0 +1,22 @@
+{
+    "abstract": {
+        "default": "Free Software FPS Game Engine Based on Quake 3"
+    },
+    "description": null,
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "2e0c590f2e395abc63292f10bb8d550589d0cb3254665c91b82a6a0baddca47965987fe29e83edd16da8e508ebc74312f9d210913cf90322157c1d56a239d8f1",
+        "size": 1877208,
+        "type": 2,
+        "url": "http://download.opensuse.org/repositories/home:/nandub:/MyAppImages/AppImage/IOQuake3-Server-0-Build26.36.glibc2.15-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-c55af640051f.desktop",
+    "name": {
+        "default": "IOQuake3-Server"
+    },
+    "release": {
+        "date": "b'Wed, 24 Oct 2018 23:53:20 GMT'"
+    }
+}

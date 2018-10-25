@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "Extensible, fast and innovative web browser with material UI."
+    },
+    "categories": [
+        "Network"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "a955687eddff1f86cc46a7cfde3423c2aab425765cc328d3bbda726262e7eca7b5eac36fb975af608e9cb50919e401df57c742fae84e1e9e4604d6cbfa3caf2d",
+        "size": 65350459,
+        "type": 2,
+        "url": "https://github.com/sential/wexond/releases/download/v1.0.0-beta.1/wexond-1.0.0-beta.1-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-269b85e1107f.desktop",
+    "name": {
+        "default": "Wexond"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 04:08:16 GMT'"
+    }
+}

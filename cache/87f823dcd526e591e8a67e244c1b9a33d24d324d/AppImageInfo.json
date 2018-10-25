@@ -1,0 +1,51 @@
+{
+    "abstract": {
+        "default": "Play Videos"
+    },
+    "categories": [
+        "AudioVideo",
+        "Audio",
+        "Video",
+        "Player"
+    ],
+    "description": {
+        "default": "\n    <p>\n      Movie Monad is a free and simple to use video player made with Haskell.\n      You can play files on your computer or stream videos from the web.\n      Movie Monad gets out of the way so you can watch the videos you love.\n      Try it out.\n    </p>\n  "
+    },
+    "developer": {
+        "name": "David Lettier"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "3170094e8d042444a9ffaff35cb64ed83c63783dcf6a263fb85065b1c74a6e1d6e57149aa3353cc2df26a4d31e4b03e02f25e38ebb9d835f463db31319f51362",
+        "size": 36038872,
+        "type": 2,
+        "url": "https://github.com/lettier/movie-monad/releases/download/0.0.7.0/movie-monad-0.0.7.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "com.lettier.movie-monad.desktop",
+    "keywords": [
+        "Video Player"
+    ],
+    "license": {
+        "id": "BSD-3-Clause"
+    },
+    "links": {
+        "homepage": "https://github.com/lettier/movie-monad"
+    },
+    "name": {
+        "default": "Movie Monad"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 02:16:14 GMT'"
+    },
+    "screenshots": [
+        {
+            "caption": "The main Movie Monad window",
+            "height": "780",
+            "language": "",
+            "url": "https://i.imgur.com/vaXFxS0.png",
+            "width": "1024"
+        }
+    ]
+}

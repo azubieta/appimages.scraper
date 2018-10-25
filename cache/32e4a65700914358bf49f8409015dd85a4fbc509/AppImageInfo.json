@@ -1,7 +1,7 @@
 {
     "abstract": {
-        "fr": "samplv1 est un \u00e9chantillonneur polyphonique \u00e0 l'ancienne",
-        "null": "samplv1 is an old school polyphonic sampler"
+        "default": "samplv1 is an old school polyphonic sampler",
+        "fr": "samplv1 est un \u00e9chantillonneur polyphonique \u00e0 l'ancienne"
     },
     "categories": [
         "Audio",
@@ -12,17 +12,21 @@
         "Qt"
     ],
     "description": {
-        "null": "<p>samplv1 is an old-school polyphonic sampler synthesizer with stereo fx.</p> <p>features:<ul> <li>pure stand-alone JACK client with JACK-session, NSM and both JACK MIDI and ALSA MIDI input support;</li> <li>LV2 instrument plugin. URI: http://samplv1.sourceforge.net/lv2</li> </ul></p>"
+        "default": "\n  <p>samplv1 is an old-school polyphonic sampler synthesizer\n  with stereo fx.</p>\n  <p>features:<ul>\n  <li>pure stand-alone JACK client with JACK-session, NSM and both JACK MIDI\n    and ALSA MIDI input support;</li>\n  <li>LV2 instrument plugin.\n    URI: http\\://samplv1.sourceforge.net/lv2</li>\n  </ul></p>\n "
+    },
+    "developer": {
+        "name": "rncbc aka. Rui Nuno Capela"
     },
     "file": {
         "architecture": "x86-64",
-        "sha512checksum": "0377eb33c23b101cd1d0d5b9d4de6dfc32d432f8027e6d34fc2901b526a8df93a853c3d7dd0ee5a1bdd76fdea3070f4d9079f9f273027cd9990104b537c4846e",
-        "size": 13284568,
+        "sha512checksum": "434bd4423b42b0c11d4ee5eedba009e5ed37b591099bde768e0a4898fd2b166cad3cacff8f75f2493742d05c12fd0d31077f770ee1f05afa97765daf03c5db2a",
+        "size": 13288664,
         "type": 2,
         "url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/samplv1-latest-x86_64.AppImage"
     },
     "format": 1,
-    "id": "samplv1.desktop",
+    "icon": "",
+    "id": "org.rncbc.samplv1",
     "keywords": [
         "MIDI"
     ],
@@ -33,9 +37,18 @@
         "homepage": "https://samplv1.sourceforge.io"
     },
     "name": {
-        "null": "samplv1"
+        "default": "samplv1"
     },
     "release": {
-        "date": "b'Fri, 03 Aug 2018 00:00:23 GMT'"
-    }
+        "date": "b'Thu, 25 Oct 2018 03:03:08 GMT'"
+    },
+    "screenshots": [
+        {
+            "caption": "The main window showing the application in action",
+            "height": "",
+            "language": "",
+            "url": "http://samplv1.sourceforge.net/image/samplv1-screenshot8.png",
+            "width": ""
+        }
+    ]
 }

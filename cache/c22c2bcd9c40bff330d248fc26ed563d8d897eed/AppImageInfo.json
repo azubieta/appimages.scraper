@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "\ud83d\udcda P3X Onenote Linux"
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "i386",
+        "sha512checksum": "707ad5d3241198b9e548a2bba40b624c0f3bcb72c2d707902c027cddc5820c631f7a30f7430e2c9db7ff9a3fcff0e4dcc79e22fad515e5ebdaf5f60c24fd6747",
+        "size": 59346695,
+        "type": 2,
+        "url": "https://github.com/patrikx3/onenote/releases/download/2018.9.5-5/p3x-onenote-2018.9.5-5-i386.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-b8985228bd4d.desktop",
+    "name": {
+        "default": "P3X OneNote"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 02:30:22 GMT'"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "Reveal your ideas. With Unreel you can create amazing REVEAL.JS presentations"
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "0cd40c9fee1fb72a19d76ed9d0e439cfae0e4583984cde92c03c11eed1afb78405c441bfd53f9c8ca5335da0e71c6cc4144af684ba22b041c015a1e4b97e4351",
+        "size": 65734434,
+        "type": 2,
+        "url": "https://github.com/linux-man/unreel/releases/download/v1.4.0/unreel-1.4.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-0eb97f02c344.desktop",
+    "name": {
+        "default": "unreel"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 04:01:31 GMT'"
+    }
+}

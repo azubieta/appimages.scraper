@@ -1,7 +1,8 @@
 {
     "abstract": {
-        "null": "Aidos Wallet Testnet"
+        "default": "Aidos Wallet Testnet"
     },
+    "description": null,
     "file": {
         "architecture": "x86-64",
         "sha512checksum": "a42034aea8fbdde95a32b9d05469468facd9b0439d564ee7d4eccd771083b3a533fc7210d357989fd8e4911d6385de465c4185bc6fcaaf50a00018b6ca728d2d",
@@ -10,12 +11,12 @@
         "url": "https://github.com/AidosKuneen/aidos-wallet/releases/download/vtest/Aidos-Testnet-1.2.7-x86_64.AppImage"
     },
     "format": 1,
-    "id": "aidos-testnet.desktop",
-    "keywords": [],
+    "icon": "",
+    "id": "appimage-info-7cbcb78d2904.desktop",
     "name": {
-        "null": "Aidos Wallet Testnet"
+        "default": "Aidos Wallet Testnet"
     },
     "release": {
-        "date": "b'Tue, 17 Jul 2018 22:03:56 GMT'"
+        "date": "b'Wed, 24 Oct 2018 23:39:18 GMT'"
     }
 }

@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "Make Lists. Not War."
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "i386",
+        "sha512checksum": "71b1a7d2384fe3ad94a921896cc1f97989172b7945bd404700e5f6e871f8cb9382c356a967020a03bb1cdbe40957c189535d439a7fc9675eae0ee5cb21041ff9",
+        "size": 56616146,
+        "type": 2,
+        "url": "https://github.com/workflowy/desktop/releases/download/v1.1.5/WorkFlowy-1.1.5-i386.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-d00331fd64bf.desktop",
+    "name": {
+        "default": "WorkFlowy"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 04:10:46 GMT'"
+    }
+}

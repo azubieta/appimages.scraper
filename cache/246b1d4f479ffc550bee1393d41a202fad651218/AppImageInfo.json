@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "An interactive sequencer for the intermedia arts"
+    },
+    "categories": [
+        "AudioVideo"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "dbb85acbfdd4d3f493ee0a97499b48a3462a4e6b0f68efc9b33a4b3067febb30ac210f6e791f84cd38e156528da5693a1331f10608a55df4d967ae7c3cc4472d",
+        "size": 43625672,
+        "type": 2,
+        "url": "https://github.com/OSSIA/score/releases/download/v2.0.0-a20/Score-v2.0.0-a20-amd64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-65a37e4245c5.desktop",
+    "name": {
+        "default": "ossia score"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 01:24:28 GMT'"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "A desktop implementation for the bunq API"
+    },
+    "categories": [
+        "Office"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "3116edafc152f6b35596180b6c73f37ea6ce84297f8f6f40e4535ccc2d46a57db06777b8e9725edb21f1435e6da1f75fa27f20277a3884a126dc50cc5dc7a15b",
+        "size": 52987825,
+        "type": 2,
+        "url": "https://github.com/bunqCommunity/bunqDesktop/releases/download/0.8.6/bunqdesktop-0.8.6-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-301a68f2ba28.desktop",
+    "name": {
+        "default": "BunqDesktop"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 00:12:44 GMT'"
+    }
+}

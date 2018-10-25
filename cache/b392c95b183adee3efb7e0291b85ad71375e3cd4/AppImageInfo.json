@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "Ledger Live - Desktop"
+    },
+    "categories": [
+        "Finance"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "591f2bb6aef8aa39f1fa7f58d8caf02b5ac84a27f12401c786871ff9a922efb57810f87b2f54edc095907356a525c05e18908ad96d6c8baabeb32e9e6c433be1",
+        "size": 79561053,
+        "type": 2,
+        "url": "https://github.com/LedgerHQ/ledger-live-desktop/releases/download/v1.1.9/ledger-live-desktop-1.1.9-linux-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-2ecc3df07565.desktop",
+    "name": {
+        "default": "Ledger Live"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 01:49:27 GMT'"
+    }
+}

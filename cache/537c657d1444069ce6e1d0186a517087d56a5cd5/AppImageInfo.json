@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "Light wallet for NEO blockchain"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "0bd4e7e0c570b27507ad431d0c0e75690325a6bbdc9809a588be20fcdea75d7e346823dd3a8796ba99b071688290637a201f64a9a4ce16e64dc9cb2bbfbc7242",
+        "size": 62854986,
+        "type": 2,
+        "url": "https://github.com/CityOfZion/neon-wallet/releases/download/0.2.7/Neon-0.2.7-x86_64.Linux.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-8804963bd7eb.desktop",
+    "name": {
+        "default": "Neon"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 02:24:38 GMT'"
+    }
+}

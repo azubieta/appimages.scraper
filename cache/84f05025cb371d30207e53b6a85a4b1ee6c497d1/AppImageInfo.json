@@ -1,0 +1,61 @@
+{
+    "abstract": {
+        "default": "Python-based extendable tool"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "description": {
+        "default": "\n    <p>\n      Pext is a program whose behaviour is decided by modules. Depending on the\n      module in use, Pext can be used for a wide variety of tasks.\n    </p>\n  "
+    },
+    "developer": {
+        "name": "The Pext team"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "2553a25907caf40fbe3bf78cd7cae0ff7a7e9245295753c57bb302fe31744722495ee2f910432a496d4f668d5b63052f0a40f457aa1bb750b073431647c24940",
+        "size": 117808520,
+        "type": 2,
+        "url": "https://github.com/Pext/Pext/releases/download/v0.20/Pext-0.20-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "io.pext.pext",
+    "license": {
+        "id": "GPL-3.0+"
+    },
+    "links": {
+        "bugtracker": "https://github.com/Pext/Pext",
+        "homepage": "https://pext.hackerchick.me",
+        "translate": "https://hosted.weblate.org/projects/pext"
+    },
+    "name": {
+        "default": "Pext"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 02:44:34 GMT'"
+    },
+    "screenshots": [
+        {
+            "caption": "The Radio module",
+            "height": "",
+            "language": "",
+            "url": "https://raw.githubusercontent.com/Pext/Pext/master/screenshots/pext_radiobrowser_infopanel.png",
+            "width": ""
+        },
+        {
+            "caption": "The Weather module",
+            "height": "",
+            "language": "",
+            "url": "https://raw.githubusercontent.com/Pext/Pext/master/screenshots/pext_openweathermap_contextmenu.png",
+            "width": ""
+        },
+        {
+            "caption": "The Emoji module",
+            "height": "",
+            "language": "",
+            "url": "https://raw.githubusercontent.com/Pext/Pext/master/screenshots/pext_emoji.png",
+            "width": ""
+        }
+    ]
+}

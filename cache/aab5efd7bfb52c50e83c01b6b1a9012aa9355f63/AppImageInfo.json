@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "Unoffical sonos controller for linux."
+    },
+    "categories": [
+        "Audio"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "68343d51898dd43f7678acf98ddc9e286d7217b6a1f9d7d673b02a51b7c1e2479577757217e2d2d5ecf7e725a65619be59f0e78e6d598fe9a47c65c4acf516f5",
+        "size": 53884146,
+        "type": 2,
+        "url": "https://github.com/pascalopitz/unoffical-sonos-controller-for-linux/releases/download/v0.1.5/sonos-controller-unofficial-0.1.5-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-869169a3d3cc.desktop",
+    "name": {
+        "default": "sonos-controller-unofficial"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 04:00:55 GMT'"
+    }
+}

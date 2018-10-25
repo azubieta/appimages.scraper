@@ -1,0 +1,33 @@
+{
+    "abstract": {
+        "default": "VoIP and instant messaging client",
+        "en_US": "VoIP and instant messaging client"
+    },
+    "categories": [
+        "Network",
+        "InstantMessaging"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "de9809ecfb94a2e2f312e53dffb05d6c13df5e4288de3d272e60949acdfa79acb15775f2d90a8981e193d1f5b34963fc6a8b682b36d8c3c1199eed15c09be830",
+        "size": 25624576,
+        "type": 1,
+        "url": "https://tel.red/linux/sky-2.1.7295-1-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-e8458bd683b5.desktop",
+    "keywords": [
+        "Internet Messenger"
+    ],
+    "languages": [
+        "en_US"
+    ],
+    "name": {
+        "default": "Sky",
+        "en_US": "Sky"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 03:27:08 GMT'"
+    }
+}

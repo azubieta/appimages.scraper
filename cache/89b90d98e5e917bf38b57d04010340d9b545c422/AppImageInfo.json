@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "e964e9caf317ee2c9c7362b7df0a5650128ac2974e9deb6d0c2566b00fc2eef9b3650dd57ca73c2f7daa0ae1cbed5e864161ffb753ffc297f78cdd8e05fda1c5",
+        "size": 88815160,
+        "type": 2,
+        "url": "https://github.com/prisma/graphql-playground/releases/download/v1.5.9/graphql-playground-electron-1.5.9-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-60159224b2dd.desktop",
+    "name": {
+        "default": "GraphQL Playground"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 01:06:52 GMT'"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "A simple and visually-pleasing Pomodoro timer"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "cee99cec602888e7914f965df6754a56722a8024e6feb3576b1fd709b644ceb5a493f8c7d2e7b1fac5958ea1b458c3c8441f54fa42b35aee77e98e7065f289ee",
+        "size": 53298810,
+        "type": 2,
+        "url": "https://github.com/Splode/pomotroid/releases/download/v0.4.0/pomotroid-0.4.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-4a7b935e2651.desktop",
+    "name": {
+        "default": "Pomotroid"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 02:55:08 GMT'"
+    }
+}

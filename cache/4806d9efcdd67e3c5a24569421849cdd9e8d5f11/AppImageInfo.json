@@ -1,0 +1,55 @@
+{
+    "abstract": {
+        "default": "QmidiNet is a MIDI Network Gateway via UDP/IP Multicast",
+        "fr": "QmidiNet est une passerelle de r\u00e9seau MIDI via UDP/IP Multicast"
+    },
+    "categories": [
+        "Audio",
+        "AudioVideo",
+        "Midi",
+        "X-Alsa",
+        "X-Jack",
+        "Qt"
+    ],
+    "description": {
+        "default": "\n  <p>QmidiNet is a MIDI network gateway application that sends and receives\n  MIDI data (ALSA Sequencer and/or JACK MIDI) over the network, using UDP/IP\n  multicast. Inspired by multimidicast (http\\://llg.cubic.org/tools) and\n  designed to be compatible with ipMIDI for Windows (http\\://nerds.de).</p>\n "
+    },
+    "developer": {
+        "name": "rncbc aka. Rui Nuno Capela"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "7fe1d4970eaffc189ddddd1e7ff3429b1c0290999eeaf736853f72537fd05e28a1588ffb4065844d8191fe9b5e719961e0f016643b56df3487cfdf433324dc64",
+        "size": 12268760,
+        "type": 2,
+        "url": "http://ftp1.nluug.nl/os/Linux/distr/opensuse/repositories/home:/rncbc/AppImage/qmidinet-1534531868.f8e3b1b-Build1.7.glibc2.14-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "org.rncbc.qmidinet",
+    "keywords": [
+        "MIDI Network",
+        "R\u00e9seau MIDI"
+    ],
+    "license": {
+        "id": "GPL-2.0+"
+    },
+    "links": {
+        "homepage": "https://qmidinet.sourceforge.io"
+    },
+    "name": {
+        "default": "QmidiNet"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 03:03:28 GMT'"
+    },
+    "screenshots": [
+        {
+            "caption": "The system tray icon showing the application in action",
+            "height": "",
+            "language": "",
+            "url": "http://qmidinet.sourceforge.net/image/qmidinet.png",
+            "width": ""
+        }
+    ]
+}

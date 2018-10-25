@@ -1,0 +1,26 @@
+{
+    "abstract": {
+        "default": "Simple collaboration from your desktop"
+    },
+    "categories": [
+        "GNOME",
+        "GTK",
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "84b6a488a67095441f812661a8472632282ec3d53ebcde03028d56870581cd68500066dc04b29da2475277e6bc17e534ba51f3c32f8d00f5e107743b29728c3c",
+        "size": 67165748,
+        "type": 2,
+        "url": "https://github.com/shiftkey/desktop/releases/download/release-1.4.0-linux2/GitHubDesktop-linux-x86_64-1.4.0-linux2.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-6ca13d18a146.desktop",
+    "name": {
+        "default": "GitHubDesktop"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 01:03:42 GMT'"
+    }
+}

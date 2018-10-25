@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "An experimental PopcornTime client"
+    },
+    "categories": [
+        "Video"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "bb6a8ff5a586da88b0a21f7b166adb880a2c7608608b90e0be0bfdf4748753a3cadb491f2fc463d234d5b88f7e29ce143ec781755a80e5b7fc1ca7718dbe9abd",
+        "size": 55098433,
+        "type": 2,
+        "url": "https://github.com/amilajack/popcorn-time-desktop/releases/download/v1.0.0/PopcornTime-1.0.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-70cdcf838743.desktop",
+    "name": {
+        "default": "Popcorn Time"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 02:55:30 GMT'"
+    }
+}

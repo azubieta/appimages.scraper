@@ -1,0 +1,18 @@
+{
+    "file": {
+        "architecture": "i386",
+        "sha512checksum": "bfd90b8cfd36f4d18c4c9d38d7939a7860ebdabd26168d776a1f18e8e4377a57469535aa0909338aa9720f0ac39826b202e87e1f5736df5747d993ab4a2db28b",
+        "size": 22815864,
+        "type": 2,
+        "url": "https://github.com/AppImage/AppImageUpdate/releases/download/continuous/AppImageUpdate-382-b61bee3-i386.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-42327810d2bb.desktop",
+    "name": {
+        "default": "AppImageUpdate"
+    },
+    "release": {
+        "date": "b'Wed, 24 Oct 2018 23:46:07 GMT'"
+    }
+}

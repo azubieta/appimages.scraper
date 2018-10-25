@@ -1,0 +1,25 @@
+{
+    "abstract": {
+        "default": "Caprine is an unofficial and privacy focused Facebook Messenger app with many useful features."
+    },
+    "categories": [
+        "Network",
+        "Chat"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "c502de8bfab32c8fda52deb28bc22b0a31d979d4c0e8f79aab5a924e4ede09e00749a07fb9e0a73b1a6c8f728c0fa9433199b03ac0c75c981d64818efbc718aa",
+        "size": 51035390,
+        "type": 2,
+        "url": "https://github.com/sindresorhus/caprine/releases/download/v2.18.0/caprine-2.18.0-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-356148c911ee.desktop",
+    "name": {
+        "default": "Caprine"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 00:16:38 GMT'"
+    }
+}

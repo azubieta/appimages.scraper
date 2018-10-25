@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "Podcast client"
+    },
+    "categories": [
+        "Audio"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "a60afa94d62e8a850b4096036f13b8801edb327648f57f7707f170186cfeb44006e00ac3df99e9743b2360659fb21aeda49696afaf49416bbde23b4b4b3fe7c7",
+        "size": 56754355,
+        "type": 2,
+        "url": "https://github.com/Sn8z/Poddr/releases/download/v1.0.8/poddr-1.0.8-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-b9fec0c8c433.desktop",
+    "name": {
+        "default": "Poddr"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 02:53:57 GMT'"
+    }
+}

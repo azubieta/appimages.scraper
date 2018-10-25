@@ -1,0 +1,35 @@
+{
+    "abstract": {
+        "de": "Verwaltung der pers\u00f6nlichen Finanzen",
+        "default": "Manage your personal finances",
+        "ro": "Gereaz\u0103 finan\u021bele personale",
+        "sv": "Hantera din privatekonomi"
+    },
+    "categories": [
+        "Qt",
+        "KDE",
+        "Office"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "1180bd2eac59496a10e1694f185cc6c7c9a66d76636f3caf3c6d76d4193ad515cffac0887c906de6407909ec53b3d17f4af6e7ae975aaefb82fa4131ec0c0f1f",
+        "size": 27765592,
+        "type": 2,
+        "url": "https://github.com/Eqonomize/Eqonomize/releases/download/v1.0.0/Eqonomize-1.0.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-85383cd6d34c.desktop",
+    "keywords": [
+        "Buchhaltung",
+        "Personal Accounting",
+        "Contabilitate Personala",
+        "Bokf\u00f6ring"
+    ],
+    "name": {
+        "default": "Eqonomize!"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 00:48:05 GMT'"
+    }
+}

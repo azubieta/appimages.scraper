@@ -1,0 +1,22 @@
+{
+    "abstract": {
+        "default": "Lighting control and sequencing - Scheduler"
+    },
+    "description": null,
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "4f33348d63867a68842dc9b51198c13bc65f86c07fa6138747e181f2e973d6567a2d1fbe5c5b928944041ee5dc26856288997ad0ceb23116f4920b416561d6a2",
+        "size": 49220440,
+        "type": 2,
+        "url": "https://www.adebenham.com/wp-content/uploads/xlights/xLights-2017.29.glibc2.17-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-9f0ce87406eb.desktop",
+    "name": {
+        "default": "xSchedule"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 04:14:19 GMT'"
+    }
+}

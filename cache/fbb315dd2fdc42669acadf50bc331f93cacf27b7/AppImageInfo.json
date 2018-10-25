@@ -1,0 +1,50 @@
+{
+    "abstract": {
+        "default": "MIDI Remote Controller via UDP/IP Multicast",
+        "fr": "Contr\u00f4leur MIDI distant via UDP/IP Multicast"
+    },
+    "categories": [
+        "Audio",
+        "AudioVideo",
+        "Midi",
+        "X-Alsa",
+        "Qt"
+    ],
+    "description": {
+        "default": "\n  <p>QmidiCtl is a MIDI remote controller application that sends MIDI\n  data over the network, using UDP/IP multicast. Inspired by multimidicast\n  (http\\://llg.cubic.org/tools) and designed to be compatible with ipMIDI\n  for Windows (http\\://nerds.de).</p>\n "
+    },
+    "developer": {
+        "name": "rncbc aka. Rui Nuno Capela"
+    },
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "3c467937e06c6792a84c47c92aacc50ff5e1406e85299665eb38f3b03bc8b42cb0a06f704888b8deb26e78b83033e8b3cb6bf74d33d093394f3402967cf2c454",
+        "size": 11637976,
+        "type": 2,
+        "url": "http://download.opensuse.org/repositories/home:/rncbc/AppImage/qmidictl-1534530581.e431110-Build1.7.glibc2.14-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "org.rncbc.qmidictl",
+    "license": {
+        "id": "GPL-2.0+"
+    },
+    "links": {
+        "homepage": "https://qmidictl.sourceforge.io"
+    },
+    "name": {
+        "default": "QmidiCtl"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 03:02:31 GMT'"
+    },
+    "screenshots": [
+        {
+            "caption": "The main window showing the application in action",
+            "height": "",
+            "language": "",
+            "url": "http://qmidictl.sourceforge.net/qmidictl-android-phone-1.png",
+            "width": ""
+        }
+    ]
+}

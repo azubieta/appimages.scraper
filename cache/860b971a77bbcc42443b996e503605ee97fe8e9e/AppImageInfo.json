@@ -1,0 +1,28 @@
+{
+    "abstract": {
+        "default": "Transfer files from/to MTP devices"
+    },
+    "categories": [
+        "Utility",
+        "System",
+        "FileTools",
+        "Filesystem",
+        "Qt"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "2bf83dcad2fbcd53d3c1714b7874359d0aa5e47d65e10b32e1848a5830b0c51eb59121b046abbed791242500ce114331ec6259ad2cc89bd0a502b9d9355019d3",
+        "size": 20966792,
+        "type": 2,
+        "url": "https://github.com/whoozle/android-file-transfer-linux/releases/download/continuous/Android_File_Transfer-b0910bd-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-8920013c6bcd.desktop",
+    "name": {
+        "default": "Android File Transfer"
+    },
+    "release": {
+        "date": "b'Wed, 24 Oct 2018 23:43:38 GMT'"
+    }
+}

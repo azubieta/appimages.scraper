@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "Viewer neural network models"
+    },
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "12c0002c5830fdeb9a0b9536a12745120f1a0448b470b2152757e0d1ddb76be0090c52a3f59c1a202e445336c98126cea8f73edb9762a5d7811e0b2149e2126c",
+        "size": 61693039,
+        "type": 2,
+        "url": "https://github.com/lutzroeder/netron/releases/download/v2.3.2/Netron-2.3.2-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-043947617b99.desktop",
+    "name": {
+        "default": "Netron"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 02:25:29 GMT'"
+    }
+}

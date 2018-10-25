@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "The most secure collaboration platform."
+    },
+    "categories": [
+        "Network"
+    ],
+    "file": {
+        "architecture": "i386",
+        "sha512checksum": "e5180b4a9b4d55da0123dc3d58183aa143c0acb9f6f38fcbb4e0ecd5d0b2d5ef24687f7f4e68982ec5385736c5a22341b4f4af0986df153b4699ac11540f43ec",
+        "size": 58703184,
+        "type": 2,
+        "url": "https://github.com/wireapp/wire-desktop/releases/download/release%2F3.3.2872/wire-3.3.2872-i386.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-044640741d5c.desktop",
+    "name": {
+        "default": "Wire"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 04:09:46 GMT'"
+    }
+}

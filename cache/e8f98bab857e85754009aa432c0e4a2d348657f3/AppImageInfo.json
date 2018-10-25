@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "Gigantum"
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "a9cbd26aa74b36e3800fda20aea081330e54cdf0e531b54a9d95d0fd6c8c6255103eb93ff91891125cb5952aaf95617d422e807de55450e033fe66b3d015a3da",
+        "size": 58398594,
+        "type": 2,
+        "url": "https://github.com/gigantum/gigantum-desktop/releases/download/v0.5.3/gigantum-0.5.3-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-3d4a9eae458a.desktop",
+    "name": {
+        "default": "Gigantum"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 00:56:12 GMT'"
+    }
+}

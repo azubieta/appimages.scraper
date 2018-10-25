@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "Agent is the configuration application of the Ultimate Hacking Keyboard."
+    },
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "c4bb53036b8fef1f70fb1b912c8aa2c9912f647eee2eb95be7ad48be00b46a0f1c29076beeab8df4efab4a59db9e2b09425b1e726db0766ab8b871f4c62088fe",
+        "size": 55003828,
+        "type": 2,
+        "url": "https://github.com/UltimateHackingKeyboard/agent/releases/download/v1.2.11/UHK.Agent-1.2.11-linux-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-ca21b778b2e7.desktop",
+    "name": {
+        "default": "UHK Agent"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 03:58:41 GMT'"
+    }
+}

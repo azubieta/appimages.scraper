@@ -1,0 +1,21 @@
+{
+    "categories": [
+        "AudioVideo"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "9e299883244138d2fd14f7ecba09ae42dc4af42118e69f5060643beb4e3459f8ffe329de23b9f5a3870b5f02916a2d534e5aa51bd073b2bcaf2e56e38cf26fac",
+        "size": 27396168,
+        "type": 2,
+        "url": "https://github.com/neuro-sys/tumblr-likes-downloader/releases/download/0.0.1/Tumblr_Downloader_GUI-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-53719d57b86d.desktop",
+    "name": {
+        "default": "Tumblr Downloader Client"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 03:54:54 GMT'"
+    }
+}

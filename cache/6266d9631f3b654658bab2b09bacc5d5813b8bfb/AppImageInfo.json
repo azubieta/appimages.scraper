@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "MyCrypto web and electron app"
+    },
+    "categories": [
+        "Finance"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "8bb0a30f6f769628d8756b7491aa9c8852e5e2e57356fbec7507691ed925d7ba653ed9d2ec68224d80c1eb70c3b4054f112716d5c5ed53eb584fc1293e4b509e",
+        "size": 67780713,
+        "type": 2,
+        "url": "https://github.com/MyCryptoHQ/MyCrypto/releases/download/1.3.0/linux-x86-64_1.3.0_MyCrypto.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-2a1f575d96f3.desktop",
+    "name": {
+        "default": "MyCrypto"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 02:19:22 GMT'"
+    }
+}

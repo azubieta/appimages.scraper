@@ -1,0 +1,21 @@
+{
+    "categories": [
+        "Development"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "078c168cbb46486ef0fa09a934e971420fe38de86f7745cea7b51cba4f6fa4a493beea5a06579a19418b2d9f0372e0ba7660ebcb39c416107e546f8663c53380",
+        "size": 73039240,
+        "type": 2,
+        "url": "https://github.com/radareorg/cutter/releases/download/v1.7.2/Cutter-v1.7.2-x86_64.Linux.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-ab2b87436f84.desktop",
+    "name": {
+        "default": "Cutter"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 00:27:45 GMT'"
+    }
+}

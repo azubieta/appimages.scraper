@@ -1,0 +1,21 @@
+{
+    "categories": [
+        "Utility"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "56fa097e934d98dff1322051a9d00d3c750baae44115604e956a9844dc332bcc9cdf1f84dd2cbdf8cefffea6fbc2a76c566251a03c0027abc57aae893a71e7d0",
+        "size": 38611016,
+        "type": 2,
+        "url": "https://github.com/vadrian89/cumulus-qt/releases/download/v4.1.1/Cumulus-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-6ce5175072b0.desktop",
+    "name": {
+        "default": "Cumulus"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 00:26:03 GMT'"
+    }
+}

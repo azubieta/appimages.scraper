@@ -1,0 +1,24 @@
+{
+    "abstract": {
+        "default": "Peerio desktop client"
+    },
+    "categories": [
+        "Network"
+    ],
+    "file": {
+        "architecture": "x86-64",
+        "sha512checksum": "61c33082c9751f37d3ea627fc3cb7e559ea6db3a104def4cd9576430fee235a91c3d4e455da37a50050412bb8da3fdb71ad5832b11d8221f657b728320648721",
+        "size": 68187133,
+        "type": 2,
+        "url": "https://github.com/PeerioTechnologies/peerio-desktop/releases/download/v3.7.3/peerio-2-linux-x86_64.AppImage"
+    },
+    "format": 1,
+    "icon": "",
+    "id": "appimage-info-f6432dc5119d.desktop",
+    "name": {
+        "default": "Peerio 2"
+    },
+    "release": {
+        "date": "b'Thu, 25 Oct 2018 02:42:43 GMT'"
+    }
+}
